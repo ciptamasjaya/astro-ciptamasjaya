@@ -3,15 +3,18 @@
 import PageShell from '../shared/PageShell.astro';
 import Breadcrumbs from '../shared/Breadcrumbs.astro';
 import ArticleSidebar from '../shared/ArticleSidebar.astro';
+import RelatedArticles from '../shared/RelatedArticles.astro';
 import BlockRenderer from '../blocks/BlockRenderer.astro';
 import type { CollectionEntry } from 'astro:content';
 import { render } from 'astro:content';
 import { breadcrumbSchema, serviceSchema } from '../../utils/structured-data';
 
-const { page, service = null, extraSchemas = [] } = Astro.props as {
+const { page, service = null, extraSchemas = [], articles = [], showRelatedArticles = false } = Astro.props as {
   page: CollectionEntry<'pages'>;
   service?: { title: string; description: string; href: string } | null;
   extraSchemas?: object[];
+  articles?: CollectionEntry<'articles'>[];
+  showRelatedArticles?: boolean;
 };
 
 const d = page.data;
@@ -40,11 +43,11 @@ if (pathNorm.startsWith('layanan')) {
   <div class="mx-auto max-w-7xl px-5 py-12 md:py-16">
     <Breadcrumbs items={crumbs} />
     <div class="mt-6 grid grid-cols-12 gap-8">
-      <div class="col-span-12 hidden lg:col-span-3 lg:block">
+      <aside class="col-span-12 hidden lg:col-span-3 lg:block" aria-label="Informasi pendukung halaman">
         <div class="sticky top-8">
           <ArticleSidebar headings={headings.filter((h) => h.depth === 2 || h.depth === 3)} service={service} />
         </div>
-      </div>
+      </aside>
       <div class="col-span-12 lg:col-span-9">
         <article class="mx-auto max-w-3xl">
           {d.image && <img src={d.image} alt={d.title} class="w-full rounded-2xl object-cover" loading="eager" />}
@@ -53,6 +56,9 @@ if (pathNorm.startsWith('layanan')) {
           <div class="prose-content mt-10"><Content /></div>
           {d.blocks?.length ? <BlockRenderer blocks={d.blocks} pageMetadata={{ title: d.title, description: d.description, image: d.image }} /> : null}
         </article>
+        {showRelatedArticles && (
+          <RelatedArticles articles={articles} category={d.category} heading="Artikel Layanan Terkait" />
+        )}
       </div>
     </div>
   </div>
