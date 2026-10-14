@@ -24,7 +24,7 @@ const editorial = layout === 'editorial';
       {items.map((item, index) => (
         <figure class:list={[
           'group relative min-w-0 overflow-hidden rounded-2xl bg-slate-100',
-          editorial && index === 0 ? 'col-span-2 row-span-2 aspect-[4/3] lg:aspect-auto' : '',
+          editorial && index === 0 ? 'col-span-2 aspect-[4/3] lg:row-span-2 lg:aspect-auto' : '',
           editorial && index > 0 ? 'aspect-[4/3] lg:aspect-auto lg:min-h-36' : '',
           !editorial ? 'aspect-[4/3]' : '',
         ]}>
