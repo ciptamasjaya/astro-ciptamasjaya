@@ -59,4 +59,5 @@ console.log(`diunduh: ${ok}, sudah ada: ${skip}, gagal: ${fail}`);
 if (failed.length) {
   await fs.writeFile(path.join(ROOT, 'mirror-failures.txt'), failed.join('\n') + '\n');
   console.log('daftar gagal → mirror-failures.txt');
+  process.exitCode = 1;
 }
