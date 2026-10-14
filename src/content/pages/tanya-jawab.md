@@ -129,6 +129,27 @@ blocks:
           persyaratan keselamatan yang berlaku sebelum konstruksi atau
           implementasi dilakukan. Persyaratan dokumen dan prosesnya mengikuti
           jenis instalasi atau peralatan serta ketentuan yang relevan.
+  - component: faq
+    id: faq-pesawat-tenaga-produksi
+    heading: Riksa Uji Pesawat Tenaga dan Produksi
+    icon: messages
+    items:
+      - question: Apa tujuan pemeriksaan pesawat tenaga dan mesin produksi?
+        answer: >-
+          Pemeriksaan membantu menilai keamanan mesin pembangkit tenaga dan
+          mesin produksi yang digunakan dalam operasional industri, sehingga
+          potensi bahaya dapat diidentifikasi dan persyaratan keselamatan kerja
+          yang berlaku dapat diperiksa.
+  - component: faq
+    id: faq-proteksi-kebakaran
+    heading: Riksa Uji Sarana Proteksi Kebakaran
+    icon: messages
+    items:
+      - question: Mengapa sarana proteksi kebakaran perlu diperiksa?
+        answer: >-
+          Pemeriksaan membantu memastikan sarana proteksi kebakaran, seperti
+          sprinkler dan hydrant, berfungsi dengan baik dan siap mendukung
+          keselamatan saat terjadi keadaan darurat.
   - component: call-to-action
     id: faq-contact-cta
     title: Belum menemukan jawaban yang Anda butuhkan?
