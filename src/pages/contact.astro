@@ -19,7 +19,7 @@ const schemas: object[] = [
   <Fragment slot="head">
     {schemas.map((schema) => <script type="application/ld+json" set:html={JSON.stringify(schema)} />)}
   </Fragment>
-  <main class="mx-auto max-w-7xl px-5 py-8 sm:px-8 md:py-12">
+  <div class="mx-auto max-w-7xl px-5 py-8 sm:px-8 md:py-12">
     <Breadcrumbs items={[{ label: 'Kontak' }]} />
     <ContactPanel
       id="contact-panel"
@@ -53,5 +53,5 @@ const schemas: object[] = [
         </div>
       </div>
     </section>
-  </main>
+  </div>
 </PageShell>
