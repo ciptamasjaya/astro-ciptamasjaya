@@ -85,6 +85,19 @@ Tanpa `SITE_URL`, canonical/sitemap memakai `http://astro-ciptamasjaya.lan`.
   edit manual file hasil build; perubahan hanya lewat endpoint tersebut.
 - After setiap build staging, pastikan `dist/robots.txt` = `Disallow: /`.
 
+## Matriks lingkungan (biarkan jalan masing-masing sesuai lingkungannya)
+
+| Lingkungan | Domain | SITE_URL saat build | robots.txt |
+|---|---|---|---|
+| vhost lokal | `http://astro-ciptamasjaya.lan` (192.168.18.17) | (tidak diset → fallback `.lan`) | `Disallow: /` |
+| Vercel preview | `https://astro-ciptamasjaya.vercel.app` | `https://astro-ciptamasjaya.vercel.app` (set di Project Settings → Environment Variables) | `Disallow: /` (otomatis — bukan domain produksi) |
+| Produksi (TERKUNCI) | `https://www.ciptamasjaya.co.id` | `https://www.ciptamasjaya.co.id` | `Allow: /` + Sitemap — hanya saat pemilik membuka go-live |
+
+- Canonical/sitemap/og:image selalu dari `SITE_URL` lingkungan masing-masing (lihat
+  `docs/astro-domain-config.md`) — URL preview/lokal tidak boleh menjadi canonical produksi.
+- robots.txt `Allow` hanya keluar saat `SITE_URL` = `https://www.ciptamasjaya.co.id` —
+  jadi meski lingkungan lain diset SITE_URL sendiri, crawler tetap diblokir sampai go-live.
+
 ## Sumber konten
 
 WordPress REST API `https://www.ciptamasjaya.co.id/wp-json/wp/v2/` (posts, pages,
