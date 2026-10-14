@@ -95,6 +95,9 @@ blocks:
       - src: /wp-content/uploads/2024/09/alarm-kebakaran-fire-alarm-manual-pt-cipta-mas-jaya.png
         alt: Perangkat alarm kebakaran manual untuk aktivasi peringatan oleh pengguna.
         title: Alarm manual
+      - src: /wp-content/uploads/2024/09/tenaga-ahli-proteksi-kebakaran-pjk3-pt.cipta-mas-jaya-dengan-sertifikat-k3-skp-sedang-riksa-uji-hydrant-08.jpg
+        alt: Tenaga ahli melakukan pemeriksaan instalasi hydrant sebagai bagian dari sistem proteksi kebakaran.
+        title: Pemeriksaan hydrant
       - src: /wp-content/uploads/2024/09/detector-asap-smoke-detector-pt-cipta-mas-jaya.png
         alt: Detektor asap sebagai bagian dari sistem deteksi kebakaran.
         title: Detektor asap
