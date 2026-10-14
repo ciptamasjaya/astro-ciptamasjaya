@@ -21,7 +21,7 @@ const {
 const chosen = pickRelatedArticles(articles, { currentSlug, category, relatedService, relatedPage, limit: 3 });
 ---
 {chosen.length > 0 && (
-  <section aria-label="Artikel terkait" class="mt-16 border-t border-slate-200 pt-10">
+  <section aria-label={heading} class="mt-16 border-t border-slate-200 pt-10">
     <div class="mb-6 flex items-start gap-3">
       <span class="mt-1 h-8 w-1 shrink-0 rounded-full bg-primary-600" aria-hidden="true"></span>
       <div>
