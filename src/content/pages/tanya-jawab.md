@@ -9,17 +9,9 @@ description: >-
   pengujian peralatan dan instalasi kerja. Pilih kategori yang sesuai atau buka
   pertanyaan untuk membaca penjelasannya.
 pubDate: '2022-02-24T18:11:13Z'
-updatedDate: '2026-10-14T05:45:00Z'
+updatedDate: '2026-10-14T06:15:00Z'
 draft: false
 blocks:
-  - component: article-hero
-    id: faq-hero
-    eyebrow: Pusat Informasi K3
-    title: Tanya Jawab Seputar K3
-    description: >-
-      Temukan penjelasan mengenai PJK3, Riksa Uji, inspeksi, dan berbagai
-      pemeriksaan teknis untuk membantu Anda memahami kebutuhan keselamatan
-      dan kesehatan kerja.
   - component: article-lead
     id: faq-intro
     label: Panduan K3
