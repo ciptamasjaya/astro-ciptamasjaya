@@ -1,6 +1,7 @@
 ---
 id: 3903
 type: article
+contentType: local-seo
 slug: pjk3-di-pandeglang
 title: PJK3 di Pandeglang
 description: >-

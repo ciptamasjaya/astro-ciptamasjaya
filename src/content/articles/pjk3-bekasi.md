@@ -1,6 +1,7 @@
 ---
 id: 4725
 type: article
+contentType: local-seo
 slug: pjk3-bekasi
 title: PJK3 Bekasi
 description: >-

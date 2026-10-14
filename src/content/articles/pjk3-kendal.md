@@ -1,6 +1,7 @@
 ---
 id: 5258
 type: article
+contentType: local-seo
 slug: pjk3-kendal
 title: PJK3 Kendal
 description: >-

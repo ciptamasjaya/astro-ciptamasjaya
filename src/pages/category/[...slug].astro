@@ -4,6 +4,7 @@ import ArticleCard from '../../components/shared/ArticleCard.astro';
 import Breadcrumbs from '../../components/shared/Breadcrumbs.astro';
 import PageShell from '../../components/shared/PageShell.astro';
 import { getCollection } from 'astro:content';
+import { isLocalSeoArticle } from '../../utils/related';
 
 export async function getStaticPaths() {
   const [categories, articles] = await Promise.all([getCollection('categories'), getCollection('articles')]);
@@ -15,7 +16,7 @@ export async function getStaticPaths() {
 
 const { category, articles } = Astro.props;
 const inCategory = articles
-  .filter((a) => !a.data.draft && a.data.category === category.data.slug)
+  .filter((a) => !a.data.draft && !isLocalSeoArticle(a) && a.data.category === category.data.slug)
   .sort((a, b) => (b.data.updatedDate ?? b.data.pubDate).valueOf() - (a.data.updatedDate ?? a.data.pubDate).valueOf());
 const crumbs = category.data.slug.split('/').map((part, i, arr) => ({
   label: i === arr.length - 1 ? category.data.title : part.replace(/-/g, ' ').replace(/\b\w/g, (c) => c.toUpperCase()),

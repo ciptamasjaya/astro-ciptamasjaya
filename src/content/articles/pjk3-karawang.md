@@ -1,6 +1,7 @@
 ---
 id: 4732
 type: article
+contentType: local-seo
 slug: pjk3-karawang
 title: PJK3 Karawang
 description: >-

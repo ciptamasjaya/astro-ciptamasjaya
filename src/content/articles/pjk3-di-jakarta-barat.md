@@ -1,6 +1,7 @@
 ---
 id: 4610
 type: article
+contentType: local-seo
 slug: pjk3-di-jakarta-barat
 title: PJK3 di Jakarta Barat
 description: >-

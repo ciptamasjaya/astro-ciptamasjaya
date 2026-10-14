@@ -1,6 +1,7 @@
 ---
 id: 5250
 type: article
+contentType: local-seo
 slug: pjk3-bandung
 title: PJK3 Bandung
 description: >-

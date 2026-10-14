@@ -1,6 +1,7 @@
 ---
 id: 4834
 type: article
+contentType: local-seo
 slug: daftar-perusahaan-pjk3-jakarta
 title: Daftar Perusahaan PJK3 Jakarta
 description: >-

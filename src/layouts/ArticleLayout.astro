@@ -13,6 +13,7 @@ import { site, getServiceById } from '../config';
 import { render, type CollectionEntry } from 'astro:content';
 import type { MarkdownHeading } from 'astro';
 import { articleSchema, breadcrumbSchema, faqPageSchema } from '../utils/structured-data';
+import { isLocalSeoArticle } from '../utils/related';
 
 const {
   article,
@@ -57,7 +58,7 @@ const schemas = [
 
 const faqItems = (d.blocks ?? []).flatMap((b) => (b.type === 'faq' && b.data.items) ? b.data.items : []);
 const updatedArticles = articles
-  .filter((entry) => !entry.data.draft && entry.data.slug !== d.slug)
+  .filter((entry) => !entry.data.draft && !isLocalSeoArticle(entry) && entry.data.slug !== d.slug)
   .sort((a, b) =>
     (b.data.updatedDate ?? b.data.pubDate).getTime() -
     (a.data.updatedDate ?? a.data.pubDate).getTime()
@@ -122,7 +123,7 @@ const updatedArticles = articles
       <LatestArticles
         id="article-updated-content"
         articles={updatedArticles}
-        title="Artikel Terbaru dan Diperbarui"
+        title="Artikel yang Diperbarui"
         dateMode="updated"
       />
     )}

@@ -1,6 +1,7 @@
 ---
 id: 4771
 type: article
+contentType: local-seo
 slug: pjk3-jogja
 title: PJK3 Jogja
 description: >-

@@ -1,5 +1,6 @@
 ---
 import type { CollectionEntry } from 'astro:content';
+import { isLocalSeoArticle } from '../../utils/related';
 
 interface Props {
   id?: string;
@@ -9,6 +10,7 @@ interface Props {
 }
 
 const { id, articles, title = 'Artikel Terbaru', dateMode = 'published' } = Astro.props;
+const visibleArticles = articles.filter((article) => !article.data.draft && !isLocalSeoArticle(article));
 const titleId = id ? `${id}-title` : 'latest-articles-title';
 ---
 <section id={id} class="bg-white py-12 sm:py-16" aria-labelledby={titleId}>
@@ -22,9 +24,9 @@ const titleId = id ? `${id}-title` : 'latest-articles-title';
         Semua artikel <span aria-hidden="true">→</span>
       </a>
     </div>
-    {articles.length ? (
+    {visibleArticles.length ? (
       <div class="grid gap-6 md:grid-cols-3">
-        {articles.map((article) => {
+        {visibleArticles.map((article) => {
           const d = article.data;
           const p2 = (n: number) => String(n).padStart(2, '0');
           const href = `/${d.pubDate.getUTCFullYear()}/${p2(d.pubDate.getUTCMonth() + 1)}/${p2(d.pubDate.getUTCDate())}/${d.slug}/`;

@@ -1,6 +1,7 @@
 ---
 id: 4679
 type: article
+contentType: local-seo
 slug: pjk3-jakarta-selatan
 title: PJK3 Jakarta Selatan
 description: >-
