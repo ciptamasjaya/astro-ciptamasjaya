@@ -36,7 +36,11 @@ const p2 = (n: number) => String(n).padStart(2, '0');
 const postHref = `/${d.pubDate.getUTCFullYear()}/${p2(d.pubDate.getUTCMonth() + 1)}/${p2(d.pubDate.getUTCDate())}/${d.slug}/`;
 const service = getServiceById(d.relatedService);
 const baseUrl = Astro.site?.toString().replace(/\/$/, '') ?? Astro.url.toString().replace(/\/\d{4}\/.*$/, '');
-const toc = (headings.length ? headings : renderedHeadings).filter((h) => h.depth === 2 || h.depth === 3);
+const blockHeadings = (d.blocks ?? [])
+  .filter((block) => block.type === 'section-header')
+  .map((block) => ({ depth: 2, slug: block.id, text: block.data.title }));
+const toc = [...(headings.length ? headings : renderedHeadings), ...blockHeadings]
+  .filter((h) => h.depth === 2 || h.depth === 3);
 const schemas = [
   articleSchema({
     title: d.title,
@@ -111,16 +115,16 @@ const updatedArticles = articles
             </footer>
           )}
         </article>
-        <RelatedArticles articles={articles} currentSlug={d.slug} category={d.category} relatedService={d.relatedService} relatedPage={d.relatedPage} />
-        {updatedArticles.length > 0 && (
-          <LatestArticles
-            id="article-updated-content"
-            articles={updatedArticles}
-            title="Artikel Terbaru dan Diperbarui"
-            dateMode="updated"
-          />
-        )}
       </div>
     </div>
+    <RelatedArticles articles={articles} currentSlug={d.slug} category={d.category} relatedService={d.relatedService} relatedPage={d.relatedPage} />
+    {updatedArticles.length > 0 && (
+      <LatestArticles
+        id="article-updated-content"
+        articles={updatedArticles}
+        title="Artikel Terbaru dan Diperbarui"
+        dateMode="updated"
+      />
+    )}
   </div>
 </PageLayout>
