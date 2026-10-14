@@ -3,90 +3,110 @@ id: 2404
 type: page
 path: layanan/riksa-uji-pesawat-angkat-dan-angkut/riksa-uji-gantri-crane
 custom: false
-title: Riksa Uji Gantri Crane
-description: Riksa Uji Gantri Crane
+title: Riksa Uji Gantry Crane
+description: >-
+  Layanan pemeriksaan dan pengujian gantry crane untuk menilai kondisi
+  struktur penyangga, girder, roda, mekanisme pengangkatan, penggerak,
+  pengereman, kontrol, dan perangkat keselamatan sesuai karakteristik alat.
 pubDate: '2024-09-22T12:33:39.000Z'
-updatedDate: '2024-10-24T14:12:23.000Z'
+updatedDate: '2026-10-14T05:00:00Z'
 draft: false
+blocks:
+  - component: article-lead
+    id: pengantar-riksa-uji-gantry-crane
+    label: Pemeriksaan peralatan angkat
+    text: >-
+      Gantry crane merupakan crane dengan struktur penyangga berkaki yang
+      umumnya bergerak menggunakan roda di atas rel atau jalur yang disiapkan.
+      Peralatan ini digunakan di area industri, pergudangan, galangan, dan
+      fasilitas logistik. Riksa uji membantu menilai kondisi teknis dan fungsi
+      keselamatan berdasarkan desain serta penggunaan aktual alat.
+  - component: image-gallery
+    id: dokumentasi-gantry-crane
+    title: Dokumentasi crane pada materi sumber
+    intro: Galeri ini mempertahankan aset gambar yang tercantum pada halaman lama.
+    layout: editorial
+    items:
+      - src: /wp-content/uploads/2024/09/riksa-uji-gantry-pt-cipta-mas-jaya-001.jpg
+        alt: Dokumentasi gantry crane dari materi layanan.
+        title: Gantry Crane
+      - src: /wp-content/uploads/2024/10/riksa-uji-gantry-crane-01.jpg
+        alt: Dokumentasi struktur crane pada materi layanan.
+        title: Struktur crane
+      - src: /wp-content/uploads/2024/10/riksa-uji-gantry-crane-04.jpg
+        alt: Dokumentasi komponen crane pada materi layanan.
+        title: Komponen crane
+      - src: /wp-content/uploads/2024/10/riksa-uji-gantry-crane-02.jpg
+        alt: Dokumentasi tambahan crane pada materi layanan.
+        title: Pemeriksaan crane
+      - src: /wp-content/uploads/2024/09/jib-crane-102.png
+        alt: Gambar pendukung yang tercantum dalam materi sumber lama.
+        title: Dokumentasi pendukung
+      - src: /wp-content/uploads/2024/09/jib-crane-103.png
+        alt: Gambar pendukung yang tercantum dalam materi sumber lama.
+        title: Dokumentasi pendukung
+      - src: /wp-content/uploads/2024/09/jib-crane-104.png
+        alt: Gambar pendukung yang tercantum dalam materi sumber lama.
+        title: Dokumentasi pendukung
+      - src: /wp-content/uploads/2024/09/jib-crane-105.png
+        alt: Gambar pendukung yang tercantum dalam materi sumber lama.
+        title: Dokumentasi pendukung
+  - component: section-header
+    id: jenis-peralatan
+    eyebrow: Cakupan pemeriksaan
+    number: 1
+    title: Aspek yang diperiksa
+    description: Ruang lingkup ditetapkan berdasarkan tipe gantry crane, kapasitas, kondisi jalur, dan konfigurasi mekanisme pengangkatan.
+  - component: feature-card-grid
+    id: aspek-riksa-uji-gantry-crane
+    title: Komponen dan sistem keselamatan
+    columns: 2
+    items:
+      - title: Struktur rangka dan girder
+        description: Pemeriksaan rangka utama, girder, kaki penyangga, sambungan, dan baut untuk mengidentifikasi indikasi kerusakan, korosi, retak, atau deformasi.
+      - title: Rel, roda, dan jalur perjalanan
+        description: Peninjauan kondisi roda, rel atau jalur gerak, serta bagian pendukung yang memengaruhi kestabilan perjalanan crane.
+      - title: Hoist, tali baja, katrol, dan hook
+        description: Pemeriksaan komponen pengangkatan, tali atau rantai, katrol, kait, dan pengaman kait jika tersedia.
+      - title: Motor dan mekanisme penggerak
+        description: Pemeriksaan motor, transmisi, gearbox, dan mekanisme perjalanan sesuai tipe gantry crane.
+      - title: Rem dan pembatas beban
+        description: Pemeriksaan sistem pengereman, limit switch, load limiter, dan perangkat pembatas gerak yang terpasang.
+      - title: Kontrol dan emergency stop
+        description: Peninjauan panel, pendant atau remote control, tombol darurat, alarm, dan indikator keselamatan yang tersedia.
+      - title: Sistem listrik dan hidrolik
+        description: Pemeriksaan sistem listrik atau hidrolik jika menjadi bagian dari desain dan ruang lingkup alat.
+  - component: section-header
+    id: prinsip-kerja-gantry-crane
+    eyebrow: Cara kerja alat
+    number: 2
+    title: Gerakan utama gantry crane
+    description: Pergerakan bergantung pada konfigurasi dan dapat meliputi pengangkatan, perpindahan troli, serta perjalanan seluruh struktur.
+  - component: numbered-steps
+    id: gerakan-gantry-crane
+    title: Mekanisme pergerakan
+    steps:
+      - title: Gerakan pengangkatan
+        description: Hoist menaikkan atau menurunkan beban melalui tali baja atau rantai sesuai desain peralatan.
+      - title: Gerakan troli
+        description: Troli dapat bergerak sepanjang girder untuk memindahkan titik pengangkatan secara horizontal apabila konfigurasi alat menggunakannya.
+      - title: Gerakan crane
+        description: Struktur gantry bergerak di sepanjang rel atau jalur yang disiapkan sesuai desain dan sistem penggeraknya.
+      - title: Pengendalian operasi
+        description: Operator mengendalikan gerakan melalui panel, pendant, atau remote control sesuai perangkat yang tersedia.
+  - component: info-callout
+    id: catatan-riksa-uji-gantry-crane
+    title: Pemeriksaan harus mengikuti konfigurasi aktual
+    text: >-
+      Gantry crane memiliki variasi konstruksi dan cara bergerak. Metode
+      pemeriksaan, kebutuhan uji beban, kriteria penerimaan, dan dokumentasi
+      harus ditentukan berdasarkan spesifikasi alat serta ketentuan resmi.
+    variant: info
+  - component: service-cta
+    id: konsultasi-gantry-crane
+    title: Konsultasikan kebutuhan riksa uji gantry crane
+    description: Berikan informasi kapasitas, lokasi, konfigurasi crane, dan kebutuhan pemeriksaan untuk membantu penentuan ruang lingkup layanan.
+    label: Konsultasi via WhatsApp
+    href: https://wa.me/628568258841
+    note: Slug URL tetap riksa-uji-gantri-crane untuk menjaga kompatibilitas tautan lama.
 ---
-## Riksa Uji Gantry Crane
-
-Riksa Uji Gantry Crane adalah proses pemeriksaan dan pengujian yang meliputi struktur rangka (girder), rel, roda penggerak, kabel baja, kait pengangkat (hook), sistem kontrol, motor penggerak, rem, dan mekanisme pengangkatan, untuk memastikan bahwa alat ini beroperasi dengan aman, efisien, dan sesuai dengan standar keselamatan yang berlaku.
-
-Selain itu, pengujian juga dilakukan pada sistem listrik, sistem hidrolik, limiter beban (load limiter), serta tombol darurat (emergency stop). Riksa uji ini bertujuan untuk memeriksa keandalan, keausan, dan potensi kerusakan pada komponen tersebut, serta memastikan bahwa gantry crane dapat beroperasi sesuai dengan kapasitas dan fungsi yang ditetapkan.
-
-![Riksa Uji Gantry Crane](/wp-content/uploads/2024/09/riksa-uji-gantry-pt-cipta-mas-jaya-001.jpg)
-
-## Aspek-Aspek Penting Pada Riksa Uji Gantry Crane
-
-Aspek-aspek penting dalam Riksa Uji Gantry Crane meliputi pemeriksaan dan pengujian berbagai komponen utama untuk memastikan keamanan dan kinerja optimal. Berikut adalah aspek-aspek penting yang perlu diperhatikan:
-
-### Struktur Rangka (Girder)
-
-Pemeriksaan integritas rangka utama crane, memastikan tidak ada retak, deformasi, atau korosi yang dapat mengurangi kekuatan struktur rangka (Girder).
-
-![Riksa Uji Gantry Crane adalah proses pemeriksaan dan pengujian yang dilakukan untuk memastikan bahwa gantry crane berfungsi dengan aman dan sesuai dengan standar keselamatan yang berlaku.](/wp-content/uploads/2024/10/riksa-uji-gantry-crane-01.jpg)
-
-### Kabel Baja dan Kait Pengangkat (Hook)
-
-Inspeksi kabel baja untuk memeriksa adanya keausan, serat putus, atau karat, serta memastikan kait pengangkat dalam kondisi baik dan berfungsi dengan baik.
-
-![Riksa Uji Gantry Crane adalah proses inspeksi menyeluruh untuk memastikan bahwa gantry crane bekerja dengan aman dan sesuai dengan peraturan keselamatan yang berlaku.](/wp-content/uploads/2024/10/riksa-uji-gantry-crane-04.jpg)
-
-### Sistem Mekanisme Pengangkatan
-
-Pengujian mekanisme pengangkatan termasuk motor, katrol, dan roda gigi untuk memastikan tidak ada kegagalan mekanis saat crane beroperasi.
-
-![Riksa Uji Gantry Crane adalah langkah penting dalam memastikan bahwa gantry crane berfungsi dengan baik dan aman di lingkungan kerja, serta sesuai dengan kapasitas beban yang ditetapkan.](/wp-content/uploads/2024/10/riksa-uji-gantry-crane-02.jpg)
-
-### Motor Penggerak dan Roda
-
-Pemeriksaan motor penggerak serta roda gantry untuk memastikan keduanya bekerja dengan lancar dan tidak ada hambatan saat crane bergerak di rel.
-
-### Sistem Rem dan Kontrol
-
-Uji sistem rem dan kontrol untuk memastikan rem berfungsi dengan baik dan mampu menghentikan crane secara efektif saat diperlukan, serta sistem kontrol berfungsi dengan tepat.
-
-### Rel dan Jalur Crane
-
-Inspeksi kondisi rel atau jalur pergerakan crane untuk memastikan tidak ada keausan atau penghalang yang dapat menyebabkan kerusakan atau tergelincirnya crane.
-
-### Limiter Beban (Load Limiter)
-
-Pengujian limiter beban untuk memastikan crane tidak mengangkat beban melebihi kapasitas yang telah ditentukan, mencegah kecelakaan atau kerusakan alat.
-
-### Tombol Darurat (Emergency Stop)
-
-Pemeriksaan dan pengujian tombol darurat untuk memastikan bahwa sistem dapat dimatikan dengan cepat jika terjadi kondisi berbahaya.
-
-### Sistem Listrik dan Hidrolik
-
-Inspeksi sistem kelistrikan dan hidrolik untuk memastikan tidak ada kabel yang putus atau bocor, serta memastikan kedua sistem ini berfungsi dengan baik.
-
-Read More
-
-## Prinsip Kerja Gantry Crane
-
-![Riksa Uji Jib Crane](/wp-content/uploads/2024/09/jib-crane-102.png)
-
-### Gerakan Vertikal (Pengangkatan)
-
-Motor listrik atau sistem hidrolik menggerakkan hoist (alat pengangkat) yang mengangkat atau menurunkan beban. Hoist dilengkapi dengan kabel baja atau rantai yang kuat untuk mengangkat beban berat.
-
-![Riksa Uji Jib Crane](/wp-content/uploads/2024/09/jib-crane-103.png)
-
-### Gerakan Horizontal (Pergerakan Troli)
-
-Troli bergerak sepanjang girder horizontal yang berada di bagian atas crane. Troli ini mengangkut hoist dan beban, memungkinkan pergerakan beban dari satu titik ke titik lain secara horizontal.
-
-![Riksa Uji Jib Crane](/wp-content/uploads/2024/09/jib-crane-104.png)
-
-### Gerakan Longitudinal (Pergerakan Crane)
-
-Seluruh gantry crane dapat bergerak di sepanjang rel atau menggunakan roda yang berada di dasar struktur. Ini memungkinkan crane untuk menutupi area kerja yang luas, memindahkan beban ke lokasi yang diinginkan.
-
-![Riksa Uji Jib Crane](/wp-content/uploads/2024/09/jib-crane-105.png)
-
-### Sistem Kontrol
-
-Gantry crane dilengkapi dengan panel kontrol atau remote control yang memungkinkan operator untuk mengontrol semua pergerakan, baik vertikal, horizontal, maupun longitudinal, dengan akurasi tinggi.
