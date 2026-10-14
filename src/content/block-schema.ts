@@ -57,6 +57,7 @@ const legacyContentBlockSchema = z.discriminatedUnion('type', [
         title: z.string().min(1),
         description: z.string().optional(),
         points: z.array(z.string().min(1)).optional(),
+        href: z.string().startsWith('/').optional(),
       })).min(1),
     }),
   }),
