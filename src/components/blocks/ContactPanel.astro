@@ -29,7 +29,6 @@ const formId = `${id}-form`;
         <a href={`https://wa.me/${whatsapp}`} target="_blank" rel="noopener noreferrer" class="inline-flex min-h-12 items-center justify-center rounded-xl bg-emerald-500 px-5 py-3 text-sm font-bold text-white transition hover:bg-emerald-400 focus:outline-none focus-visible:ring-2 focus-visible:ring-emerald-300 focus-visible:ring-offset-2 focus-visible:ring-offset-slate-950">
           Chat WhatsApp <span aria-hidden="true" class="ml-2">↗</span>
         </a>
-        <a href={`mailto:${contacts.find((contact) => contact.label.toLowerCase().includes('email'))?.phone ?? ''`} class="hidden" aria-hidden="true" tabindex="-1"></a>
       </div>
     </div>
   </header>
