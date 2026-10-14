@@ -117,8 +117,8 @@ blocks:
           Pertanyaan Seputar Riksa Uji Elevator dan Eskalator adalah kumpulan
           pertanyaan yang membahas prosedur pemeriksaan dan pengujian keselamatan
           pada elevator dan eskalator di gedung komersial dan publik. Pertanyaan
-          ini mencakup topik-topik seperti frekuensi pemeriksaan, komponen-
-          komponen yang diperiksa (seperti rem, sistem penggerak, dan pintu),
+          ini mencakup topik-topik seperti frekuensi pemeriksaan,
+          komponen-komponen yang diperiksa (seperti rem, sistem penggerak, dan pintu),
           serta pentingnya riksa uji dalam mencegah kecelakaan dan menjaga
           kenyamanan pengguna. Melalui sesi ini, pemilik dan operator gedung dapat
           memahami langkah-langkah untuk memastikan elevator dan eskalator mereka
