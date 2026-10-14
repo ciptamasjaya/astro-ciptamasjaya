@@ -12,6 +12,19 @@ const ROOT = path.resolve(import.meta.dirname, '..');
 const DIST = path.join(ROOT, 'dist');
 const URLS_FILE = process.argv[2] || path.join(ROOT, 'site-urls.txt');
 
+async function walk(dir) {
+  let entries;
+  try {
+    entries = await fs.readdir(dir, { withFileTypes: true });
+  } catch {
+    return [];
+  }
+  return (await Promise.all(entries.map((entry) => {
+    const full = path.join(dir, entry.name);
+    return entry.isDirectory() ? walk(full) : entry.isFile() ? [full] : [];
+  }))).flat();
+}
+
 async function exists(p) {
   try {
     await fs.access(p);
@@ -45,3 +58,43 @@ if (missing.length) {
   process.exit(1);
 }
 console.log('Semua URL sitemap lama tersedia — tidak ada 404.');
+
+// Audit gambar lokal yang dipakai halaman hasil build, bukan hanya URL halaman.
+const htmlFiles = (await walk(DIST)).filter((file) => file.endsWith('.html'));
+const missingImages = [];
+let checkedImages = 0;
+for (const file of htmlFiles) {
+  const html = await fs.readFile(file, 'utf8');
+  const refs = new Set();
+  for (const match of html.matchAll(/<(?:img|source)\\b[^>]*\\b(?:src|data-src)=["']([^"']+)["']/gi)) refs.add(match[1]);
+  for (const match of html.matchAll(/\\bsrcset=["']([^"']+)["']/gi)) {
+    for (const candidate of match[1].split(',')) refs.add(candidate.trim().split(/\\s+/)[0]);
+  }
+  for (const match of html.matchAll(/<meta\\b[^>]*(?:property|name)=["'](?:og:image|twitter:image)["'][^>]*content=["']([^"']+)["']/gi)) refs.add(match[1]);
+
+  for (const ref of refs) {
+    const value = ref.trim().replace(/&amp;/g, '&');
+    if (!value || value.startsWith('#') || /^(?:[a-z][a-z\\d+.-]*:|\\/\\/)/i.test(value)) continue;
+    let pathname;
+    try {
+      pathname = decodeURIComponent(value.split(/[?#]/, 1)[0]);
+    } catch {
+      missingImages.push(`${path.relative(DIST, file)} -> invalid encoded URL: ${value}`);
+      continue;
+    }
+    if (!/\\.(?:avif|gif|jpe?g|png|svg|webp)$/i.test(pathname)) continue;
+    if (!pathname.startsWith('/')) pathname = `/${pathname}`;
+    checkedImages += 1;
+    const target = path.join(DIST, ...pathname.split('/').filter(Boolean));
+    if (!(await exists(target))) missingImages.push(`${path.relative(DIST, file)} -> ${ref}`);
+  }
+}
+
+console.log(`Gambar lokal diperiksa: ${checkedImages}`);
+console.log(`Gambar hilang: ${missingImages.length}`);
+if (missingImages.length) {
+  console.error(missingImages.map((item) => `  MISSING ${item}`).join('\\n'));
+  process.exitCode = 1;
+} else {
+  console.log('Semua gambar lokal yang direferensikan HTML tersedia.');
+}
