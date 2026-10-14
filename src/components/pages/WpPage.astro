@@ -8,6 +8,7 @@ import BlockRenderer from '../blocks/BlockRenderer.astro';
 import type { CollectionEntry } from 'astro:content';
 import { render } from 'astro:content';
 import { breadcrumbSchema, serviceSchema } from '../../utils/structured-data';
+import { site } from '../../config';
 
 const { page, service = null, extraSchemas = [], articles = [], showRelatedArticles = false } = Astro.props as {
   page: CollectionEntry<'pages'>;
@@ -57,7 +58,7 @@ if (pathNorm.startsWith('layanan')) {
             {d.description && <p class="mt-5 max-w-3xl text-lg leading-8 text-slate-600 md:text-xl">{d.description}</p>}
             {service && <div class="mt-6 flex flex-wrap gap-3">
               <a href={service.href} class="inline-flex items-center justify-center rounded-lg bg-blue-700 px-5 py-3 text-sm font-bold text-white transition hover:bg-blue-800 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-offset-2">Lihat cakupan layanan <span aria-hidden="true" class="ml-2">→</span></a>
-              <a href="https://wa.me/628568258841" target="_blank" rel="noopener noreferrer" class="inline-flex items-center justify-center rounded-lg border border-slate-300 bg-white px-5 py-3 text-sm font-bold text-slate-800 transition hover:border-emerald-500 hover:text-emerald-700 focus:outline-none focus:ring-2 focus:ring-emerald-500 focus:ring-offset-2">Konsultasi WhatsApp</a>
+              <a href={`https://wa.me/${site.whatsapp}` } target="_blank" rel="noopener noreferrer" class="inline-flex items-center justify-center rounded-lg border border-slate-300 bg-white px-5 py-3 text-sm font-bold text-slate-800 transition hover:border-emerald-500 hover:text-emerald-700 focus:outline-none focus:ring-2 focus:ring-emerald-500 focus:ring-offset-2">Konsultasi WhatsApp</a>
             </div>}
           </header>
           {d.image && <img src={d.image} alt={d.title} class="mb-9 aspect-[16/7] w-full rounded-2xl border border-slate-200 object-cover shadow-sm" loading="eager" />}
