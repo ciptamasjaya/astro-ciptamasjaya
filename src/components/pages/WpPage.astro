@@ -22,6 +22,7 @@ const d = page.data;
 const { Content, headings } = await render(page);
 const pathNorm = d.path.replace(/^\/+|\/+$/g, '');
 const isServiceLanding = pathNorm === 'layanan';
+const isFaqLanding = pathNorm === 'tanya-jawab';
 const isServiceDetail = pathNorm.startsWith('layanan/') && Boolean(d.blocks?.length);
 const crumbs: { label: string; href?: string }[] = pathNorm
   ? pathNorm.split('/').map((part, i, arr) => ({
@@ -43,7 +44,7 @@ if (pathNorm.startsWith('layanan')) {
   <Fragment slot="head">
     {schemas.map((schema) => <script type="application/ld+json" set:html={JSON.stringify(schema)} />)}
   </Fragment>
-  {(isServiceLanding || isServiceDetail) ? (
+  {(isServiceLanding || isServiceDetail || isFaqLanding) ? (
     <div class="min-h-screen bg-white">
       <div class="mx-auto max-w-7xl px-5 pt-5 sm:px-8"><Breadcrumbs items={crumbs} /></div>
       <section class="relative isolate mt-5 overflow-hidden bg-slate-950 text-white">
@@ -51,18 +52,18 @@ if (pathNorm.startsWith('layanan')) {
         <div aria-hidden="true" class="absolute -right-24 -top-28 h-96 w-96 rounded-full border-[48px] border-white/[0.04]"></div>
         <div class="relative mx-auto grid max-w-7xl gap-10 px-5 py-16 sm:px-8 sm:py-20 lg:grid-cols-[1.25fr_0.75fr] lg:items-end lg:gap-16 lg:py-24">
           <div>
-            <p class="mb-5 inline-flex items-center gap-2 rounded-full border border-blue-300/30 bg-blue-400/10 px-4 py-2 text-xs font-bold uppercase tracking-[0.2em] text-blue-200"><span class="h-2 w-2 rounded-full bg-emerald-400"></span> Mitra PJK3 Riksa Uji Anda</p>
+            <p class="mb-5 inline-flex items-center gap-2 rounded-full border border-blue-300/30 bg-blue-400/10 px-4 py-2 text-xs font-bold uppercase tracking-[0.2em] text-blue-200"><span class="h-2 w-2 rounded-full bg-emerald-400"></span> {isFaqLanding ? 'Pusat Informasi K3' : 'Mitra PJK3 Riksa Uji Anda'}</p>
             <h1 class="max-w-4xl text-4xl font-black leading-[1.08] tracking-tight sm:text-5xl lg:text-6xl">{d.title}<span class="text-blue-400">.</span></h1>
             <p class="mt-6 max-w-2xl text-base leading-8 text-slate-300 sm:text-lg">{d.description}</p>
             <div class="mt-8 flex flex-wrap gap-3">
-              <a href={isServiceDetail ? "#jenis-peralatan" : "#kategori-layanan"} class="inline-flex min-h-12 items-center justify-center rounded-xl bg-blue-500 px-6 py-3 font-bold text-white shadow-lg shadow-blue-950/30 transition hover:bg-blue-400 focus:outline-none focus-visible:ring-2 focus-visible:ring-white">{isServiceDetail ? "Lihat jenis peralatan" : "Jelajahi layanan"} <span class="ml-2" aria-hidden="true">↓</span></a>
+              <a href={isFaqLanding ? "#faq-category-heading" : isServiceDetail ? "#jenis-peralatan" : "#kategori-layanan"} class="inline-flex min-h-12 items-center justify-center rounded-xl bg-blue-500 px-6 py-3 font-bold text-white shadow-lg shadow-blue-950/30 transition hover:bg-blue-400 focus:outline-none focus-visible:ring-2 focus-visible:ring-white">{isFaqLanding ? "Jelajahi topik" : isServiceDetail ? "Lihat jenis peralatan" : "Jelajahi layanan"} <span class="ml-2" aria-hidden="true">↓</span></a>
               <a href={`https://wa.me/${site.whatsapp}`} target="_blank" rel="noopener noreferrer" class="inline-flex min-h-12 items-center justify-center rounded-xl border border-white/20 bg-white/5 px-6 py-3 font-bold text-white transition hover:bg-white/10 focus:outline-none focus-visible:ring-2 focus-visible:ring-white">Konsultasi kebutuhan K3 <span class="ml-2" aria-hidden="true">↗</span></a>
             </div>
           </div>
           <div class="grid grid-cols-2 gap-3 lg:pb-2">
-            <div class="rounded-2xl border border-white/10 bg-white/[0.06] p-5 backdrop-blur"><p class="text-3xl font-black text-white">K3</p><p class="mt-2 text-sm leading-5 text-slate-300">Keselamatan dan kesehatan kerja</p></div>
-            <div class="rounded-2xl border border-white/10 bg-white/[0.06] p-5 backdrop-blur"><p class="text-3xl font-black text-white">PJK3</p><p class="mt-2 text-sm leading-5 text-slate-300">Layanan riksa uji untuk kebutuhan industri</p></div>
-            <div class="col-span-2 rounded-2xl border border-blue-300/20 bg-blue-500/10 p-5"><p class="text-sm font-bold text-blue-200">Dari pemeriksaan hingga pengesahan gambar</p><p class="mt-2 text-sm leading-6 text-slate-300">Temukan kategori layanan yang sesuai dengan peralatan, instalasi, dan fasilitas kerja Anda.</p></div>
+            <div class="rounded-2xl border border-white/10 bg-white/[0.06] p-5 backdrop-blur"><p class="text-3xl font-black text-white">{isFaqLanding ? 'FAQ' : 'K3'}</p><p class="mt-2 text-sm leading-5 text-slate-300">{isFaqLanding ? 'Jawaban untuk pertanyaan umum' : 'Keselamatan dan kesehatan kerja'}</p></div>
+            <div class="rounded-2xl border border-white/10 bg-white/[0.06] p-5 backdrop-blur"><p class="text-3xl font-black text-white">{isFaqLanding ? 'K3' : 'PJK3'}</p><p class="mt-2 text-sm leading-5 text-slate-300">{isFaqLanding ? 'Riksa uji dan inspeksi' : 'Layanan riksa uji untuk kebutuhan industri'}</p></div>
+            <div class="col-span-2 rounded-2xl border border-blue-300/20 bg-blue-500/10 p-5"><p class="text-sm font-bold text-blue-200">{isFaqLanding ? 'Temukan jawaban dengan cepat' : 'Dari pemeriksaan hingga pengesahan gambar'}</p><p class="mt-2 text-sm leading-6 text-slate-300">{isFaqLanding ? 'Pilih kategori atau buka pertanyaan untuk memahami topik K3 yang Anda perlukan.' : 'Temukan kategori layanan yang sesuai dengan peralatan, instalasi, dan fasilitas kerja Anda.'}</p></div>
           </div>
         </div>
       </section>
