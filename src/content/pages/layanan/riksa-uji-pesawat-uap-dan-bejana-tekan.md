@@ -5,121 +5,279 @@ path: layanan/riksa-uji-pesawat-uap-dan-bejana-tekan
 custom: false
 title: Riksa Uji Pesawat Uap dan Bejana Tekan
 description: >-
-  Riksa Uji Pesawat Uap dan Bejana Tekan adalah proses komprehensif yang
-  melibatkan pemeriksaan dan pengujian menyeluruh terhadap peralatan yang
-  menggunakan uap bertekanan tinggi serta bejana tekan. Tujuan utama dari riksa
-  uji ini adalah untuk memastikan bahwa peralatan seperti boiler dan tangki...
+  Pemeriksaan dan pengujian pesawat uap, boiler, bejana tekan, serta tangki
+  timbun untuk membantu mengidentifikasi risiko teknis dan memastikan kesiapan
+  peralatan sesuai ketentuan K3 yang berlaku.
 pubDate: '2024-09-21T08:19:43.000Z'
-updatedDate: '2024-10-23T21:17:23.000Z'
+updatedDate: '2026-10-14T06:30:00Z'
 draft: false
+blocks:
+  - component: article-lead
+    id: pengantar-pesawat-uap-bejana-tekan
+    label: Riksa uji K3 untuk peralatan bertekanan
+    text: >-
+      Peralatan yang bekerja dengan uap, gas, atau cairan bertekanan membutuhkan
+      perhatian khusus terhadap kondisi material, sambungan, perangkat pengaman,
+      dan cara pengoperasiannya. Riksa uji membantu mengevaluasi kondisi tersebut
+      agar potensi kebocoran, kerusakan, dan kegagalan dapat diketahui sedini
+      mungkin. Lingkup serta metode pemeriksaan ditentukan berdasarkan jenis
+      peralatan, riwayat operasi, dan ketentuan yang berlaku.
+  - component: section-header
+    id: jenis-peralatan
+    eyebrow: Cakupan pemeriksaan
+    number: 1
+    title: Kenali jenis peralatan yang perlu diperiksa
+    description: >-
+      Kategori di bawah ini membantu Anda menemukan lingkup pemeriksaan yang
+      relevan. Klasifikasi akhir tetap mengikuti identifikasi teknis peralatan
+      dan peraturan yang berlaku.
+  - component: feature-card-grid
+    id: kategori-pesawat-uap-bejana
+    columns: 3
+    items:
+      - title: Pesawat Uap dan Boiler
+        description: >-
+          Peralatan pembangkit uap beserta bagian terkait yang bekerja pada
+          tekanan dan temperatur tinggi. Pemeriksaan dapat mencakup kondisi
+          badan, pipa, drum, sambungan, serta perangkat keselamatan sesuai
+          konfigurasi peralatan.
+        points:
+          - Kondisi fisik dan integritas komponen
+          - Perangkat pengaman dan instrumentasi
+      - title: Bejana Tekan
+        description: >-
+          Wadah yang dirancang untuk menampung gas atau cairan pada tekanan
+          tertentu. Evaluasi berfokus pada kondisi bejana, sambungan, korosi,
+          indikasi kebocoran, dan komponen pengaman yang relevan.
+        points:
+          - Kondisi dinding dan sambungan
+          - Katup, indikator, dan sistem proteksi
+      - title: Tangki Timbun
+        description: >-
+          Tangki penyimpanan cairan atau bahan tertentu dalam kapasitas besar.
+          Pemeriksaan disesuaikan dengan desain, isi, kondisi operasi, dan
+          persyaratan teknis yang berlaku untuk tangki tersebut.
+        points:
+          - Kondisi struktur dan area terkait
+          - Indikasi korosi, kebocoran, atau deformasi
+  - component: image-gallery
+    id: galeri-jenis-peralatan
+    title: Contoh peralatan dalam lingkup riksa uji
+    intro: Dokumentasi ilustratif jenis peralatan yang perlu diidentifikasi sebelum menentukan lingkup inspeksi.
+    layout: editorial
+    items:
+      - src: /wp-content/uploads/2024/09/riksa-uji-pesawat-uap-.png
+        alt: Ilustrasi peralatan pesawat uap untuk kebutuhan pemeriksaan K3.
+        title: Pesawat uap
+      - src: /wp-content/uploads/2024/09/riksa-uji-bejana-tekan.png
+        alt: Ilustrasi bejana tekan yang memerlukan pemeriksaan kondisi dan perangkat keselamatan.
+        title: Bejana tekan
+      - src: /wp-content/uploads/2024/09/riksa-uji-tangki-timbun.png
+        alt: Ilustrasi tangki timbun untuk penyimpanan cairan di fasilitas industri.
+        title: Tangki timbun
+  - component: section-header
+    id: komponen-pesawat-uap
+    eyebrow: Lingkup teknis
+    number: 2
+    title: Bagian dan komponen yang dapat menjadi objek pemeriksaan
+    description: >-
+      Pada sistem boiler dan pembangkit uap, pemeriksaan tidak selalu terbatas
+      pada satu unit. Komponen yang relevan ditentukan berdasarkan desain,
+      akses pemeriksaan, kondisi operasi, dan prosedur teknis yang sesuai.
+  - component: feature-card-grid
+    id: komponen-boiler
+    columns: 3
+    items:
+      - title: Boiler
+        description: >-
+          Unit pembangkit uap yang memerlukan evaluasi kondisi fisik, komponen
+          utama, sistem kontrol, dan perangkat pengaman sesuai desain serta
+          metode pemeriksaannya.
+        points:
+          - Struktur, pipa, dan sambungan
+          - Katup pengaman dan instrumentasi
+        href: /layanan/riksa-uji-pesawat-uap-dan-bejana-tekan/riksa-uji-boiler-2/
+      - title: Steam Drum
+        description: >-
+          Komponen pada sistem boiler untuk menampung dan membantu memisahkan
+          uap dari air. Kondisi material, sambungan, dan indikasi kerusakan
+          menjadi bagian yang dapat dievaluasi sesuai kebutuhan.
+      - title: Superheater
+        description: >-
+          Bagian pemanas lanjut uap. Pemeriksaan disesuaikan dengan kondisi
+          operasi, paparan temperatur, dan potensi penurunan ketebalan atau
+          kerusakan material.
+      - title: Reboiler
+        description: >-
+          Peralatan penukar panas pada proses industri. Lingkup inspeksi
+          mengikuti fungsi unit, media proses, kondisi kerja, dan standar
+          teknis yang relevan.
+      - title: Steam Turbine
+        description: >-
+          Turbin yang mengubah energi uap menjadi energi mekanis. Evaluasi
+          peralatan terkait mengikuti ruang lingkup penugasan dan tidak
+          menggantikan pemeriksaan khusus turbin jika diperlukan.
+      - title: Deaerator dan Condenser
+        description: >-
+          Peralatan pendukung sistem uap dan kondensasi. Kondisi fisik serta
+          sambungan dan komponen yang relevan dapat ditinjau sesuai desain
+          sistem dan kebutuhan pemeriksaan.
+  - component: image-gallery
+    id: galeri-komponen-uap
+    title: Dokumentasi komponen sistem uap
+    intro: Nama dan fungsi komponen dapat berbeda sesuai desain fasilitas. Identifikasi teknis dilakukan sebelum menetapkan lingkup pemeriksaan.
+    layout: grid
+    items:
+      - src: /wp-content/uploads/2024/09/riksa-uji-boiler.png
+        alt: Boiler pada sistem pembangkit uap yang menjadi objek pemeriksaan teknis.
+        title: Boiler
+      - src: /wp-content/uploads/2024/09/riksa-uji-steam-drum.png
+        alt: Steam drum sebagai bagian dari sistem boiler.
+        title: Steam drum
+      - src: /wp-content/uploads/2024/09/riksa-uji-superheater.png
+        alt: Superheater untuk pemanasan lanjut uap.
+        title: Superheater
+      - src: /wp-content/uploads/2024/09/riksa-uji-reboiler.png
+        alt: Reboiler sebagai peralatan penukar panas proses industri.
+        title: Reboiler
+      - src: /wp-content/uploads/2024/09/riksa-uji-steam-turbine.png
+        alt: Steam turbine pada sistem pemanfaatan energi uap.
+        title: Steam turbine
+      - src: /wp-content/uploads/2024/09/riksa-uji-deaerator.png
+        alt: Deaerator untuk mengurangi gas terlarut pada air umpan boiler.
+        title: Deaerator
+      - src: /wp-content/uploads/2024/09/riksa-uji-condenser.png
+        alt: Condenser yang membantu mengubah uap menjadi cairan kembali.
+        title: Condenser
+  - component: section-header
+    id: tahapan-pemeriksaan
+    eyebrow: Proses kerja
+    number: 3
+    title: Bagaimana proses riksa uji dilakukan?
+    description: >-
+      Urutan dan metode aktual disesuaikan dengan jenis peralatan, kondisi
+      operasi, akses pemeriksaan, serta persyaratan teknis dan regulasi yang
+      berlaku. Tahapan berikut merupakan gambaran umum, bukan pengganti prosedur
+      pemeriksaan khusus.
+  - component: numbered-steps
+    id: tahapan-riksa-uji
+    title: Alur umum pemeriksaan
+    intro: Koordinasi awal membantu memastikan pekerjaan terencana dan risiko selama pemeriksaan terkendali.
+    steps:
+      - title: Identifikasi peralatan dan dokumen
+        description: >-
+          Kumpulkan identitas unit, data teknis, riwayat pemeliharaan, catatan
+          pemeriksaan sebelumnya, serta dokumen lain yang relevan untuk
+          menetapkan ruang lingkup.
+      - title: Persiapan lokasi dan keselamatan kerja
+        description: >-
+          Koordinasikan jadwal, akses, kondisi operasi, isolasi energi, izin
+          kerja, dan langkah keselamatan yang diperlukan sebelum pemeriksaan
+          dilaksanakan.
+      - title: Pemeriksaan teknis
+        description: >-
+          Lakukan pemeriksaan visual dan metode pengujian yang sesuai dengan
+          jenis peralatan, kondisi material, serta ruang lingkup yang disepakati
+          dan dipersyaratkan.
+      - title: Evaluasi hasil
+        description: >-
+          Catat temuan, data pengukuran, dan kondisi komponen untuk dievaluasi
+          oleh personel berwenang sesuai prosedur dan ketentuan yang berlaku.
+      - title: Pelaporan dan tindak lanjut
+        description: >-
+          Hasil pemeriksaan didokumentasikan. Jika ditemukan kondisi yang perlu
+          ditangani, tindak lanjut ditentukan berdasarkan hasil evaluasi dan
+          persyaratan teknis yang relevan.
+  - component: checklist-card
+    id: persiapan-riksa-uji
+    title: Persiapan sebelum mengajukan riksa uji
+    description: Informasi awal yang lengkap membantu tim menilai kebutuhan dan menyusun rencana pemeriksaan.
+    items:
+      - label: Identitas dan lokasi peralatan
+        detail: Jenis unit, merek atau nomor seri jika tersedia, serta lokasi pemasangan.
+      - label: Data teknis peralatan
+        detail: Gambar, spesifikasi, kapasitas, tekanan atau temperatur kerja sesuai data unit.
+      - label: Dokumen pemeriksaan terdahulu
+        detail: Laporan inspeksi, catatan pemeliharaan, atau dokumen kelayakan yang tersedia.
+      - label: Kontak penanggung jawab lokasi
+        detail: PIC untuk koordinasi akses, jadwal, dan persyaratan keselamatan kerja.
+    note: Daftar ini merupakan panduan awal. Dokumen wajib ditetapkan berdasarkan jenis peralatan dan ketentuan yang berlaku.
+  - component: section-header
+    id: dasar-hukum
+    eyebrow: Kepatuhan
+    number: 4
+    title: Dasar hukum dan ketentuan pemeriksaan
+    description: >-
+      Referensi berikut tercantum pada materi sumber halaman. Penerapan pasal,
+      perubahan peraturan, serta persyaratan yang berlaku untuk setiap unit
+      harus dikonfirmasi kembali berdasarkan sumber resmi sebelum dijadikan
+      dasar keputusan operasional.
+  - component: comparison-table
+    id: referensi-regulasi
+    title: Referensi regulasi pada materi sumber
+    intro: Gunakan daftar ini sebagai titik awal penelusuran, bukan sebagai pendapat hukum atau penetapan interval pemeriksaan untuk semua jenis peralatan.
+    headers:
+      - Referensi
+      - Pokok bahasan pada materi sumber
+      - Catatan penerapan
+    rows:
+      - - Peraturan Uap Tahun 1930, Pasal 6
+        - Ketentuan terkait izin pengoperasian pesawat uap sebagaimana dirangkum pada materi sumber.
+        - Periksa status keberlakuan dan aturan yang lebih baru pada sumber resmi.
+      - - Permenaker No. 37 Tahun 2016, Pasal 75 ayat (8)
+        - Materi sumber mencantumkan ketentuan pemeriksaan berkala dan pengujian tangki timbun.
+        - Pastikan ketentuan ini sesuai klasifikasi tangki dan regulasi terbaru.
+      - - Permenaker No. 37 Tahun 2016, Pasal 7 ayat (4)
+        - Materi sumber merujuk pada pemeriksaan dan pengujian sebelum pemakaian serta pemeliharaan berkala.
+        - Cocokkan dengan pasal lengkap dan ruang lingkup peralatan yang dimaksud.
+      - - Permenaker No. 37 Tahun 2016, Pasal 79
+        - Materi sumber menyebut pihak berwenang yang melaksanakan pemeriksaan dan/atau pengujian.
+        - Konfirmasikan kewenangan personel dan ketentuan pelaksanaan yang berlaku.
+    note: Informasi regulasi pada tabel diringkas dari materi halaman lama. Peraturan dapat berubah; verifikasi naskah resmi dan ketentuan terbaru sebelum menggunakannya untuk menentukan kewajiban, interval, atau kewenangan pemeriksaan.
+  - component: info-callout
+    id: catatan-keselamatan-regulasi
+    title: Lingkup pemeriksaan harus ditetapkan berdasarkan unit yang sebenarnya
+    text: >-
+      Nama peralatan yang mirip belum tentu memiliki klasifikasi, metode
+      pemeriksaan, atau kewajiban regulasi yang sama. Penentuan akhir memerlukan
+      identifikasi teknis unit dan konfirmasi terhadap peraturan resmi yang
+      berlaku. Jangan menggunakan ringkasan halaman ini sebagai pengganti
+      evaluasi teknis atau nasihat hukum.
+    variant: warning
+  - component: faq
+    id: faq-pesawat-uap-bejana-tekan
+    heading: Pertanyaan yang sering diajukan
+    icon: question
+    items:
+      - question: Peralatan apa saja yang termasuk dalam kategori ini?
+        answer: >-
+          Lingkup dapat mencakup pesawat uap atau boiler, bejana tekan, dan
+          tangki timbun. Komponen pendukung sistem uap dapat ikut dinilai sesuai
+          desain unit, penugasan, dan ketentuan yang berlaku.
+      - question: Apakah semua peralatan diperiksa dengan metode yang sama?
+        answer: >-
+          Tidak. Metode pemeriksaan ditentukan berdasarkan jenis dan desain
+          peralatan, kondisi operasi, akses pemeriksaan, potensi bahaya, serta
+          persyaratan teknis dan regulasi yang berlaku.
+      - question: Informasi apa yang perlu disiapkan untuk konsultasi?
+        answer: >-
+          Siapkan jenis dan lokasi peralatan, data teknis yang tersedia,
+          kondisi operasi, serta dokumen atau laporan pemeriksaan sebelumnya.
+          Tim dapat membantu mengidentifikasi informasi tambahan yang
+          diperlukan untuk menilai ruang lingkup pekerjaan.
+      - question: Apakah halaman ini menetapkan jadwal wajib pemeriksaan?
+        answer: >-
+          Tidak. Interval dan kewajiban pemeriksaan harus ditentukan berdasarkan
+          klasifikasi peralatan dan peraturan resmi yang berlaku. Ringkasan
+          regulasi pada halaman ini hanya merupakan titik awal untuk verifikasi.
+  - component: service-cta
+    id: konsultasi-pesawat-uap-bejana-tekan
+    title: Perlu menentukan lingkup riksa uji untuk peralatan Anda?
+    description: >-
+      Sampaikan jenis peralatan, data teknis yang tersedia, lokasi, dan riwayat
+      pemeriksaannya. Tim PT. Cipta Mas Jaya dapat membantu mengarahkan
+      konsultasi awal untuk kebutuhan riksa uji K3.
+    label: Konsultasi melalui WhatsApp
+    href: https://wa.me/628568258841
+    note: Konsultasi awal membantu menentukan informasi yang perlu disiapkan; lingkup dan persyaratan akhir mengikuti evaluasi teknis serta ketentuan yang berlaku.
 ---
-## Riksa Uji Pesawat Uap dan Bejana Tekan
-
-**Riksa Uji Pesawat Uap dan Bejana Tekan adalah** proses komprehensif yang melibatkan pemeriksaan dan pengujian menyeluruh terhadap peralatan yang menggunakan uap bertekanan tinggi serta bejana tekan. Tujuan utama dari **riksa uji** ini adalah untuk memastikan bahwa peralatan seperti **boiler** dan **tangki bertekanan** dapat beroperasi dengan aman, mematuhi standar keselamatan, dan menjaga efisiensi operasionalnya.
-
-Riksa Uji Pesawat Uap dan Bejana Tekan merupakan upaya penting untuk memastikan bahwa peralatan yang beroperasi dengan tekanan tinggi tetap aman dan fungsional. Melalui proses ini, risiko kegagalan teknis, seperti kebocoran atau ledakan, dapat dicegah sehingga keselamatan kerja dan operasional tetap terjaga sesuai dengan regulasi dan standar industri yang berlaku.
-
-## Pesawat Uap dan Bejana Tekan
-
-Proses Riksa Uji Pesawat Uap dan Bejana Tekan mencakup pemeriksaan fisik struktur, pengujian tekanan, evaluasi integritas komponen, serta deteksi adanya kerusakan, kebocoran, atau potensi kegagalan yang dapat menimbulkan risiko. Tujuan dari Riksa Uji ini adalah untuk meminimalkan bahaya di tempat kerja dan memastikan bahwa peralatan beroperasi sesuai dengan standar keselamatan yang berlaku.
-
-![Riksa Uji Pesawat Uap](/wp-content/uploads/2024/09/riksa-uji-pesawat-uap-.png)
-
-### Pesawat Uap
-
-Pesawat uap adalah perangkat yang menggunakan tenaga uap bertekanan tinggi untuk menghasilkan energi atau menggerakkan mesin. Biasanya digunakan dalam industri untuk berbagai aplikasi seperti pembangkit listrik, penggerak turbin, atau mesin uap. Pesawat uap mengubah energi panas dari uap menjadi energi mekanis yang dapat digunakan dalam berbagai proses industri.
-
-![Riksa Uji Bejana Tekan](/wp-content/uploads/2024/09/riksa-uji-bejana-tekan.png)
-
-### Bejana Tekan
-
-Bejana tekan adalah wadah atau tangki yang dirancang untuk menampung gas atau cairan di bawah tekanan yang lebih tinggi dari tekanan atmosfer. Bejana ini digunakan dalam berbagai industri, seperti pengolahan minyak, kimia, dan pembangkit energi, untuk menyimpan atau mengolah zat yang memerlukan kondisi tekanan tertentu. Keamanan dan kekuatan struktural bejana tekan sangat penting.
-
-![Riksa Uji Tangi Timbun](/wp-content/uploads/2024/09/riksa-uji-tangki-timbun.png)
-
-### Tangki Timbun
-
-Tangki timbun adalah tangki besar yang digunakan untuk menyimpan cairan atau bahan kimia dalam jumlah besar, seperti minyak, bahan bakar, atau air, dalam berbagai industri. Tangki ini biasanya ditempatkan di fasilitas penyimpanan atau terminal untuk keperluan distribusi atau pengolahan lebih lanjut. Tangki timbun dirancang untuk memastikan keamanan dan integritas bahan yang disimpan.
-
-### Pesawat Uap
-
-Pesawat uap adalah peralatan yang menggunakan energi panas untuk menghasilkan uap bertekanan tinggi, yang kemudian digunakan untuk menjalankan mesin atau proses industri tertentu. Biasanya terdiri dari boiler yang memanaskan air hingga berubah menjadi uap, pesawat uap digunakan dalam berbagai industri seperti pembangkit listrik, manufaktur, dan pengolahan. Fungsi utamanya adalah untuk menyediakan tenaga melalui uap bertekanan, yang bisa digunakan untuk berbagai tujuan mekanis dan operasional. Keamanan dan efisiensi operasional pesawat uap sangat penting karena tekanan tinggi yang terlibat berpotensi menimbulkan risiko kecelakaan jika tidak ditangani dengan baik.
-
-![Riksa Uji Boiler adalah serangkaian pemeriksaan dan pengujian yang dilakukan untuk memastikan bahwa sebuah boiler berfungsi dengan aman dan efisien sesuai dengan standar keselamatan yang berlaku. Proses ini mencakup inspeksi visual, pengujian non-destruktif, serta pengujian tekanan dan performa operasional untuk mengidentifikasi potensi kerusakan atau kegagalan yang dapat membahayakan keselamatan pengguna dan lingkungan sekitarnya.](/wp-content/uploads/2024/09/riksa-uji-boiler.png)
-
-#### Boiler
-
-Boiler adalah perangkat yang berfungsi untuk memanaskan air hingga menghasilkan uap bertekanan tinggi yang digunakan dalam berbagai aplikasi industri dan pembangkit energi.
-
-[Riksa Uji Boiler](/layanan/riksa-uji-pesawat-uap-dan-bejana-tekan/riksa-uji-boiler-2/) adalah proses pemeriksaan dan pengujian terhadap boiler untuk memastikan bahwa peralatan tersebut beroperasi dengan aman, efisien, dan sesuai dengan standar keselamatan yang berlaku.
-
-Riksa Uji Boiler merupakan bagian penting dalam pemeliharaan industri, yang bertujuan untuk mencegah kecelakaan, meminimalkan downtime operasional, serta memperpanjang umur pakai boiler melalui identifikasi dini terhadap potensi kerusakan atau kegagalan sistem.
-
-![Riksa uji steam drum adalah proses pemeriksaan dan pengujian yang bertujuan untuk memastikan keamanan dan kinerja optimal steam drum, komponen penting dalam sistem boiler yang berfungsi sebagai penampung dan pemisah air dan uap. Proses ini mencakup pemeriksaan visual untuk mendeteksi kerusakan fisik seperti retakan atau korosi, pengujian tekanan untuk memastikan ketahanan terhadap tekanan operasi, serta uji ketebalan dinding guna memastikan tidak ada penipisan yang membahayakan kekuatan struktural. Semua langkah ini dilakukan untuk mematuhi standar keselamatan industri dan menjaga efisiensi operasional.](/wp-content/uploads/2024/09/riksa-uji-steam-drum.png)
-
-#### Steam Drum
-
-Steam Drum adalah komponen pada boiler yang berfungsi untuk memisahkan uap air dari air cair serta menampung dan mendistribusikan uap bertekanan tinggi ke sistem yang membutuhkannya.
-
-Riksa Uji Steam Drum adalah proses pengujian dan inspeksi yang dilakukan pada steam drum, bagian penting dari sistem boiler yang berfungsi sebagai penampung uap dan air dalam proses pembangkitan uap.
-
-Riksa Uji Steam Drum merupakan langkah kritis dalam memastikan bahwa steam drum bekerja dengan aman dan efisien. Pengujian ini mencakup inspeksi visual, pengujian non-destruktif, serta pengukuran tekanan untuk mendeteksi adanya potensi kerusakan atau cacat yang dapat mempengaruhi kinerja dan keselamatan operasional sistem boiler.
-
-![Riksa Uji Superheater](/wp-content/uploads/2024/09/riksa-uji-superheater.png)
-
-#### Superheater
-
-Superheater adalah komponen pada boiler yang berfungsi untuk memanaskan uap air lebih lanjut setelah melewati steam drum, sehingga menghasilkan uap kering bertekanan tinggi yang lebih efisien untuk digunakan dalam proses industri atau pembangkit tenaga.
-
-![Riksa Uji Reboiler](/wp-content/uploads/2024/09/riksa-uji-reboiler.png)
-
-#### Reboiler
-
-Reboiler adalah alat penukar panas yang digunakan dalam proses distilasi untuk memanaskan kembali cairan di bagian bawah kolom distilasi, menghasilkan uap yang kemudian naik melalui kolom untuk memisahkan komponen berdasarkan perbedaan titik didihnya.
-
-![Riksa Uji Steam Turbine](/wp-content/uploads/2024/09/riksa-uji-steam-turbine.png)
-
-## Steam Turbine
-
-Steam turbin adalah mesin yang mengubah energi kinetik dari uap bertekanan tinggi menjadi energi mekanis melalui putaran turbin, yang kemudian dapat digunakan untuk menghasilkan tenaga listrik atau menjalankan mesin lainnya secara efisien dan berkelanjutan di berbagai industri energi.
-
-![Riksa Uji Deaerator](/wp-content/uploads/2024/09/riksa-uji-deaerator.png)
-
-## Deaerator
-
-Deaerator adalah alat yang digunakan dalam sistem pembangkit uap untuk menghilangkan gas-gas terlarut, terutama oksigen dan karbon dioksida, dari air umpan boiler guna mencegah korosi pada peralatan, meningkatkan efisiensi sistem, serta memperpanjang umur operasional peralatan pembangkit energi.
-
-![Riksa Uji Condenser](/wp-content/uploads/2024/09/riksa-uji-condenser.png)
-
-## Condenser
-
-Condenser adalah perangkat yang digunakan untuk mengubah uap menjadi cairan melalui proses pendinginan, biasanya dengan cara menghilangkan panas dari uap. Dalam sistem pembangkit listrik, condenser berfungsi untuk mengubah uap bekas dari turbin kembali menjadi air.
-
-## Dasar Hukum Riksa Uji  
-Pesawat Uap dan Bejana Tekan
-
-1
-
-## Pasal 6 Peraturan Uap Tahun 1930
-
-Pasal 6 Peraturan Uap Tahun 1930 menyatakan bahwa setiap pengoperasian pesawat uap harus memiliki surat izin yang diberikan oleh Direktur Pembinaan Norma Keselamatan Kerja, Higiene Perusahaan, dan Kesehatan Kerja. Pasal ini juga menyebutkan bahwa dengan peraturan pemerintah, pesawat uap tertentu dapat dikecualikan dari aturan ini sesuai ketentuan yang berlaku.
-
-2
-
-## Pasal 75 ayat (8) Permenaker No 37 Tahun 2016
-
-Pemeriksaan secara berkala untuk Tangki Timbun dilakukan paling lambat 2 (dua) tahun dan pengujian dilakukan paling lambat 5 (lima) tahun.
-
-3
-
-## Pasal 7 ayat (4) Permenaker No 37 Tahun 2016
-
-Pemakaian Bejana Tekanan dan Tangki Timbun sebagaimana dimaksud dalam Pasal 4 harus dilakukan pemeriksaan dan pengujian sebelum digunakan serta dilakukan pemeliharaan secara berkala.
-
-4
-
-## Pasal 79 Permenaker No 37 Tahun 2016
-
-Pemeriksaan dan/atau pengujian sebagaimana dimaksud dalam Pasal 70 dilakukan oleh:  
-a. Pengawas Ketenagakerjaan Spesialis; atau  
-b. Ahli K3 Bidang Pesawat Uap dan Bejana Tekanan.
