@@ -22,6 +22,7 @@ const d = page.data;
 const { Content, headings } = await render(page);
 const pathNorm = d.path.replace(/^\/+|\/+$/g, '');
 const isServiceLanding = pathNorm === 'layanan';
+const isServiceDetail = pathNorm.startsWith('layanan/') && Boolean(d.blocks?.length);
 const crumbs: { label: string; href?: string }[] = pathNorm
   ? pathNorm.split('/').map((part, i, arr) => ({
       label: i === arr.length - 1 ? d.title : part.replace(/-/g, ' ').replace(/\b\w/g, (c) => c.toUpperCase()),
@@ -42,7 +43,7 @@ if (pathNorm.startsWith('layanan')) {
   <Fragment slot="head">
     {schemas.map((schema) => <script type="application/ld+json" set:html={JSON.stringify(schema)} />)}
   </Fragment>
-  {isServiceLanding ? (
+  {(isServiceLanding || isServiceDetail) ? (
     <div class="min-h-screen bg-white">
       <div class="mx-auto max-w-7xl px-5 pt-5 sm:px-8"><Breadcrumbs items={crumbs} /></div>
       <section class="relative isolate mt-5 overflow-hidden bg-slate-950 text-white">
@@ -54,7 +55,7 @@ if (pathNorm.startsWith('layanan')) {
             <h1 class="max-w-4xl text-4xl font-black leading-[1.08] tracking-tight sm:text-5xl lg:text-6xl">{d.title}<span class="text-blue-400">.</span></h1>
             <p class="mt-6 max-w-2xl text-base leading-8 text-slate-300 sm:text-lg">{d.description}</p>
             <div class="mt-8 flex flex-wrap gap-3">
-              <a href="#kategori-layanan" class="inline-flex min-h-12 items-center justify-center rounded-xl bg-blue-500 px-6 py-3 font-bold text-white shadow-lg shadow-blue-950/30 transition hover:bg-blue-400 focus:outline-none focus-visible:ring-2 focus-visible:ring-white">Jelajahi layanan <span class="ml-2" aria-hidden="true">↓</span></a>
+              <a href={isServiceDetail ? "#jenis-peralatan" : "#kategori-layanan"} class="inline-flex min-h-12 items-center justify-center rounded-xl bg-blue-500 px-6 py-3 font-bold text-white shadow-lg shadow-blue-950/30 transition hover:bg-blue-400 focus:outline-none focus-visible:ring-2 focus-visible:ring-white">{isServiceDetail ? "Lihat jenis peralatan" : "Jelajahi layanan"} <span class="ml-2" aria-hidden="true">↓</span></a>
               <a href={`https://wa.me/${site.whatsapp}`} target="_blank" rel="noopener noreferrer" class="inline-flex min-h-12 items-center justify-center rounded-xl border border-white/20 bg-white/5 px-6 py-3 font-bold text-white transition hover:bg-white/10 focus:outline-none focus-visible:ring-2 focus-visible:ring-white">Konsultasi kebutuhan K3 <span class="ml-2" aria-hidden="true">↗</span></a>
             </div>
           </div>
