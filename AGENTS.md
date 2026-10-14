@@ -13,6 +13,13 @@ node scripts/mirror-uploads.mjs   # unduh gambar WP yang direferensikan konten
 node scripts/verify-urls.mjs      # cek 289 URL sitemap lama tersedia di dist/ (wajib lolos)
 ```
 
+## Alur kerja kolaborasi (wajib)
+
+1. **Merge dulu, revisi belakangan**: perubahan di branch/PR milik orang lain TIDAK boleh
+   ditimpa, direplace, atau dihapus. Merge dulu (tracking history tetap ada), lalu revisi
+   sebagai komit terpisah di atasnya. Jangan hapus branch yang berisi kerja orang lain.
+2. `astro check` (bagian dari build) wajib 0 error sebelum commit.
+
 ## Aturan mutlak (migration contract)
 
 1. **Tidak boleh ada 404**: semua 289 URL sitemap lama (`site-urls.txt`) wajib tersedia.
