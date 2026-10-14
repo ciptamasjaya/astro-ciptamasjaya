@@ -6,6 +6,7 @@ import ProcessTimeline from './ProcessTimeline.astro';
 import RequirementChecklist from './RequirementChecklist.astro';
 import StatsGrid from './StatsGrid.astro';
 import ServiceCardGrid from './ServiceCardGrid.astro';
+import ImageGallery from './ImageGallery.astro';
 import TestimonialGrid from './TestimonialGrid.astro';
 import CallToAction from './CallToAction.astro';
 import Hero from './Hero.astro';
@@ -72,6 +73,10 @@ const faqBlocks = blocks.filter((block): block is Extract<ContentBlock, { type: 
 
   if (block.type === 'image-panel') {
     return <ImagePanel id={block.id} {...block.data} />;
+  }
+
+  if (block.type === 'image-gallery') {
+    return <ImageGallery id={block.id} {...block.data} />;
   }
 
   if (block.type === 'hero') {

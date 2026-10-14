@@ -107,12 +107,31 @@ const legacyContentBlockSchema = z.discriminatedUnion('type', [
     type: z.literal('service-card-grid'),
     data: z.object({
       title: z.string().min(1),
+      intro: z.string().optional(),
       items: z.array(z.object({
         title: z.string().min(1),
         description: z.string().min(1),
         audience: z.string().min(1),
         href: z.string().startsWith('/'),
+        image: z.string().startsWith('/').optional(),
+        imageAlt: z.string().optional(),
+        number: z.string().optional(),
       })).min(1),
+    }),
+  }),
+  z.object({
+    id: z.string().min(1),
+    type: z.literal('image-gallery'),
+    data: z.object({
+      title: z.string().min(1).optional(),
+      intro: z.string().optional(),
+      layout: z.enum(['editorial', 'grid']).optional(),
+      items: z.array(z.object({
+        src: z.string().startsWith('/'),
+        alt: z.string().min(1),
+        title: z.string().optional(),
+        caption: z.string().optional(),
+      })).min(2),
     }),
   }),
   z.object({
