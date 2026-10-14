@@ -90,13 +90,18 @@ Tanpa `SITE_URL`, canonical/sitemap memakai `http://astro-ciptamasjaya.lan`.
 | Lingkungan | Domain | SITE_URL saat build | robots.txt |
 |---|---|---|---|
 | vhost lokal | `http://astro-ciptamasjaya.lan` (192.168.18.17) | (tidak diset → fallback `.lan`) | `Disallow: /` |
-| Vercel preview | `https://astro-ciptamasjaya.vercel.app` | `https://astro-ciptamasjaya.vercel.app` (set di Project Settings → Environment Variables) | `Disallow: /` (otomatis — bukan domain produksi) |
+| Vercel preview | `https://astro-ciptamasjaya.vercel.app` | (tidak perlu diset — otomatis dari `VERCEL_PROJECT_PRODUCTION_URL`/`VERCEL_URL` bawaan Vercel) | `Disallow: /` (otomatis — bukan domain produksi) |
 | Produksi (TERKUNCI) | `https://www.ciptamasjaya.co.id` | `https://www.ciptamasjaya.co.id` | `Allow: /` + Sitemap — hanya saat pemilik membuka go-live |
+
+- Resolusi domain ada di `src/utils/site-url.ts` (dipakai `astro.config.ts` + `robots.txt.ts`):
+  `SITE_URL` → lalu `VERCEL_PROJECT_PRODUCTION_URL`/`VERCEL_URL` (otomatis di Vercel) →
+  fallback `.lan`. JANGAN hardcode domain lokal sebagai fallback global di config —
+  itu membuat build Vercel mewarisi domain `.lan`.
+- Vercel build otomatis setelah push — TIDAK perlu set Environment Variables di Vercel.
+  JANGAN uji simulasi build Vercel (env VERCEL_*) secara manual.
 
 - Canonical/sitemap/og:image selalu dari `SITE_URL` lingkungan masing-masing (lihat
   `docs/astro-domain-config.md`) — URL preview/lokal tidak boleh menjadi canonical produksi.
-- robots.txt `Allow` hanya keluar saat `SITE_URL` = `https://www.ciptamasjaya.co.id` —
-  jadi meski lingkungan lain diset SITE_URL sendiri, crawler tetap diblokir sampai go-live.
 
 ## Sumber konten
 
