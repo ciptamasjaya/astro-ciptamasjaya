@@ -19,6 +19,10 @@ node scripts/verify-urls.mjs      # cek 289 URL sitemap lama tersedia di dist/ (
    ditimpa, direplace, atau dihapus. Merge dulu (tracking history tetap ada), lalu revisi
    sebagai komit terpisah di atasnya. Jangan hapus branch yang berisi kerja orang lain.
 2. `astro check` (bagian dari build) wajib 0 error sebelum commit.
+3. **Review menyeluruh per varian rute**: saat review/menguji perubahan, cek SETIAP varian
+   halaman (post dated, halaman WP generik, custom, kategori, blog) — bukan satu sampel.
+   Bug lolos karena hanya satu sampel yang diuji (kasus: dated post tak menerima koleksi
+   `articles` sehingga seksi related kosong).
 
 ## Aturan mutlak (migration contract)
 
@@ -68,6 +72,18 @@ SITE_URL=https://www.ciptamasjaya.co.id npm run build
 ```
 
 Tanpa `SITE_URL`, canonical/sitemap memakai `http://astro-ciptamasjaya.lan`.
+
+## Staging & robots.txt (PERINTAH PEMILIK — jangan dilanggar)
+
+- **robots.txt wajib `Disallow: /` (blokir semua crawler) sampai pemilik membuka situs
+  secara eksplisit.** JANGAN pernah jalankan build produksi (`SITE_URL=...co.id`) tanpa
+  persetujuan eksplisit pemilik — build produksi menghasilkan `Allow: /` + Sitemap dan
+  risiko situs staging terindeks.
+- `dist/` saat ini HARUS hasil build STAGING (tanpa `SITE_URL` → `Disallow: /`).
+  Build produksi hanya boleh dilakukan saat pemilik memerintahkan go-live secara eksplisit.
+- robots.txt di-generate per-environment oleh `src/pages/robots.txt.ts` — jangan
+  edit manual file hasil build; perubahan hanya lewat endpoint tersebut.
+- After setiap build staging, pastikan `dist/robots.txt` = `Disallow: /`.
 
 ## Sumber konten
 
