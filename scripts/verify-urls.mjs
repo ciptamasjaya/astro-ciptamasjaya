@@ -38,11 +38,19 @@ const raw = await fs.readFile(URLS_FILE, 'utf8');
 const urls = [...new Set(raw.trim().split('\n').map((l) => l.trim()).filter(Boolean))];
 console.log(`Memeriksa ${urls.length} URL sitemap lama...`);
 
+function pathnameOf(value) {
+  try {
+    return decodeURIComponent(new URL(value, 'http://localhost').pathname).replace(/\/$/, '') || '/';
+  } catch {
+    throw new Error(`URL tidak valid di ${URLS_FILE}: ${value}`);
+  }
+}
+
 let ok = 0;
 const missing = [];
 for (const url of urls) {
-  const rel = url.replace(/^https?:\/\/[^/]+/i, '').replace(/\/$/, '');
-  const file = rel === '' ? path.join(DIST, 'index.html') : path.join(DIST, ...rel.split('/').filter(Boolean), 'index.html');
+  const rel = pathnameOf(url).replace(/^\//, '');
+  const file = rel === '' ? path.join(DIST, 'index.html') : path.join(DIST, ...rel.split('/'), 'index.html');
   if (await exists(file)) {
     ok += 1;
   } else {
@@ -58,6 +66,26 @@ if (missing.length) {
   process.exitCode = 1;
 } else {
   console.log('Semua URL sitemap lama tersedia — tidak ada 404.');
+}
+
+// Pastikan setiap URL lama juga tercantum dalam sitemap hasil build.
+// Bandingkan pathname saja agar build staging dan produksi dapat diverifikasi.
+const sitemapPath = path.join(DIST, 'sitemap.xml');
+if (!(await exists(sitemapPath))) {
+  console.error('MISSING: dist/sitemap.xml tidak ditemukan.');
+  process.exitCode = 1;
+} else {
+  const sitemap = await fs.readFile(sitemapPath, 'utf8');
+  const sitemapPaths = new Set(
+    [...sitemap.matchAll(/<loc>\s*([^<]+)\s*<\/loc>/gi)].map((match) => pathnameOf(match[1].trim())),
+  );
+  const absentFromSitemap = urls.filter((url) => !sitemapPaths.has(pathnameOf(url)));
+  console.log(`URL lama tercantum di sitemap: ${urls.length - absentFromSitemap.length}/${urls.length}`);
+  if (absentFromSitemap.length) {
+    console.error(`ABSENT FROM SITEMAP (${absentFromSitemap.length}):`);
+    for (const url of absentFromSitemap) console.error('  ' + url);
+    process.exitCode = 1;
+  }
 }
 
 // Audit gambar lokal yang dipakai halaman hasil build, bukan hanya URL halaman.
