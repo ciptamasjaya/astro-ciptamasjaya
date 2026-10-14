@@ -1,12 +1,13 @@
 ---
-import BaseLayout from '../../layouts/BaseLayout.astro';
-import SiteHeader from './SiteHeader.astro';
-import SiteFooter from './SiteFooter.astro';
+/**
+ * Compatibility wrapper for existing pages.
+ * The actual shared page structure lives in src/layouts/PageLayout.astro.
+ */
+import PageLayout from '../../layouts/PageLayout.astro';
+
 const { title, description, canonical, image } = Astro.props;
 ---
-<BaseLayout title={title} description={description} canonical={canonical} image={image}>
+<PageLayout title={title} description={description} canonical={canonical} image={image}>
   <slot name="head" slot="head" />
-  <SiteHeader />
-  <main><slot /></main>
-  <SiteFooter />
-</BaseLayout>
+  <slot />
+</PageLayout>

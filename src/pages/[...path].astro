@@ -1,7 +1,6 @@
 ---
 /** Halaman layanan generik (catch-all): /layanan/**, /tanya-jawab/**, sub-halaman WP lain. */
 import WpPage from '../components/pages/WpPage.astro';
-import RelatedArticles from '../components/shared/RelatedArticles.astro';
 import { getCollection } from 'astro:content';
 import { services } from '../config';
 
@@ -20,5 +19,9 @@ const d = page.data;
 const pathNorm = d.path.replace(/^\/+|\/+$/g, '');
 const service = services.find((s) => s.path === pathNorm) ?? null;
 ---
-<WpPage page={page} service={service ? { title: service.title, description: service.description, href: service.href } : null} />
-{pathNorm.startsWith('layanan') && <RelatedArticles articles={articles} heading="Artikel Layanan Terkait" category={d.category} />}
+<WpPage
+  page={page}
+  service={service ? { title: service.title, description: service.description, href: service.href } : null}
+  articles={articles}
+  showRelatedArticles={pathNorm.startsWith('layanan')}
+/>
