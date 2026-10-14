@@ -33,6 +33,7 @@ blocks:
       dan peraturan yang berlaku.
   - component: feature-card-grid
     id: kategori-pesawat-uap-bejana
+    title: Kategori peralatan yang diperiksa
     columns: 3
     items:
       - title: Pesawat Uap dan Boiler
@@ -86,6 +87,7 @@ blocks:
       akses pemeriksaan, kondisi operasi, dan prosedur teknis yang sesuai.
   - component: feature-card-grid
     id: komponen-boiler
+    title: Komponen utama pesawat uap
     columns: 3
     items:
       - title: Boiler
