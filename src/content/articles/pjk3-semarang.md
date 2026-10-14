@@ -1,6 +1,7 @@
 ---
 id: 4729
 type: article
+contentType: local-seo
 slug: pjk3-semarang
 title: PJK3 Semarang
 description: >-

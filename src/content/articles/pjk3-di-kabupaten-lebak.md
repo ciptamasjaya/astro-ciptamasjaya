@@ -1,6 +1,7 @@
 ---
 id: 3895
 type: article
+contentType: local-seo
 slug: pjk3-di-kabupaten-lebak
 title: PJK3 di Kabupaten Lebak
 description: >-

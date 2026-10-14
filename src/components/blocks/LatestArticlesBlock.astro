@@ -1,6 +1,7 @@
 ---
 import { getCollection } from 'astro:content';
 import LatestArticles from './LatestArticles.astro';
+import { isLocalSeoArticle } from '../../utils/related';
 
 interface Props {
   id: string;
@@ -9,7 +10,7 @@ interface Props {
 }
 const { id, title, limit } = Astro.props;
 const articles = (await getCollection('articles'))
-  .filter((article) => !article.data.draft)
+  .filter((article) => !article.data.draft && !isLocalSeoArticle(article))
   .sort((a, b) => new Date(b.data.pubDate).getTime() - new Date(a.data.pubDate).getTime())
   .slice(0, limit);
 ---

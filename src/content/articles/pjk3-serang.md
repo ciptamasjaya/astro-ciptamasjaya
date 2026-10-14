@@ -1,6 +1,7 @@
 ---
 id: 3986
 type: article
+contentType: local-seo
 slug: pjk3-serang
 title: PJK3 Serang
 description: >-

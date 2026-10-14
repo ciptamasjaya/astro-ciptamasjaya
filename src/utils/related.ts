@@ -1,5 +1,9 @@
 import type { CollectionEntry } from 'astro:content';
 
+export function isLocalSeoArticle(article: CollectionEntry<'articles'>): boolean {
+  return article.data.contentType === 'local-seo';
+}
+
 function articleDate(a: CollectionEntry<'articles'>): number {
   return (a.data.updatedDate ?? a.data.pubDate).valueOf();
 }
@@ -23,7 +27,7 @@ export function pickRelatedArticles(
   } = {},
 ): CollectionEntry<'articles'>[] {
   const { currentSlug, relatedService, relatedPage, category, limit = 3 } = opts;
-  const pool = articles.filter((a) => !a.data.draft && a.data.slug !== currentSlug);
+  const pool = articles.filter((a) => !a.data.draft && !isLocalSeoArticle(a) && a.data.slug !== currentSlug);
 
   const picked: CollectionEntry<'articles'>[] = [];
   const seen = new Set<string>();

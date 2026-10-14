@@ -1,6 +1,7 @@
 ---
 id: 3882
 type: article
+contentType: local-seo
 slug: pjk3-di-tangerang
 title: PJK3 di Tangerang
 description: >-

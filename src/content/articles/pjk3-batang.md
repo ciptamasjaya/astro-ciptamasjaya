@@ -1,6 +1,7 @@
 ---
 id: 4780
 type: article
+contentType: local-seo
 slug: pjk3-batang
 title: PJK3 Batang
 description: >-

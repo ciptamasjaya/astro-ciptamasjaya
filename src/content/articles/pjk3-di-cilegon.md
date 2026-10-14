@@ -1,6 +1,7 @@
 ---
 id: 3810
 type: article
+contentType: local-seo
 slug: pjk3-di-cilegon
 title: PJK3 di Cilegon
 description: >-

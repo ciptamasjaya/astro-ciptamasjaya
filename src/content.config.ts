@@ -21,6 +21,8 @@ const articles = defineCollection({
   schema: z.object({
     ...sharedIdentity,
     type: z.literal('article'),
+    /** Editorial content vs. local-search landing pages; legacy articles default to editorial. */
+    contentType: z.enum(['editorial', 'local-seo']).default('editorial'),
     /** Slug asli WordPress (bagian akhir URL dated). */
     slug: z.string().min(1),
     pubDate: z.coerce.date(),
