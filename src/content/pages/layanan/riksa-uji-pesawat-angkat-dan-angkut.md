@@ -5,170 +5,214 @@ path: layanan/riksa-uji-pesawat-angkat-dan-angkut
 custom: false
 title: Riksa Uji Pesawat Angkat dan Angkut
 description: >-
-  Riksa Uji Pesawat Angkat dan Angkut adalah proses pemeriksaan dan pengujian
-  terhadap peralatan yang digunakan untuk mengangkat dan mengangkut beban,
-  seperti crane, forklift, atau hoist, guna memastikan bahwa alat tersebut
-  beroperasi dengan aman dan sesuai dengan standar keselamatan. Proses ini...
+  Layanan pemeriksaan dan pengujian K3 untuk crane, hoist, forklift, platform
+  kerja di ketinggian, dan peralatan angkat-angkut lainnya. Pemeriksaan membantu
+  menilai kondisi teknis dan fungsi keselamatan peralatan agar penggunaannya
+  sesuai dengan persyaratan keselamatan yang berlaku.
 pubDate: '2024-09-16T12:36:15.000Z'
-updatedDate: '2024-10-23T21:49:25.000Z'
+updatedDate: '2026-10-14T06:30:00Z'
 draft: false
+blocks:
+  - component: article-lead
+    id: pengantar-riksa-uji
+    label: Pemeriksaan peralatan kerja
+    text: >-
+      Riksa Uji Pesawat Angkat dan Angkut adalah pemeriksaan dan pengujian
+      terhadap peralatan yang digunakan untuk mengangkat atau memindahkan
+      beban, seperti crane, forklift, dan hoist. Pemeriksaan dapat mencakup
+      aspek mekanis, listrik, struktur, serta fungsi perangkat keselamatan
+      untuk membantu mengidentifikasi kondisi yang berpotensi menimbulkan
+      kecelakaan kerja.
+  - component: image-gallery
+    id: dokumentasi-utama
+    title: Pemeriksaan peralatan angkat dan angkut
+    intro: Contoh dokumentasi layanan inspeksi K3 untuk peralatan yang digunakan di lingkungan industri.
+    layout: editorial
+    items:
+      - src: /wp-content/uploads/2024/09/riksa-uji-jasa-inspeksi-k3-gantry-pesawat-angkat-angkut-pjk3-riksa-uji-pt-cipta-mas-jaya.png
+        alt: Dokumentasi riksa uji pesawat angkat dan angkut untuk mendukung keselamatan pengoperasian peralatan.
+        title: Pemeriksaan peralatan
+      - src: /wp-content/uploads/2024/09/riksa-uji-jasa-inspeksi-k3-gantry-pesawat-angkat-dan-angkut-pjk3-riksa-uji-pt-cipta-mas-jaya.png
+        alt: Inspeksi dan pengujian pesawat angkat dan angkut sesuai kebutuhan keselamatan kerja.
+        title: Inspeksi teknis
+  - component: section-header
+    id: jenis-peralatan
+    eyebrow: Cakupan layanan
+    title: Jenis peralatan yang dapat diperiksa
+    description: Pilih jenis peralatan untuk melihat ringkasan fungsi dan, jika tersedia, membuka halaman layanan yang lebih spesifik.
+  - component: content-card
+    id: definisi-pesawat-angkat
+    title: Pesawat angkat
+    description: >-
+      Pesawat angkat digunakan untuk mengangkat atau menurunkan beban, umumnya
+      secara vertikal. Peralatan ini membantu pemindahan material ke ketinggian
+      tertentu dalam kegiatan konstruksi, manufaktur, pergudangan, dan industri.
+    items:
+      - Crane, termasuk overhead crane, tower crane, mobile crane, dan gantry crane.
+      - Hoist elektrik, manual, maupun chain hoist.
+      - Forklift, reach truck, dan telehandler.
+      - Aerial work platform untuk akses kerja di ketinggian.
+    variant: blue
+  - component: content-card
+    id: definisi-pesawat-angkut
+    title: Pesawat angkut
+    description: >-
+      Pesawat angkut digunakan untuk memindahkan beban atau material dari satu
+      lokasi ke lokasi lain. Jenis peralatan dan ruang lingkup pemeriksaannya
+      mengikuti fungsi, konstruksi, serta kondisi penggunaan alat.
+    items:
+      - Conveyor belt dan sistem pemindah material.
+      - Monorail dan peralatan pemindahan material di fasilitas industri.
+      - Kendaraan atau peralatan angkut industri sesuai ruang lingkup ketentuan yang berlaku.
+    variant: white
+  - component: service-card-grid
+    id: layanan-crane
+    title: Riksa uji crane
+    intro: Crane memiliki konfigurasi dan lingkungan kerja yang berbeda. Buka halaman khusus untuk melihat informasi lebih lanjut pada jenis yang tersedia.
+    items:
+      - title: Overhead Crane
+        description: Crane yang bergerak di atas rel atau balok, lazim digunakan untuk mengangkat dan memindahkan beban di dalam pabrik atau gudang.
+        audience: Pabrik dan gudang industri
+        href: /layanan/riksa-uji-pesawat-angkat-dan-angkut/riksa-uji-overhead-crane/
+        image: /wp-content/uploads/2024/09/riksa-uji-jasa-inspeksi-k3-overhead-crane-pjk3-riksa-uji-pt-cipta-mas-jaya-.png
+        imageAlt: Pemeriksaan overhead crane untuk menilai kondisi struktur, kabel, dan mekanisme pengangkatan.
+        number: '01'
+      - title: Tower Crane
+        description: Crane bertiang tinggi yang digunakan untuk mengangkat material pada proyek konstruksi, termasuk pembangunan gedung.
+        audience: Proyek konstruksi
+        href: /layanan/riksa-uji-pesawat-angkat-dan-angkut/riksa-uji-tower-crane/
+        image: /wp-content/uploads/2024/09/riksa-uji-jasa-inspeksi-k3-tower-crane-pjk3-riksa-uji-pt-cipta-mas-jaya.png
+        imageAlt: Tower crane yang menjadi objek pemeriksaan dan pengujian K3.
+        number: '02'
+      - title: Gantry Crane
+        description: Crane dengan struktur penyangga berkaki yang dapat digunakan untuk memindahkan beban di area industri dan pelabuhan.
+        audience: Industri dan pelabuhan
+        href: /layanan/riksa-uji-pesawat-angkat-dan-angkut/riksa-uji-gantri-crane/
+        image: /wp-content/uploads/2024/09/riksa-uji-jasa-inspeksi-k3-gantry-crane-pjk3-riksa-uji-pt-cipta-mas-jaya.png
+        imageAlt: Gantry crane untuk kegiatan pengangkatan beban berat.
+        number: '03'
+  - component: image-gallery
+    id: dokumentasi-crane
+    title: Ragam crane
+    intro: Contoh jenis crane yang digunakan pada lingkungan kerja berbeda.
+    layout: grid
+    items:
+      - src: /wp-content/uploads/2024/09/riksa-uji-jasa-inspeksi-k3-overhead-crane-pjk3-riksa-uji-pt-cipta-mas-jaya-.png
+        alt: Overhead crane untuk pemindahan beban di area industri.
+        title: Overhead Crane
+      - src: /wp-content/uploads/2024/09/riksa-uji-jasa-inspeksi-k3-tower-crane-pjk3-riksa-uji-pt-cipta-mas-jaya.png
+        alt: Tower crane pada area konstruksi.
+        title: Tower Crane
+      - src: /wp-content/uploads/2024/09/riksa-uji-jasa-inspeksi-k3-mobile-crane-pjk3-riksa-uji-pt-cipta-mas-jaya.png
+        alt: Mobile crane yang dapat berpindah mengikuti kebutuhan lokasi kerja.
+        title: Mobile Crane
+      - src: /wp-content/uploads/2024/09/riksa-uji-jasa-inspeksi-k3-gantry-crane-pjk3-riksa-uji-pt-cipta-mas-jaya.png
+        alt: Gantry crane untuk mengangkat dan memindahkan beban.
+        title: Gantry Crane
+  - component: feature-card-grid
+    id: jenis-hoist
+    title: Riksa uji hoist
+    columns: 3
+    items:
+      - title: Electric Hoist
+        description: Alat angkat bertenaga listrik untuk menaikkan dan menurunkan beban.
+      - title: Manual Hoist
+        description: Alat angkat yang dioperasikan dengan tenaga manusia melalui rantai atau mekanisme manual.
+      - title: Chain Hoist
+        description: Perangkat angkat yang menggunakan rantai logam, dioperasikan secara manual atau dengan bantuan penggerak.
+  - component: image-gallery
+    id: dokumentasi-hoist
+    title: Jenis hoist
+    layout: grid
+    items:
+      - src: /wp-content/uploads/2024/09/riksa-uji-jasa-inspeksi-k3-electric-hoist-pjk3-riksa-uji-pt-cipta-mas-jaya.png
+        alt: Electric hoist yang digunakan untuk mengangkat beban.
+        title: Electric Hoist
+      - src: /wp-content/uploads/2024/09/riksa-uji-jasa-inspeksi-k3-manual-hoist-pjk3-riksa-uji-pt-cipta-mas-jaya.png
+        alt: Manual hoist untuk mengangkat beban.
+        title: Manual Hoist
+      - src: /wp-content/uploads/2024/09/riksa-uji-jasa-inspeksi-k3-chain-hoist-pjk3-riksa-uji-pt-cipta-mas-jaya.png
+        alt: Chain hoist dengan mekanisme rantai.
+        title: Chain Hoist
+  - component: feature-card-grid
+    id: jenis-forklift
+    title: Riksa uji forklift dan peralatan sejenis
+    columns: 3
+    items:
+      - title: Counterbalance Forklift
+        description: Forklift dengan beban penyeimbang di bagian belakang untuk membantu mengangkat dan memindahkan material.
+      - title: Reach Truck
+        description: Kendaraan pengangkat yang dirancang untuk mengambil dan menempatkan barang pada rak tinggi di gudang.
+      - title: Telehandler
+        description: Peralatan angkat dengan lengan teleskopik untuk menjangkau area yang sulit diakses.
+  - component: image-gallery
+    id: dokumentasi-forklift
+    title: Forklift dan alat angkat serbaguna
+    layout: grid
+    items:
+      - src: /wp-content/uploads/2024/09/riksa-uji-jasa-inspeksi-k3-counterbalance-forklift-pjk3-riksa-uji-pt-cipta-mas-jaya.png
+        alt: Counterbalance forklift untuk memindahkan material.
+        title: Counterbalance Forklift
+      - src: /wp-content/uploads/2024/09/riksa-uji-jasa-inspeksi-k3-reach-truck-pjk3-riksa-uji-pt-cipta-mas-jaya.png
+        alt: Reach truck untuk penanganan barang di gudang.
+        title: Reach Truck
+      - src: /wp-content/uploads/2024/09/riksa-uji-jasa-inspeksi-k3-telehandler-pjk3-riksa-uji-pt-cipta-mas-jaya.png
+        alt: Telehandler dengan lengan teleskopik untuk pemindahan material.
+        title: Telehandler
+  - component: content-card
+    id: aerial-work-platform
+    title: Riksa uji aerial work platform
+    description: >-
+      Aerial work platform digunakan untuk membantu pekerja menjangkau area
+      tinggi. Pemeriksaan perlu mempertimbangkan fungsi pengangkatan, kestabilan,
+      kontrol, serta perangkat keselamatan sesuai tipe dan petunjuk pabrikan.
+    items:
+      - Articulating Boom Lift — platform kerja dengan lengan bersendi untuk menjangkau area yang sulit diakses.
+      - Telescopic Boom Lift — platform kerja dengan lengan teleskopik yang memanjang untuk menjangkau titik kerja.
+    variant: blue
+  - component: image-gallery
+    id: dokumentasi-aerial-platform
+    title: Platform kerja di ketinggian
+    layout: grid
+    items:
+      - src: /wp-content/uploads/2024/09/riksa-uji-jasa-inspeksi-k3-articulating-boom-lift-pjk3-riksa-uji-pt-cipta-mas-jaya.png
+        alt: Articulating boom lift dengan lengan bersendi untuk akses kerja di ketinggian.
+        title: Articulating Boom Lift
+      - src: /wp-content/uploads/2024/09/riksa-uji-jasa-inspeksi-k3-telescopic-boom-lift-pjk3-riksa-uji-pt-cipta-mas-jaya.png
+        alt: Telescopic boom lift untuk menjangkau area kerja tinggi.
+        title: Telescopic Boom Lift
+  - component: section-header
+    id: dasar-hukum
+    eyebrow: Acuan regulasi
+    title: Dasar hukum dan kompetensi
+    description: Ringkasan berikut merujuk pada ketentuan yang dicantumkan pada materi sumber. Pastikan penerapan pasal dan persyaratan terbaru diverifikasi terhadap naskah resmi yang berlaku.
+  - component: feature-card-grid
+    id: dasar-hukum-cards
+    title: Ketentuan terkait keselamatan kerja
+    columns: 2
+    items:
+      - title: Undang-Undang Nomor 1 Tahun 1970
+        description: Undang-undang tentang Keselamatan Kerja yang mengatur syarat keselamatan kerja, termasuk pencegahan dan penanggulangan bahaya di tempat kerja.
+      - title: Pasal 138 Permenaker Nomor 8 Tahun 2020
+        description: Ketentuan pada materi sumber membahas persyaratan penggunaan personal basket dengan tali serat sintetis, termasuk faktor keamanan, pelampung, dan kondisi tali.
+      - title: Pasal 173 Permenaker Nomor 8 Tahun 2020
+        description: Materi sumber menyebut kegiatan perencanaan, pembuatan, pemasangan, pengoperasian, atau modifikasi pesawat angkat dan angkut serta alat bantu angkat-angkut dalam konteks pemeriksaan dan pengujian.
+      - title: Pasal 140 Permenaker Nomor 8 Tahun 2020
+        description: Materi sumber menjelaskan persyaratan kompetensi dan kewenangan personel yang terlibat dalam pemasangan, pengoperasian, pemeliharaan, pemeriksaan, dan pengujian.
+  - component: info-callout
+    id: catatan-regulasi
+    title: Verifikasi ketentuan sebelum mengambil keputusan
+    text: >-
+      Persyaratan dapat berbeda menurut jenis peralatan, kegiatan, dan ketentuan
+      yang berlaku. Gunakan naskah peraturan resmi serta konfirmasi ruang lingkup
+      pemeriksaan dengan tenaga kompeten sebelum menjadikan ringkasan ini sebagai
+      dasar kepatuhan.
+    variant: info
+  - component: service-cta
+    id: konsultasi-riksa-uji
+    title: Perlu memastikan jenis pemeriksaan untuk peralatan Anda?
+    description: Sampaikan jenis alat, lokasi kerja, dan kebutuhan pemeriksaan kepada tim PT. Cipta Mas Jaya agar ruang lingkup layanan dapat dibahas lebih lanjut.
+    label: Konsultasi via WhatsApp
+    href: https://wa.me/628568258841
+    note: Siapkan informasi jenis peralatan dan lokasi penggunaannya agar konsultasi lebih terarah.
 ---
-## Riksa Uji Pesawat Angkat dan Angkut
-
-Riksa Uji Pesawat Angkat dan Angkut adalah proses pemeriksaan dan pengujian terhadap peralatan yang digunakan untuk mengangkat dan mengangkut beban, seperti crane, forklift, atau hoist, guna memastikan bahwa alat tersebut beroperasi dengan aman dan sesuai dengan standar keselamatan. Proses ini mencakup pengecekan aspek mekanis, listrik, dan struktural untuk memastikan bahwa peralatan tersebut dapat digunakan tanpa menimbulkan risiko kecelakaan kerja.
-
-![Riksa Uji Pesawat Angkat dan Angkut adalah proses pemeriksaan dan pengujian untuk memastikan bahwa peralatan angkat dan angkut, seperti crane dan forklift, beroperasi dengan aman dan sesuai standar keselamatan.](/wp-content/uploads/2024/09/riksa-uji-jasa-inspeksi-k3-gantry-pesawat-angkat-angkut-pjk3-riksa-uji-pt-cipta-mas-jaya.png)
-
-## Pesawat Angkat
-
-Pesawat angkat adalah alat atau mesin yang digunakan untuk mengangkat beban secara vertikal dari satu tempat ke tempat lain. Alat ini dirancang untuk mengatasi gaya gravitasi dan memindahkan barang atau material ke atas atau ke bawah dengan aman dan efisien.
-
-Contoh dari pesawat angkat meliputi crane, hoist, lift, forklift, dan telehandler, yang banyak digunakan di berbagai sektor industri, termasuk konstruksi, manufaktur, dan pergudangan.
-
-Pesawat angkat sangat penting dalam operasi yang membutuhkan pengangkatan material ke ketinggian tertentu atau penurunan material dari tempat yang tinggi, serta mampu meningkatkan efisiensi dan keselamatan kerja di lokasi industri.
-
-![Riksa Uji Pesawat Angkat dan Angkut adalah proses inspeksi dan pengujian yang dilakukan untuk memverifikasi keamanan dan kinerja peralatan angkat dan angkut sesuai dengan standar keselamatan yang berlaku.](/wp-content/uploads/2024/09/riksa-uji-jasa-inspeksi-k3-gantry-pesawat-angkat-dan-angkut-pjk3-riksa-uji-pt-cipta-mas-jaya.png)
-
-## Pesawat Angkut
-
-Pesawat angkut adalah alat atau mesin yang berfungsi untuk memindahkan beban secara horizontal dari satu lokasi ke lokasi lain. Alat ini dirancang untuk memfasilitasi transportasi barang atau material di atas permukaan datar atau sedikit miring.
-
-Contoh dari pesawat angkut mencakup truk, conveyor belt, monorail, dan berbagai kendaraan industri lainnya yang digunakan di sektor logistik, transportasi, dan distribusi.
-
-Pesawat angkut memainkan peran penting dalam memastikan kelancaran aliran material di fasilitas produksi, gudang, dan jaringan distribusi, serta mendukung operasi logistik dengan mengurangi waktu dan tenaga yang diperlukan untuk pemindahan barang.
-
-## Dasar Hukum Riksa Uji Pesawat Angkat Angkut
-
-1
-
-## UU Nomor 1 / 1970
-
-**Undang-Undang (UU) Nomor 1 Tahun 1970** adalah UU tentang Keselamatan Kerja yang mengatur tentang pencegahan, pengurangan, dan pemadaman kebakaran. UU ini juga mengatur tentang syarat-syarat keselamatan kerja dalam perencanaan, pembuatan, pengangkutan, dan lain-lain.
-
-2
-
-## Pasal 138 Permenaker No. 8 Tahun 2020
-
-**Pasal 138 Permenaker No. 8 Tahun 2020** menjelaskan bahwa keranjang manusia (personal basket) yang menggunakan tali serat sintetis di permukaan atau di atas air harus memiliki faktor keamanan lima, dilengkapi pelampung, dan tali pengatur. Tenaga kerja yang menggunakan keranjang ini juga harus memakai pelampung. Penggunaan keranjang dilarang jika tali serat mengalami kerusakan seperti perubahan warna, pengikisan, atau pengurangan diameter lebih dari 10% dari ukuran awal.
-
-3
-
-## Pasal 173 Permenaker No 8 Tahun 2020
-
-**Pasal 173 Permenaker No. 8 Tahun 2020** menyatakan bahwa setiap kegiatan yang melibatkan perencanaan, pembuatan, pemasangan, pengoperasian, atau modifikasi Pesawat Angkat, Pesawat Angkut, dan Alat Bantu Angkat dan Angkut harus melalui pemeriksaan dan pengujian. Pemeriksaan ini dilakukan oleh Pengawas Ketenagakerjaan Spesialis K3, Penguji K3, atau Ahli K3 di bidang tersebut, sesuai dengan standar keselamatan yang telah ditetapkan oleh peraturan.
-
-4
-
-## Pasal 140 dari Permenaker No. 8 Tahun 2020
-
-**Pasal 140 dari Permenaker No. 8 Tahun 2020** menyatakan bahwa pemasangan, pengoperasian, pemeliharaan, **pemeriksaan dan pengujian** **Pesawat Angkat dan Angkut** harus dilakukan oleh personel yang memiliki kompetensi dan kewenangan di bidang K3, seperti teknisi, operator, juru ikat (rigger), dan Ahli K3. Kompetensi ini harus dibuktikan dengan sertifikat dan lisensi sesuai peraturan, sementara kewenangan Ahli K3 dibuktikan dengan surat keputusan penunjukan.
-
-## Riksa Uji Crane
-
-![Riksa uji overhead crane adalah proses inspeksi menyeluruh terhadap crane yang digunakan untuk mengangkat beban berat di industri. Proses ini memastikan semua komponen, termasuk struktur, kabel, dan mekanisme pengangkatan, berfungsi dengan baik dan aman sesuai dengan standar keselamatan. Pemeriksaan dilakukan untuk mencegah potensi kecelakaan dan memastikan kinerja optimal alat angkat.](/wp-content/uploads/2024/09/riksa-uji-jasa-inspeksi-k3-overhead-crane-pjk3-riksa-uji-pt-cipta-mas-jaya-.png)
-
-###### Riksa Uji
-
-### [Overhead Crane](/layanan/riksa-uji-pesawat-angkat-dan-angkut/riksa-uji-overhead-crane/)
-
-**Overhead Crane** adalah crane yang dipasang di atas rel atau balok, pada umumnya digunakan untuk mengangkat dan memindahkan beban berat di dalam pabrik atau gudang.
-
-Riksa uji overhead crane adalah proses pemeriksaan dan pengujian yang dilakukan untuk memastikan bahwa overhead crane, alat angkat yang digunakan untuk mengangkat dan memindahkan beban berat di berbagai industri, beroperasi dengan aman dan sesuai standar keselamatan.
-
-Riksa uji overhead crane merupakan bagian penting dari pemeliharaan dan keselamatan kerja yang bertujuan untuk mencegah kecelakaan akibat kegagalan mekanis atau operasional.
-
-![Riksa Uji / Jasa Inspeksi K3 Tower Crane PJK3 Riksa Uji PT. Cipta Mas Jaya](/wp-content/uploads/2024/09/riksa-uji-jasa-inspeksi-k3-tower-crane-pjk3-riksa-uji-pt-cipta-mas-jaya.png)
-
-###### Riksa Uji
-
-### [Tower Crane](/layanan/riksa-uji-pesawat-angkat-dan-angkut/riksa-uji-tower-crane/)
-
-**Tower Crane** adalah crane tinggi yang biasa digunakan dalam proyek konstruksi gedung bertingkat, atau jembatan layang mampu mengangkat beban ke ketinggian yang sangat tinggi.
-
-Riksa uji tower crane adalah proses pemeriksaan dan pengujian yang dilakukan untuk memastikan bahwa tower crane, alat angkat yang digunakan di lokasi konstruksi untuk mengangkat material berat ke ketinggian, berfungsi dengan aman dan sesuai standar keselamatan.
-
-Riksa uji tower crane merupakan langkah penting dalam menjaga keselamatan kerja di lokasi konstruksi. Pengujian ini dilakukan secara berkala guna memastikan bahwa semua komponen crane berfungsi dengan baik, sesuai standar yang berlaku.
-
-![Riksa Uji / Jasa Inspeksi K3 Mobile Crane PJK3 Riksa Uji PT. Cipta Mas Jaya](/wp-content/uploads/2024/09/riksa-uji-jasa-inspeksi-k3-mobile-crane-pjk3-riksa-uji-pt-cipta-mas-jaya.png)
-
-###### Riksa Uji
-
-### Mobile Crane
-
-**Mobile Crane** adalah crane yang dipasang di atas kendaraan bergerak, digunakan untuk mengangkat dan memindahkan beban di lokasi yang membutuhkan mobilitas.
-
-Riksa uji mobile crane adalah proses inspeksi dan pengujian yang dilakukan untuk memastikan bahwa mobile crane, alat angkat bergerak yang digunakan untuk mengangkat dan memindahkan beban berat, beroperasi dengan aman dan sesuai standar keselamatan.
-
-Riksa uji mobile crane merupakan langkah penting dalam memastikan keselamatan operasional di lapangan. Pengujian ini bertujuan untuk memverifikasi bahwa semua komponen crane berfungsi dengan baik dan memenuhi persyaratan keselamatan yang berlaku.
-
-![Riksa Uji / Jasa Inspeksi K3 Gantry Crane PJK3 Riksa Uji PT. Cipta Mas Jaya](/wp-content/uploads/2024/09/riksa-uji-jasa-inspeksi-k3-gantry-crane-pjk3-riksa-uji-pt-cipta-mas-jaya.png)
-
-###### Riksa Uji
-
-### [Gantry Crane](/layanan/riksa-uji-pesawat-angkat-dan-angkut/riksa-uji-gantri-crane/)
-
-**Gantry Crane** adalah crane dengan struktur kerangka yang memiliki kaki di kedua sisinya, sering digunakan di pelabuhan untuk mengangkat kontainer atau barang berat lainnya.
-
-Riksa uji gantry crane adalah proses inspeksi dan pengujian yang bertujuan untuk memastikan bahwa gantry crane, alat angkat yang digunakan untuk mengangkat dan memindahkan beban berat di atas rel atau roda, berfungsi dengan aman dan sesuai dengan standar keselamatan.
-
-Riksa uji gantry crane merupakan upaya penting dalam menjaga keamanan dan efisiensi operasional, khususnya di area industri atau pelabuhan. Pengujian ini dilakukan secara berkala untuk memeriksa kelayakan semua komponen crane agar memenuhi standar keselamatan.
-
-## Riksa Uji Hoist
-
-![Riksa Uji / Jasa Inspeksi K3 Electric Hoist PJK3 Riksa Uji PT. Cipta Mas Jaya](/wp-content/uploads/2024/09/riksa-uji-jasa-inspeksi-k3-electric-hoist-pjk3-riksa-uji-pt-cipta-mas-jaya.png)
-
-###### Riksa Uji
-
-### Electric Hoist
-
-**Electric Hoist** adalah alat angkat bertenaga listrik yang digunakan untuk mengangkat dan menurunkan beban secara vertikal dengan efisiensi tinggi.
-
-![Riksa Uji / Jasa Inspeksi K3 Manual Hoist PJK3 Riksa Uji PT. Cipta Mas Jaya](/wp-content/uploads/2024/09/riksa-uji-jasa-inspeksi-k3-manual-hoist-pjk3-riksa-uji-pt-cipta-mas-jaya.png)
-
-###### Riksa Uji
-
-### Manual Hoist
-
-**Manual Hoist** adalah alat angkat yang dioperasikan secara manual menggunakan rantai atau tali untuk mengangkat beban dengan bantuan tenaga manusia.
-
-![Riksa Uji / Jasa Inspeksi K3 Chain Hoist PJK3 Riksa Uji PT. Cipta Mas Jaya](/wp-content/uploads/2024/09/riksa-uji-jasa-inspeksi-k3-chain-hoist-pjk3-riksa-uji-pt-cipta-mas-jaya.png)
-
-###### Riksa Uji
-
-### Chain Hoist
-
-**Chain Hoist** adalah perangkat angkat yang menggunakan rantai logam untuk mengangkat beban berat secara manual atau dengan bantuan mesin.
-
-## Riksa Uji Forklift
-
-![Riksa Uji / Jasa Inspeksi K3 Counterbalance Forklift PJK3 Riksa Uji PT. Cipta Mas Jaya](/wp-content/uploads/2024/09/riksa-uji-jasa-inspeksi-k3-counterbalance-forklift-pjk3-riksa-uji-pt-cipta-mas-jaya.png)
-
-### Counterbalance Forklift
-
-**Counterbalance Forklift** adalah forklift yang memiliki beban penyeimbang di bagian belakang untuk mengangkat dan memindahkan barang berat di berbagai permukaan.
-
-![Riksa Uji / Jasa Inspeksi K3 Reach Truck PJK3 Riksa Uji PT. Cipta Mas Jaya](/wp-content/uploads/2024/09/riksa-uji-jasa-inspeksi-k3-reach-truck-pjk3-riksa-uji-pt-cipta-mas-jaya.png)
-
-### Reach Truck
-
-**Reach Truck** adalah kendaraan pengangkat yang digunakan di ruang terbatas, ideal untuk mengambil dan menempatkan barang di rak-rak tinggi dalam gudang.
-
-![Riksa Uji / Jasa Inspeksi K3 Telehandler PJK3 Riksa Uji PT. Cipta Mas Jaya](/wp-content/uploads/2024/09/riksa-uji-jasa-inspeksi-k3-telehandler-pjk3-riksa-uji-pt-cipta-mas-jaya.png)
-
-### Telehandler
-
-**Telehandler** adalah alat angkat serbaguna dengan lengan teleskopik yang dapat diperpanjang, cocok untuk pekerjaan konstruksi dan pemindahan material di lokasi yang sulit dijangkau.
-
-## Riksa Uji Aerial Work Platform
-
-![Riksa Uji / Jasa Inspeksi K3 Articulating Boom Lift PJK3 Riksa Uji PT. Cipta Mas Jaya](/wp-content/uploads/2024/09/riksa-uji-jasa-inspeksi-k3-articulating-boom-lift-pjk3-riksa-uji-pt-cipta-mas-jaya.png)
-
-### Articulating Boom Lift
-
-**Articulating Boom Lift** adalah platform kerja udara dengan lengan sendi yang fleksibel, memungkinkan pekerja menjangkau area yang sulit dijangkau dengan presisi.
-
-![Riksa Uji / Jasa Inspeksi K3 Telescopic Boom Lift PJK3 Riksa Uji PT. Cipta Mas Jaya](/wp-content/uploads/2024/09/riksa-uji-jasa-inspeksi-k3-telescopic-boom-lift-pjk3-riksa-uji-pt-cipta-mas-jaya.png)
-
-### Telescopic Boom Lift
-
-**Telescopic Boom Lift** adalah platform kerja udara dengan lengan lurus yang dapat diperpanjang untuk mencapai ketinggian tinggi dengan stabilitas maksimal.
