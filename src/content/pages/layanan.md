@@ -9,31 +9,34 @@ description: >-
   fasilitas kerja untuk membantu memastikan keselamatan operasional dan
   pemenuhan standar keselamatan dan kesehatan kerja (K3).
 pubDate: '2023-04-02T14:19:29.000Z'
-updatedDate: '2026-10-14T06:00:00Z'
+updatedDate: '2026-10-14T10:30:00Z'
 draft: false
 blocks:
-  - component: content-section
+  - component: feature-card-grid
     id: pengertian-riksa-uji
     title: Pemeriksaan yang mendukung tempat kerja lebih aman
-    variant: plain
-    paragraphs:
-      - >-
-        Jasa Riksa Uji K3 adalah layanan pemeriksaan dan pengujian menyeluruh
-        terhadap peralatan industri untuk memastikan peralatan aman dan layak
-        digunakan sesuai standar keselamatan dan kesehatan kerja (K3). Layanan
-        ini mencakup inspeksi visual, pengujian teknis, dan pengujian beban untuk
-        mendeteksi kerusakan atau keausan komponen serta memeriksa kepatuhan
-        terhadap peraturan yang berlaku.
-      - >-
-        Riksa Uji K3 dilakukan oleh perusahaan jasa yang memiliki penunjukan
-        sesuai ketentuan yang berlaku. Pemeriksaan berkala membantu perusahaan
-        menjaga keselamatan operasional dan memastikan peralatan bekerja secara
-        efisien dengan risiko kecelakaan yang lebih terkendali.
-      - >-
-        PT. Cipta Mas Jaya adalah Perusahaan Jasa Keselamatan dan Kesehatan Kerja
-        (PJK3) Riksa Uji yang membantu pelaksanaan pemenuhan syarat-syarat K3 di
-        berbagai industri, termasuk pemeriksaan peralatan dan instalasi kerja
-        sesuai peraturan perundang-undangan yang berlaku.
+    columns: 3
+    items:
+      - title: Pemeriksaan dan Pengujian
+        description: >-
+          Jasa Riksa Uji K3 adalah layanan pemeriksaan dan pengujian menyeluruh
+          terhadap peralatan industri untuk memastikan peralatan aman dan layak
+          digunakan sesuai standar keselamatan dan kesehatan kerja (K3). Layanan
+          ini mencakup inspeksi visual, pengujian teknis, dan pengujian beban untuk
+          mendeteksi kerusakan atau keausan komponen serta memeriksa kepatuhan
+          terhadap peraturan yang berlaku.
+      - title: Kepatuhan dan Keselamatan Operasional
+        description: >-
+          Riksa Uji K3 dilakukan oleh perusahaan jasa yang memiliki penunjukan
+          sesuai ketentuan yang berlaku. Pemeriksaan berkala membantu perusahaan
+          menjaga keselamatan operasional dan memastikan peralatan bekerja secara
+          efisien dengan risiko kecelakaan yang lebih terkendali.
+      - title: PJK3 Riksa Uji
+        description: >-
+          PT. Cipta Mas Jaya adalah Perusahaan Jasa Keselamatan dan Kesehatan Kerja
+          (PJK3) Riksa Uji yang membantu pelaksanaan pemenuhan syarat-syarat K3 di
+          berbagai industri, termasuk pemeriksaan peralatan dan instalasi kerja
+          sesuai peraturan perundang-undangan yang berlaku.
   - component: image-gallery
     id: galeri-riksa-uji
     title: Dokumentasi pekerjaan riksa uji
