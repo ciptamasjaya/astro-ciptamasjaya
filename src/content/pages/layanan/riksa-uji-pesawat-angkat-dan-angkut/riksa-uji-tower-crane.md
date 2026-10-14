@@ -5,117 +5,100 @@ path: layanan/riksa-uji-pesawat-angkat-dan-angkut/riksa-uji-tower-crane
 custom: false
 title: Riksa Uji Tower Crane
 description: >-
-  Riksa Uji Tower Crane adalah proses pemeriksaan dan pengujian teknis yang
-  bertujuan untuk memastikan bahwa tower crane beroperasi dengan aman dan sesuai
-  dengan standar keselamatan yang berlaku. Tower crane merupakan alat angkat
-  yang sering digunakan dalam proyek konstruksi skala besar untuk...
+  Layanan pemeriksaan dan pengujian tower crane untuk menilai kondisi mast,
+  boom atau jib, sambungan, sistem penggerak, pengangkatan, pengereman,
+  kontrol, stabilitas, dan perangkat keselamatan sesuai karakteristik alat.
 pubDate: '2024-10-07T21:14:57.000Z'
-updatedDate: '2024-10-07T21:18:55.000Z'
+updatedDate: '2026-10-14T05:00:00Z'
 draft: false
+blocks:
+  - component: article-lead
+    id: pengantar-riksa-uji-tower-crane
+    label: Pemeriksaan peralatan konstruksi
+    text: >-
+      Tower crane digunakan pada proyek konstruksi untuk mengangkat dan
+      memindahkan material ke ketinggian serta menjangkau area kerja yang luas.
+      Pemeriksaan bertujuan menilai kondisi teknis dan fungsi keselamatan
+      berdasarkan konfigurasi, kapasitas, pemasangan, dan kondisi operasi aktual.
+  - component: section-header
+    id: jenis-peralatan
+    eyebrow: Cakupan pemeriksaan
+    number: 1
+    title: Komponen utama tower crane
+    description: Komponen yang diperiksa mengikuti tipe crane, petunjuk pabrikan, kondisi pemasangan, dan ruang lingkup pemeriksaan.
+  - component: feature-card-grid
+    id: komponen-tower-crane
+    title: Struktur dan mekanisme crane
+    columns: 2
+    items:
+      - title: Mast dan struktur utama
+        description: Pemeriksaan kondisi mast, rangka, sambungan, baut, dan bagian struktural untuk mengidentifikasi indikasi retak, korosi, deformasi, atau kelonggaran.
+      - title: Boom atau jib
+        description: Peninjauan kondisi boom atau jib, sambungan, bagian bergerak, serta kondisi fisik yang dapat memengaruhi pengoperasian.
+      - title: Counterweight
+        description: Pemeriksaan kondisi dan pemasangan counterweight sesuai konfigurasi dan spesifikasi peralatan.
+      - title: Hoist, tali baja, dan hook
+        description: Pemeriksaan mekanisme pengangkatan, tali baja, katrol, kait, dan pengaman kait jika tersedia.
+      - title: Slewing dan sistem penggerak
+        description: Peninjauan sistem putar, motor, transmisi, serta mekanisme gerak lain yang digunakan oleh tipe crane terkait.
+      - title: Kabin dan perangkat kontrol
+        description: Pemeriksaan kondisi kabin bila tersedia, panel atau kendali, indikator, komunikasi, dan visibilitas operator.
+  - component: section-header
+    id: sistem-keselamatan
+    eyebrow: Keselamatan operasi
+    number: 2
+    title: Sistem yang perlu diuji
+    description: Pengujian dilakukan sesuai desain, prosedur teknis, kondisi aman, dan persyaratan yang berlaku.
+  - component: checklist-card
+    id: checklist-keselamatan-tower-crane
+    title: Pemeriksaan fungsi keselamatan
+    description: Ringkasan aspek yang dapat masuk dalam lingkup pemeriksaan, bukan daftar uji universal untuk semua model.
+    items:
+      - label: Sistem pengereman
+        detail: Penilaian fungsi rem pada gerakan yang relevan sesuai desain alat.
+      - label: Pembatas gerak dan beban
+        detail: Pemeriksaan limit switch, indikator, dan perangkat pembatas yang terpasang.
+      - label: Panel kontrol dan sensor
+        detail: Pemeriksaan fungsi kendali, sensor, indikator, dan perangkat pemantauan yang tersedia.
+      - label: Alarm dan emergency stop
+        detail: Pemeriksaan perangkat peringatan dan penghentian darurat sesuai konfigurasi crane.
+      - label: Stabilitas, fondasi, dan landasan
+        detail: Peninjauan kondisi pemasangan, fondasi atau sistem penopang, serta dokumen teknis yang relevan.
+      - label: Catatan pemeliharaan dan pemeriksaan
+        detail: Peninjauan dokumen perawatan, hasil pemeriksaan terdahulu, dan catatan perbaikan jika tersedia.
+    note: Pengujian beban, parameter teknis, serta kriteria penerimaan harus ditentukan berdasarkan jenis crane dan ketentuan resmi.
+  - component: section-header
+    id: tahapan-pemeriksaan
+    eyebrow: Alur layanan
+    number: 3
+    title: Tahapan riksa uji tower crane
+    description: Persiapan lokasi dan koordinasi dengan penanggung jawab proyek membantu pemeriksaan berlangsung aman.
+  - component: numbered-steps
+    id: tahapan-riksa-uji-tower-crane
+    title: Dari identifikasi hingga evaluasi
+    steps:
+      - title: Identifikasi dan peninjauan dokumen
+        description: Mengumpulkan data identitas crane, kapasitas, konfigurasi, dokumen pemasangan, catatan pemeliharaan, dan hasil pemeriksaan sebelumnya jika tersedia.
+      - title: Pemeriksaan kondisi fisik
+        description: Meninjau struktur utama, sambungan, mekanisme pengangkatan, sistem gerak, kabin atau kendali, serta perangkat keselamatan sesuai ruang lingkup.
+      - title: Pengujian yang relevan
+        description: Melakukan pengujian fungsi dan pengukuran yang ditetapkan untuk tipe peralatan dengan pengendalian risiko serta prosedur kerja yang sesuai.
+      - title: Evaluasi dan pelaporan
+        description: Mendokumentasikan hasil, temuan, dan tindak lanjut untuk dievaluasi berdasarkan spesifikasi teknis serta ketentuan yang berlaku.
+  - component: info-callout
+    id: catatan-riksa-uji-tower-crane
+    title: Pemasangan dan kondisi lapangan sangat menentukan
+    text: >-
+      Persyaratan pemeriksaan dapat berbeda berdasarkan tipe tower crane,
+      metode pemasangan, fondasi atau sistem penopang, kapasitas, dan kondisi
+      proyek. Penetapan teknis harus merujuk pada prosedur dan ketentuan resmi
+      yang relevan.
+    variant: warning
+  - component: service-cta
+    id: konsultasi-tower-crane
+    title: Diskusikan kebutuhan riksa uji tower crane
+    description: Sampaikan lokasi proyek, tipe crane, kapasitas, dan informasi pemasangan yang tersedia agar kebutuhan pemeriksaan dapat dikaji.
+    label: Konsultasi via WhatsApp
+    href: https://wa.me/628568258841
+    note: Lingkup pemeriksaan dan dokumen yang diperlukan dikonfirmasi berdasarkan kondisi proyek.
 ---
--   # Riksa Uji Tower Crane
-    
-    Riksa Uji Tower Crane adalah proses pemeriksaan dan pengujian teknis yang bertujuan untuk memastikan bahwa tower crane beroperasi dengan aman dan sesuai dengan standar keselamatan yang berlaku. Tower crane merupakan alat angkat yang sering digunakan dalam proyek konstruksi skala besar untuk mengangkat material berat ke ketinggian yang signifikan. Riksa Uji ini melibatkan pengecekan menyeluruh terhadap berbagai komponen penting, seperti struktur utama, boom, jib, motor penggerak, kabel, serta sistem keselamatan seperti rem dan sensor.
-    
-    [Order Now](#)
-    
--   ## Pengertian Tower Crane
-    
-    Tower Crane adalah jenis alat angkat dan angkut yang digunakan dalam proyek konstruksi untuk mengangkat material berat ke ketinggian yang tinggi atau menjangkau area yang luas secara horizontal. Alat ini sering digunakan pada bangunan bertingkat tinggi, jembatan, dan proyek konstruksi skala besar lainnya. Tower crane memiliki struktur vertikal tinggi yang dilengkapi dengan boom horizontal yang berfungsi untuk mengangkat, memindahkan, dan menurunkan material dengan bantuan kait dan kabel.
-    
-    [Order Now](#)
-    
-
-## Komponen Tower Crane
-
-Tower crane terdiri dari beberapa komponen utama, yaitu:
-
-## Mast
-
-Struktur vertikal utama yang memberikan stabilitas dan menopang boom.
-
-## Boom
-
-Lengan horizontal yang berfungsi untuk mengangkat dan memindahkan material.
-
-## Counterweight
-
-Berat penyeimbang yang terletak di bagian belakang boom untuk menjaga stabilitas selama pengangkatan beban.
-
-## Hook
-
-Kait yang digunakan untuk menggantung dan mengangkat beban.
-
-## Operator Cabin
-
-Tempat di mana operator mengendalikan crane.
-
-Read More
-
-## Aspek Penting dalam Riksa Uji Tower Crane
-
-**Aspek Penting dalam Riksa Uji Tower Crane** mencakup pemeriksaan menyeluruh dan pengujian terhadap berbagai komponen dan sistem operasional untuk memastikan bahwa tower crane berfungsi dengan aman dan sesuai dengan standar keselamatan yang berlaku. Berikut adalah beberapa aspek penting yang diperiksa dalam Riksa Uji Tower Crane:
-
-1
-
-## **Pemeriksaan Struktur dan Stabilitas**
-
-**Mast dan Boom**: Pemeriksaan kondisi fisik dari mast (tiang utama) dan boom (lengan horizontal), termasuk pengecekan adanya retak, korosi, atau deformasi yang bisa mempengaruhi stabilitas crane.
-
-**Sambungan dan Baut**: Memastikan bahwa semua sambungan dan baut terpasang dengan benar dan tidak longgar, karena kerusakan pada bagian ini bisa menyebabkan kegagalan struktural.
-
-2
-
-## Pengujian Sistem Penggerak
-
-**Motor Penggerak**: Pengujian terhadap motor penggerak yang mengontrol pergerakan vertikal dan horizontal crane untuk memastikan bahwa mereka bekerja dengan baik dan memiliki daya yang cukup.
-
-**Kabel dan Rantai**: Memastikan bahwa kabel angkat dan rantai dalam kondisi baik tanpa tanda-tanda aus, keausan, atau kerusakan yang bisa membahayakan operasional.
-
-3
-
-## Pemeriksaan Sistem Keselamatan
-
-**Sistem Rem**: Pengujian rem untuk memastikan bahwa crane dapat berhenti dengan cepat dan aman ketika dioperasikan. Rem harus diuji baik dalam kondisi beban penuh maupun tanpa beban.
-
-**Pembatas Beban**: Pemeriksaan pembatas beban yang mencegah crane mengangkat lebih dari kapasitas maksimum yang ditetapkan, sehingga menghindari risiko kegagalan operasional.
-
-4
-
-## Pengujian Beban
-
-**Pengangkatan Beban Maksimum**: Menguji kemampuan crane untuk mengangkat beban maksimum yang diizinkan sesuai dengan spesifikasi pabrikan. Pengujian ini bertujuan untuk memverifikasi bahwa crane mampu bekerja dengan aman saat mengangkat material berat.
-
-**Stabilitas Crane saat Beban**: Menguji stabilitas crane selama pengangkatan dan pemindahan beban, termasuk memeriksa keseimbangan dan distribusi beban.
-
-3
-
-## Pemeriksaan Sistem Elektronik
-
-**Panel Kontrol dan Sensor**: Memastikan bahwa semua panel kontrol, sensor, dan indikator berfungsi dengan baik, termasuk tombol darurat dan sistem alarm.
-
-**Alarm dan Lampu Peringatan**: Pengujian terhadap lampu peringatan dan alarm untuk memastikan bahwa mereka dapat memberikan peringatan yang tepat kepada operator atau pekerja di sekitar crane.
-
-4
-
-## Operator Cabin
-
-**Kondisi Kabin Operator**: Memeriksa kenyamanan dan keselamatan di dalam kabin operator, termasuk kondisi kursi, jendela, dan alat kendali.
-
-**Alat Komunikasi**: Memastikan bahwa alat komunikasi antara operator dan tim di lapangan berfungsi dengan baik untuk menghindari kesalahan atau miskomunikasi selama operasi.
-
-3
-
-## Pemeriksaan Fondasi dan Landasan
-
-**Kondisi Fondasi**: Kondisi fondasi harus diperiksa untuk memastikan bahwa struktur penopang utama tower crane kokoh dan sesuai dengan spesifikasi yang dibutuhkan. Fondasi yang kuat dan stabil sangat penting untuk mendukung beban berat yang diangkat oleh crane.
-
-**Kondisi Landasan**:Landasan tempat crane berdiri juga harus dipastikan dalam kondisi yang baik. Landasan harus rata dan mampu menopang beban distribusi dari tower crane secara merata. Landasan yang tidak rata, lunak, atau mengalami penurunan dapat menyebabkan ketidakstabilan pada crane,
-
-4
-
-## **Dokumentasi dan Sertifikasi**
-
-**Catatan Perawatan dan Pengujian Sebelumnya**: Memeriksa riwayat perawatan dan pengujian sebelumnya untuk memastikan bahwa semua pemeliharaan telah dilakukan sesuai dengan jadwal.
-
-**Sertifikasi Kelayakan**: Setelah pengujian, sertifikasi kelayakan operasional dikeluarkan jika tower crane dinyatakan memenuhi semua persyaratan keselamatan.
