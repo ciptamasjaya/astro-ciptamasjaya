@@ -10,7 +10,7 @@ import path from 'node:path';
 
 const ROOT = path.resolve(import.meta.dirname, '..');
 const DIST = path.join(ROOT, 'dist');
-const URLS_FILE = process.argv[2] || '/tmp/opencode/site-urls.txt';
+const URLS_FILE = process.argv[2] || path.join(ROOT, 'site-urls.txt');
 
 async function exists(p) {
   try {
