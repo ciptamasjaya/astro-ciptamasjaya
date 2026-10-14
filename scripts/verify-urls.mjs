@@ -55,9 +55,10 @@ if (missing.length) {
   console.log(`MISSING (${missing.length}):`);
   for (const url of missing) console.log('  ' + url);
   await fs.writeFile(path.join(ROOT, 'verify-missing.txt'), missing.join('\n') + '\n');
-  process.exit(1);
+  process.exitCode = 1;
+} else {
+  console.log('Semua URL sitemap lama tersedia — tidak ada 404.');
 }
-console.log('Semua URL sitemap lama tersedia — tidak ada 404.');
 
 // Audit gambar lokal yang dipakai halaman hasil build, bukan hanya URL halaman.
 const htmlFiles = (await walk(DIST)).filter((file) => file.endsWith('.html'));
