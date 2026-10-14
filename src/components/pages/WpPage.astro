@@ -62,8 +62,11 @@ if (pathNorm.startsWith('layanan')) {
             </div>}
           </header>
           {d.image && <img src={d.image} alt={d.title} class="mb-9 aspect-[16/7] w-full rounded-2xl border border-slate-200 object-cover shadow-sm" loading="eager" />}
-          <div class="prose-content max-w-none"><Content /></div>
-          {d.blocks?.length ? <div class="mt-10"><BlockRenderer blocks={d.blocks} pageMetadata={{ title: d.title, description: d.description, image: d.image }} /></div> : null}
+          {d.blocks?.length ? (
+            <div class="mt-10"><BlockRenderer blocks={d.blocks} pageMetadata={{ title: d.title, description: d.description, image: d.image }} /></div>
+          ) : (
+            <div class="prose-content max-w-none"><Content /></div>
+          )}
         </article>
         {showRelatedArticles && (
           <div class="mt-12 border-t border-slate-200 pt-8"><RelatedArticles articles={articles} category={d.category} heading="Artikel Layanan Terkait" /></div>
