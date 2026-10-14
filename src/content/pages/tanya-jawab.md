@@ -172,3 +172,4 @@ blocks:
           sebagai jaminan awal bahwa fasilitas tersebut dirancang dengan
           mempertimbangkan faktor keamanan secara maksimal, demi melindungi
           pekerja dan meminimalkan potensi dampak negatif terhadap lingkungan.
+---
