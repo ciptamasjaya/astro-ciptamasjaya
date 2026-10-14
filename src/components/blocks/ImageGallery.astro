@@ -1,0 +1,41 @@
+interface GalleryItem {
+  src: string;
+  alt: string;
+  title?: string;
+  caption?: string;
+}
+interface Props {
+  id: string;
+  title?: string;
+  intro?: string;
+  layout?: 'editorial' | 'grid';
+  items: GalleryItem[];
+}
+const { id, title, intro, layout = 'editorial', items } = Astro.props;
+const editorial = layout === 'editorial';
+---
+<section id={id} class="image-gallery-section scroll-mt-24 py-10 sm:py-14" aria-labelledby={title ? `${id}-title` : undefined}>
+  <div class="mx-auto max-w-7xl px-5 sm:px-8">
+    {(title || intro) && <header class="mb-6 max-w-3xl sm:mb-8">
+      {title && <h2 id={`${id}-title`} class="text-2xl font-extrabold tracking-tight text-slate-950 sm:text-3xl">{title}</h2>}
+      {intro && <p class="mt-3 text-base leading-7 text-slate-600">{intro}</p>}
+    </header>}
+    <div class={editorial ? 'grid grid-cols-2 gap-3 sm:gap-5 lg:grid-cols-4 lg:grid-rows-2' : 'grid grid-cols-2 gap-3 sm:gap-5 md:grid-cols-3'}>
+      {items.map((item, index) => (
+        <figure class:list={[
+          'group relative min-w-0 overflow-hidden rounded-2xl bg-slate-100',
+          editorial && index === 0 ? 'col-span-2 row-span-2 aspect-[4/3] lg:aspect-auto' : '',
+          editorial && index > 0 ? 'aspect-[4/3] lg:aspect-auto lg:min-h-36' : '',
+          !editorial ? 'aspect-[4/3]' : '',
+        ]}>
+          <img src={item.src} alt={item.alt} loading={index === 0 ? 'eager' : 'lazy'} decoding="async" class="absolute inset-0 h-full w-full object-cover transition duration-500 group-hover:scale-[1.04]" />
+          <div class="pointer-events-none absolute inset-0 bg-gradient-to-t from-slate-950/65 via-transparent to-transparent opacity-80"></div>
+          {(item.title || item.caption) && <figcaption class="absolute inset-x-0 bottom-0 p-3 text-white sm:p-4">
+            {item.title && <p class="text-sm font-bold leading-snug sm:text-base">{item.title}</p>}
+            {item.caption && <p class="mt-1 line-clamp-2 text-xs leading-5 text-white/85 sm:text-sm">{item.caption}</p>}
+          </figcaption>}
+        </figure>
+      ))}
+    </div>
+  </div>
+</section>
