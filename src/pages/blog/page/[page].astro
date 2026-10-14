@@ -1,0 +1,20 @@
+---
+/** Pagination arsip blog: /blog/page/N/ (N >= 2) — pola URL arsip WordPress lama. */
+import BlogArchive from '../../../components/pages/BlogArchive.astro';
+import { getCollection } from 'astro:content';
+
+export async function getStaticPaths() {
+  const posts = (await getCollection('articles'))
+    .filter((a) => !a.data.draft)
+    .sort((a, b) => (b.data.updatedDate ?? b.data.pubDate).valueOf() - (a.data.updatedDate ?? a.data.pubDate).valueOf());
+  const perPage = 12;
+  const totalPages = Math.max(1, Math.ceil(posts.length / perPage));
+  return Array.from({ length: Math.max(0, totalPages - 1) }, (_, i) => ({
+    params: { page: String(i + 2) },
+    props: { posts: posts.slice((i + 1) * perPage, (i + 2) * perPage), currentPage: i + 2, totalPages },
+  }));
+}
+
+const { posts, currentPage, totalPages } = Astro.props;
+---
+<BlogArchive posts={posts} currentPage={currentPage} totalPages={totalPages} />

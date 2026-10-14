@@ -1,0 +1,7 @@
+---
+interface Props { id: string; title: string; text: string; variant?: 'info' | 'warning' | 'success' }
+const { id, title, text, variant = 'info' } = Astro.props;
+const styles = { info: 'border-blue-200 bg-blue-50 text-blue-950', warning: 'border-amber-300 bg-amber-50 text-amber-950', success: 'border-emerald-200 bg-emerald-50 text-emerald-950' };
+const labels = { info: 'Informasi', warning: 'Perhatian', success: 'Catatan positif' };
+---
+<aside id={id} class={`my-8 rounded-2xl border p-5 sm:p-6 ${styles[variant]}`} aria-labelledby={`${id}-title`}><p class="mb-2 text-xs font-extrabold uppercase tracking-[0.16em] opacity-75">{labels[variant]}</p><h3 id={`${id}-title`} class="text-lg font-extrabold">{title}</h3><p class="mt-2 leading-7">{text}</p></aside>

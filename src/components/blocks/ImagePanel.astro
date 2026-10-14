@@ -1,0 +1,15 @@
+---
+interface Props {
+  id: string;
+  src: string;
+  alt: string;
+}
+const { id, src, alt } = Astro.props;
+---
+<section id={id} class="py-12 bg-white" aria-label="Ilustrasi layanan">
+  <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+    <div class="relative mx-auto max-w-4xl">
+      <img src={src} alt={alt} class="w-full h-auto rounded-xl shadow-lg" loading="lazy" decoding="async" />
+    </div>
+  </div>
+</section>

@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://www.ciptamasjaya.co.id/sitemap.xml

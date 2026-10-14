@@ -1,0 +1,16 @@
+---
+/** Halaman 404 — seharusnya jarang terlihat: semua URL sitemap lama dipetakan. */
+import PageShell from '../components/shared/PageShell.astro';
+---
+<PageShell title="404 — Halaman Tidak Ditemukan | PT. Cipta Mas Jaya" description="Halaman tidak ditemukan.">
+  <div class="mx-auto max-w-3xl px-5 py-24 text-center">
+    <p class="text-7xl font-extrabold text-primary-600">404</p>
+    <h1 class="mt-4 text-3xl font-extrabold text-slate-950">Halaman tidak ditemukan</h1>
+    <p class="mt-4 text-lg text-slate-600">Coba jelajahi dari halaman utama, layanan, atau blog kami.</p>
+    <div class="mt-8 flex flex-col justify-center gap-3 sm:flex-row">
+      <a href="/" class="rounded-xl bg-primary-600 px-6 py-3 font-semibold text-white hover:bg-primary-700">Beranda</a>
+      <a href="/layanan/" class="rounded-xl border border-slate-200 px-6 py-3 font-semibold text-slate-700 hover:border-primary-300">Layanan</a>
+      <a href="/blog/" class="rounded-xl border border-slate-200 px-6 py-3 font-semibold text-slate-700 hover:border-primary-300">Blog</a>
+    </div>
+  </div>
+</PageShell>

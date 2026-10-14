@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="400" height="300">
+  <rect width="400" height="300" fill="#f8fafc"/>
+  <rect width="400" height="200" fill="#020617" rx="0"/>
+  <rect x="0" y="0" width="400" height="200" fill="#0f172a" rx="0"/>
+  <circle cx="320" cy="100" r="120" fill="#3b82f6" opacity="0.15"/>
+  <rect x="30" y="40" width="240" height="120" rx="12" fill="#1e293b"/>
+  <rect x="55" y="55" width="190" height="100" rx="10" fill="#1e293b"/>
+  <path d="M70 80 Q150 60 230 80" fill="none" stroke="#3b82f6" stroke-width="2"/>
+  <path d="M70 100 Q150 80 230 100" fill="none" stroke="#3b82f6" stroke-width="2"/>
+  <path d="M70 120 Q150 100 230 120" fill="none" stroke="#3b82f6" stroke-width="2"/>
+  <circle cx="255" cy="80" r="25" fill="#3b82f6" opacity="0.3"/>
+  <text x="30" y="240" font-family="system-ui,sans-serif" font-size="22" font-weight="700" fill="#0f172a">Hak Cipta</text>
+  <text x="30" y="268" font-family="system-ui,sans-serif" font-size="14" fill="#64748b">Perlindungan ciptaan</text>
+</svg>

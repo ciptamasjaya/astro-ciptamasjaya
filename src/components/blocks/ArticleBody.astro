@@ -1,0 +1,52 @@
+---
+import ArticleSection from './ArticleSection.astro';
+
+interface Subsection {
+  title: string;
+  paragraphs: string[];
+}
+interface Section {
+  title: string;
+  intro?: string;
+  subsections: Subsection[];
+}
+interface Props {
+  id: string;
+  introParagraphs: string[];
+  sections: Section[];
+}
+const { id, introParagraphs, sections } = Astro.props;
+---
+<article id={id} class="mx-auto max-w-4xl px-4 py-12 sm:px-6 lg:px-8">
+  <div class="mb-12 rounded-2xl border border-blue-100 bg-gradient-to-br from-blue-50 via-white to-slate-50 p-6 sm:p-8">
+    <div class="mb-4 flex items-center gap-3">
+      <span class="h-1 w-10 rounded-full bg-blue-700" aria-hidden="true"></span>
+      <span class="text-xs font-bold uppercase tracking-[0.18em] text-blue-800">Ringkasan Pembahasan</span>
+    </div>
+    <div class="max-w-3xl space-y-4 text-base leading-8 text-slate-700 sm:text-lg">
+      {introParagraphs.map((paragraph) => <p>{paragraph}</p>)}
+    </div>
+  </div>
+
+  <div class="article-content">
+    {sections.map((section, index) => (
+      <ArticleSection
+        id={`${id}-section-${index + 1}`}
+        index={index + 1}
+        title={section.title}
+        intro={section.intro}
+        subsections={section.subsections}
+      />
+    ))}
+  </div>
+</article>
+
+<style>
+  .article-content :global(p) {
+    text-wrap: pretty;
+  }
+
+  .article-section + .article-section {
+    margin-top: 3.5rem;
+  }
+</style>

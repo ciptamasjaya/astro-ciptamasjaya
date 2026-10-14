@@ -1,0 +1,19 @@
+---
+interface Props {
+  id: string;
+  title: string;
+  index?: number;
+  eyebrow?: string;
+}
+const { id, title, index, eyebrow } = Astro.props;
+const number = index === undefined ? undefined : String(index).padStart(2, '0');
+---
+<h2 id={id} class="group scroll-mt-28 mt-14 mb-6 border-b border-slate-200 pb-5">
+  <span class="mb-3 flex items-center gap-3 text-xs font-bold uppercase tracking-[0.18em] text-blue-700">
+    <span class="h-px w-8 bg-blue-600" aria-hidden="true"></span>
+    {number ? `Bagian ${number}` : (eyebrow ?? 'Pembahasan')}
+  </span>
+  <span class="block max-w-3xl text-2xl font-extrabold leading-tight tracking-tight text-slate-950 sm:text-3xl">
+    {title}
+  </span>
+</h2>

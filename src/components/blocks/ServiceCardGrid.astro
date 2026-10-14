@@ -1,0 +1,31 @@
+---
+interface ServiceCard {
+  title: string;
+  description: string;
+  audience: string;
+  href: string;
+}
+interface Props { id: string; title: string; items: ServiceCard[] }
+const { id, title, items } = Astro.props;
+const titleId = `${id}-title`;
+---
+<section id={id} class="py-12 services-preview-section" aria-labelledby={titleId}>
+  <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 services-preview-container">
+    <header class="services-preview-header text-center mb-8">
+      <h2 id={titleId} class="text-2xl font-bold text-gray-900">{title}</h2>
+    </header>
+    <div class="services-preview-grid grid gap-6 sm:grid-cols-2 lg:grid-cols-4">
+      {items.map((item) => (
+        <article class="service-preview-card bg-white rounded-lg shadow overflow-hidden hover:shadow-lg transition-shadow duration-300">
+          <div class="service-preview-content p-6">
+            <h3 class="text-xl font-semibold text-gray-900 mb-3">
+              <a class="hover:text-primary-700 focus:outline-none focus:ring-2 focus:ring-primary-500" href={item.href}>{item.title}</a>
+            </h3>
+            <p class="text-gray-600 mb-4">{item.description}</p>
+            <p class="text-sm text-primary-600 font-medium">{item.audience}</p>
+          </div>
+        </article>
+      ))}
+    </div>
+  </div>
+</section>

@@ -1,0 +1,12 @@
+---
+/** Arsip blog halaman 1: /blog/ */
+import BlogArchive from '../../components/pages/BlogArchive.astro';
+import { getCollection } from 'astro:content';
+
+const posts = (await getCollection('articles'))
+  .filter((a) => !a.data.draft)
+  .sort((a, b) => (b.data.updatedDate ?? b.data.pubDate).valueOf() - (a.data.updatedDate ?? a.data.pubDate).valueOf());
+const perPage = 12;
+const totalPages = Math.max(1, Math.ceil(posts.length / perPage));
+---
+<BlogArchive posts={posts.slice(0, perPage)} currentPage={1} totalPages={totalPages} />

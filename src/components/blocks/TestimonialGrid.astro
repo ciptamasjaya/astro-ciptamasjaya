@@ -1,0 +1,26 @@
+---
+interface Testimonial {
+  quote: string;
+  name: string;
+  industry: string;
+}
+interface Props { id: string; title: string; items: Testimonial[] }
+const { id, title, items } = Astro.props;
+const titleId = `${id}-title`;
+---
+<section id={id} class="py-12" aria-labelledby={titleId}>
+  <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+    <h2 id={titleId} class="text-2xl font-bold text-center text-gray-900 mb-8">{title}</h2>
+    <div class="grid gap-6 sm:grid-cols-1 lg:grid-cols-3">
+      {items.map((item) => (
+        <figure class="bg-white rounded-lg shadow overflow-hidden p-6">
+          <blockquote class="text-gray-600 italic mb-4">“{item.quote}”</blockquote>
+          <figcaption class="text-sm font-medium text-gray-900">
+            <span class="block">{item.name}</span>
+            <span class="block mt-1 text-gray-500 font-normal">{item.industry}</span>
+          </figcaption>
+        </figure>
+      ))}
+    </div>
+  </div>
+</section>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="400" height="300">
+  <rect width="400" height="300" fill="#f8fafc"/>
+  <rect width="400" height="200" fill="#020617" rx="0"/>
+  <rect x="0" y="0" width="400" height="200" fill="#0f172a" rx="0"/>
+  <circle cx="320" cy="100" r="120" fill="#3b82f6" opacity="0.15"/>
+  <rect x="30" y="40" width="240" height="120" rx="12" fill="#1e293b"/>
+  <circle cx="200" cy="100" r="55" fill="#1e293b"/>
+  <circle cx="200" cy="100" r="40" fill="none" stroke="#3b82f6" stroke-width="2.5"/>
+  <path d="M175 115 L190 85 L205 115" fill="none" stroke="#3b82f6" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="200" cy="75" r="6" fill="#3b82f6"/>
+  <text x="30" y="240" font-family="system-ui,sans-serif" font-size="22" font-weight="700" fill="#0f172a">Pendaftaran Merek</text>
+  <text x="30" y="268" font-family="system-ui,sans-serif" font-size="14" fill="#64748b">Perlindungan merek dagang</text>
+</svg>

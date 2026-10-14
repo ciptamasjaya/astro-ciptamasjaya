@@ -1,0 +1,5 @@
+---
+interface Props { id: string; eyebrow?: string; title: string; description: string; image?: string; imageAlt?: string }
+const { id, eyebrow, title, description, image, imageAlt = '' } = Astro.props;
+---
+<header id={id} class="relative isolate my-10 overflow-hidden rounded-3xl border border-slate-200 bg-gradient-to-br from-slate-950 via-blue-950 to-blue-800 px-6 py-10 text-white shadow-sm sm:px-10 sm:py-14"><div class="relative z-10 max-w-3xl">{eyebrow && <p class="mb-4 text-xs font-bold uppercase tracking-[0.2em] text-blue-200">{eyebrow}</p>}<h2 class="text-3xl font-extrabold leading-tight tracking-tight sm:text-4xl">{title}</h2><p class="mt-5 max-w-2xl text-base leading-8 text-blue-50 sm:text-lg">{description}</p></div>{image && <img src={image} alt={imageAlt} loading="lazy" class="relative z-10 mt-8 max-h-72 w-full rounded-2xl object-cover sm:mt-0 sm:absolute sm:bottom-8 sm:right-8 sm:h-40 sm:w-56" />}<span aria-hidden="true" class="absolute -right-12 -top-16 h-64 w-64 rounded-full border-[36px] border-white/5"></span></header>

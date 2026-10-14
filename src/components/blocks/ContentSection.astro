@@ -1,0 +1,19 @@
+---
+interface Props {
+  id: string;
+  title: string;
+  paragraphs: string[];
+  variant?: 'plain' | 'muted' | 'primary';
+}
+const { id, title, paragraphs, variant = 'plain' } = Astro.props;
+const titleId = `${id}-title`;
+const variantClass = variant === 'muted' ? 'bg-gray-50' : variant === 'primary' ? 'bg-primary-50' : 'bg-white';
+---
+<section id={id} class={`py-16 ${variantClass}`} aria-labelledby={titleId}>
+  <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+    <h1 id={titleId} class="text-3xl font-bold text-center text-gray-900 sm:text-4xl mb-6">{title}</h1>
+    <div class="max-w-3xl mx-auto space-y-4 text-center text-lg text-gray-600 leading-relaxed">
+      {paragraphs.map((paragraph) => <p>{paragraph}</p>)}
+    </div>
+  </div>
+</section>

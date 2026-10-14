@@ -1,0 +1,16 @@
+---
+import { getCollection } from 'astro:content';
+import LatestArticles from './LatestArticles.astro';
+
+interface Props {
+  id: string;
+  title: string;
+  limit: number;
+}
+const { id, title, limit } = Astro.props;
+const articles = (await getCollection('articles'))
+  .filter((article) => !article.data.draft)
+  .sort((a, b) => new Date(b.data.pubDate).getTime() - new Date(a.data.pubDate).getTime())
+  .slice(0, limit);
+---
+<LatestArticles id={id} articles={articles} title={title} />

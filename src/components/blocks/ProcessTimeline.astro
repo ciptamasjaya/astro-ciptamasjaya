@@ -1,0 +1,12 @@
+---
+interface Step { title: string; description: string }
+interface Props { id: string; title: string; steps: Step[] }
+const { id, title, steps } = Astro.props;
+const titleId = `${id}-title`;
+---
+<section id={id} class="my-10" aria-labelledby={titleId}>
+  <h2 id={titleId} class="mb-6 text-2xl font-bold text-gray-900">{title}</h2>
+  <ol class="space-y-5">
+    {steps.map((step, index) => (<li class="relative flex gap-4"><div class="flex h-9 w-9 shrink-0 items-center justify-center rounded-full bg-primary-600 text-sm font-bold text-white" aria-hidden="true">{index + 1}</div><div class="min-w-0 border-b border-gray-200 pb-5"><h3 class="mb-1 text-lg font-semibold text-gray-900">{step.title}</h3><p class="leading-7 text-gray-600">{step.description}</p></div></li>))}
+  </ol>
+</section>

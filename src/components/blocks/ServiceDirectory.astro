@@ -1,0 +1,49 @@
+---
+import { services, type ServiceEntry } from '../../config';
+
+interface Props {
+  id: string;
+  title: string;
+  intro: string;
+  imageSrc: string;
+  imageAlt: string;
+  serviceIds: number[];
+}
+const { id, title, intro, imageSrc, imageAlt, serviceIds } = Astro.props;
+const selectedServices = serviceIds
+  .map((serviceId) => services.find((service) => service.id === serviceId))
+  .filter((service): service is ServiceEntry => service !== undefined);
+const titleId = `${id}-title`;
+---
+<section id={id} class="py-16 bg-white services-section" aria-labelledby={titleId}>
+  <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 services-container">
+    <header class="services-header text-center mb-16">
+      <h1 id={titleId} class="text-3xl font-bold text-gray-900 sm:text-4xl mb-4">{title}</h1>
+      <p class="text-lg text-gray-600 max-w-2xl mx-auto mb-6">{intro}</p>
+      <div class="services-header-media flex justify-center mt-6">
+        <img src={imageSrc} alt={imageAlt} class="w-full max-w-2xl h-auto rounded-xl shadow-md border border-gray-100" loading="lazy" decoding="async" />
+      </div>
+    </header>
+    <div class="services-list space-y-16">
+      {selectedServices.map((service) => (
+        <article id={service.slug} class="service-card bg-gray-50 p-8 sm:p-12 rounded-2xl border border-gray-200 grid md:grid-cols-2 gap-8 items-center">
+          <div class="service-content">
+            <span class="service-badge text-primary-600 font-semibold text-sm uppercase tracking-wider">{service.badge}</span>
+            <h2 class="service-title text-2xl font-bold text-gray-900 mt-1 mb-4">{service.title}</h2>
+            <p class="service-description text-gray-600 leading-relaxed mb-6">{service.description}</p>
+            <ul class="service-features space-y-2 text-sm text-gray-700 mb-6">
+              {service.features.map((feature) => <li>✓ {feature}</li>)}
+            </ul>
+            <a href={service.href} class="service-cta inline-block px-6 py-3 bg-primary-600 text-white font-medium rounded-lg hover:bg-primary-700 transition-colors">
+              {service.cta}
+            </a>
+          </div>
+          <div class="service-target bg-primary-50 p-8 rounded-xl border border-primary-100">
+            <h3 class="font-bold text-primary-900 mb-2">Target Klien:</h3>
+            <p class="text-sm text-primary-800">{service.target}</p>
+          </div>
+        </article>
+      ))}
+    </div>
+  </div>
+</section>

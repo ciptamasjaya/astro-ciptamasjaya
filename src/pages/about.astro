@@ -1,0 +1,8 @@
+---
+/** Tentang Kami — halaman WP /about/ dirender custom. */
+import WpPage from '../components/pages/WpPage.astro';
+import { getEntry } from 'astro:content';
+
+const page = await getEntry('pages', 'about');
+---
+{page ? <WpPage page={page} /> : null}

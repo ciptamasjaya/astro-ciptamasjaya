@@ -1,0 +1,34 @@
+---
+import ArticleCard from './ArticleCard.astro';
+import type { CollectionEntry } from 'astro:content';
+import { pickRelatedArticles } from '../../utils/related';
+
+const {
+  articles = [],
+  currentSlug,
+  category,
+  relatedService,
+  relatedPage,
+} = Astro.props as {
+  articles?: CollectionEntry<'articles'>[];
+  currentSlug?: string;
+  category?: string | null;
+  relatedService?: number | null;
+  relatedPage?: number | null;
+};
+const chosen = pickRelatedArticles(articles, { currentSlug, category, relatedService, relatedPage, limit: 3 });
+---
+{chosen.length > 0 && (
+  <section aria-label="Artikel terkait" class="mt-16 border-t border-slate-200 pt-10">
+    <div class="mb-6 flex items-start gap-3">
+      <span class="mt-1 h-8 w-1 shrink-0 rounded-full bg-primary-600" aria-hidden="true"></span>
+      <div>
+        <p class="mb-1 text-xs font-semibold uppercase tracking-widest text-primary-700">Lanjutkan Membaca</p>
+        <h2 class="text-2xl font-bold tracking-tight text-slate-950 sm:text-3xl">Artikel Terkait</h2>
+      </div>
+    </div>
+    <div class="grid grid-cols-1 gap-4 md:grid-cols-2 xl:grid-cols-3">
+      {chosen.map((article) => <ArticleCard article={article} />)}
+    </div>
+  </section>
+)}

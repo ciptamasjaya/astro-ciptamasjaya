@@ -1,0 +1,65 @@
+---
+/**
+ * FaqBlock — block "faq" (accordion tanya-jawab).
+ *
+ * Merender: ikon + heading h2 + daftar accordion <details>/<summary>
+ * native — tanpa JavaScript, keyboard- & screen-reader-friendly;
+ * chevron berotasi otomatis saat item terbuka (group-open:rotate-180).
+ *
+ * Props:
+ * - id?:     string — anchor HTML & slug TOC; fallback otomatis `${component}-${index+1}`
+ * - heading: string — judul h2 section (wajib)
+ * - icon?:   string — nama ikon Tabler, default "messages" (daftar: Icon.astro)
+ * - class?:  object — kelas tiap bagian; key yang tidak diisi memakai DEFAULT:
+ *              section: "mt-10 rounded-2xl border border-blue-100 bg-blue-50/60 p-6 md:p-8"
+ *              icon:    "inline-flex rounded-xl bg-white p-2.5 text-blue-700 shadow-sm"
+ *              heading: "mt-4 text-2xl font-extrabold tracking-tight text-slate-950"
+ *              list:    "mt-4 space-y-3"                                  (pembungkus daftar item)
+ *              item:    "group rounded-xl bg-white ring-1 ring-slate-200 transition-shadow open:ring-blue-300"  (details)
+ *              summary: "flex cursor-pointer list-none items-center justify-between gap-4 p-4 font-semibold text-slate-950 [&::-webkit-details-marker]:hidden"
+ *              chevron: "inline-flex shrink-0 rounded-lg bg-blue-50 p-1.5 text-blue-700 transition-transform group-open:rotate-180"
+ *              answer:  "border-t border-slate-100 px-4 pb-4 pt-3 leading-7 text-slate-600"
+ * - items:   Array<{ question: string; answer: string }> — min. 1 item (wajib)
+ *
+ * Contoh pemakaian di frontmatter artikel (src/content/articles/*.md):
+ *   blocks:
+ *     - component: "faq"
+ *       id: "tanya-jawab"
+ *       heading: "Pertanyaan yang sering diajukan"
+ *       icon: "messages"
+ *       class:
+ *         section: "mt-10 rounded-2xl border border-emerald-100 bg-emerald-50/60 p-6 md:p-8"
+ *         summary: "flex cursor-pointer list-none items-center justify-between gap-4 p-4 font-semibold text-emerald-900 [&::-webkit-details-marker]:hidden"
+ *       items:
+ *         - question: "Apakah daftar dokumen sama untuk semua jenis usaha?"
+ *           answer: "Tidak. Daftar menyesuaikan bentuk badan usaha dan kegiatan."
+ */
+import Icon from './Icon.astro';
+const { id, heading, icon = 'messages', class: cls = {}, items = [] } = Astro.props as { id?: string; heading: string; icon?: string; class?: Record<string, string>; items?: { question: string; answer: string }[] };
+const classes = {
+  section: 'mt-10 rounded-2xl border border-blue-100 bg-blue-50/60 p-6 md:p-8',
+  icon: 'inline-flex rounded-xl bg-white p-2.5 text-blue-700 shadow-sm',
+  heading: 'mt-4 text-2xl font-extrabold tracking-tight text-slate-950',
+  list: 'mt-4 space-y-3',
+  item: 'group rounded-xl bg-white ring-1 ring-slate-200 transition-shadow open:ring-blue-300',
+  summary: 'flex cursor-pointer list-none items-center justify-between gap-4 p-4 font-semibold text-slate-950 [&::-webkit-details-marker]:hidden',
+  chevron: 'inline-flex shrink-0 rounded-lg bg-blue-50 p-1.5 text-blue-700 transition-transform group-open:rotate-180',
+  answer: 'border-t border-slate-100 px-4 pb-4 pt-3 leading-7 text-slate-600',
+  ...cls,
+};
+---
+<section id={id} class={classes.section}>
+  <span class={classes.icon}><Icon name={icon ?? 'messages'} size={24} /></span>
+  <h2 class={classes.heading}>{heading}</h2>
+  <div class={classes.list}>
+    {items.map((item) => (
+      <details class={classes.item}>
+        <summary class={classes.summary}>
+          {item.question}
+          <span class={classes.chevron}><Icon name="chevron-down" size={16} /></span>
+        </summary>
+        <p class={classes.answer}>{item.answer}</p>
+      </details>
+    ))}
+  </div>
+</section>

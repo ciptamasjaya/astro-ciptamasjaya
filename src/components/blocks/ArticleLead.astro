@@ -1,0 +1,5 @@
+---
+interface Props { id: string; text: string; label?: string }
+const { id, text, label = 'Inti pembahasan' } = Astro.props;
+---
+<div id={id} class="my-8 rounded-r-2xl border-l-4 border-blue-700 bg-blue-50/70 px-5 py-5 sm:px-7 sm:py-6"><p class="mb-2 text-xs font-bold uppercase tracking-[0.16em] text-blue-800">{label}</p><p class="max-w-4xl text-lg leading-8 text-slate-800 sm:text-xl sm:leading-9">{text}</p></div>

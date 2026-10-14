@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="400" height="300">
+  <rect width="400" height="300" fill="#f8fafc"/>
+  <rect width="400" height="200" fill="#020617" rx="0"/>
+  <rect x="0" y="0" width="400" height="200" fill="#0f172a" rx="0"/>
+  <circle cx="320" cy="100" r="120" fill="#3b82f6" opacity="0.15"/>
+  <rect x="30" y="40" width="240" height="120" rx="12" fill="#1e293b"/>
+  <rect x="40" y="50" width="220" height="100" rx="10" fill="#1e293b"/>
+  <rect x="55" y="65" width="30" height="30" rx="4" fill="#3b82f6"/>
+  <rect x="95" y="65" width="130" height="10" rx="3" fill="#334155"/>
+  <rect x="95" y="80" width="100" height="8" rx="3" fill="#334155"/>
+  <circle cx="255" cy="80" r="30" fill="#3b82f6" opacity="0.3"/>
+  <circle cx="255" cy="80" r="16" fill="#3b82f6"/>
+  <path d="M248 80 L253 85 L262 74" fill="none" stroke="white" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="30" y="240" font-family="system-ui,sans-serif" font-size="22" font-weight="700" fill="#0f172a">Memahami OSS</text>
+  <text x="30" y="268" font-family="system-ui,sans-serif" font-size="14" fill="#64748b">Perizinan berbasis risiko</text>
+</svg>

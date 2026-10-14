@@ -1,0 +1,48 @@
+---
+/**
+ * Kontak — halaman custom (bukan render WP mentah): ContactPanel block csms
+ * + JSON-LD ContactPage, data kontak dari src/config.ts.
+ */
+import PageShell from '../components/shared/PageShell.astro';
+import Breadcrumbs from '../components/shared/Breadcrumbs.astro';
+import ContactPanel from '../components/blocks/ContactPanel.astro';
+import { site, services } from '../config';
+import { breadcrumbSchema, localBusinessSchema } from '../utils/structured-data';
+
+const baseUrl = Astro.site?.toString().replace(/\/$/, '') ?? '';
+const schemas: object[] = [
+  breadcrumbSchema([{ label: 'Beranda', href: '/' }, { label: 'Kontak' }], baseUrl),
+  localBusinessSchema({ title: '', description: site.description, url: new URL('/contact/', baseUrl).toString() }),
+  { '@context': 'https://schema.org', '@type': 'ContactPage', name: `Kontak ${site.name}`, url: new URL('/contact/', baseUrl).toString() },
+];
+---
+<PageShell title={`Kontak — ${site.name}`} description={`Hubungi ${site.name}: telepon ${site.phone}, WhatsApp ${site.phoneMobile}, email ${site.email}. Alamat: ${site.address.street}, ${site.address.locality}.`} canonical="/contact/">
+  <Fragment slot="head">
+    {schemas.map((schema) => <script type="application/ld+json" set:html={JSON.stringify(schema)} />)}
+  </Fragment>
+  <div class="mx-auto max-w-7xl px-5 py-12 md:py-16">
+    <Breadcrumbs items={[{ label: 'Kontak' }]} />
+    <ContactPanel
+      id="contact-panel"
+      title="Kunjungi Kami"
+      intro="Kami siap untuk berdiskusi. Mari kita mulai percakapan seru ini dan temukan solusi terbaik bersama!"
+      contacts={[
+        { label: 'Telepon', phone: site.phone.replace(/[^\d+]/g, ''), display: site.phone },
+        { label: 'HP/WA', phone: site.whatsapp, display: site.phoneMobile },
+      ]}
+      hoursTitle="Waktu Layanan"
+      hours={['Sen &ndash; Jum: 09.00 &ndash; 18.00 WIB', 'Sab &ndash; Ming: Tutup']}
+      formTitle="Butuh informasi lebih lanjut?"
+      serviceOptions={[...services.map((s) => s.title), 'Lainnya']}
+    />
+    <section class="mt-12 rounded-2xl border border-slate-200 bg-slate-50 p-8" aria-label="Alamat kantor">
+      <h2 class="text-xl font-bold text-slate-950">Alamat Kantor</h2>
+      <p class="mt-3 leading-7 text-slate-600">
+        {site.name}<br />
+        {site.address.street}<br />
+        {site.address.locality}, {site.address.region} {site.address.postalCode}<br />
+        Email: <a class="text-blue-700 hover:underline" href={`mailto:${site.email}`}>{site.email}</a>
+      </p>
+    </section>
+  </div>
+</PageShell>

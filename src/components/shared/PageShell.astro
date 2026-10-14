@@ -1,0 +1,12 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import SiteHeader from './SiteHeader.astro';
+import SiteFooter from './SiteFooter.astro';
+const { title, description, canonical, image } = Astro.props;
+---
+<BaseLayout title={title} description={description} canonical={canonical} image={image}>
+  <slot name="head" slot="head" />
+  <SiteHeader />
+  <main><slot /></main>
+  <SiteFooter />
+</BaseLayout>

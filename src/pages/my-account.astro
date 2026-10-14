@@ -1,0 +1,25 @@
+---
+/**
+ * /my-account/ — halaman akun WP tidak berlaku di situs statis.
+ * Render arahan + link agar tidak 404.
+ */
+import PageShell from '../components/shared/PageShell.astro';
+import { breadcrumbSchema } from '../utils/structured-data';
+
+const baseUrl = Astro.site?.toString().replace(/\/$/, '') ?? '';
+---
+<PageShell title="Akun Saya | PT. Cipta Mas Jaya" description="Halaman akun telah dialihkan — hubungi kami untuk kebutuhan layanan." canonical="/my-account/">
+  <Fragment slot="head">
+    <script type="application/ld+json" set:html={JSON.stringify(breadcrumbSchema([{ label: 'Beranda', href: '/' }, { label: 'Akun Saya' }], baseUrl))} />
+  </Fragment>
+  <div class="mx-auto max-w-3xl px-5 py-24 text-center">
+    <h1 class="text-3xl font-extrabold text-slate-950">Akun Saya</h1>
+    <p class="mt-4 leading-8 text-slate-600">
+      Halaman akun tidak lagi tersedia. Untuk kebutuhan layanan Riksa Uji dan inspeksi K3, silakan hubungi tim kami.
+    </p>
+    <div class="mt-8 flex flex-col justify-center gap-3 sm:flex-row">
+      <a href="/contact/" class="rounded-xl bg-primary-600 px-6 py-3 font-semibold text-white hover:bg-primary-700">Hubungi Kami</a>
+      <a href="/" class="rounded-xl border border-slate-200 px-6 py-3 font-semibold text-slate-700 hover:border-primary-300">Beranda</a>
+    </div>
+  </div>
+</PageShell>

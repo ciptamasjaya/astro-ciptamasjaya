@@ -1,0 +1,15 @@
+---
+interface StatItem { value: string; label: string }
+interface Props { id: string; items: StatItem[] }
+const { id, items } = Astro.props;
+---
+<section id={id} class="py-12 bg-gray-50 stats-section" aria-label="Ringkasan layanan">
+  <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 stats-container grid grid-cols-1 gap-6 sm:grid-cols-2 lg:grid-cols-4">
+    {items.map((item) => (
+      <div class="stat-card text-center">
+        <p class="text-3xl font-bold text-primary-600">{item.value}</p>
+        <p class="text-sm text-gray-500 mt-2">{item.label}</p>
+      </div>
+    ))}
+  </div>
+</section>

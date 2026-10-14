@@ -1,0 +1,20 @@
+# dependencies
+node_modules/
+
+# build
+dist/
+.astro/
+
+# env
+.env
+.env.local
+
+# hasil verifikasi/debug
+verify-missing.txt
+mirror-failures.txt
+
+# OS
+.DS_Store
+
+# typescript
+*.tsbuildinfo

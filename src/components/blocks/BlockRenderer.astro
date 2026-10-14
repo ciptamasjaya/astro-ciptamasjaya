@@ -1,0 +1,119 @@
+---
+import type { ContentBlock } from '../../content/block-schema.ts';
+import { faqPageSchema } from '../../utils/structured-data';
+import QuickAnswer from './QuickAnswer.astro';
+import ProcessTimeline from './ProcessTimeline.astro';
+import RequirementChecklist from './RequirementChecklist.astro';
+import StatsGrid from './StatsGrid.astro';
+import ServiceCardGrid from './ServiceCardGrid.astro';
+import TestimonialGrid from './TestimonialGrid.astro';
+import CallToAction from './CallToAction.astro';
+import Hero from './Hero.astro';
+import ImagePanel from './ImagePanel.astro';
+import LatestArticlesBlock from './LatestArticlesBlock.astro';
+import ServiceDirectory from './ServiceDirectory.astro';
+import ContentSection from './ContentSection.astro';
+import FeatureCardGrid from './FeatureCardGrid.astro';
+import ContactPanel from './ContactPanel.astro';
+import ArticleBody from './ArticleBody.astro';
+import ArticleHero from './ArticleHero.astro';
+import ArticleLead from './ArticleLead.astro';
+import SectionHeader from './SectionHeader.astro';
+import ContentCard from './ContentCard.astro';
+import NumberedSteps from './NumberedSteps.astro';
+import ChecklistCard from './ChecklistCard.astro';
+import DocumentList from './DocumentList.astro';
+import ComparisonTable from './ComparisonTable.astro';
+import InfoCallout from './InfoCallout.astro';
+import ServiceCTA from './ServiceCTA.astro';
+import FaqBlock from './FaqBlock.astro';
+
+interface Props {
+  blocks?: ContentBlock[];
+  pageMetadata?: { title: string; description: string; image?: string };
+}
+
+const { blocks = [], pageMetadata } = Astro.props;
+const faqBlocks = blocks.filter((block): block is Extract<ContentBlock, { type: 'faq' }> => block.type === 'faq');
+---
+{blocks.map((block) => {
+  if (block.type === 'faq') return <FaqBlock id={block.id} {...block.data} />;
+
+  if (block.type === 'article-hero') return <ArticleHero id={block.id} {...block.data} />;
+  if (block.type === 'article-lead') return <ArticleLead id={block.id} {...block.data} />;
+  if (block.type === 'section-header') return <SectionHeader id={block.id} {...block.data} />;
+  if (block.type === 'content-card') return <ContentCard id={block.id} {...block.data} />;
+  if (block.type === 'numbered-steps') return <NumberedSteps id={block.id} {...block.data} />;
+  if (block.type === 'checklist-card') return <ChecklistCard id={block.id} {...block.data} />;
+  if (block.type === 'document-list') return <DocumentList id={block.id} {...block.data} />;
+  if (block.type === 'comparison-table') return <ComparisonTable id={block.id} {...block.data} />;
+  if (block.type === 'info-callout') return <InfoCallout id={block.id} {...block.data} />;
+  if (block.type === 'service-cta') return <ServiceCTA id={block.id} {...block.data} />;
+
+  if (block.type === 'article-body') {
+    return <ArticleBody id={block.id} {...block.data} />;
+  }
+
+  if (block.type === 'contact-panel') {
+    return <ContactPanel id={block.id} {...block.data} />;
+  }
+
+  if (block.type === 'content-section') {
+    return <ContentSection id={block.id} {...block.data} />;
+  }
+
+  if (block.type === 'feature-card-grid') {
+    return <FeatureCardGrid id={block.id} {...block.data} />;
+  }
+
+  if (block.type === 'latest-articles') {
+    return <LatestArticlesBlock id={block.id} {...block.data} />;
+  }
+
+  if (block.type === 'image-panel') {
+    return <ImagePanel id={block.id} {...block.data} />;
+  }
+
+  if (block.type === 'hero') {
+    return <Hero id={block.id} {...block.data} />;
+  }
+
+  if (block.type === 'service-directory') {
+    return <ServiceDirectory id={block.id} {...block.data} />;
+  }
+
+  if (block.type === 'service-card-grid') {
+    return <ServiceCardGrid id={block.id} {...block.data} />;
+  }
+
+  if (block.type === 'stats-grid') {
+    return <StatsGrid id={block.id} {...block.data} />;
+  }
+
+  if (block.type === 'quick-answer') {
+    return <QuickAnswer id={block.id} {...block.data} />;
+  }
+
+  if (block.type === 'process-timeline') {
+    return <ProcessTimeline id={block.id} {...block.data} />;
+  }
+
+  if (block.type === 'testimonial-grid') {
+    return <TestimonialGrid id={block.id} {...block.data} />;
+  }
+
+  if (block.type === 'call-to-action') {
+    return <CallToAction id={block.id} {...block.data} />;
+  }
+
+  if (block.type === 'requirement-checklist') {
+    return <RequirementChecklist id={block.id} {...block.data} />;
+  }
+
+  return null;
+})}
+
+{/* FAQPage JSON-LD otomatis dari block faq. */}
+{faqBlocks.map((faq) => (
+  <script type="application/ld+json" set:html={JSON.stringify(faqPageSchema(faq.data.items))} />
+))}

@@ -1,0 +1,6 @@
+---
+interface Step { title: string; description: string }
+interface Props { id: string; title: string; intro?: string; steps: Step[] }
+const { id, title, intro, steps } = Astro.props;
+---
+<section id={id} class="my-10" aria-labelledby={`${id}-title`}><h2 id={`${id}-title`} class="mb-3 text-2xl font-extrabold tracking-tight text-slate-950 sm:text-3xl">{title}</h2>{intro && <p class="mb-7 max-w-3xl leading-7 text-slate-600">{intro}</p>}<ol class="relative space-y-4 before:absolute before:bottom-5 before:left-5 before:top-5 before:w-px before:bg-blue-200">{steps.map((step, index) => <li class="relative flex gap-4 rounded-2xl border border-slate-200 bg-white p-5 shadow-sm sm:p-6"><span class="z-10 flex h-10 w-10 shrink-0 items-center justify-center rounded-xl bg-blue-700 text-sm font-extrabold text-white">{String(index + 1).padStart(2, '0')}</span><div><h3 class="font-bold text-slate-950">{step.title}</h3><p class="mt-2 leading-7 text-slate-600">{step.description}</p></div></li>)}</ol></section>

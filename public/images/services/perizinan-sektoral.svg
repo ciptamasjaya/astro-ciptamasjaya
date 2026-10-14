@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="400" height="300">
+  <rect width="400" height="300" fill="#f8fafc"/>
+  <rect width="400" height="200" fill="#020617" rx="0"/>
+  <rect x="0" y="0" width="400" height="200" fill="#0f172a" rx="0"/>
+  <circle cx="320" cy="100" r="120" fill="#3b82f6" opacity="0.15"/>
+  <rect x="30" y="40" width="240" height="120" rx="12" fill="#1e293b"/>
+  <circle cx="200" cy="100" r="55" fill="#1e293b"/>
+  <circle cx="200" cy="100" r="38" fill="none" stroke="#3b82f6" stroke-width="2.5"/>
+  <circle cx="200" cy="100" r="22" fill="none" stroke="#3b82f6" stroke-width="2"/>
+  <circle cx="200" cy="100" r="7" fill="#3b82f6"/>
+  <line x1="200" y1="45" x2="200" y2="62" stroke="#3b82f6" stroke-width="2"/>
+  <line x1="200" y1="138" x2="200" y2="155" stroke="#3b82f6" stroke-width="2"/>
+  <line x1="145" y1="100" x2="162" y2="100" stroke="#3b82f6" stroke-width="2"/>
+  <line x1="238" y1="100" x2="255" y2="100" stroke="#3b82f6" stroke-width="2"/>
+  <text x="30" y="240" font-family="system-ui,sans-serif" font-size="22" font-weight="700" fill="#0f172a">Perizinan Sektoral</text>
+  <text x="30" y="268" font-family="system-ui,sans-serif" font-size="14" fill="#64748b">Izin bidang usaha tertentu</text>
+</svg>

@@ -1,0 +1,38 @@
+---
+/** Halaman kategori WordPress: /category/<slug>/ (termasuk bersarang, mis. /category/layanan/riksa-uji-boiler-2/). */
+import ArticleCard from '../../components/shared/ArticleCard.astro';
+import Breadcrumbs from '../../components/shared/Breadcrumbs.astro';
+import PageShell from '../../components/shared/PageShell.astro';
+import { getCollection } from 'astro:content';
+
+export async function getStaticPaths() {
+  const [categories, articles] = await Promise.all([getCollection('categories'), getCollection('articles')]);
+  return categories.map((category) => ({
+    params: { slug: category.data.slug },
+    props: { category, articles },
+  }));
+}
+
+const { category, articles } = Astro.props;
+const inCategory = articles
+  .filter((a) => !a.data.draft && a.data.category === category.data.slug)
+  .sort((a, b) => (b.data.updatedDate ?? b.data.pubDate).valueOf() - (a.data.updatedDate ?? a.data.pubDate).valueOf());
+const crumbs = category.data.slug.split('/').map((part, i, arr) => ({
+  label: i === arr.length - 1 ? category.data.title : part.replace(/-/g, ' ').replace(/\b\w/g, (c) => c.toUpperCase()),
+  href: i === arr.length - 1 ? undefined : `/category/${arr.slice(0, i + 1).join('/')}/`,
+}));
+---
+<PageShell title={`${category.data.title} — Blog PT. Cipta Mas Jaya`} description={category.data.description || `Artikel kategori ${category.data.title} dari PT. Cipta Mas Jaya.`} canonical={`/category/${category.data.slug}/`}>
+  <div class="mx-auto max-w-7xl px-5 py-12 md:py-16">
+    <Breadcrumbs items={crumbs} />
+    <header class="mt-2 max-w-2xl">
+      <p class="text-sm font-bold uppercase tracking-widest text-blue-700">Kategori</p>
+      <h1 class="mt-2 text-4xl font-extrabold tracking-tight text-slate-950">{category.data.title}</h1>
+      {category.data.description && <p class="mt-4 text-lg leading-8 text-slate-600">{category.data.description}</p>}
+    </header>
+    <div class="mt-10 grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
+      {inCategory.map((post) => <ArticleCard article={post} />)}
+    </div>
+    {inCategory.length === 0 && <p class="mt-10 text-slate-600">Belum ada artikel dalam kategori ini.</p>}
+  </div>
+</PageShell>

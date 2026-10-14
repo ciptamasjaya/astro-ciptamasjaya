@@ -1,0 +1,6 @@
+---
+import ArticleH2 from './ArticleH2.astro';
+interface Props { id: string; title: string; eyebrow?: string; number?: number; description?: string }
+const { id, title, eyebrow, number, description } = Astro.props;
+---
+<section class="my-10"><ArticleH2 id={id} title={title} index={number} eyebrow={eyebrow} />{description && <p class="-mt-2 mb-6 max-w-3xl text-base leading-7 text-slate-600 sm:text-lg">{description}</p>}</section>

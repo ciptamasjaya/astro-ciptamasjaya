@@ -1,0 +1,37 @@
+---
+/** Komponen arsip blog (dipakai /blog/ dan /blog/page/N/). */
+import ArticleCard from '../shared/ArticleCard.astro';
+import Breadcrumbs from '../shared/Breadcrumbs.astro';
+import PageShell from '../shared/PageShell.astro';
+import type { CollectionEntry } from 'astro:content';
+
+const { posts, currentPage, totalPages } = Astro.props as {
+  posts: CollectionEntry<'articles'>[];
+  currentPage: number;
+  totalPages: number;
+};
+const pageHref = (n: number) => (n <= 1 ? '/blog/' : `/blog/page/${n}/`);
+---
+<PageShell title="Blog — Wawasan K3 & Riksa Uji | PT. Cipta Mas Jaya" description="Kumpulan artikel K3, riksa uji, dan peraturan perundangan keselamatan kerja dari PT. Cipta Mas Jaya." canonical={pageHref(currentPage)}>
+  <div class="mx-auto max-w-7xl px-5 py-12 md:py-16">
+    <Breadcrumbs items={[{ label: 'Blog' }]} />
+    <header class="mt-2 max-w-2xl">
+      <h1 class="text-4xl font-extrabold tracking-tight text-slate-950 md:text-5xl">Blog</h1>
+      <p class="mt-4 text-lg leading-8 text-slate-600">Artikel terbaru seputar K3, riksa uji, dan regulasi keselamatan kerja.</p>
+    </header>
+    <div class="mt-10 grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
+      {posts.map((post) => <ArticleCard article={post} />)}
+    </div>
+    {totalPages > 1 && (
+      <nav class="mt-12 flex items-center justify-between border-t border-slate-200 pt-6" aria-label="Navigasi halaman blog">
+        {currentPage > 1 ? (
+          <a href={pageHref(currentPage - 1)} class="rounded-lg border border-slate-200 px-4 py-2 text-sm font-semibold text-slate-700 hover:border-primary-300 hover:text-primary-700">&larr; Sebelumnya</a>
+        ) : <span />}
+        <span class="text-sm text-slate-500">Halaman {currentPage} dari {totalPages}</span>
+        {currentPage < totalPages ? (
+          <a href={pageHref(currentPage + 1)} class="rounded-lg border border-slate-200 px-4 py-2 text-sm font-semibold text-slate-700 hover:border-primary-300 hover:text-primary-700">Selanjutnya &rarr;</a>
+        ) : <span />}
+      </nav>
+    )}
+  </div>
+</PageShell>

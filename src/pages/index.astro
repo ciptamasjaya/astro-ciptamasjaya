@@ -1,0 +1,124 @@
+---
+/**
+ * Halaman utama PT. Cipta Mas Jaya — hero + layanan + statistik + testimoni
+ * + artikel terbaru + CTA + JSON-LD WebSite.
+ */
+import PageShell from '../components/shared/PageShell.astro';
+import LatestArticlesBlock from '../components/blocks/LatestArticlesBlock.astro';
+import CallToAction from '../components/blocks/CallToAction.astro';
+import { site, services } from '../config';
+
+const stats = [
+  { value: '15+', label: 'Tahun Pengalaman' },
+  { value: '1000+', label: 'Perusahaan Terlayani' },
+  { value: '6', label: 'Bidang Riksa Uji' },
+  { value: 'PJK3', label: 'Terdaftar Kemnaker RI' },
+];
+---
+<PageShell title={`${site.name} — PJK3 Riksa Uji`} description={site.description} canonical="/">
+  <Fragment slot="head">
+    <script type="application/ld+json" set:html={JSON.stringify({ '@context': 'https://schema.org', '@type': 'WebSite', name: site.name, description: site.description, url: Astro.site?.toString() })} />
+  </Fragment>
+
+  <!-- Hero -->
+  <section class="relative overflow-hidden bg-gradient-to-br from-blue-50 via-white to-slate-50">
+    <div class="mx-auto grid max-w-7xl items-center gap-10 px-5 py-16 md:py-24 lg:grid-cols-2">
+      <div>
+        <p class="inline-flex rounded-full bg-blue-100 px-4 py-1.5 text-xs font-bold uppercase tracking-wider text-blue-700">PJK3 Riksa Uji</p>
+        <h1 class="mt-4 text-4xl font-extrabold leading-tight tracking-tight text-slate-950 md:text-5xl">
+          Mitra PJK3 Riksa Uji Anda Menuju Kesehatan dan Keselamatan Kerja Terbaik.
+        </h1>
+        <p class="mt-5 text-lg leading-8 text-slate-600">
+          PT. Cipta Mas Jaya menyediakan layanan Riksa Uji dan inspeksi K3 dengan tenaga ahli bersertifikat untuk
+          memastikan keandalan operasional dan keselamatan perusahaan Anda.
+        </p>
+        <div class="mt-8 flex flex-col gap-3 sm:flex-row">
+          <a href="/layanan/" class="rounded-xl bg-primary-600 px-6 py-3 text-center font-semibold text-white shadow-md transition hover:bg-primary-700">Lihat Layanan</a>
+          <a href={`https://wa.me/${site.whatsapp}`} target="_blank" rel="noopener noreferrer" class="rounded-lg bg-emerald-600 px-6 py-3 text-center font-semibold text-white shadow-md transition hover:bg-emerald-700">Konsultasi WhatsApp</a>
+        </div>
+      </div>
+      <div class="hidden lg:block">
+        <div class="rounded-3xl bg-white p-8 shadow-xl ring-1 ring-slate-200">
+          <h2 class="text-lg font-bold text-slate-950">Layanan Riksa Uji K3</h2>
+          <ul class="mt-4 space-y-3 text-sm text-slate-600">
+            {services.map((s) => (
+              <li class="flex items-start gap-2">
+                <svg class="mt-0.5 h-5 w-5 shrink-0 text-emerald-600" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M5 13l4 4L19 7" /></svg>
+                <span>{s.title}</span>
+              </li>
+            ))}
+          </ul>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Stats -->
+  <section aria-label="Statistik perusahaan" class="border-y border-slate-200 bg-white py-10">
+    <div class="mx-auto grid max-w-7xl grid-cols-2 gap-6 px-5 md:grid-cols-4">
+      {stats.map((s) => (
+        <div class="text-center">
+          <p class="text-3xl font-extrabold text-primary-600 md:text-4xl">{s.value}</p>
+          <p class="mt-1 text-sm font-medium text-slate-600">{s.label}</p>
+        </div>
+      ))}
+    </div>
+  </section>
+
+  <!-- Layanan -->
+  <section class="mx-auto max-w-7xl px-5 py-16" aria-labelledby="home-services-title">
+    <div class="mb-10 text-center">
+      <p class="text-sm font-bold uppercase tracking-widest text-primary-700">Layanan Kami</p>
+      <h2 id="home-services-title" class="mt-2 text-3xl font-extrabold tracking-tight text-slate-950 sm:text-4xl">Jasa Riksa Uji dan Inspeksi K3</h2>
+      <p class="mx-auto mt-4 max-w-2xl text-lg leading-8 text-slate-600">
+        Penuh dedikasi dan profesionalisme untuk keselamatan dan kesehatan kerja (K3) di perusahaan Anda.
+      </p>
+    </div>
+    <div class="grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
+      {services.map((s) => (
+        <a href={s.href} class="group flex h-full flex-col rounded-2xl border border-slate-200 bg-white p-6 transition hover:-translate-y-1 hover:border-primary-200 hover:shadow-lg">
+          <div class="inline-flex h-11 w-11 items-center justify-center rounded-xl bg-primary-50 text-primary-700">
+            <svg class="h-6 w-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z" /></svg>
+          </div>
+          <h3 class="mt-4 text-lg font-bold leading-snug text-slate-950 group-hover:text-primary-700">{s.title}</h3>
+          <span class="mt-4 inline-flex items-center gap-2 self-start text-sm font-semibold text-primary-700">Selengkapnya <span aria-hidden="true" class="transition-transform group-hover:translate-x-1">→</span></span>
+        </a>
+      ))}
+    </div>
+  </section>
+
+  <!-- Testimoni -->
+  <section class="bg-slate-50 py-16" aria-labelledby="home-testimonials-title">
+    <div class="mx-auto max-w-7xl px-5">
+      <div class="mb-10 text-center">
+        <p class="text-sm font-bold uppercase tracking-widest text-primary-700">Kepuasan Pelanggan</p>
+        <h2 id="home-testimonials-title" class="mt-2 text-3xl font-extrabold tracking-tight text-slate-950">Ulasan Pelanggan</h2>
+      </div>
+      <div class="grid gap-6 md:grid-cols-2">
+        <figure class="rounded-2xl border border-slate-200 bg-white p-8 shadow-sm">
+          <blockquote class="leading-7 text-slate-700">&ldquo;Layanan riksa uji cepat dan laporan lengkap. Tim Cipta Mas Jaya sangat membantu proses kepatuhan K3 kami.&rdquo;</blockquote>
+          <figcaption class="mt-4 text-sm font-semibold text-slate-950">Andi &mdash; Klien Industri</figcaption>
+        </figure>
+        <figure class="rounded-2xl border border-slate-200 bg-white p-8 shadow-sm">
+          <blockquote class="leading-7 text-slate-700">&ldquo;Dedikasi dan profesionalisme terjaga dari pengukuran sampai penerbitan laporan inspeksi.&rdquo;</blockquote>
+          <figcaption class="mt-4 text-sm font-semibold text-slate-950">Klien Korporat</figcaption>
+        </figure>
+      </div>
+    </div>
+  </section>
+
+  <!-- Artikel terbaru -->
+  <LatestArticlesBlock id="home-latest" title="Artikel & Berita Terbaru" limit={6} />
+
+  <!-- CTA -->
+  <CallToAction
+    id="home-cta"
+    title="Butuh informasi lebih lanjut?"
+    description="Tim kami siap membantu kebutuhan Riksa Uji dan inspeksi K3 perusahaan Anda. Konsultasikan sekarang."
+    primaryLabel="Hubungi Kami"
+    primaryHref="/contact/"
+    secondaryLabel="Konsultasi WhatsApp"
+    secondaryHref=""
+    secondaryIsWhatsApp={true}
+  />
+</PageShell>

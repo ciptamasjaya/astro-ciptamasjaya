@@ -1,0 +1,59 @@
+---
+/** Renderer halaman WP generik — dipakai [...path], about, contact, my-account. */
+import PageShell from '../shared/PageShell.astro';
+import Breadcrumbs from '../shared/Breadcrumbs.astro';
+import ArticleSidebar from '../shared/ArticleSidebar.astro';
+import BlockRenderer from '../blocks/BlockRenderer.astro';
+import type { CollectionEntry } from 'astro:content';
+import { render } from 'astro:content';
+import { breadcrumbSchema, serviceSchema } from '../../utils/structured-data';
+
+const { page, service = null, extraSchemas = [] } = Astro.props as {
+  page: CollectionEntry<'pages'>;
+  service?: { title: string; description: string; href: string } | null;
+  extraSchemas?: object[];
+};
+
+const d = page.data;
+const { Content, headings } = await render(page);
+const pathNorm = d.path.replace(/^\/+|\/+$/g, '');
+const crumbs: { label: string; href?: string }[] = pathNorm
+  ? pathNorm.split('/').map((part, i, arr) => ({
+      label: i === arr.length - 1 ? d.title : part.replace(/-/g, ' ').replace(/\b\w/g, (c) => c.toUpperCase()),
+      href: i === arr.length - 1 ? undefined : `/${arr.slice(0, i + 1)}/`,
+    }))
+  : [{ label: d.title }];
+const baseUrl = Astro.site?.toString().replace(/\/$/, '') ?? '';
+const canonical = pathNorm ? `/${pathNorm}/` : '/';
+const schemas: object[] = [
+  breadcrumbSchema([{ label: 'Beranda', href: '/' }, ...crumbs.filter((c) => c.href).map((c) => ({ label: c.label, href: c.href! })), { label: d.title }], baseUrl),
+  ...extraSchemas,
+];
+if (pathNorm.startsWith('layanan')) {
+  schemas.push(serviceSchema({ title: d.title, description: d.description, url: new URL(canonical, baseUrl).toString(), siteName: 'PT. Cipta Mas Jaya' }));
+}
+---
+<PageShell title={`${d.title} | PT. Cipta Mas Jaya`} description={d.description} canonical={canonical} image={d.image}>
+  <Fragment slot="head">
+    {schemas.map((schema) => <script type="application/ld+json" set:html={JSON.stringify(schema)} />)}
+  </Fragment>
+  <div class="mx-auto max-w-7xl px-5 py-12 md:py-16">
+    <Breadcrumbs items={crumbs} />
+    <div class="mt-6 grid grid-cols-12 gap-8">
+      <div class="col-span-12 hidden lg:col-span-3 lg:block">
+        <div class="sticky top-8">
+          <ArticleSidebar headings={headings.filter((h) => h.depth === 2 || h.depth === 3)} service={service} />
+        </div>
+      </div>
+      <div class="col-span-12 lg:col-span-9">
+        <article class="mx-auto max-w-3xl">
+          {d.image && <img src={d.image} alt={d.title} class="w-full rounded-2xl object-cover" loading="eager" />}
+          <h1 class="mt-4 text-4xl font-extrabold leading-tight tracking-tight text-slate-950 md:text-5xl">{d.title}</h1>
+          {d.description && <p class="mt-5 text-xl leading-8 text-slate-600">{d.description}</p>}
+          <div class="prose-content mt-10"><Content /></div>
+          {d.blocks?.length ? <BlockRenderer blocks={d.blocks} pageMetadata={{ title: d.title, description: d.description, image: d.image }} /> : null}
+        </article>
+      </div>
+    </div>
+  </div>
+</PageShell>

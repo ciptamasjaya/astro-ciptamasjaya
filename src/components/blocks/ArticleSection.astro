@@ -1,0 +1,30 @@
+---
+import ArticleH2 from './ArticleH2.astro';
+import ArticleSubsection from './ArticleSubsection.astro';
+
+interface Subsection {
+  title: string;
+  paragraphs: string[];
+}
+interface Props {
+  id: string;
+  index: number;
+  title: string;
+  intro?: string;
+  subsections: Subsection[];
+}
+const { id, index, title, intro, subsections } = Astro.props;
+---
+<section class="article-section" aria-labelledby={`${id}-heading`}>
+  <ArticleH2 id={`${id}-heading`} title={title} index={index} />
+  {intro ? <p class="mb-7 max-w-4xl text-lg leading-8 text-slate-700">{intro}</p> : null}
+  <div class="space-y-8">
+    {subsections.map((subsection, subIndex) => (
+      <ArticleSubsection
+        id={`${id}-subsection-${subIndex + 1}`}
+        title={subsection.title}
+        paragraphs={subsection.paragraphs}
+      />
+    ))}
+  </div>
+</section>
