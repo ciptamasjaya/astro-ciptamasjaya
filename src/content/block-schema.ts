@@ -5,7 +5,7 @@ import { serviceIds } from '../config';
  * Shared contract for content-driven Astro blocks (diadopsi dari jasa-perijinan-csms,
  * disesuaikan untuk ciptamasjaya: tanpa referensi elemen CSMS, plus block `faq`).
  */
-export const contentBlockSchema = z.discriminatedUnion('type', [
+const legacyContentBlockSchema = z.discriminatedUnion('type', [
   z.object({
     id: z.string().min(1),
     type: z.literal('article-body'),
@@ -201,9 +201,34 @@ export const contentBlockSchema = z.discriminatedUnion('type', [
     data: z.object({
       heading: z.string().min(1),
       icon: z.string().optional(),
+      class: z.record(z.string(), z.string()).optional(),
       items: z.array(z.object({ question: z.string().min(1), answer: z.string().min(1) })).min(1),
     }),
   }),
 ]);
+
+/**
+ * Frontmatter accepts both the current `{ id, type, data }` contract and the
+ * component-first contract used by the site's Astro components:
+ *
+ * blocks:
+ *   - component: faq
+ *     id: frequently-asked
+ *     heading: ...
+ *     items: [...]
+ *
+ * Normalize component-first entries at the content boundary so rendering and
+ * structured-data generation continue to use one validated internal shape.
+ * Unknown component names still fail the existing discriminated-union schema.
+ */
+export const contentBlockSchema = z.preprocess((input) => {
+  if (!input || typeof input !== 'object' || Array.isArray(input)) return input;
+
+  const block = input as Record<string, unknown>;
+  if (typeof block.component !== 'string' || 'type' in block) return input;
+
+  const { component, id, ...props } = block;
+  return { id, type: component, data: props };
+}, legacyContentBlockSchema);
 
 export type ContentBlock = z.infer<typeof contentBlockSchema>;
