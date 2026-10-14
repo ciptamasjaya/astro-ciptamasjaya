@@ -38,7 +38,7 @@ const service = getServiceById(d.relatedService);
 const baseUrl = Astro.site?.toString().replace(/\/$/, '') ?? Astro.url.toString().replace(/\/\d{4}\/.*$/, '');
 const blockHeadings = (d.blocks ?? [])
   .filter((block) => block.type === 'section-header')
-  .map((block) => ({ depth: 2, slug: block.id, text: block.data.title }));
+  .map((block) => ({ depth: 2 as const, slug: block.id, text: block.data.title }));
 const toc = [...(headings.length ? headings : renderedHeadings), ...blockHeadings]
   .filter((h) => h.depth === 2 || h.depth === 3);
 const schemas = [
