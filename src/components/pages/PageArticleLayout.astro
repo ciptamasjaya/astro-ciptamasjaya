@@ -3,10 +3,11 @@
  * Layout artikel WP (URL dated): sidebar TOC/layanan/penulis + konten markdown
  * + block opsional + related articles algoritma 3-tier + JSON-LD.
  */
-import PageShell from '../shared/PageShell.astro';
+import ArticleLayout from '../../layouts/ArticleLayout.astro';
 import Breadcrumbs from '../shared/Breadcrumbs.astro';
 import ArticleSidebar from '../shared/ArticleSidebar.astro';
 import RelatedArticles from '../shared/RelatedArticles.astro';
+import LatestArticles from '../blocks/LatestArticles.astro';
 import BlockRenderer from '../blocks/BlockRenderer.astro';
 import { site, getServiceById } from '../../config';
 import { render, type CollectionEntry } from 'astro:content';
@@ -51,8 +52,15 @@ const schemas = [
 ];
 
 const faqItems = (d.blocks ?? []).flatMap((b) => (b.type === 'faq' && b.data.items) ? b.data.items : []);
+const updatedArticles = articles
+  .filter((entry) => !entry.data.draft && entry.data.slug !== d.slug)
+  .sort((a, b) =>
+    (b.data.updatedDate ?? b.data.pubDate).getTime() -
+    (a.data.updatedDate ?? a.data.pubDate).getTime()
+  )
+  .slice(0, 3);
 ---
-<PageShell title={d.title} description={d.description} canonical={postHref} image={d.image}>
+<ArticleLayout title={d.title} description={d.description} canonical={postHref} image={d.image}>
   <Fragment slot="head">
     {schemas.map((schema) => <script type="application/ld+json" set:html={JSON.stringify(schema)} />)}
     {faqItems.length > 0 && <script type="application/ld+json" set:html={JSON.stringify(faqPageSchema(faqItems))} />}
@@ -60,7 +68,7 @@ const faqItems = (d.blocks ?? []).flatMap((b) => (b.type === 'faq' && b.data.ite
   <div class="mx-auto max-w-7xl px-5 py-12 md:py-16">
     <Breadcrumbs items={[{ label: 'Blog', href: '/blog/' }, { label: d.title }]} />
     <div class="article-layout mt-6 grid grid-cols-12 gap-8">
-      <div class="article-layout__sidebar col-span-12 hidden lg:col-span-3 lg:block">
+      <aside class="article-layout__sidebar col-span-12 hidden lg:col-span-3 lg:block" aria-label="Informasi pendukung artikel">
         <div class="sticky top-8">
           <ArticleSidebar
             headings={toc}
@@ -69,7 +77,7 @@ const faqItems = (d.blocks ?? []).flatMap((b) => (b.type === 'faq' && b.data.ite
             category={{ label: categoryLabel, href: categoryHref }}
           />
         </div>
-      </div>
+      </aside>
       <div class="article-layout__main col-span-12 lg:col-span-9">
         <article class="mx-auto max-w-3xl">
           {d.category && <p class="text-sm font-bold uppercase tracking-wider text-blue-700">{categoryLabel}</p>}
@@ -91,7 +99,14 @@ const faqItems = (d.blocks ?? []).flatMap((b) => (b.type === 'faq' && b.data.ite
           )}
         </article>
         <RelatedArticles articles={articles} currentSlug={d.slug} category={d.category} relatedService={d.relatedService} relatedPage={d.relatedPage} />
+        {updatedArticles.length > 0 && (
+          <LatestArticles
+            id="article-updated-content"
+            articles={updatedArticles}
+            title="Artikel Terbaru dan Diperbarui"
+          />
+        )}
       </div>
     </div>
   </div>
-</PageShell>
+</ArticleLayout>
