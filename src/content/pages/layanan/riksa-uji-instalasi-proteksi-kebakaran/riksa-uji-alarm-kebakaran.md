@@ -4,68 +4,96 @@ type: page
 path: layanan/riksa-uji-instalasi-proteksi-kebakaran/riksa-uji-alarm-kebakaran
 custom: false
 title: Riksa Uji Alarm Kebakaran
-description: PROFESSIONAL
+description: >-
+  Pemeriksaan dan pengujian sistem alarm kebakaran untuk menilai kondisi
+  detektor, panel kontrol, perangkat peringatan, catu daya, dan fungsi
+  integrasi sesuai konfigurasi sistem serta ketentuan yang berlaku.
 pubDate: '2024-09-22T06:28:00.000Z'
-updatedDate: '2024-09-22T06:28:02.000Z'
+updatedDate: '2026-10-14T07:00:00Z'
 draft: false
+blocks:
+  - component: article-lead
+    id: pengantar-riksa-uji-alarm-kebakaran
+    label: Pemeriksaan sistem peringatan dini
+    text: >-
+      Sistem alarm kebakaran dirancang untuk mendeteksi indikasi kebakaran dan
+      menyampaikan peringatan agar tindakan darurat dapat dilakukan dengan
+      cepat. Riksa uji menilai kondisi komponen dan fungsi sistem berdasarkan
+      konfigurasi instalasi, dokumen teknis, kondisi lapangan, serta ruang
+      lingkup pemeriksaan yang disepakati.
+  - component: image-gallery
+    id: dokumentasi-alarm-kebakaran
+    title: Dokumentasi alarm kebakaran
+    intro: Contoh perangkat dan kegiatan pemeriksaan sistem alarm kebakaran.
+    layout: editorial
+    items:
+      - src: /wp-content/uploads/2024/08/riksa-uji-k3-alarm-kebakaran-pt-cipta-mas-jaya-001.jpg
+        alt: Dokumentasi pemeriksaan sistem alarm kebakaran.
+        title: Sistem alarm kebakaran
+      - src: /wp-content/uploads/2024/08/riksa-uji-k3-smoke-detector-pt-cipta-mas-jaya-002.jpg
+        alt: Detektor asap pada sistem deteksi kebakaran.
+        title: Detektor asap
+      - src: /wp-content/uploads/2024/09/alarm-Kebakaran-otomatis-pt-cipta-mas-jaya.png
+        alt: Perangkat alarm kebakaran otomatis.
+        title: Alarm otomatis
+      - src: /wp-content/uploads/2024/09/detektor-panas-heat-detector-pt-cipta-mas-jaya.png
+        alt: Detektor panas pada sistem alarm kebakaran.
+        title: Detektor panas
+  - component: section-header
+    id: aspek-pemeriksaan-alarm-kebakaran
+    eyebrow: Cakupan pemeriksaan
+    number: 1
+    title: Aspek penting dalam riksa uji alarm kebakaran
+    description: Pemeriksaan disesuaikan dengan jenis perangkat, desain sistem, dan fungsi yang tersedia di lokasi.
+  - component: feature-card-grid
+    id: komponen-alarm-kebakaran
+    title: Komponen dan fungsi yang diperiksa
+    columns: 2
+    items:
+      - title: Kondisi fisik peralatan
+        description: Memeriksa detektor, panel, kabel, sirene, lampu indikator, dan komponen lain untuk mengidentifikasi kerusakan atau hambatan.
+      - title: Fungsi detektor
+        description: Menguji respons detektor asap atau panas menggunakan metode yang sesuai dengan jenis perangkat dan petunjuk pabrikan.
+      - title: Panel kontrol
+        description: Memeriksa penerimaan sinyal, indikator gangguan, status zona, serta pemrosesan sinyal sesuai rancangan sistem.
+      - title: Perangkat peringatan
+        description: Memastikan sirene dan indikator visual aktif sesuai skenario pengujian serta kebutuhan sistem.
+      - title: Catu daya cadangan
+        description: Memeriksa kondisi sumber daya utama dan baterai cadangan serta indikasi gangguan catu daya.
+      - title: Integrasi sistem
+        description: Jika terhubung dengan perangkat lain, memeriksa fungsi antarmuka sesuai matriks sebab-akibat dan ruang lingkup yang disetujui.
+  - component: section-header
+    id: tahapan-riksa-uji-alarm
+    eyebrow: Alur layanan
+    number: 2
+    title: Tahapan pemeriksaan
+    description: Pelaksanaan mengikuti prosedur kerja aman dan tidak mengganggu fungsi proteksi tanpa pengendalian yang sesuai.
+  - component: numbered-steps
+    id: langkah-riksa-uji-alarm
+    title: Dari persiapan hingga laporan
+    steps:
+      - title: Peninjauan dokumen dan sistem
+        description: Mengidentifikasi tipe panel, perangkat deteksi, zona, sumber daya, gambar instalasi, serta catatan pemeliharaan yang tersedia.
+      - title: Pemeriksaan visual
+        description: Meninjau kondisi pemasangan, kebersihan, indikator, sambungan, label, dan akses terhadap perangkat.
+      - title: Pengujian fungsi
+        description: Menguji detektor, panel, perangkat peringatan, dan integrasi yang termasuk dalam ruang lingkup pekerjaan.
+      - title: Evaluasi hasil
+        description: Mencatat hasil pengujian, indikasi gangguan, serta bagian yang memerlukan tindak lanjut.
+  - component: info-callout
+    id: catatan-riksa-uji-alarm
+    title: Pengujian harus mengikuti desain sistem
+    text: >-
+      Metode aktivasi detektor, kriteria penerimaan, dan pengujian integrasi
+      perlu mengikuti dokumentasi teknis, petunjuk pabrikan, prosedur
+      keselamatan, serta ketentuan yang berlaku. Pengujian tidak boleh
+      menonaktifkan proteksi tanpa pengendalian dan pemulihan yang jelas.
+    variant: info
+  - component: service-cta
+    id: konsultasi-riksa-uji-alarm
+    title: Konsultasikan riksa uji alarm kebakaran
+    description: Sampaikan jenis sistem, lokasi, dan kebutuhan pemeriksaan agar ruang lingkup layanan dapat dikonfirmasi.
+    label: Konsultasi via WhatsApp
+    href: https://wa.me/628568258841
+    note: Dokumen dan persiapan pengujian dikonfirmasi sebelum pelaksanaan.
 ---
-## Riksa Uji Alarm Kebakaran
-
-PROFESSIONAL
-
-Riksa Uji Alarm Kebakaran adalah proses pemeriksaan dan pengujian menyeluruh terhadap sistem alarm kebakaran, termasuk detektor asap, panas, panel kontrol, sirene, dan seluruh komponen yang terkait, guna memastikan bahwa sistem berfungsi secara optimal dan dapat memberikan peringatan dini dalam situasi kebakaran. Uji ini dilakukan secara berkala untuk memastikan bahwa semua elemen sistem bekerja dengan baik dan siap digunakan kapan saja.
-
-Explore Blockart
-
-## **Tujuan Riksa Uji Alaem Kebakaran**
-
-Support the children of Africa just by giving a little and be the savior for them.
-
-**Definisi Riksa Uji Alarm Kebakaran:**  
-Riksa Uji Alarm Kebakaran adalah proses pemeriksaan dan pengujian menyeluruh terhadap sistem alarm kebakaran, termasuk detektor asap, panas, panel kontrol, sirene, dan seluruh komponen yang terkait, guna memastikan bahwa sistem berfungsi secara optimal dan dapat memberikan peringatan dini dalam situasi kebakaran. Uji ini dilakukan secara berkala untuk memastikan bahwa semua elemen sistem bekerja dengan baik dan siap digunakan kapan saja.  
-**Tujuan Riksa Uji Alarm Kebakaran:**  
-Tujuan utama dari Riksa Uji Alarm Kebakaran adalah untuk memastikan bahwa sistem alarm kebakaran dapat mendeteksi tanda-tanda awal kebakaran dan memberikan peringatan yang cepat serta efektif kepada penghuni bangunan. Hal ini bertujuan untuk meminimalkan risiko kerusakan harta benda dan korban jiwa dengan memastikan bahwa sistem selalu dalam kondisi operasional yang optimal, serta mematuhi peraturan keselamatan kebakaran yang berlaku.
-
-![count(title)%](/wp-content/uploads/2024/09/bill-wegener.jpg)
-
-## Aspek Penting dalam Riksa Uji Alarm Kebakaran
-
-Riksa Uji Alarm Kebakaran bertujuan untuk memastikan bahwa sistem alarm kebakaran berfungsi secara optimal dalam mendeteksi dan memberikan peringatan dini terkait kebakaran. Beberapa aspek penting yang harus diperhatikan dalam proses ini meliputi:
-
-1
-
-### Kondisi Fisik Peralatan
-
-Pemeriksaan terhadap detektor, panel alarm, kabel, sirene, dan seluruh komponen fisik untuk memastikan tidak ada kerusakan, keausan, atau hambatan yang dapat mengganggu fungsinya.
-
-2
-
-## Fungsi Detektor
-
-Uji coba terhadap detektor asap, panas, atau gas untuk memastikan detektor bekerja dengan baik dan mampu merespons secara tepat terhadap kondisi kebakaran.
-
-2
-
-## Fungsi Panel Kontrol
-
-Panel kontrol harus diuji untuk memverifikasi apakah sinyal dari detektor diterima dengan benar, dan sistem bisa mengaktifkan alarm atau sirene secara otomatis.
-
-3
-
-## Keandalan Alarm
-
-Sirene dan lampu peringatan harus diuji untuk memastikan bahwa mereka berbunyi dan menyala dengan volume serta intensitas yang cukup untuk memberikan peringatan di seluruh area bangunan.
-
-4
-
-## Ketersediaan Daya Cadangan
-
-Uji coba sumber daya cadangan, seperti baterai atau generator, untuk memastikan bahwa alarm kebakaran tetap berfungsi saat terjadi pemadaman listrik.
-
-4
-
-## Integrasi dengan Sistem Lain
-
-Jika sistem alarm kebakaran terintegrasi dengan sprinkler, pintu darurat, atau sistem lainnya, penting untuk memastikan bahwa semua elemen ini bekerja secara terkoordinasi dalam situasi darurat.
-
-Read More
