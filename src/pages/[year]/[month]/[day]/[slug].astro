@@ -18,10 +18,11 @@ export async function getStaticPaths() {
         day: p2(article.data.pubDate.getUTCDate()),
         slug: article.data.slug,
       },
-      props: { article },
+      // Pass the collection so related and updated-article sections can render.
+      props: { article, articles },
     }));
 }
 
-const { article } = Astro.props;
+const { article, articles } = Astro.props;
 ---
-<PageArticleLayout article={article} />
+<PageArticleLayout article={article} articles={articles} />
