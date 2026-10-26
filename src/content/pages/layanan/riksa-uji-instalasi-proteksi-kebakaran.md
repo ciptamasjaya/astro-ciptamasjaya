@@ -5,10 +5,10 @@ path: layanan/riksa-uji-instalasi-proteksi-kebakaran
 custom: false
 title: Riksa Uji Proteksi Kebakaran
 description: >-
-  Pemeriksaan dan pengujian sistem proteksi kebakaran, termasuk hydrant,
-  sprinkler, alarm, detektor, dan alat pemadam api untuk membantu menilai
-  kesiapan perlindungan kebakaran pada bangunan dan fasilitas kerja sesuai
-  ruang lingkup teknis serta ketentuan yang berlaku.
+  Riksa Uji Instalasi Proteksi Kebakaran adalah proses pemeriksaan dan pengujian
+  secara berkala terhadap seluruh sistem dan perangkat proteksi kebakaran yang
+  terpasang di suatu bangunan atau fasilitas untuk memastikan bahwa semua
+  komponen berfungsi dengan baik dan siap digunakan dalam keadaan darurat.
 pubDate: '2022-03-16T13:26:12.000Z'
 updatedDate: '2026-10-14T11:30:00Z'
 draft: false
@@ -26,7 +26,7 @@ blocks:
   - component: image-panel
     id: dokumentasi-pemeriksaan-detektor-kebakaran
     src: /wp-content/uploads/2024/09/tenaga-ahli-proteksi-kebakaran-pjk3-pt.cipta-mas-jaya-dengan-sertifikat-k3-skp-sedang-riksa-uji-fire-detector-02.jpg
-    alt: Tenaga ahli melakukan pemeriksaan sarana proteksi kebakaran dan perangkat deteksi kebakaran.
+    alt: Tenaga Ahli Proteksi Kebakaran PJK3 PT.Cipta Mas Jaya Dengan Sertifikat PJK3 SKP Sedang Riksa Uji Alarm Kebakaran
   - component: section-header
     id: jenis-sistem-proteksi-kebakaran
     eyebrow: Cakupan pemeriksaan
@@ -93,19 +93,19 @@ blocks:
     layout: grid
     items:
       - src: /wp-content/uploads/2024/09/alarm-kebakaran-fire-alarm-manual-pt-cipta-mas-jaya.png
-        alt: Perangkat alarm kebakaran manual untuk aktivasi peringatan oleh pengguna.
+        alt: Alarm Kebakaran Manual
         title: Alarm manual
       - src: /wp-content/uploads/2024/09/tenaga-ahli-proteksi-kebakaran-pjk3-pt.cipta-mas-jaya-dengan-sertifikat-k3-skp-sedang-riksa-uji-hydrant-08.jpg
-        alt: Tenaga ahli melakukan pemeriksaan instalasi hydrant sebagai bagian dari sistem proteksi kebakaran.
+        alt: Tenaga Ahli Proteksi Kebakaran PJK3 PT.Cipta Mas Jaya Dengan Sertifikat PJK3 SKP Sedang Riksa Uji Alarm Kebakaran
         title: Pemeriksaan hydrant
       - src: /wp-content/uploads/2024/09/detector-asap-smoke-detector-pt-cipta-mas-jaya.png
-        alt: Detektor asap sebagai bagian dari sistem deteksi kebakaran.
+        alt: Detektor Asap
         title: Detektor asap
       - src: /wp-content/uploads/2024/09/alarm-Kebakaran-otomatis-pt-cipta-mas-jaya.png
-        alt: Perangkat alarm kebakaran otomatis yang terhubung dengan sistem deteksi.
+        alt: Alarm Kebakaran Otomatis
         title: Alarm otomatis
       - src: /wp-content/uploads/2024/09/detektor-panas-heat-detector-pt-cipta-mas-jaya.png
-        alt: Detektor panas untuk mendeteksi kondisi temperatur sesuai karakteristik perangkat.
+        alt: Detektor Panas
         title: Detektor panas
   - component: section-header
     id: tahapan-riksa-uji-proteksi-kebakaran

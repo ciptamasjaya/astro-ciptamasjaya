@@ -5,9 +5,10 @@ path: layanan/riksa-uji-instalasi-proteksi-kebakaran/riksa-uji-alarm-kebakaran
 custom: false
 title: Riksa Uji Alarm Kebakaran
 description: >-
-  Pemeriksaan dan pengujian sistem alarm kebakaran untuk menilai kondisi
-  detektor, panel kontrol, perangkat peringatan, catu daya, dan fungsi
-  integrasi sesuai konfigurasi sistem serta ketentuan yang berlaku.
+  Riksa Uji Alarm Kebakaran adalah proses pemeriksaan dan pengujian sistem alarm
+  kebakaran untuk memastikan bahwa semua komponen, termasuk detektor, panel
+  kontrol, dan perangkat peringatan, berfungsi dengan baik dan efektif dalam
+  memberikan peringatan dini saat terjadi kebakaran.
 pubDate: '2024-09-22T06:28:00.000Z'
 updatedDate: '2026-10-14T07:00:00Z'
 draft: false
@@ -28,16 +29,16 @@ blocks:
     layout: editorial
     items:
       - src: /wp-content/uploads/2024/08/riksa-uji-k3-alarm-kebakaran-pt-cipta-mas-jaya-001.jpg
-        alt: Dokumentasi pemeriksaan sistem alarm kebakaran.
+        alt: Riksa Uji Alarm Kebakaran PT. Cipta Mas Jaya
         title: Sistem alarm kebakaran
       - src: /wp-content/uploads/2024/08/riksa-uji-k3-smoke-detector-pt-cipta-mas-jaya-002.jpg
-        alt: Detektor asap pada sistem deteksi kebakaran.
+        alt: Riksa Uji Alarm Kebakaran PT. Cipta Mas Jaya
         title: Detektor asap
       - src: /wp-content/uploads/2024/09/alarm-Kebakaran-otomatis-pt-cipta-mas-jaya.png
-        alt: Perangkat alarm kebakaran otomatis.
+        alt: Riksa Uji Alarm Kebakaran PT. Cipta Mas Jaya
         title: Alarm otomatis
       - src: /wp-content/uploads/2024/09/detektor-panas-heat-detector-pt-cipta-mas-jaya.png
-        alt: Detektor panas pada sistem alarm kebakaran.
+        alt: Riksa Uji Alarm Kebakaran PT. Cipta Mas Jaya
         title: Detektor panas
   - component: section-header
     id: aspek-pemeriksaan-alarm-kebakaran

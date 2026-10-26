@@ -5,10 +5,10 @@ path: layanan/riksa-uji-instalasi-listrik-dan-penyalur-petir
 custom: false
 title: Riksa Uji Instalasi Listrik dan Penyalur Petir
 description: >-
-  Pemeriksaan dan pengujian instalasi listrik serta sistem penyalur petir untuk
-  membantu menilai kondisi teknis, fungsi proteksi, dan aspek keselamatan pada
-  bangunan maupun fasilitas industri sesuai ruang lingkup dan ketentuan yang
-  berlaku.
+  Riksa Uji Instalasi Listrik dan Penyalur Petir adalah proses pemeriksaan dan
+  pengujian menyeluruh yang bertujuan untuk memastikan bahwa sistem kelistrikan
+  dan proteksi petir berfungsi dengan baik, aman, dan sesuai dengan standar
+  keselamatan yang berlaku.
 pubDate: '2024-10-11T04:22:54.000Z'
 updatedDate: '2026-10-14T07:00:00Z'
 draft: false
@@ -27,7 +27,7 @@ blocks:
   - component: image-panel
     id: dokumentasi-riksa-uji-instalasi-listrik
     src: /wp-content/uploads/2024/10/riksa-uji-instalasi-listrik-pt-cipta-mas-jaya-011.jpeg
-    alt: Pemeriksaan instalasi listrik pada fasilitas untuk menilai kondisi panel, penghantar, dan perangkat pengaman.
+    alt: Riksa Uji Instalasi Listrik adalah proses pengujian yang bertujuan untuk memastikan bahwa instalasi listrik di suatu bangunan atau fasilitas beroperasi dengan aman dan sesuai dengan standar keselamatan yang berlaku. Proses ini mencakup pemeriksaan terhadap komponen kelistrikan seperti panel, kabel, dan perangkat pengaman untuk mendeteksi potensi kerusakan atau bahaya.
   - component: section-header
     id: jenis-pemeriksaan-instalasi-listrik
     eyebrow: Cakupan pemeriksaan
@@ -57,7 +57,7 @@ blocks:
   - component: image-panel
     id: dokumentasi-penyalur-petir
     src: /wp-content/uploads/2024/10/instalasi-listrik-dan-penyalur-petir.jpeg
-    alt: Sistem penyalur petir dan pembumian yang perlu diperiksa sebagai bagian dari perlindungan fasilitas terhadap sambaran petir.
+    alt: Riksa Uji Penyalur Petir adalah proses pemeriksaan untuk memastikan bahwa sistem penyalur petir, seperti grounding dan penangkal petir, bekerja efektif dalam melindungi bangunan dan perangkat dari sambaran petir. Proses ini memastikan setiap komponen berfungsi sesuai standar keselamatan.
   - component: section-header
     id: jenis-pemeriksaan-penyalur-petir
     eyebrow: Perlindungan bangunan

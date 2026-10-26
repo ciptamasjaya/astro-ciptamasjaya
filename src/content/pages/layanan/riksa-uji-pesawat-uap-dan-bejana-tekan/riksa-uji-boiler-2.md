@@ -5,9 +5,9 @@ path: layanan/riksa-uji-pesawat-uap-dan-bejana-tekan/riksa-uji-boiler-2
 custom: false
 title: Riksa Uji Boiler
 description: >-
-  Layanan pemeriksaan dan pengujian boiler untuk menilai kondisi struktur,
-  komponen bertekanan, sistem pembakaran, instrumentasi, katup pengaman, dan
-  fungsi keselamatan sesuai karakteristik peralatan serta ketentuan yang berlaku.
+  Riksa uji boiler adalah proses pemeriksaan dan pengujian menyeluruh terhadap
+  boiler untuk memastikan keamanan, efisiensi, dan kepatuhan terhadap standar
+  keselamatan yang berlaku.
 pubDate: '2024-09-21T11:18:12.000Z'
 updatedDate: '2026-10-14T07:00:00Z'
 draft: false
@@ -29,13 +29,13 @@ blocks:
     layout: editorial
     items:
       - src: /wp-content/uploads/2024/09/riksa-uji-k3-boiler-pt-cipta-mas-jaya-002.jpg
-        alt: Dokumentasi boiler pada layanan riksa uji K3.
+        alt: Riksa Uji Boiler
         title: Pemeriksaan boiler
       - src: /wp-content/uploads/2024/10/pemeriksaan-visual-boiler-010.jpg
-        alt: Pemeriksaan visual pada bagian boiler.
+        alt: Riksa Uji Boiler adalah proses pemeriksaan dan pengujian yang dilakukan untuk memastikan boiler bekerja dengan aman dan sesuai standar keselamatan kerja yang berlaku, termasuk ketahanan material dan efisiensi operasional.
         title: Pemeriksaan visual
       - src: /wp-content/uploads/2024/10/pengujian-tekanan-boiler-102.jpg
-        alt: Dokumentasi pengujian tekanan boiler.
+        alt: Riksa Uji Boiler adalah langkah-langkah teknis yang dilakukan untuk mengevaluasi kondisi fisik dan fungsional boiler, terutama pada komponen yang terpapar tekanan dan suhu tinggi.
         title: Pengujian tekanan
   - component: section-header
     id: aspek-pemeriksaan
@@ -66,13 +66,13 @@ blocks:
     layout: grid
     items:
       - src: /wp-content/uploads/2024/10/inspeksi-internal-boiler.jpg
-        alt: Dokumentasi inspeksi internal boiler.
+        alt: Riksa Uji Boiler adalah prosedur evaluasi teknis yang memastikan bahwa semua komponen utama boiler, seperti pipa dan dinding pembakaran, berada dalam kondisi aman dan tidak mengalami penurunan kualitas.
         title: Inspeksi internal
       - src: /wp-content/uploads/2024/10/pemeriksaan-katup-pengaman-boiler02.jpg
-        alt: Pemeriksaan katup pengaman pada boiler.
+        alt: Riksa Uji Boiler adalah prosedur evaluasi teknis yang memastikan bahwa semua komponen utama boiler, seperti pipa dan dinding pembakaran, berada dalam kondisi aman dan tidak mengalami penurunan kualitas.
         title: Katup pengaman
       - src: /wp-content/uploads/2024/10/pengukuran-ketebalan-plat-boiler-01.jpg
-        alt: Pengukuran ketebalan material boiler.
+        alt: Riksa Uji Boiler adalah prosedur evaluasi teknis yang memastikan bahwa semua komponen utama boiler, seperti pipa dan dinding pembakaran, berada dalam kondisi aman dan tidak mengalami penurunan kualitas.
         title: Pengukuran ketebalan
   - component: section-header
     id: tahapan-pemeriksaan

@@ -5,9 +5,10 @@ path: layanan/riksa-uji-lift-dan-eskalator/riksa-uji-lift-penumpang
 custom: false
 title: Riksa Uji Lift Penumpang
 description: >-
-  Pemeriksaan dan pengujian lift penumpang untuk menilai kondisi mekanis,
-  sistem kontrol, pintu, perangkat pengaman, komunikasi darurat, dan fungsi
-  operasional sesuai konfigurasi peralatan serta ketentuan yang berlaku.
+  Riksa Uji Lift Penumpang adalah proses inspeksi dan pengujian menyeluruh
+  terhadap lift yang digunakan untuk mengangkut penumpang. Proses ini bertujuan
+  untuk memastikan bahwa semua komponen lift berfungsi dengan baik dan aman
+  sesuai standar keselamatan yang berlaku.
 pubDate: '2024-09-21T00:28:13.000Z'
 updatedDate: '2026-10-14T07:00:00Z'
 draft: false
@@ -27,10 +28,10 @@ blocks:
     layout: editorial
     items:
       - src: /wp-content/uploads/2024/09/riksa-uji-lift-penumpang-pjk3-riksa-uji-pt.cipta-mas-jaya-005.jpg
-        alt: Lift penumpang pada dokumentasi layanan riksa uji.
+        alt: Riksa Uji Lift Penumpang PT. Cipta Mas Jaya
         title: Lift penumpang
       - src: /wp-content/uploads/2024/09/tenaga-ahli-elevator-eskalator-pjk3-pt.cipta-mas-jaya-dengan-sertifikat-k3-skp-sedang-inspeksi-k3-riksa-uji-lilf-penumpang-050.jpg
-        alt: Tenaga ahli melakukan inspeksi lift penumpang.
+        alt: Tenaga Ahli Elevator Eskalator PJK3 PT.Cipta Mas Jaya Dengan Sertifikat K3 SKP Sedang Inspeksi K3 Riksa Uji Lilf Penumpang
         title: Pemeriksaan lift
   - component: section-header
     id: aspek-riksa-uji-lift-penumpang

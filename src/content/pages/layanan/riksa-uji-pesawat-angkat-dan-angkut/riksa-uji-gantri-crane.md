@@ -5,9 +5,10 @@ path: layanan/riksa-uji-pesawat-angkat-dan-angkut/riksa-uji-gantri-crane
 custom: false
 title: Riksa Uji Gantry Crane
 description: >-
-  Layanan pemeriksaan dan pengujian gantry crane untuk menilai kondisi
-  struktur penyangga, girder, roda, mekanisme pengangkatan, penggerak,
-  pengereman, kontrol, dan perangkat keselamatan sesuai karakteristik alat.
+  Riksa Uji Gantry Crane adalah proses pemeriksaan dan pengujian yang meliputi
+  struktur rangka (girder), rel, roda penggerak, kabel baja, kait pengangkat,
+  sistem pengereman, serta perangkat keselamatan untuk memastikan gantry crane
+  beroperasi dengan aman dan sesuai standar.
 pubDate: '2024-09-22T12:33:39.000Z'
 updatedDate: '2026-10-14T05:00:00Z'
 draft: false
@@ -28,28 +29,28 @@ blocks:
     layout: editorial
     items:
       - src: /wp-content/uploads/2024/09/riksa-uji-gantry-pt-cipta-mas-jaya-001.jpg
-        alt: Dokumentasi gantry crane dari materi layanan.
+        alt: Riksa Uji Gantry Crane
         title: Gantry Crane
       - src: /wp-content/uploads/2024/10/riksa-uji-gantry-crane-01.jpg
-        alt: Dokumentasi struktur crane pada materi layanan.
+        alt: Riksa Uji Gantry Crane
         title: Struktur crane
       - src: /wp-content/uploads/2024/10/riksa-uji-gantry-crane-04.jpg
-        alt: Dokumentasi komponen crane pada materi layanan.
+        alt: Riksa Uji Gantry Crane adalah proses pemeriksaan dan pengujian yang dilakukan untuk memastikan bahwa gantry crane berfungsi dengan aman dan sesuai dengan standar keselamatan yang berlaku.
         title: Komponen crane
       - src: /wp-content/uploads/2024/10/riksa-uji-gantry-crane-02.jpg
-        alt: Dokumentasi tambahan crane pada materi layanan.
+        alt: Riksa Uji Gantry Crane adalah proses inspeksi menyeluruh untuk memastikan bahwa gantry crane bekerja dengan aman dan sesuai dengan peraturan keselamatan yang berlaku.
         title: Pemeriksaan crane
       - src: /wp-content/uploads/2024/09/jib-crane-102.png
-        alt: Gambar pendukung yang tercantum dalam materi sumber lama.
+        alt: Riksa Uji Jib Crane
         title: Dokumentasi pendukung
       - src: /wp-content/uploads/2024/09/jib-crane-103.png
-        alt: Gambar pendukung yang tercantum dalam materi sumber lama.
+        alt: Riksa Uji Jib Crane
         title: Dokumentasi pendukung
       - src: /wp-content/uploads/2024/09/jib-crane-104.png
-        alt: Gambar pendukung yang tercantum dalam materi sumber lama.
+        alt: Riksa Uji Jib Crane
         title: Dokumentasi pendukung
       - src: /wp-content/uploads/2024/09/jib-crane-105.png
-        alt: Gambar pendukung yang tercantum dalam materi sumber lama.
+        alt: Riksa Uji Jib Crane
         title: Dokumentasi pendukung
   - component: section-header
     id: jenis-peralatan

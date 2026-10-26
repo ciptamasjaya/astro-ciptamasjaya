@@ -5,9 +5,10 @@ path: layanan/riksa-uji-pesawat-angkat-dan-angkut/riksa-uji-overhead-crane
 custom: false
 title: Riksa Uji Overhead Crane
 description: >-
-  Layanan pemeriksaan dan pengujian overhead crane untuk menilai kondisi
-  struktur, mekanisme pengangkatan, sistem penggerak, pengereman, kontrol,
-  serta perangkat keselamatan sesuai karakteristik alat dan ketentuan berlaku.
+  Riksa Uji Overhead Crane adalah proses inspeksi dan pengujian menyeluruh
+  terhadap crane yang digunakan untuk mengangkat dan memindahkan beban berat di
+  jalur rel atau balok, untuk memastikan semua komponen berfungsi dengan baik
+  dan aman sesuai standar keselamatan.
 pubDate: '2024-09-21T01:48:32.000Z'
 updatedDate: '2026-10-14T05:00:00Z'
 draft: false
@@ -27,10 +28,10 @@ blocks:
     layout: editorial
     items:
       - src: /wp-content/uploads/2024/09/riksa-uji-k3-overhead-crane-pt-cipta-mas-jaya-004.jpg
-        alt: Dokumentasi overhead crane pada materi layanan riksa uji.
+        alt: Riksa Uji Overhead Crane PT. Cipta Mas Jaya
         title: Overhead Crane
       - src: /wp-content/uploads/2024/09/riksa-uji-k3-papa-overhead-crane-pt-cipta-mas-jaya-052.jpg
-        alt: Dokumentasi tambahan overhead crane dari materi layanan.
+        alt: Riksa Uji Overhead Crane PT. Cipta Mas Jaya
         title: Pemeriksaan peralatan
   - component: section-header
     id: jenis-peralatan

@@ -5,10 +5,10 @@ path: layanan/riksa-uji-pesawat-tenaga-dan-produksi
 custom: false
 title: Riksa Uji Pesawat Tenaga dan Produksi
 description: >-
-  Layanan pemeriksaan dan pengujian K3 untuk mesin tenaga dan peralatan produksi,
-  termasuk tanur, mesin perkakas, motor penggerak, turbin, serta sistem transmisi
-  mekanik. Pemeriksaan membantu mengidentifikasi risiko dan menilai kelayakan
-  peralatan sesuai ruang lingkup serta ketentuan yang berlaku.
+  Riksa Uji Pesawat Tenaga dan Produksi adalah proses penting yang dilakukan
+  untuk memastikan bahwa peralatan seperti turbin, generator, dan mesin produksi
+  beroperasi dengan aman, efisien, dan sesuai dengan standar keselamatan yang
+  ditetapkan.
 pubDate: '2024-10-11T10:15:02.000Z'
 updatedDate: '2026-10-14T06:45:00Z'
 draft: false
@@ -26,7 +26,7 @@ blocks:
   - component: image-panel
     id: dokumentasi-motor-diesel
     src: /wp-content/uploads/2024/10/riksa-uji-pesawat-tenaga-dan-produksi-motor-diesel.jpg
-    alt: Pemeriksaan pesawat tenaga dan produksi, termasuk mesin penggerak dan motor diesel, untuk menilai kondisi teknis serta aspek keselamatan.
+    alt: Riksa Uji Pesawat Tenaga dan Produksi adalah proses pemeriksaan peralatan seperti turbin, generator, dan mesin produksi untuk memastikan kinerja dan keamanannya sesuai standar.
   - component: section-header
     id: jenis-peralatan
     eyebrow: Cakupan pemeriksaan

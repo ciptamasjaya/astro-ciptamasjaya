@@ -5,9 +5,9 @@ path: layanan/riksa-uji-lift-dan-eskalator
 custom: false
 title: Riksa Uji Elevator dan Eskalator
 description: >-
-  Pemeriksaan dan pengujian elevator serta eskalator untuk membantu menilai
-  kondisi mekanis, kelistrikan, perangkat keselamatan, dan fungsi operasional
-  sesuai konfigurasi peralatan serta ketentuan teknis yang berlaku.
+  Riksa Uji Elevator dan Eskalator adalah proses pemeriksaan dan pengujian
+  terhadap sistem elevator dan eskalator untuk memastikan keduanya berfungsi
+  dengan aman, efisien, dan sesuai dengan standar keselamatan yang berlaku.
 pubDate: '2024-09-15T19:51:25.000Z'
 updatedDate: '2026-10-14T12:00:00Z'
 draft: false
@@ -30,10 +30,10 @@ blocks:
     layout: editorial
     items:
       - src: /wp-content/uploads/2024/09/tenaga-ahli-elevator-eskalator-pjk3-pt.cipta-mas-jaya-dengan-sertifikat-k3-skp-sedang-inspeksi-k3-riksa-uji-elevator-lift-018.jpg
-        alt: Tenaga ahli melakukan pemeriksaan elevator sebagai bagian dari riksa uji K3.
+        alt: Tenaga Ahli Elevator dan Eskalator PJK3 PT.Cipta Mas Jaya Dengan Sertifikat PJK3 / SKP Sedang Riksa Uji Eskalator
         title: Pemeriksaan elevator
       - src: /wp-content/uploads/2024/09/tenaga-ahli-elevator-eskalator-pjk3-pt.cipta-mas-jaya-dengan-sertifikat-k3-skp-sedang-inspeksi-k3-riksa-uji-eskalator-lift-049.jpg
-        alt: Tenaga ahli melakukan pemeriksaan eskalator dan komponen keselamatannya.
+        alt: Tenaga Ahli Elevator dan Eskalator PJK3 PT.Cipta Mas Jaya Dengan Sertifikat PJK3 / SKP Sedang Riksa Uji Eskalator
         title: Pemeriksaan eskalator
   - component: section-header
     id: ruang-lingkup-elevator
@@ -65,16 +65,16 @@ blocks:
     layout: grid
     items:
       - src: /wp-content/uploads/2024/09/jasa-inspeksi-k3-lift-penumpang-riksa-uji-pt-cipta-mas-jaya.jpg
-        alt: Lift penumpang yang menjadi salah satu jenis peralatan dalam layanan riksa uji elevator.
+        alt: Jasa Inspeksi K3 Lift Penumpang Riksa Uji PT. Cipta Mas Jaya
         title: Lift penumpang
       - src: /wp-content/uploads/2024/09/jasa-inspeksi-k3-lift-barang-pjk3-riksa-uji-pt-cipta-mas-jaya.jpg
-        alt: Lift barang untuk transportasi muatan dalam fasilitas kerja.
+        alt: Jasa Inspeksi K3 Lift Barang Riksa Uji PT. Cipta Mas Jaya
         title: Lift barang
       - src: /wp-content/uploads/2024/09/jasa-inspeksi-k3-bed-lift-pjk3-riksa-uji-pt-cipta-mas-jaya.jpg
-        alt: Bed lift yang digunakan untuk mendukung transportasi pasien di fasilitas kesehatan.
+        alt: Jasa Inspeksi K3 Bed Lift Riksa Uji PT. Cipta Mas Jaya
         title: Bed lift
       - src: /wp-content/uploads/2024/09/jasa-inspeksi-k3-service-lift-pjk3-riksa-uji-pt-cipta-mas-jaya.jpg
-        alt: Lift servis untuk mendukung pemindahan barang atau peralatan.
+        alt: Jasa Inspeksi K3 Service Lift Riksa Uji PT. Cipta Mas Jaya
         title: Lift service
   - component: section-header
     id: ruang-lingkup-eskalator
@@ -92,16 +92,16 @@ blocks:
     layout: grid
     items:
       - src: /wp-content/uploads/2024/09/riksa-uji-jasa-inspeksi-k3-conventional-escalator-pjk3-riksa-uji-pt-cipta-mas-jaya.png
-        alt: Eskalator konvensional dengan anak tangga bergerak dan handrail.
+        alt: Riksa Uji / Jasa Inspeksi K3 Conventional Escalator PJK3 Riksa Uji PT. Cipta Mas Jaya
         title: Eskalator konvensional
       - src: /wp-content/uploads/2024/09/riksa-uji-jasa-inspeksi-k3-eskalator-spiral-pjk3-riksa-uji-pt-cipta-mas-jaya.png
-        alt: Eskalator dengan jalur melengkung atau spiral sesuai desain instalasi.
+        alt: Riksa Uji / Jasa Inspeksi K3 Eskalator Spiral PJK3 Riksa Uji PT. Cipta Mas Jaya
         title: Eskalator spiral
       - src: /wp-content/uploads/2024/09/riksa-uji-jasa-inspeksi-k3-eskalator-eksterior-pjk3-riksa-uji-pt-cipta-mas-jaya.png
-        alt: Eskalator yang dipasang di area luar ruangan dan perlu mempertimbangkan kondisi lingkungan.
+        alt: Riksa Uji / Jasa Inspeksi K3 Eskalator Eksterior PJK3 Riksa Uji PT. Cipta Mas Jaya
         title: Eskalator eksterior
       - src: /wp-content/uploads/2024/09/riksa-uji-jasa-inspeksi-k3-eskalator-Inclined-moving-walkway-pjk3-riksa-uji-pt-cipta-mas-jaya.png
-        alt: Inclined moving walkway untuk memindahkan pengguna pada jalur miring.
+        alt: Riksa Uji / Jasa Inspeksi K3 Eskalator Inclined Moving Walkway PJK3 Riksa Uji PT. Cipta Mas Jaya
         title: Inclined moving walkway
   - component: section-header
     id: aspek-pemeriksaan-elevator-eskalator

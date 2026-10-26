@@ -5,9 +5,12 @@ path: layanan
 custom: false
 title: Jasa Riksa Uji K3
 description: >-
-  Layanan pemeriksaan dan pengujian peralatan industri, instalasi, serta
-  fasilitas kerja untuk membantu memastikan keselamatan operasional dan
-  pemenuhan standar keselamatan dan kesehatan kerja (K3).
+  Jasa Riksa Uji K3 adalah layanan pemeriksaan dan pengujian menyeluruh
+  terhadap peralatan industri, untuk memastikan bahwa peralatan tersebut aman
+  dan layak digunakan sesuai dengan standar keselamatan dan kesehatan kerja
+  (K3). Layanan ini mencakup inspeksi visual, pengujian teknis, dan pengujian
+  beban untuk mendeteksi kerusakan atau keausan pada komponen, serta untuk
+  memastikan kepatuhan terhadap peraturan yang berlaku.
 pubDate: '2023-04-02T14:19:29.000Z'
 updatedDate: '2026-10-14T10:30:00Z'
 draft: false
@@ -44,21 +47,21 @@ blocks:
     layout: editorial
     items:
       - src: /wp-content/uploads/2024/10/jasa-riksa-uji-k3-pt-cipta-mas-jaya-01.jpg
-        alt: Pemeriksaan dan pengujian peralatan kerja, instalasi, dan fasilitas untuk memenuhi standar K3.
+        alt: Jasa Riksa Uji K3 adalah layanan yang bertujuan untuk melakukan pemeriksaan dan pengujian terhadap peralatan kerja, instalasi, serta fasilitas lainnya guna memastikan bahwa semua sesuai dengan standar keselamatan dan kesehatan kerja (K3) yang berlaku, sehingga dapat mencegah kecelakaan kerja.
         title: Inspeksi peralatan
       - src: /wp-content/uploads/2024/10/jasa-riksa-uji-k3-pt-cipta-mas-jaya-03.jpg
-        alt: Verifikasi teknis mesin, instalasi, dan alat industri untuk mendukung lingkungan kerja yang aman.
+        alt: Jasa Riksa Uji K3 adalah layanan yang menyediakan verifikasi teknis terhadap mesin, instalasi, dan alat-alat industri, memastikan bahwa setiap komponen bekerja sesuai dengan prosedur keselamatan dan mendukung lingkungan kerja yang aman dan produktif.
         title: Verifikasi teknis
       - src: /wp-content/uploads/2024/10/jasa-riksa-uji-k3-pt-cipta-mas-jaya-02.jpeg
-        alt: Pengujian keselamatan alat industri dan fasilitas kerja.
+        alt: Jasa Riksa Uji K3 adalah sebuah layanan yang berfokus pada pengujian dan pemeriksaan keselamatan terhadap alat-alat industri serta fasilitas kerja, bertujuan untuk memastikan keamanan dan kelayakan operasional sesuai dengan standar K3 yang telah ditetapkan.
       - src: /wp-content/uploads/2024/10/jasa-riksa-uji-k3-pt-cipta-mas-jaya-07-scaled.jpg
-        alt: Inspeksi alat dan fasilitas kerja untuk menilai keamanan dan kepatuhan K3.
+        alt: Jasa Riksa Uji K3 adalah layanan inspeksi menyeluruh terhadap alat dan fasilitas kerja untuk menilai tingkat keamanan dan kepatuhannya terhadap peraturan K3 yang berlaku, guna mencegah risiko kecelakaan dan kerugian operasional di tempat kerja.
       - src: /wp-content/uploads/2024/10/jasa-riksa-uji-k3-pt-cipta-mas-jaya-03-1.jpg
-        alt: Pemeriksaan fasilitas kerja untuk meningkatkan keandalan operasional.
+        alt: Jasa Riksa Uji K3 adalah solusi komprehensif untuk memastikan semua peralatan dan fasilitas yang digunakan di tempat kerja telah memenuhi persyaratan keselamatan yang ditetapkan oleh pemerintah dan peraturan K3, sehingga menjaga keamanan para pekerja dan meningkatkan keandalan operasional.
       - src: /wp-content/uploads/2024/10/jasa-riksa-uji-k3-pt-cipta-mas-jaya-05.jpg
-        alt: Inspeksi peralatan dan mesin industri untuk memverifikasi kelayakan operasional.
+        alt: Jasa Riksa Uji K3 adalah bentuk inspeksi yang dilakukan untuk memverifikasi apakah peralatan, instalasi, dan mesin-mesin industri sudah memenuhi syarat keamanan dan layak digunakan dalam operasional sehari-hari.
       - src: /wp-content/uploads/2024/10/jasa-riksa-uji-k3-pt-cipta-mas-jaya-06.jpeg
-        alt: Pemeriksaan kondisi struktural dan operasional peralatan untuk membantu mencegah kecelakaan kerja.
+        alt: Jasa Riksa Uji K3 adalah layanan penting yang dilakukan untuk memastikan bahwa semua perangkat dan fasilitas di lingkungan kerja berada dalam kondisi aman, baik dari segi struktural maupun operasional, demi mencegah terjadinya kecelakaan kerja.
   - component: service-card-grid
     id: kategori-layanan
     title: Temukan layanan riksa uji
@@ -69,42 +72,42 @@ blocks:
         audience: Untuk manufaktur, konstruksi, pelabuhan, dan logistik.
         href: /layanan/riksa-uji-pesawat-angkat-dan-angkut/
         image: /wp-content/uploads/2024/09/tenaga-ahli-pesawat-angkat-dan-angkut-pjk3-pt.cipta-mas-jaya-dengan-sertifikat-pjk3-skp-sedang-riksa-uji-excavator-2.jpg
-        imageAlt: Tenaga ahli PJK3 PT Cipta Mas Jaya melakukan riksa uji excavator.
+        imageAlt: Riksa Uji Pesawat Angkat dan Angkut adalah proses inspeksi dan pengujian yang dilakukan untuk memverifikasi keamanan dan kinerja peralatan angkat dan angkut sesuai dengan standar keselamatan yang berlaku.
         number: '01'
       - title: Riksa Uji Pesawat Uap dan Bejana Tekan
         description: Pemeriksaan boiler, pesawat uap, bejana tekan, dan tangki timbun, termasuk pemeriksaan kondisi fisik dan pengujian teknis.
         audience: Untuk industri yang menggunakan uap, udara tekan, atau penyimpanan bertekanan.
         href: /layanan/riksa-uji-pesawat-uap-dan-bejana-tekan/
         image: /wp-content/uploads/2024/09/tenaga-ahli-pesawat-uap-dan-bejana-tekan-pjk3-pt.cipta-mas-jaya-dengan-sertifikat-k3-skp-sedang-inspeksi-k3-riksa-uji-boiler-21.jpg
-        imageAlt: Tenaga ahli melakukan inspeksi K3 dan riksa uji boiler.
+        imageAlt: Riksa Uji Pesawat Uap dan Bejana Tekan adalah proses pemeriksaan dan pengujian yang dilakukan untuk memastikan bahwa pesawat uap dan bejana tekan, seperti boiler dan tangki tekanan, beroperasi dengan aman sesuai standar keselamatan yang berlaku.
         number: '02'
       - title: Riksa Uji Pesawat Tenaga dan Produksi
         description: Pemeriksaan mesin tenaga dan peralatan produksi, seperti generator, turbin, kompresor, dan mesin industri untuk menjaga operasi yang aman dan andal.
         audience: Untuk pabrik dan fasilitas industri.
         href: /layanan/riksa-uji-pesawat-tenaga-dan-produksi/
         image: /wp-content/uploads/2024/09/tenaga-ahli-pesawat-tenaga-dan-produksi-pjk3-pt.cipta-mas-jaya-dengan-sertifikat-k3-sedang-riksa-uji-chiler-0011.jpg
-        imageAlt: Tenaga ahli melakukan riksa uji pesawat tenaga dan produksi.
+        imageAlt: Riksa Uji Pesawat Tenaga dan Produksi adalah proses pemeriksaan dan pengujian untuk memastikan bahwa pesawat tenaga dan produksi, seperti mesin-mesin industri dan peralatan produksi, berfungsi dengan aman dan efisien sesuai standar keselamatan.
         number: '03'
       - title: Riksa Uji Instalasi Listrik dan Penyalur Petir
         description: Pemeriksaan instalasi listrik, panel, sistem pentanahan, dan penyalur petir untuk mengurangi risiko gangguan listrik serta kerusakan akibat sambaran petir.
         audience: Untuk gedung, pabrik, fasilitas publik, dan kawasan industri.
         href: /layanan/riksa-uji-instalasi-listrik-dan-penyalur-petir/
         image: /wp-content/uploads/2024/10/riksa-uji-instalasi-listrik-pt-cipta-mas-jaya-013.jpeg
-        imageAlt: Pemeriksaan instalasi listrik, kabel, panel distribusi, dan sistem grounding.
+        imageAlt: Riksa Uji Instalasi Listrik adalah serangkaian pemeriksaan dan pengujian yang dilakukan untuk memastikan bahwa instalasi listrik memenuhi standar keselamatan dan berfungsi secara optimal. Pengujian ini mencakup pengecekan terhadap kabel, panel distribusi, grounding system, dan perlengkapan listrik lainnya untuk mengidentifikasi potensi risiko, seperti hubungan arus pendek atau ketidakstabilan sistem kelistrikan.
         number: '04'
       - title: Riksa Uji Sarana Proteksi Kebakaran
         description: Pemeriksaan APAR, hydrant, sprinkler, alarm kebakaran, dan sistem deteksi agar berfungsi baik dan siap digunakan dalam keadaan darurat.
         audience: Untuk bangunan industri, komersial, dan gudang.
         href: /layanan/riksa-uji-instalasi-proteksi-kebakaran/
         image: /wp-content/uploads/2024/09/tenaga-ahli-proteksi-kebakaran-pjk3-pt.cipta-mas-jaya-dengan-sertifikat-k3-skp-sedang-riksa-uji-fire-detector-02.jpg
-        imageAlt: Tenaga ahli melakukan riksa uji sarana proteksi kebakaran dan fire detector.
+        imageAlt: Riksa Uji sarana proteksi kebakaran adalah proses pemeriksaan dan pengujian yang dilakukan untuk memastikan bahwa peralatan proteksi kebakaran, seperti sprinkler, alat pemadam api, dan sistem deteksi kebakaran, berfungsi dengan baik dan sesuai standar keselamatan.
         number: '05'
       - title: Riksa Uji Elevator dan Eskalator
         description: Pemeriksaan sistem penggerak, rem, sensor, perangkat keselamatan, dan mekanisme darurat pada elevator maupun eskalator.
         audience: Untuk mal, rumah sakit, hotel, apartemen, dan gedung perkantoran.
         href: /layanan/riksa-uji-lift-dan-eskalator/
         image: /wp-content/uploads/2024/09/tenaga-ahli-elevator-eskalator-pjk3-pt.cipta-mas-jaya-dengan-sertifikat-k3-skp-sedang-inspeksi-k3-riksa-uji-elevator-lift-047.jpg
-        imageAlt: Tenaga ahli elevator dan eskalator melakukan riksa uji elevator.
+        imageAlt: Tenaga Ahli Elevator dan Eskalator PJK3 PT.Cipta Mas Jaya Dengan Sertifikat PJK3 / SKP Sedang Riksa Uji Elevator
         number: '06'
   - component: content-section
     id: jenis-inspeksi-k3
@@ -135,10 +138,10 @@ blocks:
     layout: grid
     items:
       - src: /wp-content/uploads/2024/09/tenaga-ahli-proteksi-kebakaran-pjk3-pt.cipta-mas-jaya-dengan-sertifikat-k3-skp-sedang-riksa-uji-hydrant-08.jpg
-        alt: Tenaga ahli melakukan pemeriksaan instalasi hydrant.
+        alt: Riksa Uji Instalasi Penyalur Petir adalah proses pemeriksaan dan pengujian teknis terhadap instalasi penyalur petir untuk memastikan bahwa sistem ini berfungsi dengan baik dalam melindungi bangunan dari bahaya sambaran petir. Pengujian ini melibatkan pengecekan komponen seperti kabel penyalur, grounding system, dan alat penangkal petir, guna memastikan bahwa sistem sesuai dengan standar keselamatan yang berlaku.
         title: Instalasi hydrant
       - src: /wp-content/uploads/2024/10/riksa-uji-instalasi-penyalur-petir-pt-cipta-mas-jaya-013.jpeg
-        alt: Pemeriksaan teknis instalasi penyalur petir dan sistem grounding.
+        alt: Riksa Uji Pesawat Angkat dan Angkut adalah proses inspeksi dan pengujian yang dilakukan untuk memverifikasi keamanan dan kinerja peralatan angkat dan angkut sesuai dengan standar keselamatan yang berlaku.
         title: Penyalur petir
   - component: content-section
     id: pjk3-terdekat
@@ -162,27 +165,27 @@ blocks:
     layout: grid
     items:
       - src: /wp-content/uploads/2025/07/pengesahan-gambar-pesawat-angkat-angkut.jpeg
-        alt: Pengesahan gambar pesawat angkat dan angkut untuk memastikan rancangan memenuhi standar keselamatan.
+        alt: Pengesahan gambar pesawat angkat angkut adalah proses verifikasi teknis dan administratif yang dilakukan oleh instansi berwenang, seperti Kementerian Ketenagakerjaan (Kemnaker), untuk memastikan bahwa rancangan alat angkat dan angkut, seperti hoist crane, forklift, atau overhead crane, telah memenuhi standar keselamatan dan ketentuan teknis yang berlaku. Proses ini bertujuan untuk menjamin bahwa alat tersebut aman dioperasikan dan sesuai dengan regulasi K3.
         title: Pesawat angkat dan angkut
         caption: Pemeriksaan rancangan alat angkat dan angkut
       - src: /wp-content/uploads/2025/07/pengesahan-gambar-pesawat-uap-dan-bejana-tekan.jpeg
-        alt: Pengesahan gambar pesawat uap dan bejana tekan untuk memenuhi ketentuan keselamatan.
+        alt: Pengesahan gambar pesawat uap dan bejana tekan adalah proses penilaian dan pengesahan secara resmi terhadap rancangan teknis alat yang bekerja dengan tekanan, seperti boiler dan tangki tekan, oleh instansi yang berwenang seperti Kemnaker. Tujuannya adalah untuk memastikan bahwa desain alat tersebut sesuai dengan standar keselamatan kerja, ketentuan peraturan perundang-undangan, serta layak untuk diproduksi, dipasang, dan dioperasikan.
         title: Pesawat uap dan boiler
         caption: Verifikasi rancangan peralatan bertekanan
       - src: /wp-content/uploads/2025/07/pengesahan-gambar-pesawat-tenaga-dan-produksi.jpeg
-        alt: Pengesahan gambar pesawat tenaga dan produksi untuk memastikan rancangan aman digunakan.
+        alt: Pengesahan gambar pesawat tenaga dan produksi adalah proses verifikasi teknis terhadap rancangan alat-alat produksi yang menggunakan tenaga mekanik, listrik, atau energi lainnya, yang dilakukan oleh instansi berwenang seperti Kementerian Ketenagakerjaan. Tujuan pengesahan ini adalah memastikan bahwa rancangan alat telah memenuhi standar keselamatan kerja dan layak untuk dipasang serta dioperasikan di lingkungan kerja.
         title: Pesawat tenaga dan produksi
         caption: Verifikasi rancangan mesin produksi
       - src: /wp-content/uploads/2025/07/pengesahan-gambar-elevator-01.jpeg
-        alt: Penilaian dan persetujuan rancangan teknis sistem elevator.
+        alt: Pengesahan gambar elevator adalah proses penelaahan dan persetujuan terhadap rancangan teknis sistem elevator oleh instansi yang berwenang, seperti Kementerian Ketenagakerjaan. Proses ini dilakukan untuk memastikan bahwa desain elevator telah memenuhi persyaratan teknis dan standar keselamatan kerja sesuai dengan peraturan perundang-undangan yang berlaku. Pengesahan ini mencakup aspek struktural, mekanis, dan sistem pengaman pada elevator, sehingga alat tersebut aman untuk dipasang dan dioperasikan di lingkungan gedung atau fasilitas kerja.
         title: Elevator
         caption: Penelaahan rancangan teknis dan sistem pengaman
       - src: /wp-content/uploads/2025/07/pengesahan-gambar-bejana-tekan.jpeg
-        alt: Pengesahan gambar bejana tekan untuk memastikan desain memenuhi standar keselamatan.
+        alt: Pengesahan gambar bejana tekanan adalah proses evaluasi dan persetujuan resmi terhadap rancangan teknis bejana tekan, seperti tangki tekanan atau pressure vessel, oleh instansi yang berwenang seperti Kementerian Ketenagakerjaan (Kemnaker). Proses ini bertujuan untuk memastikan bahwa desain alat tersebut telah memenuhi ketentuan teknis, standar keselamatan kerja, serta regulasi perundang-undangan yang berlaku. Pengesahan ini menjadi dasar legal untuk tahap berikutnya, yaitu fabrikasi, pemasangan, dan pengoperasian bejana tekanan di lingkungan kerja.
         title: Bejana tekan
         caption: Evaluasi rancangan pressure vessel
       - src: /wp-content/uploads/2025/07/pengesahan-gambar-eskalator.jpeg
-        alt: Penilaian rancangan teknis eskalator untuk memenuhi standar keselamatan.
+        alt: Pengesahan gambar eskalator adalah proses pemeriksaan dan persetujuan resmi terhadap rancangan teknis sistem eskalator oleh instansi yang berwenang, seperti Kementerian Ketenagakerjaan. Proses ini bertujuan untuk memastikan bahwa desain eskalator telah memenuhi standar keselamatan kerja, ketentuan teknis, serta regulasi yang berlaku sebelum alat tersebut dipasang dan dioperasikan di tempat umum atau fasilitas kerja.
         title: Eskalator
         caption: Penelaahan rancangan sebelum pemasangan
   - component: service-cta

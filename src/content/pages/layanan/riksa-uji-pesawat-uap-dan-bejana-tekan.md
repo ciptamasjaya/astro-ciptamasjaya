@@ -5,9 +5,11 @@ path: layanan/riksa-uji-pesawat-uap-dan-bejana-tekan
 custom: false
 title: Riksa Uji Pesawat Uap dan Bejana Tekan
 description: >-
-  Pemeriksaan dan pengujian pesawat uap, boiler, bejana tekan, serta tangki
-  timbun untuk membantu mengidentifikasi risiko teknis dan memastikan kesiapan
-  peralatan sesuai ketentuan K3 yang berlaku.
+  Riksa Uji Pesawat Uap dan Bejana Tekan adalah proses komprehensif yang
+  melibatkan pemeriksaan dan pengujian menyeluruh terhadap peralatan yang
+  menggunakan uap dan tekanan, seperti boiler, bejana tekan, dan tangki timbun,
+  untuk memastikan keamanan, efisiensi, dan kepatuhan terhadap standar keselamatan
+  yang berlaku.
 pubDate: '2024-09-21T08:19:43.000Z'
 updatedDate: '2026-10-14T06:30:00Z'
 draft: false
@@ -68,13 +70,13 @@ blocks:
     layout: editorial
     items:
       - src: /wp-content/uploads/2024/09/riksa-uji-pesawat-uap-.png
-        alt: Ilustrasi peralatan pesawat uap untuk kebutuhan pemeriksaan K3.
+        alt: Riksa Uji Pesawat Uap
         title: Pesawat uap
       - src: /wp-content/uploads/2024/09/riksa-uji-bejana-tekan.png
-        alt: Ilustrasi bejana tekan yang memerlukan pemeriksaan kondisi dan perangkat keselamatan.
+        alt: Riksa Uji Bejana Tekan
         title: Bejana tekan
       - src: /wp-content/uploads/2024/09/riksa-uji-tangki-timbun.png
-        alt: Ilustrasi tangki timbun untuk penyimpanan cairan di fasilitas industri.
+        alt: Riksa Uji Tangi Timbun
         title: Tangki timbun
   - component: section-header
     id: komponen-pesawat-uap
@@ -131,25 +133,25 @@ blocks:
     layout: grid
     items:
       - src: /wp-content/uploads/2024/09/riksa-uji-boiler.png
-        alt: Boiler pada sistem pembangkit uap yang menjadi objek pemeriksaan teknis.
+        alt: Riksa Uji Boiler adalah serangkaian pemeriksaan dan pengujian yang dilakukan untuk memastikan bahwa sebuah boiler berfungsi dengan aman dan efisien sesuai dengan standar keselamatan yang berlaku. Proses ini mencakup inspeksi visual, pengujian non-destruktif, serta pengujian tekanan dan performa operasional untuk mengidentifikasi potensi kerusakan atau kegagalan yang dapat membahayakan keselamatan pengguna dan lingkungan sekitarnya.
         title: Boiler
       - src: /wp-content/uploads/2024/09/riksa-uji-steam-drum.png
-        alt: Steam drum sebagai bagian dari sistem boiler.
+        alt: Riksa uji steam drum adalah proses pemeriksaan dan pengujian yang bertujuan untuk memastikan keamanan dan kinerja optimal steam drum, komponen penting dalam sistem boiler yang berfungsi sebagai penampung dan pemisah air dan uap. Proses ini mencakup pemeriksaan visual untuk mendeteksi kerusakan fisik seperti retakan atau korosi, pengujian tekanan untuk memastikan ketahanan terhadap tekanan operasi, serta uji ketebalan dinding guna memastikan tidak ada penipisan yang membahayakan kekuatan struktural. Semua langkah ini dilakukan untuk mematuhi standar keselamatan industri dan menjaga efisiensi operasional.
         title: Steam drum
       - src: /wp-content/uploads/2024/09/riksa-uji-superheater.png
-        alt: Superheater untuk pemanasan lanjut uap.
+        alt: Riksa Uji Superheater
         title: Superheater
       - src: /wp-content/uploads/2024/09/riksa-uji-reboiler.png
-        alt: Reboiler sebagai peralatan penukar panas proses industri.
+        alt: Riksa Uji Reboiler
         title: Reboiler
       - src: /wp-content/uploads/2024/09/riksa-uji-steam-turbine.png
-        alt: Steam turbine pada sistem pemanfaatan energi uap.
+        alt: Riksa Uji Steam Turbine
         title: Steam turbine
       - src: /wp-content/uploads/2024/09/riksa-uji-deaerator.png
-        alt: Deaerator untuk mengurangi gas terlarut pada air umpan boiler.
+        alt: Riksa Uji Deaerator
         title: Deaerator
       - src: /wp-content/uploads/2024/09/riksa-uji-condenser.png
-        alt: Condenser yang membantu mengubah uap menjadi cairan kembali.
+        alt: Riksa Uji Condenser
         title: Condenser
   - component: section-header
     id: tahapan-pemeriksaan

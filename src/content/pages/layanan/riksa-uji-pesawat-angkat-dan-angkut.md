@@ -5,10 +5,11 @@ path: layanan/riksa-uji-pesawat-angkat-dan-angkut
 custom: false
 title: Riksa Uji Pesawat Angkat dan Angkut
 description: >-
-  Layanan pemeriksaan dan pengujian K3 untuk crane, hoist, forklift, platform
-  kerja di ketinggian, dan peralatan angkat-angkut lainnya. Pemeriksaan membantu
-  menilai kondisi teknis dan fungsi keselamatan peralatan agar penggunaannya
-  sesuai dengan persyaratan keselamatan yang berlaku.
+  Riksa Uji Pesawat Angkat dan Angkut adalah proses pemeriksaan dan pengujian
+  terhadap peralatan yang digunakan untuk mengangkat dan mengangkut beban, seperti
+  crane, forklift, hoist, dan lift, untuk memastikan bahwa peralatan tersebut
+  aman dan layak digunakan sesuai dengan standar keselamatan dan kesehatan kerja
+  (K3) yang berlaku.
 pubDate: '2024-09-16T12:36:15.000Z'
 updatedDate: '2026-10-14T06:30:00Z'
 draft: false
@@ -30,10 +31,10 @@ blocks:
     layout: editorial
     items:
       - src: /wp-content/uploads/2024/09/riksa-uji-jasa-inspeksi-k3-gantry-pesawat-angkat-angkut-pjk3-riksa-uji-pt-cipta-mas-jaya.png
-        alt: Dokumentasi riksa uji pesawat angkat dan angkut untuk mendukung keselamatan pengoperasian peralatan.
+        alt: Riksa Uji Pesawat Angkat dan Angkut adalah proses pemeriksaan dan pengujian untuk memastikan bahwa peralatan angkat dan angkut, seperti crane dan forklift, beroperasi dengan aman dan sesuai standar keselamatan.
         title: Pemeriksaan peralatan
       - src: /wp-content/uploads/2024/09/riksa-uji-jasa-inspeksi-k3-gantry-pesawat-angkat-dan-angkut-pjk3-riksa-uji-pt-cipta-mas-jaya.png
-        alt: Inspeksi dan pengujian pesawat angkat dan angkut sesuai kebutuhan keselamatan kerja.
+        alt: Riksa Uji Pesawat Angkat dan Angkut adalah proses inspeksi dan pengujian yang dilakukan untuk memverifikasi keamanan dan kinerja peralatan angkat dan angkut sesuai dengan standar keselamatan yang berlaku.
         title: Inspeksi teknis
   - component: section-header
     id: jenis-peralatan
@@ -98,16 +99,16 @@ blocks:
     layout: grid
     items:
       - src: /wp-content/uploads/2024/09/riksa-uji-jasa-inspeksi-k3-overhead-crane-pjk3-riksa-uji-pt-cipta-mas-jaya-.png
-        alt: Overhead crane untuk pemindahan beban di area industri.
+        alt: Riksa uji overhead crane adalah proses inspeksi menyeluruh terhadap crane yang digunakan untuk mengangkat beban berat di industri. Proses ini memastikan semua komponen, termasuk struktur, kabel, dan mekanisme pengangkatan, berfungsi dengan baik dan aman sesuai dengan standar keselamatan. Pemeriksaan dilakukan untuk mencegah potensi kecelakaan dan memastikan kinerja optimal alat angkat.
         title: Overhead Crane
       - src: /wp-content/uploads/2024/09/riksa-uji-jasa-inspeksi-k3-tower-crane-pjk3-riksa-uji-pt-cipta-mas-jaya.png
-        alt: Tower crane pada area konstruksi.
+        alt: Riksa Uji / Jasa Inspeksi K3 Tower Crane PJK3 Riksa Uji PT. Cipta Mas Jaya
         title: Tower Crane
       - src: /wp-content/uploads/2024/09/riksa-uji-jasa-inspeksi-k3-mobile-crane-pjk3-riksa-uji-pt-cipta-mas-jaya.png
-        alt: Mobile crane yang dapat berpindah mengikuti kebutuhan lokasi kerja.
+        alt: Riksa Uji / Jasa Inspeksi K3 Mobile Crane PJK3 Riksa Uji PT. Cipta Mas Jaya
         title: Mobile Crane
       - src: /wp-content/uploads/2024/09/riksa-uji-jasa-inspeksi-k3-gantry-crane-pjk3-riksa-uji-pt-cipta-mas-jaya.png
-        alt: Gantry crane untuk mengangkat dan memindahkan beban.
+        alt: Riksa Uji / Jasa Inspeksi K3 Gantry Crane PJK3 Riksa Uji PT. Cipta Mas Jaya
         title: Gantry Crane
   - component: feature-card-grid
     id: jenis-hoist
@@ -126,13 +127,13 @@ blocks:
     layout: grid
     items:
       - src: /wp-content/uploads/2024/09/riksa-uji-jasa-inspeksi-k3-electric-hoist-pjk3-riksa-uji-pt-cipta-mas-jaya.png
-        alt: Electric hoist yang digunakan untuk mengangkat beban.
+        alt: Riksa Uji / Jasa Inspeksi K3 Electric Hoist PJK3 Riksa Uji PT. Cipta Mas Jaya
         title: Electric Hoist
       - src: /wp-content/uploads/2024/09/riksa-uji-jasa-inspeksi-k3-manual-hoist-pjk3-riksa-uji-pt-cipta-mas-jaya.png
-        alt: Manual hoist untuk mengangkat beban.
+        alt: Riksa Uji / Jasa Inspeksi K3 Manual Hoist PJK3 Riksa Uji PT. Cipta Mas Jaya
         title: Manual Hoist
       - src: /wp-content/uploads/2024/09/riksa-uji-jasa-inspeksi-k3-chain-hoist-pjk3-riksa-uji-pt-cipta-mas-jaya.png
-        alt: Chain hoist dengan mekanisme rantai.
+        alt: Riksa Uji / Jasa Inspeksi K3 Chain Hoist PJK3 Riksa Uji PT. Cipta Mas Jaya
         title: Chain Hoist
   - component: feature-card-grid
     id: jenis-forklift
@@ -151,13 +152,13 @@ blocks:
     layout: grid
     items:
       - src: /wp-content/uploads/2024/09/riksa-uji-jasa-inspeksi-k3-counterbalance-forklift-pjk3-riksa-uji-pt-cipta-mas-jaya.png
-        alt: Counterbalance forklift untuk memindahkan material.
+        alt: Riksa Uji / Jasa Inspeksi K3 Counterbalance Forklift PJK3 Riksa Uji PT. Cipta Mas Jaya
         title: Counterbalance Forklift
       - src: /wp-content/uploads/2024/09/riksa-uji-jasa-inspeksi-k3-reach-truck-pjk3-riksa-uji-pt-cipta-mas-jaya.png
-        alt: Reach truck untuk penanganan barang di gudang.
+        alt: Riksa Uji / Jasa Inspeksi K3 Reach Truck PJK3 Riksa Uji PT. Cipta Mas Jaya
         title: Reach Truck
       - src: /wp-content/uploads/2024/09/riksa-uji-jasa-inspeksi-k3-telehandler-pjk3-riksa-uji-pt-cipta-mas-jaya.png
-        alt: Telehandler dengan lengan teleskopik untuk pemindahan material.
+        alt: Riksa Uji / Jasa Inspeksi K3 Telehandler PJK3 Riksa Uji PT. Cipta Mas Jaya
         title: Telehandler
   - component: content-card
     id: aerial-work-platform
@@ -176,10 +177,10 @@ blocks:
     layout: grid
     items:
       - src: /wp-content/uploads/2024/09/riksa-uji-jasa-inspeksi-k3-articulating-boom-lift-pjk3-riksa-uji-pt-cipta-mas-jaya.png
-        alt: Articulating boom lift dengan lengan bersendi untuk akses kerja di ketinggian.
+        alt: Riksa Uji / Jasa Inspeksi K3 Articulating Boom Lift PJK3 Riksa Uji PT. Cipta Mas Jaya
         title: Articulating Boom Lift
       - src: /wp-content/uploads/2024/09/riksa-uji-jasa-inspeksi-k3-telescopic-boom-lift-pjk3-riksa-uji-pt-cipta-mas-jaya.png
-        alt: Telescopic boom lift untuk menjangkau area kerja tinggi.
+        alt: Riksa Uji / Jasa Inspeksi K3 Telescopic Boom Lift PJK3 Riksa Uji PT. Cipta Mas Jaya
         title: Telescopic Boom Lift
   - component: section-header
     id: dasar-hukum

@@ -5,9 +5,9 @@ path: layanan/riksa-uji-instalasi-proteksi-kebakaran/riksa-uji-instalasi-hydrant
 custom: false
 title: Riksa Uji Instalasi Hydrant
 description: >-
-  Pemeriksaan dan pengujian instalasi hydrant untuk menilai kondisi jaringan
-  pipa, valve, sambungan, pompa, tekanan, debit, dan kesiapan operasional
-  sistem proteksi kebakaran sesuai desain serta ketentuan yang berlaku.
+  Riksa Uji Instalasi Hydrant merupakan proses pemeriksaan dan pengujian hydrant
+  secara berkala yang bertujuan memastikan sistem hydrant berfungsi secara optimal
+  dan siap digunakan dalam keadaan darurat kebakaran.
 pubDate: '2024-09-22T05:46:44.000Z'
 updatedDate: '2026-10-14T07:00:00Z'
 draft: false
@@ -28,13 +28,13 @@ blocks:
     layout: editorial
     items:
       - src: /wp-content/uploads/2024/09/riksa-uji-instalasi-hydrant-pt-cipta-mas-jaya-032.jpg
-        alt: Instalasi hydrant pada fasilitas kerja.
+        alt: Riksa Uji Instalasi Hydrant
         title: Instalasi hydrant
       - src: /wp-content/uploads/2024/10/standar-inspeksi-hydrant.jpg
-        alt: Materi visual standar inspeksi hydrant.
+        alt: Standar inspeksi hydrant adalah pedoman yang digunakan untuk melakukan pemeriksaan rutin pada sistem hydrant guna memastikan semua komponen berfungsi dengan baik dan memenuhi syarat keselamatan. Standar ini mencakup pengecekan fisik hydrant, kondisi valve, kebersihan dan kelancaran aliran air, serta kelengkapan alat pemadam terkait, sehingga sistem siap digunakan dalam keadaan darurat.
         title: Inspeksi hydrant
       - src: /wp-content/uploads/2024/10/standar-pengujian-hydrant-01.jpg
-        alt: Materi visual standar pengujian hydrant.
+        alt: Standar pengujian hydrant adalah pedoman teknis yang digunakan untuk memastikan bahwa sistem hydrant berfungsi dengan baik dan dapat diandalkan dalam situasi darurat. Standar ini mencakup prosedur pemeriksaan tekanan air, kondisi fisik jaringan pipa, dan fungsi komponen seperti valve dan nozzle. Dengan standar pengujian ini, sistem hydrant diharapkan selalu siap digunakan untuk melindungi fasilitas dan keselamatan di area kerja.
         title: Pengujian hydrant
   - component: section-header
     id: tujuan-riksa-uji-hydrant

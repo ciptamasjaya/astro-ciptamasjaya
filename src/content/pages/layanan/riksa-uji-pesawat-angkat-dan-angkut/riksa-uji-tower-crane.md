@@ -5,9 +5,10 @@ path: layanan/riksa-uji-pesawat-angkat-dan-angkut/riksa-uji-tower-crane
 custom: false
 title: Riksa Uji Tower Crane
 description: >-
-  Layanan pemeriksaan dan pengujian tower crane untuk menilai kondisi mast,
-  boom atau jib, sambungan, sistem penggerak, pengangkatan, pengereman,
-  kontrol, stabilitas, dan perangkat keselamatan sesuai karakteristik alat.
+  Riksa Uji Tower Crane adalah proses pemeriksaan dan pengujian teknis yang
+  bertujuan untuk memastikan bahwa tower crane beroperasi dengan aman dan sesuai
+  dengan standar keselamatan yang berlaku, termasuk pemeriksaan struktur,
+  mekanisme pengangkatan, dan perangkat pengaman.
 pubDate: '2024-10-07T21:14:57.000Z'
 updatedDate: '2026-10-14T05:00:00Z'
 draft: false
