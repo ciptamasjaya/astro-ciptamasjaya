@@ -4,10 +4,9 @@ type: article
 slug: dasar-hukum-pengesahan-gambar-bejana-tekan-dan-tangki-timbun
 title: Dasar Hukum Pengesahan Gambar Bejana Tekan dan Tangki Timbun
 description: >-
-  Dasar Hukum Pengesahan Gambar Tangki Timbun mengacu pada Peraturan Menteri
-  Ketenagakerjaan Republik Indonesia Nomor 37 Tahun 2016 Tentang Keselamatan Dan
-  Kesehatan Kerja Bejana Tekanan Dan Tangki Timbun. Pengesahan gambar bejana
-  tekan dan tangki timbun merupakan bagian penting dalam penerapan...
+  Dasar Hukum Pengesahan Gambar Tangki Timbun mengacu pada Peraturan
+  Menteri Ketenagakerjaan Republik Indonesia Nomor 37 Tahun 2016 Tentang
+  Keselamatan Dan
 pubDate: '2025-07-18T18:49:53.000Z'
 updatedDate: '2026-09-22T01:02:12.000Z'
 author: admin
@@ -26,6 +25,7 @@ tags:
 image: >-
   /wp-content/uploads/2025/07/dasar-hukum-pengesahan-gambar-bejana-tekan-dan-tangki-timbun.png
 draft: false
+imageAlt: Dasar Hukum Pengesahan Gambar Bejana Tekan dan Tangki Timbun adalah permenaker Nomor 37 Tahun 2016
 ---
 Dasar Hukum Pengesahan Gambar Tangki Timbun mengacu pada **Peraturan Menteri Ketenagakerjaan Republik Indonesia Nomor 37 Tahun 2016 Tentang Keselamatan Dan Kesehatan Kerja Bejana Tekanan Dan Tangki Timbun**.
 

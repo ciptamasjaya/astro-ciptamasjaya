@@ -86,7 +86,7 @@ export function faqPageSchema(items: { question: string; answer: string }[]) {
 }
 
 /** Article — schema artikel; author = nama penulis (fallback "Tim Redaksi"). */
-export function articleSchema({ title, description, pubDate, updatedDate, image, url, authorName, siteName }: {
+export function articleSchema({ title, description, pubDate, updatedDate, image, url, authorName, siteName, imageAlt }: {
   title: string;
   description: string;
   pubDate: Date;
@@ -95,13 +95,17 @@ export function articleSchema({ title, description, pubDate, updatedDate, image,
   url: string;
   authorName?: string;
   siteName: string;
+  imageAlt?: string;
 }) {
   return {
     '@context': 'https://schema.org',
     '@type': 'Article',
     headline: title,
     description,
-    ...(image ? { image: new URL(image, url).toString() } : {}),
+    ...(image ? { 
+      image: new URL(image, url).toString(),
+      ...(imageAlt ? { caption: imageAlt } : {}),
+    } : {}),
     datePublished: pubDate.toISOString(),
     dateModified: (updatedDate ?? pubDate).toISOString(),
     author: { '@type': 'Person', name: authorName || 'Tim Redaksi' },

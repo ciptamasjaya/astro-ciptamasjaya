@@ -4,10 +4,8 @@ type: article
 slug: apa-saja-jenis-inspeksi-k3
 title: 'Apa Saja Jenis Inspeksi K3?: Inspeksi Terencana dan Inspeksi Tidak Terencana'
 description: >-
-  Secara umum terdapat dua jenis inspeksi K3 sesuai dengan waktu pemeriksaannya,
-  yakni inspeksi terencana dan tidak terencana : 1. Inspeksi Terencana Inspeksi
-  Terencana dan Tidak Terencana adalah dua pendekatan dalam melakukan
-  pemeriksaan dan evaluasi pada berbagai aspek operasional, terutama di...
+  Secara umum terdapat dua jenis inspeksi K3 sesuai dengan waktu
+  pemeriksaannya, yakni inspeksi terencana dan tidak terencana :
 pubDate: '2023-04-12T11:54:10.000Z'
 updatedDate: '2026-08-26T01:00:03.000Z'
 author: admin
@@ -15,6 +13,7 @@ category: tanya-jawab
 tags: []
 image: /wp-content/uploads/2023/04/pt-cipta-mas-jaya-apa-saja-jenis-inspeksi-k3.jpg
 draft: false
+imageAlt: Apa saja jenis Inspeksi K3
 ---
 Secara umum terdapat dua jenis inspeksi K3 sesuai dengan waktu pemeriksaannya, yakni inspeksi terencana dan tidak terencana :
 

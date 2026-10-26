@@ -33,6 +33,8 @@ const articles = defineCollection({
     tags: z.array(z.string()).default([]),
     relatedService: z.number().int().positive().optional(),
     relatedPage: z.number().int().positive().optional(),
+    /** Alt text untuk gambar utama (og:image:alt) — salinan persis dari WordPress asli. */
+    imageAlt: z.string().optional(),
     blocks: z.array(contentBlockSchema).optional(),
   }),
 });

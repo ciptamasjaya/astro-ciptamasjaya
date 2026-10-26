@@ -4,10 +4,8 @@ type: article
 slug: jasa-inspeksi-alarm-kebakaran
 title: Inspeksi Alarm Kebakaran
 description: >-
-  Riksa uji alarm kebakaran adalah proses kritis yang bertujuan untuk memastikan
-  bahwa sistem alarm kebakaran di sebuah bangunan berfungsi dengan baik dan
-  dapat memberikan peringatan dini ketika terjadi kebakaran. Alarm kebakaran
-  merupakan salah satu elemen penting dalam sistem keselamatan...
+  Inspeksi alarm kebakaran adalah proses kritis yang bertujuan untuk
+  memastikan bahwa sistem alarm kebakaran bekerja dengan baik.
 pubDate: '2024-08-27T15:26:14.000Z'
 updatedDate: '2026-09-07T01:00:09.000Z'
 author: Editor
@@ -24,6 +22,7 @@ tags:
 image: >-
   /wp-content/uploads/2024/08/riksa-uji-k3-alarm-kebakaran-pt-cipta-mas-jaya-001.png
 draft: false
+imageAlt: Riksa uji alarm kebakaran adalah proses evaluasi dan pengujian sistem alarm kebakaran untuk memastikan bahwa perangkat tersebut berfungsi dengan baik dan dapat memberikan peringatan yang efektif dalam situasi darurat. Proses ini mencakup pemeriksaan komponen seperti detektor asap, panel kontrol, dan sirene untuk memastikan bahwa semuanya beroperasi sesuai spesifikasi.
 ---
 [Riksa uji alarm kebakaran](/2022/02/25/riksa-uji-instalasi-proteksi-kebakaran/) adalah proses kritis yang bertujuan untuk memastikan bahwa sistem alarm kebakaran di sebuah bangunan berfungsi dengan baik dan dapat memberikan peringatan dini ketika terjadi kebakaran. Alarm kebakaran merupakan salah satu elemen penting dalam sistem keselamatan bangunan karena dapat menyelamatkan nyawa dan mengurangi kerugian materi. Melakukan inspeksi dan riksa uji secara berkala pada sistem alarm kebakaran sangat penting untuk menjamin efektivitasnya.
 

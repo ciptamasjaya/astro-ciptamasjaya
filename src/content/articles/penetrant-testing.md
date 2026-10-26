@@ -6,8 +6,7 @@ title: Pengujian Penetran (Penetrant Testing)
 description: >-
   Pengujian Penetran (Penetrant Testing), atau biasa dikenal sebagai Dye
   Penetrant Testing (DPT), adalah metode pemeriksaan non-destruktif yang
-  digunakan untuk mengidentifikasi cacat permukaan seperti retak, porositas,
-  atau cacat las yang terbuka ke permukaan. Teknik ini tidak merusak komponen...
+  digunakan untuk
 pubDate: '2025-06-04T02:07:21.000Z'
 updatedDate: '2026-09-26T01:01:09.000Z'
 author: admin
@@ -23,6 +22,7 @@ tags:
   - Riksa Uji K3
 image: /wp-content/uploads/2025/06/penetrant-testing.jpg
 draft: false
+imageAlt: Pengujian Penetran/Penetrant Testing adalah salah satu metode pengujian non-destruktif (Non-Destructive Testing/NDT) yang digunakan untuk mendeteksi cacat atau ketidaksempurnaan pada permukaan material. Teknik ini bekerja dengan memanfaatkan cairan penetran yang meresap ke dalam celah atau retakan terbuka di permukaan, kemudian ditarik keluar oleh developer untuk membentuk indikasi visual. Penetrant Testing efektif untuk mengidentifikasi cacat seperti retakan, pori terbuka, atau goresan yang tidak terlihat oleh mata telanjang.
 ---
 Pengujian Penetran (Penetrant Testing), atau biasa dikenal sebagai Dye Penetrant Testing (DPT), adalah metode **[pemeriksaan non-destruktif](/2025/06/04/non-destructive-testing/)** yang digunakan untuk mengidentifikasi cacat permukaan seperti retak, porositas, atau cacat las yang terbuka ke permukaan. Teknik ini tidak merusak komponen yang diperiksa, sehingga ideal untuk digunakan dalam inspeksi berkala tanpa membahayakan integritas struktural material.
 

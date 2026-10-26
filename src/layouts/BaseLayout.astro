@@ -5,6 +5,7 @@ const {
   description = 'PT. Cipta Mas Jaya menyediakan layanan Riksa Uji dan inspeksi K3 untuk mendukung keselamatan operasional perusahaan.',
   canonical,
   image = '/images/og-default.svg',
+  imageAlt,
 } = Astro.props;
 const siteUrl = Astro.site?.toString().replace(/\/$/, '') ?? '';
 const canonicalUrl = canonical ? new URL(canonical, siteUrl || Astro.url).toString() : Astro.url.toString();
@@ -25,10 +26,12 @@ const imageUrl = image.startsWith('http') ? image : new URL(image, siteUrl || As
     <meta property="og:description" content={description} />
     <meta property="og:url" content={canonicalUrl} />
     <meta property="og:image" content={imageUrl} />
+    {imageAlt && <meta property="og:image:alt" content={imageAlt} />}
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content={title} />
     <meta name="twitter:description" content={description} />
     <meta name="twitter:image" content={imageUrl} />
+    {imageAlt && <meta name="twitter:image:alt" content={imageAlt} />}
     <slot name="head" />
   </head>
   <body class="min-h-screen bg-white text-slate-800 antialiased">

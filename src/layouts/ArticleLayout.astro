@@ -52,6 +52,7 @@ const schemas = [
     url: new URL(postHref, baseUrl).toString(),
     authorName: authorName ?? d.author,
     siteName: site.name,
+    imageAlt: d.imageAlt,
   }),
   breadcrumbSchema([{ label: 'Beranda', href: '/' }, { label: 'Blog', href: '/blog/' }, { label: d.title }], baseUrl),
 ];
@@ -65,7 +66,7 @@ const updatedArticles = articles
   )
   .slice(0, 3);
 ---
-<PageLayout title={d.title} description={d.description} canonical={postHref} image={d.image}>
+<PageLayout title={d.title} description={d.description} canonical={postHref} image={d.image} imageAlt={d.imageAlt}>
   <Fragment slot="head">
     {schemas.map((schema) => <script type="application/ld+json" set:html={JSON.stringify(schema)} />)}
     {faqItems.length > 0 && <script type="application/ld+json" set:html={JSON.stringify(faqPageSchema(faqItems))} />}

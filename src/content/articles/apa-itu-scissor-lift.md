@@ -4,9 +4,9 @@ type: article
 slug: apa-itu-scissor-lift
 title: Apa Itu Scissor Lift
 description: >-
-  Scissor lift adalah alat angkat dengan mekanisme batang bersilangan seperti
-  gunting untuk menaikkan platform kerja. Artikel ini membahas fungsi, jenis,
-  pemeriksaan keselamatan, dan riksa uji scissor lift.
+  Scissor lift adalah alat yang digunakan untuk mengangkat orang dan material
+  ke ketinggian tertentu. Alat ini memiliki mekanisme pengangkatan yang mirip
+  dengan
 pubDate: '2025-05-30T15:51:06.000Z'
 updatedDate: '2026-10-14T05:00:00Z'
 author: admin
@@ -22,6 +22,7 @@ tags:
   - Riksa Uji K3
 image: /wp-content/uploads/2024/09/jenis-jenis-scissor-lift-02.jpg
 draft: false
+imageAlt: Beragam jenis scissor lift tersedia untuk kebutuhan spesifik, mulai dari penggunaan indoor yang senyap hingga penggunaan outdoor di medan berat.
 blocks:
   - component: article-lead
     id: pengertian-scissor-lift
