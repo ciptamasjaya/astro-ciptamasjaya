@@ -5,9 +5,7 @@ slug: forklift-pesawat-angkat-angkut
 title: 10 Jenis Forklift yang Banyak Digunakan
 description: >-
   Forklift merupakan salah satu dari jenis Pesawat Angkat Angkut Berikut adalah
-  10 jenis forklift yang umum digunakan dalam berbagai industri: 10 Jenis
-  Forklift yang Banyak Digunakan Masing-masing jenis forklift ini dirancang
-  untuk memenuhi kebutuhan pesawat angkat angkut yang lebih spesifik dari...
+  10 jenis forklift yang umum digunakan dalam berbagai industri:
 pubDate: '2024-09-06T07:46:23.000Z'
 updatedDate: '2026-09-18T01:01:28.000Z'
 author: admin
@@ -17,6 +15,7 @@ tags:
   - Riksa Uji
   - Riksa Uji Forklift
 draft: false
+imageAlt: Pesawat Angkat Angkut Forklift PT. Cipta Mas Jaya
 ---
 Forklift merupakan salah satu dari jenis Pesawat Angkat Angkut Berikut adalah 10 jenis forklift yang umum digunakan dalam berbagai industri:
 

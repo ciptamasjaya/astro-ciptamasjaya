@@ -6,8 +6,6 @@ title: PJK3
 description: >-
   Menurut Peraturan Menteri Tenaga Kerja Republik Indonesia Nomor 4 Tahun 1995,
   Perusahaan Jasa Keselamatan dan Kesehatan Kerja (PJK3) adalah perusahaan yang
-  bergerak di bidang jasa Keselamatan dan Kesehatan Kerja (K3), yang bertujuan
-  untuk membantu perusahaan dalam memenuhi syarat-syarat K3...
 pubDate: '2024-10-22T03:14:16.000Z'
 updatedDate: '2026-09-23T01:00:43.000Z'
 author: admin
@@ -24,6 +22,12 @@ tags:
   - Riksa Uji K3
 image: /wp-content/uploads/2024/10/pjk3-pt-cipta-mas-jaya-02-scaled.jpeg
 draft: false
+imageAlt: >-
+  PJK3 adalah Perusahaan Jasa Keselamatan dan Kesehatan Kerja yang menyediakan
+  layanan profesional untuk membantu perusahaan memenuhi persyaratan keselamatan
+  dan kesehatan kerja sesuai dengan peraturan perundang-undangan yang berlaku.
+  PJK3 memastikan bahwa setiap tempat kerja menerapkan standar K3 guna
+  melindungi karyawan dari potensi bahaya dan risiko kecelakaan kerja.
 ---
 Menurut **Peraturan Menteri Tenaga Kerja Republik Indonesia Nomor 4 Tahun 1995**, **Perusahaan Jasa Keselamatan dan Kesehatan Kerja (PJK3)** adalah perusahaan yang bergerak di bidang jasa Keselamatan dan Kesehatan Kerja (K3), yang bertujuan untuk membantu perusahaan dalam memenuhi syarat-syarat K3 sesuai dengan peraturan perundang-undangan yang berlaku. PJK3 berperan penting dalam memastikan bahwa setiap tempat kerja mematuhi standar keselamatan dan kesehatan yang ditetapkan oleh pemerintah, melalui penyediaan layanan seperti audit keselamatan, pelatihan K3, pemantauan risiko, serta konsultasi terkait penerapan K3. Dengan layanan PJK3, perusahaan dapat menciptakan lingkungan kerja yang aman, meminimalisir risiko kecelakaan, dan meningkatkan kesejahteraan karyawan.
 

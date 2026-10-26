@@ -4,10 +4,8 @@ type: article
 slug: inspeksi-smoke-detector
 title: Inspeksi Smoke Detector
 description: >-
-  Riksa Uji Smoke Detector adalah proses pemeriksaan dan pengujian terhadap
-  detektor asap untuk memastikan bahwa perangkat tersebut berfungsi dengan baik
-  dan mampu mendeteksi asap secara efektif dalam kondisi darurat kebakaran.
-  Riksa uji ini meliputi pengecekan kondisi fisik detektor, pengujian...
+  Smoke detector di inspeksi untuk memastikan bahwa alat ini dapat mendeteksi
+  asap dengan cepat dan memberikan peringatan dini kebakaran.
 pubDate: '2024-08-27T15:32:04.000Z'
 updatedDate: '2026-10-11T01:00:06.000Z'
 author: Editor
@@ -23,6 +21,7 @@ tags:
 image: >-
   /wp-content/uploads/2024/08/riksa-uji-k3-smoke-detector-pt-cipta-mas-jaya-001.png
 draft: false
+imageAlt: riksa-uji-k3-smoke-detector-pt-cipta-mas-jaya-001
 ---
 **Riksa Uji Smoke Detector** adalah proses pemeriksaan dan pengujian terhadap detektor asap untuk memastikan bahwa perangkat tersebut berfungsi dengan baik dan mampu mendeteksi asap secara efektif dalam kondisi darurat kebakaran. Riksa uji ini meliputi pengecekan kondisi fisik detektor, pengujian sensor asap, serta verifikasi sistem alarm yang terhubung untuk memastikan sinyal peringatan kebakaran dapat bekerja dengan cepat dan akurat.
 

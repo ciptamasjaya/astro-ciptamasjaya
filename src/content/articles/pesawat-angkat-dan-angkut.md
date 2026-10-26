@@ -6,8 +6,7 @@ title: Pesawat Angkat dan Angkut
 description: >-
   Pesawat angkat dan angkut adalah peralatan mekanik yang dirancang untuk
   memindahkan atau mengangkat beban berat dari satu tempat ke tempat lain, baik
-  secara vertikal maupun horizontal. Peralatan ini memiliki peran penting dalam
-  berbagai sektor industri, termasuk konstruksi, manufaktur...
+  secara
 pubDate: '2024-10-19T22:12:19.000Z'
 updatedDate: '2026-09-29T01:00:23.000Z'
 author: admin
@@ -18,6 +17,10 @@ tags:
 image: >-
   /wp-content/uploads/2024/10/riksa-uji-riksa-uji-pesawat-angkat-angkut-forfklift-sumitomo-type-8fb25-seri-b2k-02134-03.jpg
 draft: false
+imageAlt: >-
+  Riksa Uji Pesawat Angkat Angkut adalah pemeriksaan dan pengujian yang wajib
+  dilakukan untuk memastikan bahwa alat-alat yang digunakan dalam mengangkat dan
+  mengangkut beban sesuai dengan standar keselamatan kerja.
 ---
 Pesawat angkat dan angkut adalah peralatan mekanik yang dirancang untuk memindahkan atau mengangkat beban berat dari satu tempat ke tempat lain, baik secara vertikal maupun horizontal. Peralatan ini memiliki peran penting dalam berbagai sektor industri, termasuk konstruksi, manufaktur, pelabuhan, dan logistik, di mana efisiensi dalam memindahkan barang atau material berkontribusi langsung terhadap produktivitas dan keselamatan operasional.
 

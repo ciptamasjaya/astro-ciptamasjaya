@@ -6,8 +6,6 @@ title: Riksa Uji Switchgear
 description: >-
   Riksa uji switchgear pada instalasi listrik adalah prosedur penting yang
   dilakukan untuk memastikan bahwa perangkat pengendali dan proteksi listrik ini
-  berfungsi dengan baik dan sesuai dengan standar keselamatan yang berlaku.
-  Switchgear berperan krusial dalam distribusi daya listrik, memberikan...
 pubDate: '2024-10-22T10:26:19.000Z'
 updatedDate: '2026-09-18T01:01:25.000Z'
 author: Editor
@@ -19,6 +17,12 @@ tags:
   - Riksa Uji K3
 image: /wp-content/uploads/2024/10/RIksa-Uji-Switchgear-PT-Cipta-Mas-Jaya--scaled.jpg
 draft: false
+imageAlt: >-
+  Riksa uji switchgear instalasi listrik adalah proses pemeriksaan dan pengujian
+  untuk memastikan bahwa perangkat pengendali dan proteksi listrik berfungsi
+  dengan baik, sesuai dengan standar keselamatan yang berlaku, serta mencegah
+  kegagalan sistem yang dapat berdampak serius pada keselamatan dan keandalan
+  operasional.
 ---
 Riksa uji **switchgear** pada instalasi listrik adalah prosedur penting yang dilakukan untuk memastikan bahwa perangkat pengendali dan proteksi listrik ini berfungsi dengan baik dan sesuai dengan standar keselamatan yang berlaku. Switchgear berperan krusial dalam distribusi daya listrik, memberikan proteksi terhadap arus berlebih, dan mengisolasi bagian sistem kelistrikan yang bermasalah. Oleh karena itu, pemeriksaan secara berkala sangat penting untuk mencegah kegagalan sistem yang dapat berdampak serius pada keselamatan dan keandalan operasional. Riksa uji switchgear juga merupakan bagian dari **[riksa uji instalasi listrik](/2024/09/04/riksa-uji-instalasi-listrik/)**, yang mencakup pemeriksaan menyeluruh terhadap semua komponen listrik untuk memastikan sistem berfungsi secara optimal dan aman. Dengan melakukan riksa uji ini secara rutin, perusahaan dapat mengidentifikasi potensi masalah, memperbaiki kerusakan, dan memastikan bahwa semua perangkat kelistrikan beroperasi sesuai dengan regulasi yang berlaku, sehingga mendukung keselamatan dan efisiensi dalam penggunaan energi listrik.
 

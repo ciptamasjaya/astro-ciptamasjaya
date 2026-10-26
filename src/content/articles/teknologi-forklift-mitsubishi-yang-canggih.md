@@ -8,15 +8,14 @@ title: >-
 description: >-
   Teknologi forklift Mitsubishi yang canggih telah membawa revolusi dalam dunia
   logistik dan pergudangan, meningkatkan efisiensi dan produktivitas
-  operasional. Dengan berbagai inovasi terbaru dari Mitsubishi Logisnext,
-  perusahaan-perusahaan di berbagai sektor industri dapat mengoptimalkan
-  proses...
+  operasional.
 pubDate: '2024-09-07T20:48:58.000Z'
 updatedDate: '2026-10-08T01:00:03.000Z'
 author: admin
 category: uncategorized
 tags: []
 draft: false
+imageAlt: Inspeki K3 Riksa Uji PT. Cipta Mas Jaya
 ---
 Teknologi [forklift Mitsubishi](/2024/08/26/jasa-riksa-uji-forklift/) yang canggih telah membawa revolusi dalam dunia logistik dan pergudangan, meningkatkan efisiensi dan produktivitas operasional.
 

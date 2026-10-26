@@ -6,8 +6,7 @@ title: Riksa Uji Eskalator Konvensional
 description: >-
   Riksa uji eskalator konvensional merupakan bagian dari riksa uji elevator dan
   eskalator, yang bertujuan untuk memastikan keselamatan dan efisiensi
-  operasional eskalator di berbagai fasilitas. Pemeriksaan ini dilakukan secara
-  berkala untuk memverifikasi bahwa semua komponen eskalator, termasuk...
+  operasional
 pubDate: '2024-11-19T14:09:03.000Z'
 updatedDate: '2026-09-18T01:01:29.000Z'
 author: Editor
@@ -21,6 +20,12 @@ tags:
   - Riksa Uji K3
 image: /wp-content/uploads/2024/11/Riksa-Uji-Eskalator-PT-Cipta-Mas-Jaya-1.jpg
 draft: false
+imageAlt: >-
+  Riksa uji eskalator konvensional adalah proses pemeriksaan berkala yang
+  dilakukan untuk memastikan **keselamatan**, **keandalan**, dan **kinerja
+  optimal** eskalator, dengan mematuhi standar keselamatan dan regulasi yang
+  berlaku, guna mengurangi risiko kecelakaan dan memastikan operasional yang
+  efisien.
 ---
 **Riksa uji eskalator konvensional** merupakan bagian dari **[riksa uji elevator dan eskalator](/2024/08/21/riksa-uji-k3-elevator-dan-eskalator/)**, yang bertujuan untuk memastikan **keselamatan dan efisiensi operasional** eskalator di berbagai fasilitas. Pemeriksaan ini dilakukan secara berkala untuk memverifikasi bahwa semua komponen eskalator, termasuk **sistem penggerak**, **struktur tangga**, dan **perangkat keselamatan**, berfungsi dengan baik. Melalui riksa uji, **potensi risiko kecelakaan** dapat diminimalkan, dan operasional eskalator dapat berjalan dengan lancar sesuai dengan **standar keselamatan** yang berlaku. Riksa uji eskalator konvensional juga membantu dalam **mematuhi regulasi** yang ditetapkan oleh pemerintah dan badan terkait, menjaga **keselamatan pengguna** serta memastikan eskalator berfungsi dengan optimal.
 

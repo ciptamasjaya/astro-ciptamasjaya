@@ -6,8 +6,7 @@ title: Uji Beban Davit Kapal dan Darat dengan Kantong Air
 description: >-
   Uji beban davit kapal dan darat dengan kantong air merupakan metode modern
   yang efisien, aman, dan fleksibel untuk menguji kekuatan serta kelayakan
-  struktur pengangkat seperti davit. Dengan memanfaatkan air sebagai media
-  pemberat, kantong air memungkinkan proses pengujian dilakukan secara...
+  struktur
 pubDate: '2025-06-03T05:39:14.000Z'
 updatedDate: '2026-09-03T01:00:11.000Z'
 author: admin
@@ -22,6 +21,7 @@ tags:
   - Riksa Uji
   - Riksa Uji K3
 draft: false
+imageAlt: Inspeki K3 Riksa Uji PT. Cipta Mas Jaya
 ---
 Uji beban davit kapal dan darat dengan kantong air merupakan metode modern yang efisien, aman, dan fleksibel untuk menguji kekuatan serta kelayakan struktur pengangkat seperti davit. Dengan memanfaatkan air sebagai media pemberat, kantong air memungkinkan proses pengujian dilakukan secara bertahap dan terukur, sehingga risiko kegagalan struktur dapat diminimalkan. Metode ini sangat ideal baik untuk davit sekoci di kapal maupun davit industri di darat, karena mudah dibawa, cepat dipasang, dan tidak memerlukan alat berat tambahan. Selain itu, kemampuan kantong air untuk disesuaikan dengan kapasitas beban menjadikannya solusi unggulan dalam memastikan keselamatan kerja dan kepatuhan terhadap standar teknis yang berlaku.
 

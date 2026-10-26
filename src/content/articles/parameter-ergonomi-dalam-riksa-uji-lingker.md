@@ -6,8 +6,6 @@ title: Parameter Ergonomi dalam Riksa Uji Lingker
 description: >-
   Parameter Ergonomi dalam Riksa Uji Lingker adalah aspek-aspek yang berkaitan
   dengan kenyamanan, efisiensi, dan keselamatan kerja operator saat melakukan
-  pemeriksaan atau pengujian pada sistem lingker (linkage). Evaluasi terhadap
-  parameter ini bertujuan untuk memastikan bahwa proses kerja tidak...
 pubDate: '2025-06-07T19:12:25.000Z'
 updatedDate: '2026-09-11T01:00:33.000Z'
 author: admin
@@ -23,6 +21,7 @@ tags:
   - Riksa Uji
   - Riksa Uji K3
 draft: false
+imageAlt: Inspeki K3 Riksa Uji PT. Cipta Mas Jaya
 ---
 **Parameter Ergonomi dalam Riksa Uji Lingker** adalah aspek-aspek yang berkaitan dengan kenyamanan, efisiensi, dan keselamatan kerja operator saat melakukan pemeriksaan atau pengujian pada sistem lingker (linkage). Evaluasi terhadap parameter ini bertujuan untuk memastikan bahwa proses kerja tidak menimbulkan kelelahan berlebih, cedera, atau penurunan kinerja akibat kondisi ergonomi yang kurang baik. Dengan memperhatikan faktor ergonomi, kegiatan riksa uji dapat dilakukan dengan lebih efektif dan berkelanjutan.
 

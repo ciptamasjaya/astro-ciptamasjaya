@@ -6,8 +6,6 @@ title: Pengujian Lingkungan Kerja Meliputi
 description: >-
   Pengujian lingkungan kerja meliputi berbagai aspek fisik, kimia, biologi, dan
   ergonomi yang dapat mempengaruhi kesehatan dan keselamatan pekerja. Pengujian
-  ini bertujuan untuk mengidentifikasi dan mengendalikan potensi bahaya di
-  tempat kerja, memastikan lingkungan kerja yang aman dan sehat...
 pubDate: '2025-07-22T18:03:44.000Z'
 updatedDate: '2026-09-28T01:00:01.000Z'
 author: admin
@@ -25,6 +23,9 @@ tags:
   - sertifikasi
 image: /wp-content/uploads/2025/07/pengukuran-lingkungan-kerja-meliputi.png
 draft: false
+imageAlt: >-
+  Pengukuran Lingkungan Kerja Meliputi : 1. Faktor Fisik: 2. Faktor Kimia: 3.
+  Faktor Biologi: 4. Faktor Ergonomi:
 ---
 Pengujian lingkungan kerja meliputi berbagai aspek fisik, kimia, biologi, dan ergonomi yang dapat mempengaruhi kesehatan dan keselamatan pekerja. Pengujian ini bertujuan untuk mengidentifikasi dan mengendalikan potensi bahaya di tempat kerja, memastikan lingkungan kerja yang aman dan sehat.
 

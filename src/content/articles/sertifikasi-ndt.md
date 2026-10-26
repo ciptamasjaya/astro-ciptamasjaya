@@ -6,8 +6,6 @@ title: Sertifikasi NDT
 description: >-
   Sertifikasi NDT (Non Destructive Testing) adalah dokumen yang membuktikan
   bahwa seseorang memiliki keterampilan dan pengetahuan yang diperlukan untuk
-  melakukan pengujian tak merusak suatu material atau komponen. Sertifikasi ini
-  penting untuk menjamin kualitas dan keamanan konstruksi, produk, dan...
 pubDate: '2025-06-01T21:53:09.000Z'
 updatedDate: '2026-09-11T01:00:35.000Z'
 author: admin
@@ -22,6 +20,13 @@ tags:
   - Riksa Uji K3
 image: /wp-content/uploads/2025/06/sertifikasi-ndt.jpeg
 draft: false
+imageAlt: >-
+  Sertifikasi NDT adalah proses formal untuk mengesahkan bahwa seseorang
+  memiliki kompetensi teknis dalam melakukan pengujian non-destruktif terhadap
+  material atau komponen tanpa merusak struktur aslinya. Sertifikasi ini penting
+  dalam industri seperti migas, manufaktur, penerbangan, dan konstruksi karena
+  memastikan bahwa pemeriksaan dilakukan oleh tenaga profesional yang memenuhi
+  standar keselamatan dan mutu.
 ---
 Sertifikasi NDT (Non Destructive Testing) adalah dokumen yang membuktikan bahwa seseorang memiliki keterampilan dan pengetahuan yang diperlukan untuk melakukan pengujian tak merusak suatu material atau komponen. Sertifikasi ini penting untuk menjamin kualitas dan keamanan konstruksi, produk, dan infrastruktur.
 

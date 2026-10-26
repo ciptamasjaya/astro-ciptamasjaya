@@ -4,10 +4,8 @@ type: article
 slug: riksa-uji-jib-crane
 title: Riksa Uji Jib Crane
 description: >-
-  Riksa uji jib crane adalah proses pemeriksaan teknis yang dilakukan untuk
-  memastikan bahwa jib crane berfungsi dengan aman dan efisien sesuai dengan
-  standar keselamatan yang berlaku. Jib crane, sebagai salah satu jenis alat
-  angkat yang sering digunakan di berbagai industri, terutama dalam...
+  Riksa uji jib crane adalah pemeriksaan teknis untuk memastikan bahwa jib crane
+  berfungsi dengan aman dan terjamin keselamatan operatornya.
 pubDate: '2024-09-19T09:13:30.000Z'
 updatedDate: '2026-09-05T01:00:20.000Z'
 author: Editor
@@ -22,6 +20,13 @@ tags:
 image: >-
   /wp-content/uploads/2024/09/slewing-jib-papa-pjk3-riksa-uji-pt.cipta-mas-jaya-01.jpg
 draft: false
+imageAlt: >-
+  Riksa Uji Jib Crane adalah serangkaian pemeriksaan dan pengujian yang
+  dilakukan untuk memastikan bahwa jib crane beroperasi dengan aman dan sesuai
+  dengan standar keselamatan. Proses ini mencakup pemeriksaan fisik, mekanis,
+  dan operasional untuk mendeteksi potensi masalah seperti kerusakan struktural,
+  keausan, atau ketidakstabilan yang dapat memengaruhi kinerja crane selama
+  pengangkatan beban.
 ---
 Riksa uji jib crane adalah proses pemeriksaan teknis yang dilakukan untuk memastikan bahwa jib crane berfungsi dengan aman dan efisien sesuai dengan standar keselamatan yang berlaku. Jib crane, sebagai salah satu jenis alat angkat yang sering digunakan di berbagai industri, terutama dalam kegiatan pengangkatan barang di area terbatas, harus melalui serangkaian pemeriksaan dan pengujian agar dapat dioperasikan tanpa risiko kecelakaan atau kerusakan. Inspeksi ini melibatkan pengecekan visual, pengujian beban, dan pemeriksaan sistem hidrolik atau mekanik untuk memastikan tidak ada komponen yang rusak atau aus. Dengan melakukan riksa uji secara berkala, pengguna dapat memastikan bahwa jib crane tetap memenuhi persyaratan teknis dan operasional, serta menjaga keselamatan operator dan lingkungan kerja.
 

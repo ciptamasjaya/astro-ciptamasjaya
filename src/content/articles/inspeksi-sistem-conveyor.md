@@ -4,10 +4,8 @@ type: article
 slug: inspeksi-sistem-conveyor
 title: Inspeksi Sistem Conveyor
 description: >-
-  Riksa uji conveyor adalah proses evaluasi dan pengujian terhadap sistem
-  conveyor untuk memastikan bahwa perangkat tersebut berfungsi dengan baik,
-  aman, dan efisien. Conveyor, yang digunakan untuk memindahkan material atau
-  produk dari satu tempat ke tempat lain dalam berbagai industri, seperti...
+  Inspeksi sistem conveyor diperlukan untuk mengetahui kondisi conveyor dalam
+  keadaan baik agar bisa maksimal dalam memindahkan material.
 pubDate: '2024-08-27T13:52:26.000Z'
 updatedDate: '2026-10-13T01:01:03.000Z'
 author: Editor
@@ -23,6 +21,13 @@ tags:
   - sertifikasi
 image: /wp-content/uploads/2024/08/riksa-uji-k3-conveyor-pt-cipta-mas-jaya-001.png
 draft: false
+imageAlt: >-
+  Riksa Uji Conveyor adalah proses pemeriksaan dan pengujian keselamatan serta
+  kinerja sistem konveyor yang bertujuan untuk memastikan alat tersebut
+  beroperasi dengan baik, aman, dan sesuai dengan standar keselamatan yang
+  berlaku. Pemeriksaan ini meliputi pengecekan komponen mekanik, sistem
+  penggerak, dan elemen keselamatan lainnya guna mencegah kerusakan serta
+  potensi kecelakaan kerja dalam operasional industri.
 ---
 **Riksa uji conveyor** adalah proses evaluasi dan pengujian terhadap sistem conveyor untuk memastikan bahwa perangkat tersebut berfungsi dengan baik, aman, dan efisien. Conveyor, yang digunakan untuk memindahkan material atau produk dari satu tempat ke tempat lain dalam berbagai industri, seperti manufaktur, pertambangan, dan logistik, memerlukan pemeriksaan rutin untuk menjaga kinerjanya dan menghindari potensi risiko.
 

@@ -6,8 +6,6 @@ title: Riksa Uji Excavator
 description: >-
   Riksa Uji Excavator adalah proses pemeriksaan dan pengujian yang meliputi
   pengecekan fisik terhadap komponen utama seperti lengan (boom), bucket, sistem
-  hidrolik, undercarriage, serta roda gigi dan track. Inspeksi ini bertujuan
-  untuk mendeteksi kerusakan, keausan, atau kebocoran pada komponen...
 pubDate: '2024-09-12T11:20:22.000Z'
 updatedDate: '2026-10-08T01:00:06.000Z'
 author: Editor
@@ -20,6 +18,9 @@ tags:
 image: >-
   /wp-content/uploads/2024/09/excavator-papa-pjk3-riksa-uji-pt.cipta-mas-jaya-001.jpg
 draft: false
+imageAlt: >-
+  Jasa Inspeksi K3 PJK3 Riksa Uji PT. Cipta Mas Jaya Pesawat Angkat dan Pesawat
+  Angkut Excavator
 ---
 **Riksa Uji Excavator** adalah proses pemeriksaan dan pengujian yang meliputi pengecekan fisik terhadap komponen utama seperti lengan (boom), bucket, sistem hidrolik, undercarriage, serta roda gigi dan track. Inspeksi ini bertujuan untuk mendeteksi kerusakan, keausan, atau kebocoran pada komponen yang dapat memengaruhi kinerja dan keamanan excavator.
 

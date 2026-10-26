@@ -6,14 +6,13 @@ title: Riksa Uji Pesawat Uap Boiler PT Multi Box Indah
 description: >-
   Riksa Uji Pesawat Uap Boiler dilakukan Pemeriksaan Pada Hari Rabu Tanggal 19
   Agustus 2019 bertempat di PT Multi Box Indah Jawilan Kabupaten Serang Banten.
-  Team Inspeksi PT Cipta Mas Jaya Melakukan Pemeriksaan dan pengujian dengan
-  agenda kegiatan meliputi : Pemeriksaan Dokumen / Review Dokumen...
 pubDate: '2022-02-25T01:27:03.000Z'
 updatedDate: '2026-10-05T01:00:57.000Z'
 author: admin
 category: artikel
 tags: []
 draft: false
+imageAlt: Riksa Uji Pesawat Uap Boiler PT Multi Box Indah
 ---
 Riksa Uji Pesawat Uap Boiler dilakukan Pemeriksaan Pada Hari Rabu Tanggal 19 Agustus 2019 bertempat di PT Multi Box Indah Jawilan Kabupaten Serang Banten.
 

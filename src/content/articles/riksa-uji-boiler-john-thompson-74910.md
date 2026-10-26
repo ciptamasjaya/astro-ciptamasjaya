@@ -6,8 +6,6 @@ title: Riksa Uji Boiler
 description: >-
   Riksa Uji Boiler adalah proses pemeriksaan dan pengujian menyeluruh terhadap
   boiler untuk memastikan bahwa alat tersebut berfungsi dengan aman dan sesuai
-  standar keselamatan kerja yang berlaku. Proses ini meliputi berbagai tahapan,
-  seperti pemeriksaan visual, pengujian teknis, dan pengujian...
 pubDate: '2024-10-16T01:58:13.000Z'
 updatedDate: '2026-09-05T01:00:23.000Z'
 author: admin
@@ -25,6 +23,11 @@ tags:
 image: >-
   /wp-content/uploads/2024/10/riksa-uji-riksa-uji-boiler-john-thompson-actom-pty-ltd-nomor-seri-74910-05.jpg
 draft: false
+imageAlt: >-
+  Riksa Uji Boiler adalah tindakan pengujian yang dilakukan untuk memastikan
+  bahwa boiler dapat beroperasi dengan aman, efisien, dan sesuai spesifikasi
+  teknis. Proses ini merupakan bagian dari pengujian keselamatan dalam kategori
+  Pesawat Uap dan Bejana Tekan.
 ---
 **[Riksa Uji Boiler](/2024/08/26/jasa-riksa-uji-boiler/)** adalah proses pemeriksaan dan pengujian menyeluruh terhadap **boiler** untuk memastikan bahwa alat tersebut berfungsi dengan aman dan sesuai standar keselamatan kerja yang berlaku. Proses ini meliputi berbagai tahapan, seperti pemeriksaan visual, pengujian teknis, dan pengujian non-destruktif untuk mendeteksi kerusakan internal yang tidak terlihat. Riksa uji ini sangat penting dilakukan secara berkala untuk menjaga keselamatan operator dan efisiensi operasional boiler, khususnya di sektor industri dan pembangkit listrik.
 

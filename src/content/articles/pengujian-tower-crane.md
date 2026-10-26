@@ -6,8 +6,7 @@ title: Pengujian Tower Crane
 description: >-
   Riksa Uji Tower Crane adalah proses pemeriksaan dan pengujian yang meliputi
   pemeriksaan fisik terhadap komponen utama seperti struktur rangka, boom,
-  slewing unit, kabel baja, kait (hook), serta sistem rem dan kontrol.
-  Pemeriksaan ini bertujuan untuk memastikan bahwa semua komponen tersebut...
+  slewing
 pubDate: '2024-09-02T15:11:40.000Z'
 updatedDate: '2026-09-07T01:00:11.000Z'
 author: Editor
@@ -27,6 +26,7 @@ tags:
 image: >-
   /wp-content/uploads/2024/09/riksa-uji-k3-tower-crane-pt-cipta-mas-jaya-001-scaled.jpg
 draft: false
+imageAlt: Riksa Uji K3 PAPA Tower Crane PT. Cipta Mas Jaya
 ---
 **Riksa Uji Tower Crane** adalah proses pemeriksaan dan pengujian yang meliputi pemeriksaan fisik terhadap komponen utama seperti struktur rangka, boom, slewing unit, kabel baja, kait (hook), serta sistem rem dan kontrol. Pemeriksaan ini bertujuan untuk memastikan bahwa semua komponen tersebut berada dalam kondisi baik dan tidak ada tanda-tanda kerusakan, keausan, atau deformasi yang dapat mengurangi kinerja atau keselamatan alat.
 

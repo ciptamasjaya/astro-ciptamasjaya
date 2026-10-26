@@ -4,10 +4,8 @@ type: article
 slug: riksa-uji-mesin-bubut
 title: Riksa Uji Mesin Bubut
 description: >-
-  Riksa Uji Mesin Bubut adalah proses pemeriksaan dan pengujian yang meliputi
-  pengecekan fisik terhadap komponen utama seperti spindle, chuck, tailstock,
-  carriage, sistem penggerak, serta komponen elektrik dan mekanik lainnya.
-  Pemeriksaan ini bertujuan untuk mendeteksi kerusakan, keausan, atau...
+  Mesin bubut adalah alat mesin yang digunakan untuk memotong atau membentuk
+  benda dalam berbagai macam jenis dengan bentuk yang presisi.
 pubDate: '2024-08-27T14:06:31.000Z'
 updatedDate: '2026-10-12T01:04:29.000Z'
 author: Editor
@@ -15,6 +13,7 @@ category: artikel
 tags: []
 image: /wp-content/uploads/2024/08/riksa-uji-k3-mesin-bubut-pt-cipta-mas-jaya-001.png
 draft: false
+imageAlt: riksa-uji-k3-mesin-bubut-pt-cipta-mas-jaya-001
 ---
 Riksa Uji Mesin Bubut adalah proses pemeriksaan dan pengujian yang meliputi pengecekan fisik terhadap komponen utama seperti spindle, chuck, tailstock, carriage, sistem penggerak, serta komponen elektrik dan mekanik lainnya. Pemeriksaan ini bertujuan untuk mendeteksi kerusakan, keausan, atau deformasi pada bagian mesin yang dapat memengaruhi kinerja atau keselamatan operator.
 

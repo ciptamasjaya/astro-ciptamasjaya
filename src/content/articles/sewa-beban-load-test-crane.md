@@ -6,8 +6,6 @@ title: Sewa Beban Load Test Crane
 description: >-
   Sewa beban Load Test crane adalah layanan penting untuk memastikan crane mampu
   mengangkat beban sesuai kapasitas aman yang telah ditentukan. Proses ini
-  dilakukan melalui pengujian beban statis dan dinamis menggunakan alat seperti
-  water bag, counter weight, atau load block. Pengujian ini tidak...
 pubDate: '2025-06-14T12:05:15.000Z'
 updatedDate: '2026-09-02T01:00:10.000Z'
 author: admin
@@ -24,6 +22,13 @@ tags:
   - Riksa Uji K3
 image: /wp-content/uploads/2025/06/sewa-beban-load-test-crane.jpeg
 draft: false
+imageAlt: >-
+  Sewa Beban Load Test Crane adalah solusi praktis bagi perusahaan yang ingin
+  melakukan pengujian beban tanpa harus memiliki peralatan sendiri. Dengan
+  menyewa beban uji seperti water bag, load block, atau counter weight, proses
+  load test dapat dilakukan secara efisien dan sesuai standar keselamatan yang
+  berlaku. Layanan ini sangat dibutuhkan dalam inspeksi berkala maupun
+  commissioning alat berat di berbagai industri.
 ---
 **Sewa beban Load Test crane adalah** layanan penting untuk memastikan crane mampu mengangkat beban sesuai kapasitas aman yang telah ditentukan. Proses ini dilakukan melalui pengujian beban statis dan dinamis menggunakan alat seperti water bag, counter weight, atau load block. Pengujian ini tidak hanya menjadi syarat kepatuhan terhadap regulasi keselamatan kerja, tetapi juga langkah proaktif dalam mencegah kecelakaan dan memastikan performa optimal crane di lapangan.
 

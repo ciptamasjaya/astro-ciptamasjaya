@@ -6,8 +6,7 @@ title: Riksa Uji Pesawat Angkat dan Angkut
 description: >-
   Riksa Uji Pesawat Angkat dan Angkut adalah proses pemeriksaan dan pengujian
   yang dilakukan untuk memastikan bahwa peralatan angkat dan angkut, seperti
-  crane, forklift, hoist, conveyor belt, dan alat lainnya, beroperasi dengan
-  aman dan sesuai dengan standar keselamatan yang berlaku. Pengujian ini...
+  crane,
 pubDate: '2024-10-17T07:42:11.000Z'
 updatedDate: '2026-10-06T01:00:22.000Z'
 author: admin
@@ -19,6 +18,11 @@ tags:
   - PJK3 Riksa Uji
 image: /wp-content/uploads/2024/10/IMG20200618155319-scaled.jpg
 draft: false
+imageAlt: >-
+  Riksa uji pesawat angkat dan angkut adalah pemeriksaan alat seperti crane dan
+  forklift untuk memastikan operasinya aman dan sesuai standar. Ini mencakup
+  pengujian mekanis, pemeriksaan struktur, serta sistem pengaman guna mencegah
+  kecelakaan dan menjaga keselamatan kerja.
 ---
 **Riksa Uji Pesawat Angkat dan Angkut** adalah proses **pemeriksaan dan pengujian** yang dilakukan untuk memastikan bahwa peralatan angkat dan angkut, seperti **crane**, **forklift**, **hoist**, **conveyor belt**, dan alat lainnya, beroperasi dengan aman dan sesuai dengan standar keselamatan yang berlaku. Pengujian ini penting untuk mendeteksi kerusakan fisik, keausan, atau potensi risiko yang dapat menyebabkan kecelakaan di tempat kerja. **Pemeriksaan dan pengujian** meliputi **pengujian beban**, **pemeriksaan visual**, **pengujian non-destruktif (NDT)**, serta pengujian operasional, di mana semua aspek teknis pesawat angkat dan angkut diuji secara menyeluruh.
 

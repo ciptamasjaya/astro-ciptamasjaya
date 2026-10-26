@@ -6,8 +6,6 @@ title: NDT Ultrasonic Testing adalah
 description: >-
   NDT Ultrasonic Testing adalah salah satu metode pengujian non-destruktif
   (Non-Destructive Testing) yang digunakan untuk mendeteksi cacat atau
-  ketidaksempurnaan di dalam material tanpa merusaknya. Metode ini menggunakan
-  gelombang ultrasonik berfrekuensi tinggi yang dipancarkan ke dalam material...
 pubDate: '2025-07-06T03:45:32.000Z'
 updatedDate: '2026-09-27T01:00:21.000Z'
 author: admin
@@ -24,6 +22,9 @@ tags:
   - Riksa Uji K3
 image: /wp-content/uploads/2025/07/Ultrasonic-Testing-01.png
 draft: false
+imageAlt: >-
+  Ultrasonic testing adalah metode pengujian non-destruktif yang menggunakan
+  gelombang suara berfrekuensi tinggi untuk mendeteksi cacat di dalam material.
 ---
 NDT Ultrasonic Testing adalah salah satu metode pengujian non-destruktif (Non-Destructive Testing) yang digunakan untuk mendeteksi cacat atau ketidaksempurnaan di dalam material tanpa merusaknya. Metode ini menggunakan gelombang ultrasonik berfrekuensi tinggi yang dipancarkan ke dalam material untuk menganalisis struktur internal, ketebalan, serta potensi keretakan atau rongga tersembunyi. Karena kemampuannya yang akurat dan efisien, teknik ini sering diterapkan di berbagai sektor industri seperti manufaktur, konstruksi, perminyakan, dan penerbangan.
 

@@ -6,8 +6,6 @@ title: PJK3 Pesawat Angkat Angkut
 description: >-
   PJK3 Pesawat Angkat Angkut adalah Perusahaan Jasa Keselamatan dan Kesehatan
   Kerja yang secara spesifik menawarkan layanan terkait pengawasan, pemeriksaan,
-  pengujian, dan sertifikasi pada berbagai jenis pesawat angkat dan pesawat
-  angkut. Layanan ini bertujuan untuk memastikan peralatan berat...
 pubDate: '2025-09-17T07:47:01.000Z'
 updatedDate: '2026-10-14T01:03:42.000Z'
 author: admin
@@ -23,6 +21,10 @@ tags:
   - Riksa Uji K3
 image: /wp-content/uploads/2025/09/pjk3-pesawat-angkat-angkut.jpeg
 draft: false
+imageAlt: >-
+  PJK3 Pesawat Angkat Angkut adalah perusahaan jasa yang telah mendapat
+  penunjukan dari Kementerian Ketenagakerjaan untuk melakukan pemeriksaan,
+  pengujian, dan sertifikasi pada berbagai jenis pesawat angkat dan angkut.
 ---
 PJK3 Pesawat Angkat Angkut adalah Perusahaan Jasa Keselamatan dan Kesehatan Kerja yang secara spesifik menawarkan layanan terkait pengawasan, pemeriksaan, pengujian, dan sertifikasi pada berbagai jenis pesawat angkat dan pesawat angkut. Layanan ini bertujuan untuk memastikan peralatan berat tersebut beroperasi sesuai standar Keselamatan dan Kesehatan Kerja (K3) yang berlaku, sehingga dapat mencegah kecelakaan kerja.
 

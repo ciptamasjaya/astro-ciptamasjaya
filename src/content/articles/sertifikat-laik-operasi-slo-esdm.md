@@ -6,8 +6,6 @@ title: Sertifikat Laik Operasi ( SLO ) ESDM
 description: >-
   Sertifikat Laik Operasi (SLO) ESDM adalah bukti legal dan teknis bahwa suatu
   instalasi tenaga listrik atau instalasi energi lainnya, termasuk genset dan
-  instalasi listrik bangunan, telah memenuhi standar keselamatan dan kelayakan
-  operasional yang ditetapkan oleh Kementerian Energi dan Sumber...
 pubDate: '2025-07-27T19:04:52.000Z'
 updatedDate: '2026-08-30T01:00:19.000Z'
 author: admin
@@ -25,6 +23,16 @@ tags:
   - sertifikasi
 image: /wp-content/uploads/2025/07/sertifikat-laik-operasi-slo-esdm.jpeg
 draft: false
+imageAlt: >-
+  Sertifikat Laik Operasi (SLO) ESDM adalah validasi resmi dan fundamental bahwa
+  setiap instalasi kelistrikan atau sumber energi lainnya, termasuk unit
+  generator set dan jaringan listrik bangunan, telah diperiksa menyeluruh dan
+  dinyatakan memenuhi standar keselamatan serta keandalan operasional yang
+  ditetapkan oleh Kementerian Energi dan Sumber Daya Mineral. Dokumen vital ini,
+  yang diterbitkan oleh Lembaga Inspeksi Teknis (LIT) berakreditasi, menjadi
+  penjamin bahwa seluruh komponen instalasi berfungsi optimal, aman, dan sesuai
+  dengan regulasi terkini, sekaligus melindungi aset serta menjamin keselamatan
+  jiwa pengguna.
 ---
 Sertifikat Laik Operasi (SLO) ESDM adalah bukti legal dan teknis bahwa suatu instalasi tenaga listrik atau instalasi energi lainnya, termasuk genset dan instalasi listrik bangunan, telah memenuhi standar keselamatan dan kelayakan operasional yang ditetapkan oleh Kementerian Energi dan Sumber Daya Mineral. Dokumen ini diterbitkan oleh Lembaga Inspeksi Teknis (LIT) yang terakreditasi, setelah melalui serangkaian pemeriksaan dan pengujian ketat untuk memastikan bahwa seluruh komponen instalasi aman, andal, dan berfungsi sesuai peraturan yang berlaku demi melindungi pengguna dan lingkungan sekitar.
 

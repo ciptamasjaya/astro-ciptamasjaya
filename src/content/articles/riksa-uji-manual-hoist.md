@@ -4,10 +4,9 @@ type: article
 slug: riksa-uji-manual-hoist
 title: Riksa Uji Manual Hoist
 description: >-
-  Manual hoist adalah peralatan angkat sederhana yang menggunakan tenaga manual
-  untuk memindahkan beban. Alat ini sering digunakan di berbagai industri
-  seperti konstruksi, pergudangan, dan manufaktur. Agar tetap aman dan efektif,
-  riksa uji atau pemeriksaan menyeluruh pada manual hoist harus...
+  Riksa uji manual hoist ini merupakan salah satu dari riksa uji pesawat angkat
+  dan pesawat angkut, yang bertujuan untuk memastikan bahwa semua peralatan
+  angkat berfungsi dengan baik dan aman digunakan.
 pubDate: '2024-11-25T14:10:29.000Z'
 updatedDate: '2026-09-19T01:02:57.000Z'
 author: Editor
@@ -20,6 +19,10 @@ tags:
   - Riksa Uji Pesawat Angkat Angkut
 image: /wp-content/uploads/2024/10/Riksa-Uji-Manual-Hoist-PT-Cipta-Mas-Jaya.jpg
 draft: false
+imageAlt: >-
+  Riksa uji manual hoist adalah proses penting untuk memastikan keselamatan,
+  efisiensi, dan kepatuhan terhadap regulasi dalam penggunaan peralatan angkat
+  manual.
 ---
 Manual hoist adalah peralatan angkat sederhana yang menggunakan tenaga manual untuk memindahkan beban. Alat ini sering digunakan di berbagai industri seperti konstruksi, pergudangan, dan manufaktur. Agar tetap aman dan efektif, **riksa uji** atau pemeriksaan menyeluruh pada **manual hoist** harus dilakukan secara berkala. Riksa uji manual hoist ini merupakan salah satu dari **[riksa uji pesawat angkat dan pesawat angkut](/2024/08/21/riksa-uji-k3-pesawat-angkat-dan-angkut/)**, yang bertujuan untuk memastikan bahwa semua peralatan angkat berfungsi dengan baik dan aman digunakan.
 

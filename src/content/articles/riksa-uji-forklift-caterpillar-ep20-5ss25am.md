@@ -6,8 +6,6 @@ title: Riksa Uji Forklift Caterpillar EP20 / 5SS25AM
 description: >-
   Riksa Uji Forklift adalah proses pemeriksaan dan pengujian menyeluruh terhadap
   kondisi dan kinerja forklift guna memastikan bahwa alat tersebut berfungsi
-  dengan aman dan sesuai dengan standar keselamatan kerja. Pemeriksaan ini
-  mencakup evaluasi komponen mekanik seperti sistem hidrolik, rem, dan...
 pubDate: '2024-12-16T15:06:35.000Z'
 updatedDate: '2026-10-01T01:00:27.000Z'
 author: Editor
@@ -22,6 +20,10 @@ tags:
 image: >-
   /wp-content/uploads/2024/12/Riksa-Uji-Forklift-Caterpillar-EP20_5SS25AM-PT-Cipta-Mas-Jaya-.jpg
 draft: false
+imageAlt: >-
+  Riksa uji forklift Caterpillar EP20 / 5SS25A adalah proses pemeriksaan dan
+  pengujian menyeluruh terhadap komponen dan kinerja forklift guna memastikan
+  bahwa alat tersebut beroperasi dengan aman dan sesuai standar yang berlaku.
 ---
 **[Riksa Uji Forklift](/2024/08/26/jasa-riksa-uji-forklift/)** adalah proses pemeriksaan dan pengujian menyeluruh terhadap kondisi dan kinerja forklift guna memastikan bahwa alat tersebut berfungsi dengan aman dan sesuai dengan standar keselamatan kerja. Pemeriksaan ini mencakup evaluasi komponen mekanik seperti sistem hidrolik, rem, dan roda; struktur rangka; serta sistem kelistrikan dan penggerak. Selain itu, dilakukan pula uji beban untuk memastikan forklift mampu mengangkat dan memindahkan beban sesuai kapasitas yang ditentukan tanpa risiko kegagalan. Riksa uji ini bertujuan untuk mencegah kecelakaan kerja, mendeteksi potensi kerusakan sejak dini, dan memastikan kepatuhan terhadap peraturan keselamatan yang berlaku di tempat kerja.
 

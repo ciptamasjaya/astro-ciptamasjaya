@@ -4,10 +4,8 @@ type: article
 slug: riksa-uji-cargo-lift
 title: Riksa Uji Cargo Lift
 description: >-
-  Riksa uji cargo lift adalah proses penting untuk memastikan bahwa alat ini
-  berfungsi dengan aman dan optimal dalam mendukung aktivitas pengangkutan
-  barang. Proses ini melibatkan pemeriksaan fisik pada komponen utama seperti
-  rel, kabel baja, sistem rem, motor penggerak, dan pintu lift, serta...
+  Riksa uji Cargo Lift secara berkala membantu mendeteksi masalah kerusakan yang
+  tidak terdeteksi dapat meningkatkan risiko kecelakaan.
 pubDate: '2024-08-26T14:22:39.000Z'
 updatedDate: '2026-09-24T03:07:05.000Z'
 author: Editor
@@ -25,6 +23,10 @@ tags:
   - sertifikasi
 image: /wp-content/uploads/2024/08/riksa-uji-k3-cargo-lift-pt-cipta-mas-jaya-001.png
 draft: false
+imageAlt: >-
+  Riksa Uji Cargo Lift adalah proses pemeriksaan dan pengujian yang dilakukan
+  secara rutin untuk memastikan bahwa cargo lift, atau lift barang, beroperasi
+  dengan aman dan memenuhi standar keselamatan yang ditetapkan.
 ---
 Riksa uji cargo lift adalah proses penting untuk memastikan bahwa alat ini berfungsi dengan aman dan optimal dalam mendukung aktivitas pengangkutan barang. Proses ini melibatkan pemeriksaan fisik pada komponen utama seperti **rel**, **kabel baja**, **sistem rem**, **motor penggerak**, dan **pintu lift**, serta pengujian pada **sistem kontrol**, **kapasitas angkat**, dan **fungsi keselamatan** seperti **limiter beban** dan **emergency stop**. Inspeksi ini bertujuan untuk mendeteksi potensi kerusakan atau keausan yang dapat memengaruhi kinerja dan keamanan operasional. Dengan melakukan riksa uji secara berkala, risiko kecelakaan dapat diminimalkan, sekaligus memastikan efisiensi dan keberlangsungan operasional.
 

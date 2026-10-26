@@ -6,8 +6,6 @@ title: Pemeriksaan dan Pengujian Forklift
 description: >-
   Pemeriksaan dan pengujian forklift adalah bagian penting dari upaya menjaga
   keselamatan kerja dan kelayakan alat angkat dan angkut di lingkungan industri,
-  khususnya untuk forklift yang digunakan secara rutin dalam operasional. Di
-  Indonesia, pemeriksaan dan pengujian forklift mengacu pada...
 pubDate: '2025-05-19T22:46:37.000Z'
 updatedDate: '2026-09-01T01:01:57.000Z'
 author: admin
@@ -19,6 +17,11 @@ tags:
   - Riksa Uji K3
 image: /wp-content/uploads/2025/05/pemeriksaa-dan-pengujian-forklift.jpg
 draft: false
+imageAlt: >-
+  Pemeriksaan dan pengujian forklift adalah proses penting untuk memastikan alat
+  berat ini berfungsi dengan baik dan aman saat digunakan. Kegiatan ini meliputi
+  pengecekan komponen mekanis, hidrolik, serta uji beban angkat sesuai standar
+  keselamatan kerja.
 ---
 Pemeriksaan dan pengujian forklift adalah bagian penting dari upaya menjaga **keselamatan kerja dan kelayakan alat angkat dan angkut** di lingkungan industri, khususnya untuk forklift yang digunakan secara rutin dalam operasional. Di Indonesia, pemeriksaan dan pengujian forklift mengacu pada regulasi seperti **Permenaker No. 8 Tahun 2020** tentang alat angkat dan angkut, serta mengharuskan keterlibatan **PJK3 Riksa Uji** yang tersertifikasi.
 

@@ -6,8 +6,6 @@ title: PJK3 Kemnaker
 description: >-
   PJK3 Kemnaker adalah perusahaan yang telah mendapatkan penunjukan resmi dari
   Kementerian Ketenagakerjaan Republik Indonesia untuk menyediakan layanan
-  profesional di bidang Keselamatan dan Kesehatan Kerja (K3). Sebagai bagian
-  dari Daftar PJK3 Kemnaker, perusahaan ini berperan penting dalam...
 pubDate: '2025-05-23T14:34:08.000Z'
 updatedDate: '2026-09-21T01:00:47.000Z'
 author: admin
@@ -21,6 +19,14 @@ tags:
   - Riksa Uji K3
 image: /wp-content/uploads/2025/05/pjk3-kemnaker.jpg
 draft: false
+imageAlt: >-
+  PJK3 Kemnaker adalah singkatan dari Perusahaan Jasa Keselamatan dan Kesehatan
+  Kerja yang ditunjuk atau disahkan oleh Kementerian Ketenagakerjaan Republik
+  Indonesia. PJK3 berperan sebagai mitra pemerintah dalam menyelenggarakan
+  layanan teknis di bidang K3, seperti pemeriksaan, pengujian, pelatihan, dan
+  konsultasi. Tujuan keberadaan PJK3 adalah untuk memastikan pelaksanaan K3 di
+  tempat kerja berjalan secara profesional, sesuai standar yang ditetapkan,
+  serta mendukung terciptanya lingkungan kerja yang aman dan sehat.
 ---
 **PJK3 Kemnaker** adalah perusahaan yang telah mendapatkan penunjukan resmi dari Kementerian Ketenagakerjaan Republik Indonesia untuk menyediakan layanan profesional di bidang **Keselamatan dan Kesehatan Kerja** (K3). Sebagai bagian dari Daftar PJK3 Kemnaker, perusahaan ini berperan penting dalam membantu organisasi dan industri memenuhi persyaratan K3 sesuai dengan peraturan perundang-undangan yang berlaku. Layanan yang disediakan meliputi pelatihan dan sertifikasi K3, pemeriksaan dan pengujian teknis, audit sistem manajemen K3, serta konsultasi implementasi K3 di tempat kerja. Dengan dukungan tenaga ahli bersertifikat dan peralatan yang memenuhi standar, PJK3 Kemnaker memastikan bahwa penerapan K3 di perusahaan berjalan efektif, aman, dan sesuai regulasi pemerintah.
 

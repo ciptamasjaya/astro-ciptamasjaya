@@ -6,8 +6,6 @@ title: Jasa Riksa Uji K3
 description: >-
   Jasa Riksa Uji K3 adalah layanan yang mencakup pemeriksaan, pengujian, dan
   evaluasi peralatan serta instalasi untuk memastikan keselamatan kerja sesuai
-  standar K3, dilakukan oleh lembaga yang ditunjuk resmi oleh Pemerintah
-  Republik Indonesia yang bertujuan untuk menjamin bahwa peralatan aman...
 pubDate: '2024-10-02T19:48:51.000Z'
 updatedDate: '2026-09-02T01:00:11.000Z'
 author: admin
@@ -19,6 +17,10 @@ tags:
   - Riksa Uji K3
 image: /wp-content/uploads/2024/10/riksa-uji-conveyor-pt.cipta-mas-jaya-0021.jpg
 draft: false
+imageAlt: >-
+  Riksa Uji K3 (Keselamatan dan Kesehatan Kerja) adalah evaluasi yang dilakukan
+  untuk memastikan bahwa sistem manajemen keselamatan dan kesehatan kerja di
+  tempat kerja berfungsi dengan baik dan sesuai dengan standar yang ditetapkan.
 ---
 **Jasa Riksa Uji K3** adalah layanan yang mencakup pemeriksaan, pengujian, dan evaluasi peralatan serta instalasi untuk memastikan keselamatan kerja sesuai standar K3, dilakukan oleh lembaga yang ditunjuk resmi oleh Pemerintah Republik Indonesia yang bertujuan untuk menjamin bahwa peralatan aman digunakan dan mematuhi peraturan yang berlaku, dengan hasil berupa sertifikat kelayakan.
 

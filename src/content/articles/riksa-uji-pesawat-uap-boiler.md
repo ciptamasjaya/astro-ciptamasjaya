@@ -12,6 +12,9 @@ tags: []
 image: >-
   /wp-content/uploads/2022/02/cipta-mas-jaya-riksa-uji-boiler-di-multi-box-indah-01-1.jpeg
 draft: false
+imageAlt: >-
+  Tenaga Ahli Pesawat Uap Dan Bejana Tekan PJK3 PT.Cipta Mas Jaya Dengan
+  Sertifikat K3 / SKP Sedang Inspeksi K3 Riksa Uji Boiler
 ---
 Riksa Uji Pesawat Uap Boiler
 

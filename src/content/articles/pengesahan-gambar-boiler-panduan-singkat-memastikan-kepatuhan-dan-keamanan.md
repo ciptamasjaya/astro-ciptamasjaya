@@ -6,8 +6,7 @@ title: 'Pengesahan Gambar Boiler: Panduan Singkat Memastikan Kepatuhan dan Keama
 description: >-
   Pengesahan gambar boiler adalah sebuah proses formal dan krusial di mana
   seluruh desain teknis, perhitungan kekuatan konstruksi, serta detail gambar
-  dari sebuah boiler ditinjau dan disetujui oleh otoritas yang berwenang.
-  Prosedur ini memastikan bahwa setiap aspek rancangan boiler memenuhi...
+  dari
 pubDate: '2025-07-07T00:53:25.000Z'
 updatedDate: '2026-09-06T01:00:12.000Z'
 author: admin
@@ -25,6 +24,11 @@ tags:
   - sertifikasi
 image: /wp-content/uploads/2025/07/pengesahan-gambar-boiler.png
 draft: false
+imageAlt: >-
+  Pengesahan gambar boiler adalah proses resmi validasi desain teknis dan
+  perhitungan konstruksi boiler oleh otoritas berwenang. Tujuannya memastikan
+  desain tersebut memenuhi standar keselamatan dan regulasi yang berlaku,
+  krusial untuk operasional yang aman dan legal.
 ---
 **Pengesahan gambar boiler adalah** sebuah proses formal dan krusial di mana seluruh desain teknis, perhitungan kekuatan konstruksi, serta detail gambar dari sebuah boiler ditinjau dan disetujui oleh otoritas yang berwenang.
 

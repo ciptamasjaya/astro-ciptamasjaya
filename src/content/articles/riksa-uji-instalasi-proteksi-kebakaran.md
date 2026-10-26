@@ -6,8 +6,6 @@ title: Riksa Uji Instalasi Proteksi Kebakaran
 description: >-
   Riksa uji instalasi proteksi kebakaran adalah proses evaluasi dan pengujian
   terhadap sistem proteksi kebakaran, seperti sprinkler, detektor asap, alarm
-  kebakaran, dan sistem pemadam api, untuk memastikan bahwa semua komponen
-  berfungsi dengan baik dan sesuai dengan standar keselamatan yang...
 pubDate: '2022-02-25T10:48:52.000Z'
 updatedDate: '2026-10-13T01:01:00.000Z'
 author: admin
@@ -16,6 +14,7 @@ tags: []
 image: >-
   /wp-content/uploads/2023/04/pt-cipta-mas-jaya-jasa-inspeksi-instalasi-proteksi-kebakaran.jpeg
 draft: false
+imageAlt: Jasa Inspeksi Proteksi Kebakaran
 ---
 **Riksa uji instalasi proteksi kebakaran** adalah proses evaluasi dan pengujian terhadap sistem proteksi kebakaran, seperti sprinkler, detektor asap, alarm kebakaran, dan sistem pemadam api, untuk memastikan bahwa semua komponen berfungsi dengan baik dan sesuai dengan standar keselamatan yang berlaku. Proses ini meliputi pemeriksaan fisik perangkat, pengujian operasional, dan simulasi keadaan darurat untuk memastikan bahwa sistem dapat merespons dengan efektif jika terjadi kebakaran. Riksa uji dilakukan secara berkala untuk menjaga kesiapan sistem dalam melindungi bangunan dan penghuninya, serta mematuhi regulasi keselamatan kebakaran yang berlaku.
 

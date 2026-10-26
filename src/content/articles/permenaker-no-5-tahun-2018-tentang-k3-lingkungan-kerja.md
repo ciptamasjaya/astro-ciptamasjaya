@@ -6,8 +6,7 @@ title: Permenaker No. 5 Tahun 2018 Tentang K3 Lingkungan Kerja
 description: >-
   Permenaker No. 5 Tahun 2018 Tentang K3 Lingkungan Kerja adalah peraturan resmi
   dari Kementerian Ketenagakerjaan Republik Indonesia yang mengatur secara
-  teknis upaya perlindungan terhadap tenaga kerja dari bahaya di lingkungan
-  kerja. Peraturan ini menggantikan ketentuan lama dan memberikan...
+  teknis
 pubDate: '2025-06-16T22:59:40.000Z'
 updatedDate: '2026-10-04T01:02:00.000Z'
 author: admin
@@ -23,6 +22,13 @@ tags:
   - Riksa Uji
   - Riksa Uji K3
 draft: false
+imageAlt: >-
+  Permenaker lingkungan kerja adalah regulasi yang mengatur upaya perlindungan
+  tenaga kerja dari berbagai faktor bahaya yang ada di tempat kerja. Aturan ini
+  memberikan pedoman teknis bagi perusahaan dalam mengelola risiko yang timbul
+  dari lingkungan kerja, baik yang bersumber dari faktor fisik, kimia, biologi,
+  ergonomi, maupun psikososial. Dengan adanya regulasi ini, diharapkan tercipta
+  kondisi kerja yang aman, sehat, dan mendukung produktivitas tenaga kerja.
 ---
 **Permenaker No. 5 Tahun 2018 Tentang K3 Lingkungan Kerja** adalah peraturan resmi dari Kementerian Ketenagakerjaan Republik Indonesia yang mengatur secara teknis upaya perlindungan terhadap tenaga kerja dari bahaya di lingkungan kerja. Peraturan ini menggantikan ketentuan lama dan memberikan pedoman lengkap mengenai pengendalian faktor bahaya, pelaksanaan pengukuran, hingga syarat personil yang kompeten di bidang keselamatan dan kesehatan kerja (K3).
 

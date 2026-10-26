@@ -6,8 +6,6 @@ title: Cara Melakukan Pemeriksaan Hydrant
 description: >-
   Cara melakukan pemeriksaan hydrant adalah rangkaian langkah sistematis yang
   bertujuan memastikan seluruh komponen sistem pemadam kebakaran ini berfungsi
-  dengan baik dan siap digunakan dalam kondisi darurat. Pemeriksaan mencakup
-  persiapan alat dan koordinasi, pengecekan visual terhadap hydrant...
 pubDate: '2025-07-24T16:09:01.000Z'
 updatedDate: '2026-08-30T01:00:18.000Z'
 author: admin
@@ -25,6 +23,17 @@ tags:
   - sertifikasi
 image: /wp-content/uploads/2025/07/cara-melakukan-pemeriksaan-hydrant.jpeg
 draft: false
+imageAlt: >-
+  Cara melakukan pemeriksaan hydrant adalah proses pengecekan sistem pemadam
+  kebakaran yang dilakukan secara menyeluruh untuk memastikan semua komponen
+  bekerja dengan baik dan siap digunakan saat kondisi darurat terjadi.
+  Pemeriksaan ini mencakup persiapan alat dan personel, pengecekan visual pada
+  hydrant dan area sekitarnya, pengujian tekanan serta aliran air, hingga
+  pemeriksaan perlengkapan seperti selang, nozzle, dan pompa hydrant. Setiap
+  temuan dicatat dalam dokumentasi dan diikuti dengan tindakan perbaikan atau
+  pemeliharaan berkala. Pemeriksaan yang dilakukan secara rutin dan sesuai
+  standar akan meningkatkan keandalan sistem serta mendukung penerapan
+  keselamatan dan kesehatan kerja (K3) di lingkungan kerja.
 ---
 Cara melakukan pemeriksaan hydrant adalah rangkaian langkah sistematis yang bertujuan memastikan seluruh komponen sistem pemadam kebakaran ini berfungsi dengan baik dan siap digunakan dalam kondisi darurat. Pemeriksaan mencakup persiapan alat dan koordinasi, pengecekan visual terhadap hydrant dan sekitarnya, pengujian tekanan dan aliran air, evaluasi performa pompa, hingga inspeksi perlengkapan seperti selang dan nozzle. Semua temuan harus didokumentasikan dengan baik dan ditindaklanjuti melalui perbaikan serta pemeliharaan berkala. Pemeriksaan ini perlu dilakukan secara rutin sesuai standar keselamatan seperti NFPA 25 agar sistem hydrant selalu dalam kondisi optimal dan memenuhi persyaratan K3.
 

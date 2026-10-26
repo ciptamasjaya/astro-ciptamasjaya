@@ -6,9 +6,7 @@ slug: pjk3-jogja
 title: PJK3 Jogja
 description: >-
   PT. Cipta Mas Jaya adalah PJK3 yang melayani jasa riksa uji K3 di wilayah
-  Jogja. Hubungi 08568258841 untuk semua kebutuhan riksa uji Anda. PJK3 PJK3
-  atau Penyedia Jasa Keselamatan dan Kesehatan Kerja adalah badan usaha atau
-  lembaga yang ditunjuk oleh Kementerian Ketenagakerjaan untuk membantu...
+  Jogja. Hubungi 08568258841 untuk semua kebutuhan riksa uji Anda.
 pubDate: '2025-05-26T20:36:31.000Z'
 updatedDate: '2026-10-09T01:00:59.000Z'
 author: admin
@@ -23,6 +21,14 @@ tags:
   - Riksa Uji K3
 image: /wp-content/uploads/2025/05/pjk3-jogja.jpg
 draft: false
+imageAlt: >-
+  PT. Cipta Mas Jaya telah diakui sebagai Penyedia Jasa Keselamatan dan
+  Kesehatan Kerja (PJK3) yang terpercaya di Jogja. Dengan pengalaman dan
+  sertifikasi resmi, perusahaan ini berperan aktif dalam mendukung penerapan
+  standar keselamatan kerja di berbagai sektor industri di wilayah Jogja dan
+  sekitarnya. Keberadaan PT. Cipta Mas Jaya sebagai PJK3 membantu
+  perusahaan-perusahaan dalam memenuhi regulasi pemerintah dan menciptakan
+  lingkungan kerja yang aman.
 ---
 PT. Cipta Mas Jaya adalah PJK3 yang melayani jasa riksa uji K3 di wilayah Jogja. Hubungi 08568258841 untuk semua kebutuhan riksa uji Anda.
 

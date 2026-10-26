@@ -6,8 +6,6 @@ title: PJK3
 description: >-
   PJK3 adalah Perusahaan Jasa Keselamatan dan Kesehatan Kerja, yang bertujuan
   untuk membantu perusahaan dalam memastikan penerapan standar keselamatan dan
-  kesehatan kerja (K3) sesuai dengan peraturan perundang-undangan yang berlaku.
-  PJK3 memberikan layanan seperti audit keselamatan, pelatihan...
 pubDate: '2024-10-22T16:37:37.000Z'
 updatedDate: '2026-09-10T01:00:21.000Z'
 author: admin
@@ -18,6 +16,11 @@ tags:
   - Riksa Uji
 image: /wp-content/uploads/2024/10/PJK3-PT-Cipta-Mas-Jaya-5.jpg
 draft: false
+imageAlt: >-
+  PJK3 adalah singkatan dari Perusahaan Jasa Keselamatan dan Kesehatan Kerja,
+  yang bertanggung jawab membantu organisasi dalam memenuhi standar K3 melalui
+  penerapan prosedur keselamatan, audit rutin, serta pengelolaan risiko di
+  tempat kerja.
 ---
 [PJK3 adalah](/about/pjk3/) **Perusahaan Jasa Keselamatan dan Kesehatan Kerja**, yang bertujuan untuk membantu perusahaan dalam memastikan penerapan standar keselamatan dan kesehatan kerja (K3) sesuai dengan peraturan perundang-undangan yang berlaku. PJK3 memberikan layanan seperti audit keselamatan, pelatihan, serta konsultasi terkait K3 guna menciptakan lingkungan kerja yang aman dan sehat.
 

@@ -6,9 +6,7 @@ title: Teknologi Pesawat Uap Bejana Tekan
 description: >-
   Teknologi pesawat uap bejana tekan adalah teknologi yang memanfaatkan wadah
   tertutup (bejana) untuk menghasilkan, menampung, dan mengalirkan uap
-  bertekanan tinggi yang digunakan dalam berbagai aplikasi industri. 1.
-  Pengertian Pesawat Uap Bejana Tekan Apa Itu Pesawat Uap Bejana Tekan? Pesawat
-  uap...
+  bertekanan
 pubDate: '2025-05-19T21:47:15.000Z'
 updatedDate: '2026-09-20T01:02:19.000Z'
 author: admin
@@ -20,6 +18,11 @@ tags:
   - riksa uji pesawat uap dan bejana tekan
 image: /wp-content/uploads/2025/05/teknologi-bejana-tekan.jpg
 draft: false
+imageAlt: >-
+  Teknologi pesawat uap bejana tekan adalah sistem yang memanfaatkan tekanan dan
+  panas untuk menghasilkan uap guna mendukung berbagai proses industri.
+  Teknologi ini dirancang untuk bekerja dalam tekanan tinggi secara aman,
+  efisien, dan berkelanjutan.
 ---
 Teknologi **pesawat uap bejana tekan** adalah teknologi yang memanfaatkan **wadah tertutup (bejana)** untuk menghasilkan, menampung, dan mengalirkan **uap bertekanan tinggi** yang digunakan dalam berbagai aplikasi industri.
 

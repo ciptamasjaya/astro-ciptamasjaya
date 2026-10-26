@@ -5,11 +5,9 @@ contentType: local-seo
 slug: pjk3-serang
 title: PJK3 Serang
 description: >-
-  1. Pengenalan PJK3 di Kota Serang 1.1 Pentingnya PJK3 di Kota Serang 1.1.1
-  Sejarah dan Perkembangan Industri di Serang Kota Serang memiliki sejarah
-  panjang sebagai pusat industri di Provinsi Banten, dengan perkembangan
-  signifikan dalam sektor-sektor strategis seperti manufaktur, kimia,
-  logistik...
+  PJK3 memiliki fungsi utama untuk memastikan kepatuhan terhadap standar K3 di
+  industri. Di Serang, PJK3 bertugas memberikan konsultasi, melakukan inspeksi
+  peralatan, dan menyediakan pelatihan kepada tenaga kerja
 pubDate: '2024-11-11T16:29:40.000Z'
 updatedDate: '2026-09-17T01:01:42.000Z'
 author: Editor
@@ -22,6 +20,10 @@ tags:
   - Riksa Uji
 image: /wp-content/uploads/2024/10/PJK3-Serang-PT-Cipta-Mas-Jaya-scaled.jpg
 draft: false
+imageAlt: >-
+  PJK3 Serang merupakan mitra penting industri dalam memastikan keselamatan dan
+  kesehatan kerja, mendukung produktivitas, serta mematuhi standar regulasi di
+  kawasan industri Serang.
 ---
 ## 1\. Pengenalan PJK3 di Kota Serang
 

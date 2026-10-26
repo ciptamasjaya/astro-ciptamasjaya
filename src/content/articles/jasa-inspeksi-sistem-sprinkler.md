@@ -4,10 +4,8 @@ type: article
 slug: jasa-inspeksi-sistem-sprinkler
 title: Inspeksi Sistem Sprinkler
 description: >-
-  Riksa Uji Sprinkler adalah proses pemeriksaan dan pengujian sprinkler pemadam
-  kebakaran untuk memastikan bahwa sistem ini berfungsi secara optimal dan
-  sesuai dengan standar keselamatan yang berlaku. Proses riksa uji mencakup
-  beberapa aspek, seperti pengecekan kondisi fisik kepala sprinkler, pipa...
+  PT. Cipta Mas Jaya memiliki layanan inspeksi sistem sprinkler untuk memastikan
+  sistem ini berfungsi dengan baik dalam merespons kebakaran.
 pubDate: '2024-08-29T15:47:31.000Z'
 updatedDate: '2026-09-14T01:00:42.000Z'
 author: Editor
@@ -23,6 +21,7 @@ tags:
   - uji hydrant
 image: /wp-content/uploads/2024/08/Inspeksi-Sistem-Sprinkler-PT-Cipta-Mas-Jaya.jpg
 draft: false
+imageAlt: Riksa Uji K3 Inspeksi Sprinkler PT. Cipta Mas Jaya
 ---
 **Riksa Uji Sprinkler** adalah proses pemeriksaan dan pengujian sprinkler pemadam kebakaran untuk memastikan bahwa sistem ini berfungsi secara optimal dan sesuai dengan standar keselamatan yang berlaku. Proses riksa uji mencakup beberapa aspek, seperti pengecekan kondisi fisik kepala sprinkler, pipa distribusi air, tekanan air, serta sistem pengaktifan otomatis yang berfungsi ketika terdeteksi adanya panas dari kebakaran.
 

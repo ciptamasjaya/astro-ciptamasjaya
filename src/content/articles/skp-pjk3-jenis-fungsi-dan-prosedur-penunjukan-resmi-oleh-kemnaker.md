@@ -6,8 +6,6 @@ title: 'SKP PJK3: Jenis, Fungsi, dan Prosedur Penunjukan Resmi oleh Kemnaker'
 description: >-
   SKP PJK3 adalah Surat Keputusan Penunjukan yang dikeluarkan oleh Kementerian
   Ketenagakerjaan Republik Indonesia kepada perusahaan maupun tenaga ahli
-  perorangan untuk melaksanakan kegiatan di bidang Keselamatan dan Kesehatan
-  Kerja (K3). Penunjukan ini merupakan bentuk legalisasi resmi yang...
 pubDate: '2025-06-05T11:37:50.000Z'
 updatedDate: '2026-09-09T01:00:04.000Z'
 author: admin
@@ -24,6 +22,9 @@ tags:
   - Riksa Uji K3
 image: /wp-content/uploads/2025/06/skp-pjk3-scaled.jpg
 draft: false
+imageAlt: >-
+  SKP PJK3 adalah surat izin resmi yang diberikan kepada perusahaan dan tenaga
+  ahli untuk menjalankan kegiatan Keselamatan dan Kesehatan Kerja.
 ---
 **SKP PJK3 adalah** Surat Keputusan Penunjukan yang dikeluarkan oleh Kementerian Ketenagakerjaan Republik Indonesia kepada perusahaan maupun tenaga ahli perorangan untuk melaksanakan kegiatan di bidang Keselamatan dan Kesehatan Kerja (K3). Penunjukan ini merupakan bentuk legalisasi resmi yang menetapkan bahwa pihak yang ditunjuk memiliki kompetensi, fasilitas, serta kelayakan untuk melaksanakan tugas-tugas teknis dan administratif terkait K3. SKP PJK3 menjadi dasar hukum yang penting dalam pengawasan dan implementasi sistem K3 di berbagai sektor industri di Indonesia.
 

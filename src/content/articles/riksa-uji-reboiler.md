@@ -6,8 +6,6 @@ title: Riksa Uji Reboiler
 description: >-
   Riksa uji reboiler adalah proses inspeksi yang bertujuan untuk memastikan
   bahwa komponen utama dari sistem pemanasan ulang dalam suatu proses industri,
-  seperti reboiler, dapat berfungsi secara aman dan efisien. Reboiler merupakan
-  alat penukar panas yang sangat penting, berfungsi untuk menguapkan...
 pubDate: '2024-12-09T13:51:23.000Z'
 updatedDate: '2026-09-30T01:00:09.000Z'
 author: Editor
@@ -22,6 +20,10 @@ tags:
   - riksa uji pesawat uap dan bejana tekan
 image: /wp-content/uploads/2024/10/RIksa-Uji-Reboiler-PT-Cipta-Mas-Jaya-scaled.jpg
 draft: false
+imageAlt: >-
+  Riksa uji reboiler adalah proses kritis yang memastikan keamanan dan efisiensi
+  alat penukar panas dalam industri, mencegah kecelakaan serta meningkatkan
+  produktivitas operasional.
 ---
 Riksa uji reboiler adalah proses inspeksi yang bertujuan untuk memastikan bahwa komponen utama dari sistem pemanasan ulang dalam suatu proses industri, seperti **reboiler**, dapat berfungsi secara aman dan efisien. Reboiler merupakan alat penukar panas yang sangat penting, berfungsi untuk menguapkan cairan dalam menara distilasi atau kolom pemisahan lainnya dengan memanfaatkan panas dari sumber eksternal. Proses riksa uji ini termasuk dalam kategori **[riksa uji pesawat uap dan bejana tekan](/2024/09/06/riksa-uji-pesawat-uap-dan-bejana-tekan/)**, mengingat bahwa reboiler bekerja di bawah tekanan dan suhu tinggi untuk memfasilitasi proses penguapan cairan.
 

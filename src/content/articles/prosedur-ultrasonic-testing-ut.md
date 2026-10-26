@@ -6,8 +6,7 @@ title: Prosedur Ultrasonic Testing (UT)
 description: >-
   Prosedur Ultrasonic Testing (UT) adalah serangkaian langkah sistematis dalam
   pengujian non-destruktif yang menggunakan gelombang ultrasonik untuk
-  mendeteksi cacat internal pada material padat tanpa merusaknya. Prosedur
-  Ultrasonic Testing (UT) merupakan pedoman teknis yang digunakan untuk...
+  mendeteksi
 pubDate: '2025-07-22T21:25:09.000Z'
 updatedDate: '2026-09-28T01:00:02.000Z'
 author: admin
@@ -24,6 +23,7 @@ tags:
   - Riksa Uji K3
   - sertifikasi
 draft: false
+imageAlt: Inspeki K3 Riksa Uji PT. Cipta Mas Jaya
 ---
 **Prosedur Ultrasonic Testing (UT) adalah** serangkaian langkah sistematis dalam pengujian non-destruktif yang menggunakan gelombang ultrasonik untuk mendeteksi cacat internal pada material padat tanpa merusaknya.
 

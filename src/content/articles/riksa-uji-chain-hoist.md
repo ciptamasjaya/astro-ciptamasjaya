@@ -6,8 +6,6 @@ title: Riksa Uji Chain Hoist
 description: >-
   Riksa uji chain hoist merupakan bagian dari riksa uji pesawat angkat dan
   pesawat angkut, yang bertujuan memastikan bahwa semua komponen dalam alat ini
-  memenuhi standar keselamatan dan efisiensi kerja. Pemeriksaan ini mencakup
-  evaluasi rantai, pengait, roda gigi, dan mekanisme penggerak untuk...
 pubDate: '2024-11-28T09:52:02.000Z'
 updatedDate: '2026-09-11T01:00:32.000Z'
 author: Editor
@@ -22,6 +20,10 @@ tags:
   - Riksa Uji Pesawat Angkat Angkut
 image: /wp-content/uploads/2024/11/Riksa-Uji-Chain-Hoist-PT-Cipta-Mas-Jaya-scaled.jpg
 draft: false
+imageAlt: >-
+  Riksa uji chain hoist adalah proses inspeksi dan pengujian menyeluruh untuk
+  memastikan keamanan, kelayakan operasional, serta kepatuhan alat angkat ini
+  terhadap standar keselamatan kerja.
 ---
 **Riksa uji chain hoist** merupakan bagian dari **[riksa uji pesawat angkat dan pesawat angkut](/2024/08/21/riksa-uji-k3-pesawat-angkat-dan-angkut/)**, yang bertujuan memastikan bahwa semua komponen dalam alat ini memenuhi **standar keselamatan** dan efisiensi kerja. Pemeriksaan ini mencakup evaluasi **rantai**, **pengait**, **roda gigi**, dan **mekanisme penggerak** untuk mendeteksi **keausan**, **korosi**, atau potensi kerusakan lainnya yang dapat mengganggu kinerja alat atau membahayakan pengguna. Selain itu, komponen pengaman seperti **rem** dan **katup** perlu diperiksa untuk memastikan beban tetap stabil selama diangkat atau diturunkan.
 

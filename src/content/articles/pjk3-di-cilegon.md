@@ -7,8 +7,6 @@ title: PJK3 di Cilegon
 description: >-
   PT. Cipta Mas Jaya adalah salah satu perusahaan PJK3 yang memiliki izin resmi
   dan terdaftar di Kemnaker untuk menyediakan layanan keselamatan dan kesehatan
-  kerja di wilayah Cilegon. Sebagai penyedia jasa K3, PT. Cipta Mas Jaya
-  berfokus pada mendukung berbagai industri di kawasan ini, seperti...
 pubDate: '2024-10-27T13:35:03.000Z'
 updatedDate: '2026-09-13T01:00:12.000Z'
 author: admin
@@ -20,6 +18,10 @@ tags:
   - Riksa Uji
   - Riksa Uji K3
 draft: false
+imageAlt: >-
+  PJK3 adalah perusahaan yang menyediakan layanan keselamatan dan kesehatan
+  kerja untuk memastikan bahwa setiap perusahaan mematuhi standar K3 yang
+  ditetapkan oleh pemerintah.
 ---
 PT. Cipta Mas Jaya adalah salah satu perusahaan PJK3 yang memiliki izin resmi dan terdaftar di Kemnaker untuk menyediakan layanan keselamatan dan kesehatan kerja di wilayah Cilegon. Sebagai penyedia jasa K3, PT. Cipta Mas Jaya berfokus pada mendukung berbagai industri di kawasan ini, seperti industri baja, petrokimia, dan manufaktur. Dengan pengalaman dan tim profesional, perusahaan ini memberikan layanan lengkap, mulai dari pelatihan, inspeksi, hingga pengujian untuk memenuhi kebutuhan K3 perusahaan klien.
 

@@ -6,8 +6,7 @@ title: Riksa Uji K3 Bejana
 description: >-
   Riksa uji K3 bejana, atau inspeksi dan pengujian Keselamatan dan Kesehatan
   Kerja bejana tekan, adalah proses untuk memastikan bejana tekan dalam kondisi
-  aman dan layak digunakan. Bejana tekan seperti tangki penyimpanan dan
-  peralatan bertekanan lainnya perlu diuji secara berkala untuk mencegah...
+  aman
 pubDate: '2025-05-28T18:23:57.000Z'
 updatedDate: '2026-09-15T01:02:14.000Z'
 author: admin
@@ -19,6 +18,15 @@ tags:
   - Riksa Uji K3
 image: /wp-content/uploads/2025/05/riksa-uji-k3-bejana.jpeg
 draft: false
+imageAlt: >-
+  Riksa Uji K3 Bejana adalah proses inspeksi dan pengujian teknis yang bertujuan
+  untuk memastikan bahwa bejana tekan, seperti tangki penyimpanan atau ketel
+  uap, berada dalam kondisi yang aman dan layak untuk dioperasikan. Proses ini
+  melibatkan pemeriksaan dokumentasi, pengujian fisik, serta uji tekanan sesuai
+  dengan standar keselamatan yang ditetapkan dalam peraturan K3. Dengan
+  dilakukannya riksa uji secara berkala, risiko kebocoran, ledakan, atau
+  kegagalan sistem dapat diminimalkan, sehingga keselamatan pekerja dan
+  keberlanjutan operasional perusahaan tetap terjaga.
 ---
 Riksa uji K3 bejana, atau inspeksi dan pengujian Keselamatan dan Kesehatan Kerja bejana tekan, adalah proses untuk memastikan bejana tekan dalam kondisi aman dan layak digunakan. Bejana tekan seperti tangki penyimpanan dan peralatan bertekanan lainnya perlu diuji secara berkala untuk mencegah bahaya seperti ledakan atau kebocoran.
 

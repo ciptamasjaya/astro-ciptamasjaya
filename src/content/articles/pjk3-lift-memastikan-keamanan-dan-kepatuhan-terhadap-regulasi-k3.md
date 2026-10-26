@@ -6,8 +6,6 @@ title: 'PJK3 Lift: Memastikan Keamanan dan Kepatuhan terhadap Regulasi K3'
 description: >-
   PJK3 Lift adalah perusahaan yang memiliki peran penting dalam memastikan bahwa
   lift di berbagai fasilitas beroperasi dengan aman dan memenuhi standar
-  keselamatan yang berlaku. Sebagai lembaga yang diakui, PJK3 Lift bertanggung
-  jawab untuk melakukan inspeksi, pengujian, serta sertifikasi terhadap...
 pubDate: '2024-12-02T10:24:09.000Z'
 updatedDate: '2026-09-28T01:00:05.000Z'
 author: Editor
@@ -20,6 +18,13 @@ tags:
   - Riksa Uji K3
 image: /wp-content/uploads/2024/12/PJK3-Lift-PT-Cipta-Mas-Jaya.jpeg
 draft: false
+imageAlt: >-
+  PJK3 Lift adalah lembaga yang berkompeten dan berlisensi untuk memastikan
+  keamanan serta kelayakan operasional lift melalui proses inspeksi, pengujian,
+  dan sertifikasi sesuai regulasi keselamatan kerja yang berlaku. Berfungsi
+  sebagai mitra penting bagi pengelola gedung, PJK3 Lift bertugas memastikan
+  bahwa semua komponen lift, seperti sistem penggerak, kabel, rem, dan pintu
+  otomatis, beroperasi sesuai standar keselamatan.
 ---
 **[PJK3 Lift adalah](/2024/08/21/riksa-uji-k3-elevator-dan-eskalator/)** perusahaan yang memiliki peran penting dalam memastikan bahwa lift di berbagai fasilitas beroperasi dengan aman dan memenuhi standar keselamatan yang berlaku. Sebagai lembaga yang diakui, PJK3 Lift bertanggung jawab untuk melakukan inspeksi, pengujian, serta sertifikasi terhadap lift yang ada di gedung bertingkat, pusat perbelanjaan, dan fasilitas umum lainnya. Inspeksi dan pengujian berkala yang dilakukan oleh PJK3 Lift memastikan bahwa lift tidak hanya berfungsi dengan baik tetapi juga aman digunakan oleh semua pengunjung dan karyawan. Dengan begitu, PJK3 Lift membantu mencegah potensi kecelakaan yang dapat terjadi akibat kerusakan atau kegagalan sistem lift, serta memastikan kepatuhan terhadap regulasi keselamatan kerja yang telah ditetapkan.
 

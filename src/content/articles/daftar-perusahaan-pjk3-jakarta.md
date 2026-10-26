@@ -7,8 +7,7 @@ title: Daftar Perusahaan PJK3 Jakarta
 description: >-
   PT. Cipta Mas Jaya adalah salah satu perusahaan yang masuk dalam Daftar
   Perusahaan PJK3 Jakarta, yang melayani jasa riksa uji K3 di wilayah Jakarta.
-  Hubungi 08568258841 untuk semua kebutuhan riksa uji Anda. 1. PJK3 PJK3 adalah
-  komponen penting dalam sistem keselamatan dan kesehatan kerja di...
+  Hubungi
 pubDate: '2025-05-29T02:31:40.000Z'
 updatedDate: '2026-10-12T01:04:27.000Z'
 author: admin
@@ -24,6 +23,16 @@ tags:
   - Riksa Uji K3
 image: /wp-content/uploads/2025/05/pjk3-jakarta.jpg
 draft: false
+imageAlt: >-
+  PT. Cipta Mas Jaya merupakan salah satu perusahaan yang secara resmi terdaftar
+  sebagai PJK3 (Perusahaan Jasa Keselamatan dan Kesehatan Kerja) di bawah
+  pengawasan Kementerian Ketenagakerjaan Republik Indonesia. Legalitas ini
+  menegaskan bahwa PT. Cipta Mas Jaya telah memenuhi seluruh persyaratan
+  administratif, teknis, dan personel sebagaimana diatur dalam regulasi K3
+  nasional. Dengan status resmi sebagai PJK3 Jakarta, perusahaan ini memiliki
+  kewenangan penuh untuk melaksanakan kegiatan inspeksi dan riksa uji terhadap
+  alat-alat kerja berisiko tinggi di berbagai sektor industri dan fasilitas
+  publik.
 ---
 PT. Cipta Mas Jaya adalah salah satu perusahaan yang masuk dalam Daftar Perusahaan PJK3 Jakarta, yang melayani jasa riksa uji K3 di wilayah Jakarta. Hubungi 08568258841 untuk semua kebutuhan riksa uji Anda.
 

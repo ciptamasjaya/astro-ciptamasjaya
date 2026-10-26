@@ -6,8 +6,7 @@ title: 'Pengesahan Gambar Disnaker: Memahami Regulasi dengan Tepat'
 description: >-
   Bagi para pengusaha, staf purchasing, maupun staf HSE, memastikan kepatuhan
   terhadap regulasi keselamatan kerja adalah hal yang krusial. Salah satu area
-  yang kerap menimbulkan kesalahpahaman adalah proses pengesahan gambar
-  perencanaan. Banyak yang mungkin masih mengira bahwa pengesahan ini...
+  yang
 pubDate: '2025-07-17T18:56:21.000Z'
 updatedDate: '2026-09-22T01:02:13.000Z'
 author: admin
@@ -25,6 +24,17 @@ tags:
   - sertifikasi
 image: /wp-content/uploads/2025/07/pengesahan-gambar-disnaker-kemnaker.jpeg
 draft: false
+imageAlt: >-
+  Seringkali kita mendengar atau menggunakan istilah &quot;pengesahan gambar
+  Disnaker&quot;. Namun, perlu diketahui bahwa penyebutan ini kurang tepat.
+  Berdasarkan regulasi dan kewenangan yang berlaku di Indonesia, proses
+  pengesahan gambar perencanaan teknis untuk berbagai peralatan dan instalasi
+  kerja (seperti elevator, bejana tekan, pesawat angkat, dan lainnya) adalah
+  ranah dari Kementerian Ketenagakerjaan Republik Indonesia (Kemnaker RI). Dinas
+  Ketenagakerjaan (Disnaker) di tingkat daerah memang memiliki peran dalam
+  pengawasan K3, tetapi untuk validasi dan pengesahan gambar teknis,
+  Kemnaker-lah yang memegang otorisasi penuh demi menjaga standar keselamatan
+  secara nasional.
 ---
 Bagi para pengusaha, staf *purchasing*, maupun staf HSE, memastikan kepatuhan terhadap regulasi keselamatan kerja adalah hal yang krusial. Salah satu area yang kerap menimbulkan kesalahpahaman adalah proses pengesahan gambar perencanaan. Banyak yang mungkin masih mengira bahwa pengesahan ini dilakukan di Disnaker. Padahal, pada saat ini **pengesahan gambar perencanaan terkait peralatan dan instalasi teknis dilakukan sepenuhnya oleh Kementerian Ketenagakerjaan Republik Indonesia (Kemnaker RI), dan bukan oleh Dinas Ketenagakerjaan (Disnaker) daerah.**
 

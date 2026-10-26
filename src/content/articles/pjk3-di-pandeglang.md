@@ -7,8 +7,6 @@ title: PJK3 di Pandeglang
 description: >-
   PT. Cipta Mas Jaya adalah salah satu perusahaan PJK3 yang memiliki izin resmi
   dan terdaftar di Kemnaker untuk menyediakan layanan keselamatan dan kesehatan
-  kerja di wilayah Pandeglang. Sebagai penyedia jasa K3, PT. Cipta Mas Jaya
-  mendukung berbagai industri di kawasan ini, seperti industri...
 pubDate: '2024-10-27T21:57:11.000Z'
 updatedDate: '2026-09-12T01:00:37.000Z'
 author: admin
@@ -20,6 +18,9 @@ tags:
   - Riksa Uji
   - Riksa Uji K3
 draft: false
+imageAlt: >-
+  PJK3 adalah lembaga yang memberikan layanan di bidang keselamatan dan
+  kesehatan kerja untuk mendukung perusahaan dalam mencapai standar K3.
 ---
 **PT. Cipta Mas Jaya** adalah salah satu perusahaan PJK3 yang memiliki izin resmi dan terdaftar di Kemnaker untuk menyediakan layanan keselamatan dan kesehatan kerja di wilayah Pandeglang. Sebagai penyedia jasa K3, PT. Cipta Mas Jaya mendukung berbagai industri di kawasan ini, seperti industri pertanian, perkebunan, dan pengolahan hasil bumi. Dengan pengalaman dan tim profesional, perusahaan ini menawarkan layanan lengkap, mulai dari pelatihan, inspeksi, hingga pengujian untuk memenuhi kebutuhan K3 perusahaan klien.
 

@@ -6,8 +6,7 @@ title: 'Pengesahan Gambar Pesawat Tenaga dan Produksi: Fondasi Keselamatan Indus
 description: >-
   Pengesahan Gambar Pesawat Tenaga dan Produksi adalah proses penilaian dan
   persetujuan teknis terhadap rancangan (gambar) alat atau instalasi yang
-  termasuk dalam kategori pesawat tenaga dan produksi, yang dilakukan oleh
-  Kementerian Ketenagakerjaan Republik Indonesia (Kemnaker RI). Proses ini...
+  termasuk
 pubDate: '2025-07-18T05:41:47.000Z'
 updatedDate: '2026-09-22T01:02:11.000Z'
 author: admin
@@ -26,6 +25,11 @@ tags:
 image: >-
   /wp-content/uploads/2025/07/pengesahan-gambar-pesawat-tenaga-dan-produksi-02.jpeg
 draft: false
+imageAlt: >-
+  Pengesahan Gambar Pesawat Tenaga dan Produksi adalah proses verifikasi dan
+  persetujuan gambar rencana oleh Kementerian Ketenagakerjaan untuk memastikan
+  bahwa desain pesawat tenaga dan produksi telah memenuhi standar keselamatan
+  kerja sesuai peraturan yang berlaku.
 ---
 Pengesahan Gambar Pesawat Tenaga dan Produksi adalah **proses penilaian dan persetujuan teknis terhadap rancangan (gambar) alat atau instalasi yang termasuk dalam kategori pesawat tenaga dan produksi, yang dilakukan oleh Kementerian Ketenagakerjaan Republik Indonesia (Kemnaker RI).**
 

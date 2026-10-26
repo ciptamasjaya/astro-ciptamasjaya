@@ -4,10 +4,8 @@ type: article
 slug: riksa-uji-eskalator
 title: Riksa Uji Eskalator
 description: >-
-  Riksa uji eskalator adalah proses pemeriksaan dan pengujian yang dilakukan
-  secara berkala untuk memastikan bahwa eskalator beroperasi dengan aman dan
-  efisien. Proses ini bertujuan untuk mendeteksi kerusakan atau potensi bahaya
-  yang mungkin timbul akibat keausan komponen atau kegagalan mekanik...
+  Riksa uji eskalator adalah proses pemeriksaan yang dilakukan untuk memastikan
+  bahwa eskalator beroperasi dengan aman dan efisien.
 pubDate: '2024-09-19T15:28:18.000Z'
 updatedDate: '2026-09-19T01:02:53.000Z'
 author: Editor
@@ -20,6 +18,10 @@ tags:
   - Riksa Uji K3
 image: /wp-content/uploads/2024/09/Riksa-Uji-Eskalator-PT-Cipta-Mas-Jaya.jpg
 draft: false
+imageAlt: >-
+  Riksa uji eskalator adalah proses inspeksi dan pengujian berkala yang
+  dilakukan untuk memastikan keselamatan, kinerja, dan keandalan operasional
+  eskalator, serta mematuhi regulasi keselamatan yang berlaku.
 ---
 Riksa uji eskalator adalah proses pemeriksaan dan pengujian yang dilakukan secara berkala untuk memastikan bahwa eskalator beroperasi dengan aman dan efisien. Proses ini bertujuan untuk mendeteksi kerusakan atau potensi bahaya yang mungkin timbul akibat keausan komponen atau kegagalan mekanik.
 

@@ -7,8 +7,7 @@ title: PJK3 di Tangerang
 description: >-
   PT. Cipta Mas Jaya adalah perusahaan PJK3 yang berlisensi resmi dari Kemnaker
   untuk menyediakan layanan keselamatan dan kesehatan kerja di wilayah
-  Tangerang. Perusahaan ini fokus pada mendukung industri di kawasan Tangerang,
-  seperti manufaktur, petrokimia, dan baja. Dengan pengalaman luas serta...
+  Tangerang.
 pubDate: '2024-10-27T19:58:34.000Z'
 updatedDate: '2026-09-12T01:00:35.000Z'
 author: admin
@@ -20,6 +19,12 @@ tags:
   - Riksa Uji
   - Riksa Uji K3
 draft: false
+imageAlt: >-
+  PJK3 adalah singkatan dari Perusahaan Jasa Keselamatan dan Kesehatan Kerja,
+  yaitu perusahaan yang menyediakan layanan profesional untuk memastikan
+  keselamatan dan kesehatan di tempat kerja. PJK3 memiliki peran penting dalam
+  membantu perusahaan menerapkan standar K3, termasuk dalam hal pelatihan,
+  inspeksi, dan audit, guna mencegah risiko kecelakaan kerja.
 ---
 PT. Cipta Mas Jaya adalah perusahaan PJK3 yang berlisensi resmi dari Kemnaker untuk menyediakan layanan keselamatan dan kesehatan kerja di wilayah Tangerang. Perusahaan ini fokus pada mendukung industri di kawasan Tangerang, seperti manufaktur, petrokimia, dan baja. Dengan pengalaman luas serta tim profesional yang terampil, PT. Cipta Mas Jaya menyediakan layanan lengkap, mulai dari pelatihan, inspeksi, hingga pengujian, untuk memenuhi kebutuhan keselamatan kerja kliennya.
 

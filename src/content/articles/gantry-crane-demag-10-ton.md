@@ -6,8 +6,7 @@ title: 'Gantry Crane : Demag 10 Ton'
 description: >-
   Gantry Crane Demag 10 Ton adalah jenis crane yang dirancang untuk mengangkat
   dan memindahkan beban berat hingga 10 ton dengan presisi dan efisiensi. Crane
-  ini biasanya digunakan di area industri, pabrik, dan gudang untuk menangani
-  material besar dan berat. Dengan sistem penggerak yang dapat...
+  ini
 pubDate: '2024-10-15T02:38:14.000Z'
 updatedDate: '2026-09-09T01:00:07.000Z'
 author: admin
@@ -20,6 +19,12 @@ tags:
   - Riksa Uji
 image: /wp-content/uploads/2024/10/gantry-crane-demag-10-Ton.jpeg
 draft: false
+imageAlt: >-
+  Riksa Uji Gantry Crane adalah proses pemeriksaan dan pengujian menyeluruh
+  untuk memastikan crane memenuhi standar keselamatan, kinerja, dan kelayakan
+  operasional. Proses ini mencakup pemeriksaan visual, pengujian operasional,
+  pengujian teknis, dan Non-Destruktif (NDT), serta pengujian beban untuk
+  memastikan crane mampu berfungsi dengan aman dan efisien sesuai kapasitasnya.
 ---
 **Gantry Crane Demag 10 Ton** adalah jenis crane yang dirancang untuk mengangkat dan memindahkan beban berat hingga 10 ton dengan presisi dan efisiensi. Crane ini biasanya digunakan di area industri, pabrik, dan gudang untuk menangani material besar dan berat. Dengan sistem penggerak yang dapat bergerak baik secara horizontal maupun vertikal, **Gantry Crane Demag 10 Ton** menawarkan fleksibilitas operasional yang tinggi, baik di dalam ruangan maupun di luar ruangan. Crane ini dilengkapi dengan teknologi modern untuk memastikan keselamatan operasional, termasuk fitur keamanan seperti rem darurat dan sensor beban berlebih, yang menjadikannya alat yang andal dalam industri berat.
 

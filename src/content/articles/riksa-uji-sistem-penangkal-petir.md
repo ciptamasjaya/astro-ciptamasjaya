@@ -4,10 +4,8 @@ type: article
 slug: riksa-uji-sistem-penangkal-petir
 title: Riksa Uji Sistem Penangkal Petir
 description: >-
-  Riksa Uji Penyalur Petir adalah proses pemeriksaan dan pengujian yang meliputi
-  pemeriksaan fisik terhadap komponen utama seperti batang penangkal petir,
-  konduktor, dan grounding (sistem pembumian) untuk mendeteksi adanya korosi,
-  kerusakan, atau gangguan yang dapat mengurangi efektivitas sistem...
+  Riksa uji terhadap sistem penangkal petir untuk memastikan perlindungan
+  bangunan dari dampak petir yang dapat merusak barang.
 pubDate: '2024-08-26T16:58:55.000Z'
 updatedDate: '2026-10-14T01:03:41.000Z'
 author: Editor
@@ -15,6 +13,7 @@ category: artikel
 tags: []
 image: /wp-content/uploads/2024/08/riksa-uji-k3-petir-pt-cipta-mas-jaya-001-1.png
 draft: false
+imageAlt: riksa-uji-k3-petir-pt-cipta-mas-jaya-001
 ---
 **Riksa Uji Penyalur Petir** adalah proses pemeriksaan dan pengujian yang meliputi pemeriksaan fisik terhadap komponen utama seperti batang penangkal petir, konduktor, dan grounding (sistem pembumian) untuk mendeteksi adanya korosi, kerusakan, atau gangguan yang dapat mengurangi efektivitas sistem. Pemeriksaan ini bertujuan memastikan bahwa semua komponen berfungsi dengan baik.
 

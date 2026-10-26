@@ -6,8 +6,7 @@ title: Sewa Water Bag
 description: >-
   Sewa Water Bag adalah layanan pengadaan kantong air khusus yang digunakan
   sebagai beban uji pada berbagai peralatan angkat, seperti crane, davit,
-  lifeboat, dan sistem hoist lainnya. Dengan kemampuannya menyesuaikan berat
-  secara presisi melalui volume air, water bag menjadi solusi yang fleksibel...
+  lifeboat,
 pubDate: '2025-06-14T18:53:05.000Z'
 updatedDate: '2026-09-27T01:00:21.000Z'
 author: admin
@@ -24,6 +23,13 @@ tags:
   - Riksa Uji K3
 image: /wp-content/uploads/2025/06/sewa-water-bag.jpeg
 draft: false
+imageAlt: >-
+  Sewa Water Bag adalah layanan penyediaan kantong air berkapasitas tinggi yang
+  digunakan sebagai beban uji dalam proses pengujian alat angkat seperti crane,
+  hoist, davit, dan lifeboat. Water bag memungkinkan simulasi beban kerja dengan
+  cara yang aman, efisien, dan fleksibel karena beratnya dapat disesuaikan
+  dengan volume air yang diisi, menjadikannya solusi ideal untuk berbagai sektor
+  industri.
 ---
 **Sewa Water Bag adalah** layanan pengadaan kantong air khusus yang digunakan sebagai beban uji pada berbagai peralatan angkat, seperti crane, davit, lifeboat, dan sistem hoist lainnya. Dengan kemampuannya menyesuaikan berat secara presisi melalui volume air, water bag menjadi solusi yang fleksibel, efisien, dan aman dalam proses load test baik di lapangan terbuka maupun area terbatas.
 

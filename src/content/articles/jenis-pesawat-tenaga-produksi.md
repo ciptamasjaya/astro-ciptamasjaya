@@ -3,11 +3,7 @@ id: 838
 type: article
 slug: jenis-pesawat-tenaga-produksi
 title: Jenis-Jenis Pesawat Tenaga dan Produksi Beserta Fungsinya
-description: >-
-  Jenis-jenis pesawat tenaga dan produksi adalah berbagai alat atau mesin yang
-  digunakan untuk menghasilkan energi dan mendukung proses produksi di
-  lingkungan industri. Pesawat tenaga mencakup mesin-mesin seperti turbin, motor
-  listrik, dan mesin diesel yang berfungsi sebagai penggerak utama...
+description: "Jenis-jenis Pesawat Tenaga Produksi antara lain adalah:\_penggerak mula, transmisi tenaga, mesin perkakas dan produksi:\_, tanur."
 pubDate: '2024-08-28T14:42:01.000Z'
 updatedDate: '2026-09-14T01:00:41.000Z'
 author: admin
@@ -25,6 +21,7 @@ tags:
 image: >-
   /wp-content/uploads/2024/08/riksa-uji-k3-steam-turbin-pt-cipta-mas-jaya-001.jpg
 draft: false
+imageAlt: Riksa Uji K3 Steam Turbine PT. Cipta Mas Jaya
 ---
 Jenis-jenis pesawat tenaga dan produksi adalah berbagai alat atau mesin yang digunakan untuk menghasilkan energi dan mendukung proses produksi di lingkungan industri. Pesawat tenaga mencakup mesin-mesin seperti turbin, motor listrik, dan mesin diesel yang berfungsi sebagai penggerak utama. Sementara itu, pesawat produksi meliputi peralatan seperti mesin bubut, mesin frais, mesin press, dan mesin las yang digunakan langsung dalam proses pembentukan atau perakitan suatu produk. Kedua jenis pesawat ini memiliki peran penting dalam meningkatkan efisiensi dan produktivitas kerja, serta harus dioperasikan sesuai standar keselamatan kerja untuk menghindari kecelakaan dan kerusakan alat.
 

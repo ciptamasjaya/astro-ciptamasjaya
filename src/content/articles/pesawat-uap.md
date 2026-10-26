@@ -6,8 +6,7 @@ title: Pesawat Uap
 description: >-
   Pesawat uap adalah alat atau instalasi yang menggunakan energi panas untuk
   menghasilkan uap air bertekanan, yang kemudian digunakan untuk menggerakkan
-  mesin atau peralatan lainnya. Uap yang dihasilkan biasanya berasal dari
-  pemanasan air melalui pembakaran bahan bakar atau sumber panas lainnya...
+  mesin
 pubDate: '2025-05-22T09:01:27.000Z'
 updatedDate: '2026-09-02T01:00:08.000Z'
 author: admin
@@ -22,6 +21,9 @@ tags:
   - riksa uji pesawat uap dan bejana tekan
 image: /wp-content/uploads/2025/05/pesawat-uap.jpeg
 draft: false
+imageAlt: >-
+  Pesawat uap adalah alat yang menghasilkan uap bertekanan dari pemanasan air
+  untuk menggerakkan mesin atau peralatan.
 ---
 Pesawat uap adalah alat atau instalasi yang menggunakan energi panas untuk menghasilkan uap air bertekanan, yang kemudian digunakan untuk menggerakkan mesin atau peralatan lainnya. Uap yang dihasilkan biasanya berasal dari pemanasan air melalui pembakaran bahan bakar atau sumber panas lainnya. Pesawat uap termasuk dalam kategori pesawat tenaga dan memiliki risiko tinggi, sehingga penggunaannya diatur oleh peraturan perundang-undangan terkait keselamatan kerja.
 

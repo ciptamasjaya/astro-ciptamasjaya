@@ -6,8 +6,6 @@ title: NDT Ultrasonic Testing adalah
 description: >-
   NDT Ultrasonic Testing adalah teknik inspeksi yang digunakan untuk memeriksa
   integritas internal suatu material atau komponen dengan menggunakan gelombang
-  suara frekuensi tinggi. Pengujian ini bersifat non-destruktif, artinya tidak
-  merusak benda uji, sehingga sangat ideal digunakan pada komponen...
 pubDate: '2025-06-15T02:21:26.000Z'
 updatedDate: '2026-09-06T01:00:08.000Z'
 author: admin
@@ -23,6 +21,7 @@ tags:
   - Riksa Uji
   - Riksa Uji K3
 draft: false
+imageAlt: Inspeki K3 Riksa Uji PT. Cipta Mas Jaya
 ---
 NDT Ultrasonic Testing adalah teknik inspeksi yang digunakan untuk memeriksa integritas internal suatu material atau komponen dengan menggunakan gelombang suara frekuensi tinggi. Pengujian ini bersifat non-destruktif, artinya tidak merusak benda uji, sehingga sangat ideal digunakan pada komponen penting dalam industri seperti perminyakan, konstruksi, penerbangan, dan manufaktur.
 

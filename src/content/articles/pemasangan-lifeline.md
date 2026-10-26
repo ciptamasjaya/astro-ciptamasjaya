@@ -6,8 +6,6 @@ title: Pemasangan Lifeline
 description: >-
   Pemasangan lifeline adalah kegiatan instalasi sistem pengaman berupa tali atau
   kabel baja yang dirancang untuk melindungi pekerja dari risiko jatuh saat
-  bekerja di ketinggian. Proses ini mencakup penempatan anchor point, pemasangan
-  tali utama, dan penyambungan alat pengaman pribadi seperti...
 pubDate: '2025-07-09T23:18:51.000Z'
 updatedDate: '2026-10-03T01:00:04.000Z'
 author: admin
@@ -25,6 +23,12 @@ tags:
   - sertifikasi
 image: /wp-content/uploads/2025/07/pemasangan-lifeline.png
 draft: false
+imageAlt: >-
+  Pemasangan lifeline adalah bagian dari upaya perlindungan pekerja yang bekerja
+  di area berisiko tinggi terhadap jatuh, dengan cara memasang sistem pengaman
+  horizontal atau vertikal di titik-titik strategis. Instalasi ini harus
+  dilakukan oleh tenaga profesional agar sistem lifeline dapat berfungsi optimal
+  dalam menahan beban saat terjadi insiden jatuh.
 ---
 **Pemasangan lifeline adalah** kegiatan instalasi sistem pengaman berupa tali atau kabel baja yang dirancang untuk melindungi pekerja dari risiko jatuh saat bekerja di ketinggian. Proses ini mencakup penempatan anchor point, pemasangan tali utama, dan penyambungan alat pengaman pribadi seperti harness dengan standar teknis yang ditetapkan dalam regulasi K3.
 

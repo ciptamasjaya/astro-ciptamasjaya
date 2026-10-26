@@ -6,8 +6,6 @@ title: Riksa Uji Fire Pump
 description: >-
   Riksa uji fire pump adalah proses penting yang dilakukan untuk memastikan
   bahwa sistem pemadam kebakaran berfungsi dengan baik dan siap digunakan dalam
-  keadaan darurat. Fire pump, atau pompa kebakaran, adalah perangkat yang
-  dirancang untuk memompa air atau bahan pemadam lainnya ke area yang...
 pubDate: '2024-10-14T16:22:29.000Z'
 updatedDate: '2026-08-31T01:02:05.000Z'
 author: Editor
@@ -20,6 +18,12 @@ tags:
   - Riksa Uji K3
 image: /wp-content/uploads/2024/10/Riksa-Uji-Fire-Pump-PT-Cipta-Mas-Jaya--scaled.jpg
 draft: false
+imageAlt: >-
+  Riksa uji fire pump adalah pemeriksaan pompa kebakaran untuk memastikan
+  kinerjanya sesuai standar keselamatan. Proses ini mencakup pengujian tekanan
+  dan aliran air, pemeriksaan komponen mekanis seperti motor dan pipa, serta
+  evaluasi sistem pengaman guna memastikan pompa siap beroperasi secara optimal
+  dalam situasi darurat kebakaran.
 ---
 **[Riksa uji fire pump](/2022/02/25/riksa-uji-instalasi-proteksi-kebakaran/)** adalah proses penting yang dilakukan untuk memastikan bahwa sistem pemadam kebakaran berfungsi dengan baik dan siap digunakan dalam keadaan darurat. Fire pump, atau pompa kebakaran, adalah perangkat yang dirancang untuk memompa air atau bahan pemadam lainnya ke area yang terkena api. Dalam setiap instalasi pemadam kebakaran, fire pump memiliki peranan krusial untuk menyuplai tekanan dan volume air yang dibutuhkan guna memadamkan api secara efisien. Riksa uji yang rutin dan menyeluruh dapat membantu mendeteksi potensi masalah sebelum menjadi serius, menjaga keselamatan dan keamanan fasilitas, serta melindungi nyawa dan harta benda.
 

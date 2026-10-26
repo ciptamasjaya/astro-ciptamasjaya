@@ -12,6 +12,7 @@ tags: []
 image: >-
   /wp-content/uploads/2022/02/cipta-mas-jaya-riksa-uji-kalibrasi-safety-valve-02.jpg
 draft: false
+imageAlt: Kalibrasi Safety Valve
 ---
 Kalibrasi Safety Valve
 

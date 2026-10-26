@@ -6,9 +6,7 @@ title: Syarat Lift Rumah Sakit
 description: >-
   Syarat lift rumah sakit adalah ketentuan teknis dan fungsional yang harus
   dipenuhi oleh sistem lift agar dapat digunakan secara aman, efisien, dan
-  sesuai kebutuhan medis. Lift di rumah sakit harus mampu mengakomodasi
-  pergerakan pasien dengan tandu, tenaga medis, serta peralatan kesehatan.
-  Selain...
+  sesuai
 pubDate: '2025-05-30T01:12:18.000Z'
 updatedDate: '2026-09-13T01:00:10.000Z'
 author: admin
@@ -24,6 +22,14 @@ tags:
   - Riksa Uji K3
 image: /wp-content/uploads/2025/05/syarat-lift-rumah-sakit.jpg
 draft: false
+imageAlt: >-
+  Syarat lift rumah sakit merupakan bagian penting dari perencanaan dan
+  pengelolaan fasilitas kesehatan yang berfokus pada keselamatan pasien dan
+  kelancaran pelayanan. Ketentuan ini mencakup ukuran kabin, kapasitas beban,
+  pemisahan fungsi (seperti lift bersih dan kotor), hingga pemenuhan standar
+  konstruksi dan regulasi pemerintah. Memastikan lift rumah sakit memenuhi
+  persyaratan ini berarti melindungi nyawa serta mendukung efisiensi operasional
+  harian.
 ---
 **Syarat lift rumah sakit adalah** ketentuan teknis dan fungsional yang harus dipenuhi oleh sistem lift agar dapat digunakan secara aman, efisien, dan sesuai kebutuhan medis. Lift di rumah sakit harus mampu mengakomodasi pergerakan pasien dengan tandu, tenaga medis, serta peralatan kesehatan. Selain itu, lift juga perlu dilengkapi sistem darurat dan standar keselamatan tertentu guna mendukung operasional rumah sakit yang berisiko tinggi.
 

@@ -6,8 +6,7 @@ title: 'Inspeksi: Pengertian, Jenis, dan Tujuannya dalam Dunia Industri'
 description: >-
   Inspeksi adalah proses sistematis untuk mengevaluasi kondisi suatu objek,
   sistem, atau proses dengan tujuan memastikan kesesuaiannya terhadap standar
-  atau spesifikasi tertentu. Kegiatan ini mencakup pengamatan, pengukuran, dan
-  pengujian dengan metode tertentu untuk mendeteksi ketidaksesuaian...
+  atau
 pubDate: '2025-05-25T15:02:35.000Z'
 updatedDate: '2026-10-01T01:00:29.000Z'
 author: admin
@@ -24,6 +23,12 @@ tags:
   - sertifikasi
 image: /wp-content/uploads/2025/05/inspeksi.jpeg
 draft: false
+imageAlt: >-
+  Inspeksi adalah proses pemeriksaan secara cermat terhadap suatu objek, produk,
+  atau proses dengan tujuan memastikan kesesuaian terhadap standar kualitas,
+  keamanan, dan spesifikasi yang telah ditetapkan. Aktivitas ini sangat penting
+  dalam berbagai bidang industri untuk mencegah cacat, risiko, dan memastikan
+  produk atau layanan memenuhi harapan pelanggan.
 ---
 Inspeksi adalah proses sistematis untuk mengevaluasi kondisi suatu objek, sistem, atau proses dengan tujuan memastikan kesesuaiannya terhadap standar atau spesifikasi tertentu. Kegiatan ini mencakup pengamatan, pengukuran, dan pengujian dengan metode tertentu untuk mendeteksi ketidaksesuaian, cacat, atau potensi bahaya.
 

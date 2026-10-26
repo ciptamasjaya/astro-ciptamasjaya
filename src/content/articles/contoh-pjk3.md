@@ -6,9 +6,7 @@ title: Contoh PJK3
 description: >-
   PT Cipta Mas Jaya, PT Sucofindo, dan PT Surveyor Indonesia merupakan contoh
   PJK3 yang telah resmi ditunjuk oleh Kementerian Ketenagakerjaan untuk
-  memberikan layanan di bidang keselamatan dan kesehatan kerja.
-  Perusahaan-perusahaan ini menyediakan jasa seperti pelatihan K3, audit,
-  pengujian...
+  memberikan
 pubDate: '2025-05-25T15:33:04.000Z'
 updatedDate: '2026-10-07T01:02:48.000Z'
 author: admin
@@ -23,6 +21,9 @@ tags:
   - Riksa Uji K3
 image: /wp-content/uploads/2025/05/contoh-pjk3.jpeg
 draft: false
+imageAlt: >-
+  PT Cipta Mas Jaya adalah salah satu contoh PJK3 yang aktif dalam layanan
+  pengujian teknik dan pelatihan keselamatan kerja.
 ---
 PT Cipta Mas Jaya, PT Sucofindo, dan PT Surveyor Indonesia merupakan contoh PJK3 yang telah resmi ditunjuk oleh Kementerian Ketenagakerjaan untuk memberikan layanan di bidang keselamatan dan kesehatan kerja. Perusahaan-perusahaan ini menyediakan jasa seperti pelatihan K3, audit, pengujian teknis, hingga inspeksi peralatan kerja sesuai standar yang berlaku. Keberadaan mereka membantu dunia industri dalam menerapkan sistem manajemen K3 yang efektif dan mematuhi regulasi pemerintah secara menyeluruh.
 

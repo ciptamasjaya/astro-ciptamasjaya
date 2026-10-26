@@ -6,9 +6,7 @@ title: Sistem Pembumian Elektronik
 description: >-
   Sistem pembumian elektronik (grounding system) adalah sistem yang
   menghubungkan bagian-bagian sistem listrik dengan bumi (tanah) untuk
-  melindungi manusia dan peralatan dari bahaya listrik. Sistem ini juga
-  berfungsi untuk menyalurkan arus kebocoran atau arus gangguan ke tanah,
-  sehingga mencegah...
+  melindungi manusia dan
 pubDate: '2025-05-30T17:25:35.000Z'
 updatedDate: '2026-08-28T01:02:09.000Z'
 author: admin
@@ -25,6 +23,15 @@ tags:
   - Riksa Uji K3
 image: /wp-content/uploads/2025/05/sistem-pembumian-elektronik.jpeg
 draft: false
+imageAlt: >-
+  Sistem pembumian elektronik adalah metode yang digunakan untuk menghubungkan
+  bagian logam dari instalasi listrik ke tanah guna mengalirkan arus bocor atau
+  gangguan secara aman. Sistem ini berfungsi sebagai pengaman utama dalam
+  instalasi listrik, karena mampu mencegah sengatan listrik, melindungi
+  peralatan dari lonjakan tegangan, dan menjaga stabilitas sistem secara
+  keseluruhan. Dengan pembumian yang baik, potensi bahaya listrik dapat
+  dikendalikan dan risiko kecelakaan kerja atau kerusakan alat dapat
+  diminimalkan.
 ---
 Sistem pembumian elektronik (grounding system) adalah sistem yang menghubungkan bagian-bagian sistem listrik dengan bumi (tanah) untuk melindungi manusia dan peralatan dari bahaya listrik. Sistem ini juga berfungsi untuk menyalurkan arus kebocoran atau arus gangguan ke tanah, sehingga mencegah tegangan tinggi dan sengatan listrik.
 

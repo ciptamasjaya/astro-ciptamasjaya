@@ -4,10 +4,9 @@ type: article
 slug: sertifikat-pjk3
 title: 'Sertifikat PJK3 PT. Cipta Mas Jaya: Kepemilikan dan Bidang Kompetensi'
 description: >-
-  Sertifikat PJK3 adalah dokumen resmi yang dikeluarkan oleh otoritas terkait
-  untuk mengesahkan kompetensi perusahaan atau individu dalam melaksanakan tugas
-  yang berhubungan dengan keselamatan dan kesehatan kerja. Sertifikasi PJK3 ini
-  sangat penting untuk memastikan bahwa semua prosedur dan...
+  Pentingnya sertifikat yang masih berlaku ini tidak hanya untuk memastikan
+  kepatuhan terhadap regulasi, tetapi juga untuk menjamin kualitas dan
+  integritas
 pubDate: '2024-09-11T17:31:24.000Z'
 updatedDate: '2026-10-14T01:03:45.000Z'
 author: admin
@@ -19,6 +18,13 @@ tags:
 image: >-
   /wp-content/uploads/2024/09/tenaga-ahli-pjk3-riksa-uji-pt.cipta-mas-jaya-dengan-sertifikat-k3-pesawat-uap-dan-bejana-tekan-blending-tank.jpg
 draft: false
+imageAlt: >-
+  Sertifikat PJK3 adalah dokumen resmi yang diterbitkan oleh Kementerian
+  Ketenagakerjaan sebagai bukti bahwa suatu perusahaan telah memenuhi
+  persyaratan teknis dan administratif untuk menjadi penyedia jasa di bidang
+  Keselamatan dan Kesehatan Kerja (K3). Sertifikat ini menunjukkan bahwa
+  perusahaan tersebut memiliki kompetensi dan otoritas untuk melakukan riksa
+  uji, pelatihan, atau layanan K3 lainnya.
 ---
 **Sertifikat PJK3** adalah dokumen resmi yang dikeluarkan oleh otoritas terkait untuk mengesahkan kompetensi perusahaan atau individu dalam melaksanakan tugas yang berhubungan dengan keselamatan dan kesehatan kerja.
 

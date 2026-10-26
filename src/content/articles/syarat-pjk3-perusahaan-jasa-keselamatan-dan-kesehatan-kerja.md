@@ -4,10 +4,8 @@ type: article
 slug: syarat-pjk3-perusahaan-jasa-keselamatan-dan-kesehatan-kerja
 title: Syarat PJK3 (Perusahaan Jasa Keselamatan dan Kesehatan Kerja)
 description: >-
-  Perusahaan Jasa Keselamatan dan Kesehatan Kerja (PJK3) adalah entitas yang
-  berperan penting dalam menciptakan lingkungan kerja yang aman dan sehat. Dalam
-  lingkungan industri yang kompleks, peran PJK3 tidak hanya membantu perusahaan
-  memenuhi standar keselamatan kerja, tetapi juga melindungi aset...
+  Pemenuhan legalitas, kompetensi teknis, dan kelengkapan sarana adalah syarat
+  utama bagi PJK3 untuk memberikan layanan keselamatan kerja yang terpercaya.
 pubDate: '2024-12-02T09:50:55.000Z'
 updatedDate: '2026-09-29T01:00:21.000Z'
 author: Editor
@@ -21,6 +19,9 @@ tags:
   - Riksa Uji K3
 image: /wp-content/uploads/2024/12/PJK3-PT-Cipta-Mas-Jaya.jpg
 draft: false
+imageAlt: >-
+  Pemenuhan legalitas, kompetensi teknis, dan kelengkapan sarana adalah syarat
+  utama bagi PJK3 untuk memberikan layanan keselamatan kerja yang terpercaya.
 ---
 [**Perusahaan Jasa Keselamatan dan Kesehatan Kerja (PJK3) adalah**](/about/pjk3/) entitas yang berperan penting dalam menciptakan lingkungan kerja yang aman dan sehat. Dalam lingkungan industri yang kompleks, peran PJK3 tidak hanya membantu perusahaan memenuhi standar keselamatan kerja, tetapi juga melindungi aset berharga, termasuk karyawan, peralatan, dan fasilitas. Dengan keahlian di bidang keselamatan dan kesehatan kerja, PJK3 memastikan semua proses operasional berjalan sesuai dengan ketentuan yang berlaku.
 

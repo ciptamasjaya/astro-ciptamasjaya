@@ -6,8 +6,6 @@ title: 'Pengesahan Gambar Pesawat Angkat Angkut: Memastikan Keamanan dan Kepatuh
 description: >-
   Pengesahan gambar pesawat angkat angkut merupakan langkah krusial dalam
   menjamin bahwa setiap rancangan alat angkat dan alat angkut memenuhi standar
-  keselamatan dan regulasi teknis yang berlaku. Proses ini tidak hanya berdampak
-  pada kelayakan operasional alat, tetapi juga berkaitan langsung...
 pubDate: '2025-07-26T23:30:40.000Z'
 updatedDate: '2026-10-05T01:00:59.000Z'
 author: admin
@@ -25,6 +23,16 @@ tags:
   - sertifikasi
 image: /wp-content/uploads/2025/07/pengesahan-gambar-pesawat-angkat-angkut-1.jpeg
 draft: false
+imageAlt: >-
+  Pengesahan gambar pesawat angkat angkut adalah proses formal yang wajib
+  dilakukan untuk memverifikasi dan menyetujui desain teknis serta spesifikasi
+  keselamatan dari setiap pesawat angkat dan pesawat angkut. Proses ini
+  melibatkan evaluasi mendalam terhadap gambar-gambar teknik, perhitungan
+  struktural, diagram sistem mekanis, elektrikal, dan kontrol, serta material
+  yang digunakan. Tujuannya adalah untuk memastikan bahwa desain pesawat
+  tersebut memenuhi standar keselamatan, regulasi teknis yang berlaku, dan
+  persyaratan perundang-undangan demi mencegah kecelakaan kerja dan menjamin
+  operasional yang aman dan efisien.
 ---
 Pengesahan gambar pesawat angkat angkut merupakan langkah krusial dalam menjamin bahwa setiap rancangan alat angkat dan alat angkut memenuhi standar keselamatan dan regulasi teknis yang berlaku. Proses ini tidak hanya berdampak pada kelayakan operasional alat, tetapi juga berkaitan langsung dengan keselamatan kerja, efisiensi produksi, dan kepatuhan hukum dalam lingkungan industri.
 

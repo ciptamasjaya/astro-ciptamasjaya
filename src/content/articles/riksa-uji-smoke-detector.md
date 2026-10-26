@@ -6,8 +6,7 @@ title: Riksa Uji Smoke Detector
 description: >-
   Riksa uji smoke detector merupakan salah satu langkah penting dalam menjaga
   keselamatan di berbagai fasilitas industri, gedung perkantoran, maupun
-  perumahan. Smoke detector memiliki peran utama dalam mendeteksi asap yang
-  dapat mengindikasikan adanya kebakaran. Dengan kemampuan mendeteksi asap...
+  perumahan.
 pubDate: '2024-11-26T14:36:34.000Z'
 updatedDate: '2026-09-30T01:00:10.000Z'
 author: Editor
@@ -21,6 +20,12 @@ tags:
   - riksa uji sarana proteksi kebakaran
 image: /wp-content/uploads/2024/11/Riksa-Uji-Smoke-Detector-PT-Cipta-Mas-Jaya.jpeg
 draft: false
+imageAlt: >-
+  Riksa uji smoke detector adalah langkah krusial untuk memastikan bahwa sistem
+  deteksi asap berfungsi secara optimal, mampu memberikan peringatan dini, dan
+  menjaga keselamatan dari potensi kebakaran dengan memastikan alat deteksi
+  kebakaran selalu dalam kondisi siap pakai dan sesuai standar keselamatan yang
+  berlaku.
 ---
 Riksa uji **smoke detector** merupakan salah satu langkah penting dalam menjaga keselamatan di berbagai fasilitas industri, gedung perkantoran, maupun perumahan. Smoke detector memiliki peran utama dalam mendeteksi asap yang dapat mengindikasikan adanya kebakaran. Dengan kemampuan mendeteksi asap secara dini, alat ini memberikan peringatan kepada penghuni atau pekerja, memungkinkan mereka untuk segera melakukan tindakan evakuasi atau pemadaman kebakaran. Oleh karena itu, memastikan fungsionalitas smoke detector melalui riksa uji yang rutin adalah hal yang sangat penting untuk mencegah potensi kerusakan yang lebih besar akibat kebakaran.
 

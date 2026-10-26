@@ -6,8 +6,7 @@ title: 'Riksa Uji Overhead Crane: Henan Weiji Crane 16 Ton'
 description: >-
   Riksa Uji Overhead Crane adalah proses pemeriksaan dan pengujian yang
   komprehensif terhadap overhead crane untuk memastikan bahwa alat tersebut
-  berfungsi dengan aman dan sesuai dengan standar keselamatan kerja yang
-  berlaku. Proses ini mencakup berbagai tahapan, termasuk pemeriksaan visual...
+  berfungsi
 pubDate: '2024-10-15T18:20:23.000Z'
 updatedDate: '2026-08-26T01:00:05.000Z'
 author: admin
@@ -26,6 +25,13 @@ tags:
 image: >-
   /wp-content/uploads/2024/10/riksa-uji-overhead-crane-henan-weiji-crane-16-ton-00-1.jpg
 draft: false
+imageAlt: >-
+  Riksa Uji Overhead Crane adalah proses pemeriksaan dan pengujian menyeluruh
+  terhadap overhead crane untuk memastikan bahwa crane tersebut berfungsi dengan
+  aman dan sesuai dengan standar keselamatan kerja yang berlaku. Proses ini
+  mencakup pengujian visual, operasional, teknis, serta pengujian non-destruktif
+  untuk mendeteksi potensi kerusakan yang dapat memengaruhi kinerja dan keamanan
+  crane.
 ---
 **Riksa Uji Overhead Crane** adalah proses pemeriksaan dan pengujian yang komprehensif terhadap overhead crane untuk memastikan bahwa alat tersebut berfungsi dengan aman dan sesuai dengan standar keselamatan kerja yang berlaku. Proses ini mencakup berbagai tahapan, termasuk pemeriksaan visual, pengujian teknis, pengujian operasional, serta pengujian non-destruktif (NDT) dan beban. Semua langkah ini dilakukan untuk mendeteksi potensi kerusakan atau keausan yang dapat membahayakan operasional crane.
 

@@ -6,8 +6,6 @@ title: Riksa Uji Tangki Solar
 description: >-
   Riksa uji tangki solar adalah bagian penting dari prosedur keselamatan yang
   harus dilakukan secara berkala untuk memastikan integritas tangki, mencegah
-  kebocoran, dan menjaga efisiensi operasional penyimpanan bahan bakar solar.
-  Tangki solar yang digunakan dalam berbagai industri, termasuk...
 pubDate: '2024-10-22T10:21:20.000Z'
 updatedDate: '2026-09-28T01:00:04.000Z'
 author: Editor
@@ -20,6 +18,12 @@ tags:
   - tangki solar
 image: /wp-content/uploads/2024/10/Riksa-Uji-Tangki-Solar-PT-Cipta-Mas-Jaya.jpg
 draft: false
+imageAlt: >-
+  Riksa uji tangki solar adalah proses pemeriksaan yang dilakukan untuk
+  memastikan integritas tangki, mencegah kebocoran, dan menjaga efisiensi
+  operasional penyimpanan bahan bakar solar, serta memastikan keselamatan
+  lingkungan kerja dalam berbagai industri seperti transportasi, manufaktur, dan
+  pembangkit listrik.
 ---
 Riksa uji **tangki solar** adalah bagian penting dari prosedur keselamatan yang harus dilakukan secara berkala untuk memastikan integritas tangki, mencegah kebocoran, dan menjaga efisiensi operasional penyimpanan bahan bakar solar. Tangki solar yang digunakan dalam berbagai industri, termasuk transportasi, manufaktur, dan pembangkit listrik, memegang peranan penting dalam menjaga suplai energi yang stabil dan efisien. Oleh karena itu, pemeriksaan menyeluruh terhadap kondisi tangki sangatlah penting. Riksa uji tangki solar juga merupakan bagian dari **[riksa uji pesawat uap dan bejana tekan](/2024/09/06/riksa-uji-pesawat-uap-dan-bejana-tekan/)**, yang berfokus pada pemeliharaan dan peningkatan kinerja alat-alat berat dan sistem penyimpanan bahan bakar. Dengan melakukan riksa uji ini secara rutin, perusahaan dapat mengidentifikasi potensi masalah sebelum menjadi risiko yang lebih besar, seperti kebocoran atau kerusakan struktural, serta memastikan bahwa semua komponen tangki berfungsi dengan baik dan sesuai dengan standar keselamatan yang berlaku. Hal ini tidak hanya menjaga keselamatan lingkungan kerja, tetapi juga mendukung keberlanjutan operasional dalam proses bisnis.
 

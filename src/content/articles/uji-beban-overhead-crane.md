@@ -6,8 +6,7 @@ title: Uji Beban Overhead Crane
 description: >-
   Uji beban Overhead Crane (OHC) adalah proses evaluasi kinerja alat angkat
   dengan memberikan beban sesuai atau melebihi kapasitas maksimumnya untuk
-  memastikan bahwa crane dapat beroperasi dengan aman dan efisien. Pengujian ini
-  merupakan langkah penting dalam siklus perawatan dan keselamatan alat...
+  memastikan
 pubDate: '2025-05-23T17:32:20.000Z'
 updatedDate: '2026-10-04T01:02:02.000Z'
 author: admin
@@ -21,6 +20,14 @@ tags:
   - Riksa Uji K3
 image: /wp-content/uploads/2025/05/uji-beban-overhead-crane.jpeg
 draft: false
+imageAlt: >-
+  Uji beban Overhead Crane adalah proses pengujian yang dilakukan untuk
+  memastikan crane dapat mengangkat dan menahan beban sesuai kapasitas yang
+  ditentukan tanpa mengalami kerusakan atau gangguan fungsi. Proses ini
+  bertujuan untuk menjamin bahwa alat tersebut aman digunakan dalam lingkungan
+  kerja industri dan mampu bekerja sesuai standar operasional. Uji beban
+  dilakukan sebelum crane dioperasikan secara rutin maupun setelah proses
+  perbaikan atau modifikasi.
 ---
 Uji beban Overhead Crane (OHC) adalah proses evaluasi kinerja alat angkat dengan memberikan beban sesuai atau melebihi kapasitas maksimumnya untuk memastikan bahwa crane dapat beroperasi dengan aman dan efisien. Pengujian ini merupakan langkah penting dalam siklus perawatan dan keselamatan alat berat di lingkungan industri, karena dapat mengidentifikasi potensi kerusakan atau kegagalan sistem sejak dini. Dengan melakukan uji beban secara berkala, pemilik atau pengguna crane dapat memastikan bahwa alat tersebut memenuhi standar keselamatan kerja yang ditetapkan dan layak digunakan dalam operasional harian.
 

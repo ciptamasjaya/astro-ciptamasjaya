@@ -4,10 +4,8 @@ type: article
 slug: pengujian-blowdown-tank
 title: Pengujian Blowdown Tank
 description: >-
-  Blowdown tank diuji untuk memastikan bahwa proses pembuangan air kotor dari
-  boiler dilakukan dengan aman dan efisien. Pengertian Riksa Uji Blowdown Tank
-  Apa Itu Blowdown Tank? Blowdown tank adalah sebuah tangki yang digunakan untuk
-  menerima, menampung, dan mendinginkan air serta uap yang...
+  Blowdown tank berfungsi untuk mendinginkan air yang panas sebelum dibuang ke
+  saluran pembuangan untuk mencegah kerusakan peralatan lain.
 pubDate: '2024-08-29T15:01:54.000Z'
 updatedDate: '2026-10-11T01:00:03.000Z'
 author: Editor
@@ -24,6 +22,7 @@ tags:
 image: >-
   /wp-content/uploads/2024/08/riksa-uji-k3-blowdown-tank-pt-cipta-mas-jaya-001-1.jpg
 draft: false
+imageAlt: Riksa Uji K3 PUBT Blowdown Tank PT. Cipta Mas Jaya
 ---
 Blowdown tank diuji untuk memastikan bahwa proses pembuangan air kotor dari boiler dilakukan dengan aman dan efisien.
 

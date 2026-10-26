@@ -6,8 +6,7 @@ title: 'Jenis jenis inspeksi: Terencana dan Tidak Terencana'
 description: >-
   Jenis Jenis Inspeksi K3 dalam konteks keselamatan dan kesehatan kerja (K3)
   terbagi menjadi dua kelompok: Inspeksi Terencana merujuk pada kegiatan
-  pemeriksaan yang dilakukan secara sistematis, terjadwal, dan terorganisir
-  dengan baik. Jenis inspeksi ini dirancang untuk secara proaktif...
+  pemeriksaan
 pubDate: '2024-09-12T20:06:05.000Z'
 updatedDate: '2026-09-07T01:00:10.000Z'
 author: admin
@@ -24,6 +23,9 @@ tags:
 image: >-
   /wp-content/uploads/2024/09/manager-hse-kesal-harus-melaksanakan-inspeksi-tidak-terencana-setelah-melakukan-inspeksi-terencana-menggunakan-pjk3-riksa-uji-melalui-inspeksi-k3.jpeg
 draft: false
+imageAlt: >-
+  Manager HSE Kesal Harus Melaksanakan Inspeksi Tidak Terencana Setelah
+  Melakukan Inspeksi Terencana Menggunakan Pjk3 Riksa Uji Melalui Inspeksi K3
 ---
 **Jenis Jenis Inspeksi K3** dalam konteks keselamatan dan kesehatan kerja (K3) terbagi menjadi dua kelompok: **Inspeksi Terencana** merujuk pada kegiatan pemeriksaan yang dilakukan secara sistematis, terjadwal, dan terorganisir dengan baik. Jenis inspeksi ini dirancang untuk secara proaktif mengidentifikasi bahaya, menilai risiko, dan memastikan kepatuhan terhadap standar K3 yang berlaku, dan **Inspeksi Tidak Terencana** yang kegiatan pemeriksaan yang dilakukan secara mendadak atau insidentil, tanpa adanya jadwal atau pemberitahuan sebelumnya.
 

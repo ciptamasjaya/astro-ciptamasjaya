@@ -6,8 +6,7 @@ title: Riksa Uji K3 Elevator dan Eskalator
 description: >-
   Riksa Uji Elevator dan Eskalator adalah proses pengujian dan inspeksi yang
   dilakukan untuk memastikan bahwa kedua sistem transportasi vertikal ini
-  beroperasi dengan aman dan sesuai dengan standar keselamatan yang berlaku.
-  Pemeriksaan dan pengujian elevator dan eskalator ini mencakup pengecekan...
+  beroperasi
 pubDate: '2024-08-21T14:29:23.000Z'
 updatedDate: '2026-09-15T01:02:10.000Z'
 author: admin
@@ -25,6 +24,7 @@ tags:
 image: >-
   /wp-content/uploads/2024/08/riksa-uji-k3-elevator-dan-eskalator-pt.-cipta-mas-jaya-cmj.jpg
 draft: false
+imageAlt: Riksa Uji K3 Elevator dan Esklator
 ---
 **Riksa Uji Elevator dan Eskalator** adalah proses pengujian dan inspeksi yang dilakukan untuk memastikan bahwa kedua sistem transportasi vertikal ini beroperasi dengan aman dan sesuai dengan standar keselamatan yang berlaku. Pemeriksaan dan pengujian elevator dan eskalator ini mencakup pengecekan mekanis, elektrik, serta fungsi operasional untuk memastikan bahwa elevator dan eskalator mampu berfungsi secara optimal dalam mengangkut orang atau barang tanpa risiko kecelakaan atau kegagalan sistem.
 

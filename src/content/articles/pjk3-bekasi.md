@@ -6,9 +6,7 @@ slug: pjk3-bekasi
 title: PJK3 Bekasi
 description: >-
   PT. Cipta Mas Jaya adalah PJK3 yang melayani jasa riksa uji K3 di wilayah
-  Bekasi. Hubungi 08568258841 untuk semua kebutuhan riksa uji Anda. 1. PT. Cipta
-  Mas Jaya: sebagai PJK3 Riksa Uji di Bekasi PT. Cipta Mas Jaya adalah
-  Perusahaan Jasa Keselamatan dan Kesehatan Kerja Riksa Uji (PJK3 Riksa Uji)...
+  Bekasi. Hubungi 08568258841 untuk semua kebutuhan riksa uji Anda.
 pubDate: '2025-05-24T18:21:24.000Z'
 updatedDate: '2026-09-21T01:00:51.000Z'
 author: admin
@@ -23,6 +21,11 @@ tags:
   - Riksa Uji K3
 image: /wp-content/uploads/2025/05/pjk3-bekasi.jpg
 draft: false
+imageAlt: >-
+  PT. Cipta Mas Jaya adalah perusahaan jasa keselamatan dan kesehatan kerja
+  (PJK3) yang berlokasi di Bekasi. Perusahaan ini telah memperoleh penunjukan
+  resmi dari Kementerian Ketenagakerjaan sebagai penyedia layanan K3 yang
+  kompeten dan sesuai dengan ketentuan perundang-undangan.
 ---
 PT. Cipta Mas Jaya adalah PJK3 yang melayani jasa riksa uji K3 di wilayah Bekasi. Hubungi 08568258841 untuk semua kebutuhan riksa uji Anda.
 

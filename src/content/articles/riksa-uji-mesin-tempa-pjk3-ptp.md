@@ -6,8 +6,6 @@ title: Riksa Uji Mesin Tempa dan Bending
 description: >-
   Riksa uji mesin tempa atau bending merupakan salah satu langkah penting dalam
   industri manufaktur dan konstruksi yang melibatkan pembentukan logam. Mesin
-  tempa digunakan untuk memberikan tekanan tinggi pada material untuk
-  membentuknya menjadi bentuk yang diinginkan, sementara mesin bending...
 pubDate: '2024-10-22T10:15:17.000Z'
 updatedDate: '2026-08-28T01:02:11.000Z'
 author: Editor
@@ -21,6 +19,12 @@ tags:
   - Riksa Uji K3
 image: /wp-content/uploads/2024/10/Riksa-Uji-Mesin-Tempa-PT-Cipta-Mas-Jaya-.jpg
 draft: false
+imageAlt: >-
+  Riksa uji mesin tempa dan bending adalah proses pemeriksaan yang dilakukan
+  untuk memastikan kedua mesin beroperasi dengan aman dan efisien, termasuk
+  evaluasi kinerja, pemeriksaan sistem penggerak, dan material yang digunakan,
+  guna memastikan keandalan alat dalam proses pembentukan logam dan menjaga
+  keselamatan kerja di lingkungan industri.
 ---
 Riksa uji **mesin tempa** atau **bending** merupakan salah satu langkah penting dalam industri manufaktur dan konstruksi yang melibatkan pembentukan logam. Mesin tempa digunakan untuk memberikan tekanan tinggi pada material untuk membentuknya menjadi bentuk yang diinginkan, sementara mesin bending digunakan untuk membengkokkan bahan logam tanpa memotong atau memanaskannya terlebih dahulu. Kedua mesin ini memainkan peran krusial dalam berbagai proses produksi. Untuk memastikan bahwa mesin-mesin tersebut beroperasi dengan aman dan efisien, riksa uji perlu dilakukan secara berkala. Riksa uji mesin tempa juga termasuk ke dalam **[riksa uji pesawat tenaga dan produksi](/2023/04/12/riksa-uji-bidang-pesawat-tenaga-dan-produksi/)**, yang berfokus pada pemeliharaan dan peningkatan kinerja alat berat dalam proses produksi. Dengan melakukan riksa uji secara rutin, perusahaan dapat mendeteksi kerusakan atau keausan pada mesin sebelum menjadi masalah yang lebih serius, menjaga keandalan alat, serta melindungi operator dan lingkungan kerja dari potensi bahaya.
 

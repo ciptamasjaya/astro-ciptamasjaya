@@ -6,8 +6,7 @@ title: Prinsip Kerja Tanur
 description: >-
   Prinsip kerja tanur, adalah penggunaan panas untuk melakukan berbagai proses,
   seperti pembakaran, peleburan, atau pemanasan. Tanur dapat menggunakan
-  berbagai sumber panas, termasuk busur listrik, pembakaran bahan bakar, atau
-  bahkan panas dari reaksi kimia. Proses pemanasan ini bertujuan untuk...
+  berbagai
 pubDate: '2025-05-30T02:09:44.000Z'
 updatedDate: '2026-10-01T01:00:30.000Z'
 author: admin
@@ -23,6 +22,15 @@ tags:
   - Riksa Uji K3
 image: /wp-content/uploads/2025/05/prinsip-kerja-tanur.jpg
 draft: false
+imageAlt: >-
+  Prinsip kerja tanur adalah proses pemanfaatan panas untuk mengubah sifat fisik
+  atau kimia suatu material melalui pemanasan pada suhu tinggi. Tanur bekerja
+  dengan cara memanaskan bahan menggunakan berbagai sumber energi, seperti
+  listrik, bahan bakar fosil, atau reaksi kimia. Panas yang dihasilkan kemudian
+  ditransfer ke material melalui konduksi, konveksi, atau radiasi, tergantung
+  pada jenis tanur dan aplikasinya. Dengan pengaturan suhu dan waktu yang tepat,
+  tanur mampu menghasilkan transformasi material secara efisien, seperti
+  peleburan logam, pengeringan bahan, atau perlakuan termal lainnya.
 ---
 Prinsip kerja tanur, adalah penggunaan panas untuk melakukan berbagai proses, seperti pembakaran, peleburan, atau pemanasan. Tanur dapat menggunakan berbagai sumber panas, termasuk busur listrik, pembakaran bahan bakar, atau bahkan panas dari reaksi kimia. Proses pemanasan ini bertujuan untuk mengubah bahan baku menjadi produk yang diinginkan, baik itu logam cair, produk pembakaran, atau sampel yang telah diubah secara kimiawi.
 

@@ -6,8 +6,7 @@ title: Riksa Uji Tangki Kimia
 description: >-
   Riksa uji tangki penyimpanan bahan kimia merupakan langkah penting yang harus
   dilakukan secara berkala untuk memastikan bahwa tangki berada dalam kondisi
-  aman dan efisien dalam operasionalnya. Bahan kimia sering kali bersifat
-  reaktif, mudah terbakar, atau beracun, sehingga penyimpanan dan...
+  aman
 pubDate: '2024-10-14T16:33:26.000Z'
 updatedDate: '2026-08-31T01:02:04.000Z'
 author: Editor
@@ -22,6 +21,12 @@ tags:
 image: >-
   /wp-content/uploads/2024/10/Riksa-Uji-Tangki-Kimia-PT-Cipta-Mas-Jaya-scaled.jpg
 draft: false
+imageAlt: >-
+  Riksa uji tangki kimia adalah pemeriksaan tangki penyimpanan bahan kimia untuk
+  memastikan keamanannya dan kesesuaiannya dengan standar. Proses ini meliputi
+  pengujian kekuatan struktur, pemeriksaan kebocoran, serta evaluasi sistem
+  pengaman seperti katup dan saluran ventilasi, guna mencegah insiden berbahaya
+  dan melindungi lingkungan kerja dari risiko paparan bahan kimia.
 ---
 Riksa uji tangki penyimpanan bahan kimia merupakan langkah penting yang harus dilakukan secara berkala untuk memastikan bahwa tangki berada dalam kondisi aman dan efisien dalam operasionalnya. Bahan kimia sering kali bersifat reaktif, mudah terbakar, atau beracun, sehingga penyimpanan dan penanganannya memerlukan pengawasan ketat. Kesalahan dalam pemeliharaan atau pengawasan tangki penyimpanannya dapat berakibat fatal bagi pekerja, lingkungan, serta operasional industri.
 

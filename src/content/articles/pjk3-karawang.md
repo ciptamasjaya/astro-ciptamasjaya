@@ -6,9 +6,7 @@ slug: pjk3-karawang
 title: PJK3 Karawang
 description: >-
   PT. Cipta Mas Jaya adalah PJK3 yang melayani jasa riksa uji K3 di wilayah
-  Karawang. Hubungi 08568258841 untuk semua kebutuhan riksa uji Anda. PT. Cipta
-  Mas Jaya: PJK3 Terpercaya untuk Riksa Uji di Karawang PT. Cipta Mas Jaya
-  merupakan PJK3 resmi yang siap melayani kebutuhan riksa uji alat kerja...
+  Karawang. Hubungi 08568258841 untuk semua kebutuhan riksa uji Anda.
 pubDate: '2025-05-24T19:24:45.000Z'
 updatedDate: '2026-10-06T01:00:23.000Z'
 author: admin
@@ -23,6 +21,15 @@ tags:
   - Riksa Uji K3
 image: /wp-content/uploads/2025/05/pjk3-karawang.jpeg
 draft: false
+imageAlt: >-
+  PT. Cipta Mas Jaya merupakan Perusahaan Jasa Keselamatan dan Kesehatan Kerja
+  (PJK3) yang telah resmi terdaftar dan aktif beroperasi di wilayah Karawang.
+  Dengan pengalaman panjang di bidang keselamatan kerja dan dukungan tenaga ahli
+  bersertifikasi dari Kementerian Ketenagakerjaan, PT. Cipta Mas Jaya menjadi
+  mitra strategis bagi berbagai industri di Karawang. Komitmen perusahaan ini
+  tercermin dari konsistensinya dalam menerapkan standar tinggi dalam setiap
+  layanan pemeriksaan teknis dan konsultasi K3, baik di sektor manufaktur,
+  logistik, maupun properti.
 ---
 PT. Cipta Mas Jaya adalah PJK3 yang melayani jasa riksa uji K3 di wilayah Karawang. Hubungi 08568258841 untuk semua kebutuhan riksa uji Anda.
 

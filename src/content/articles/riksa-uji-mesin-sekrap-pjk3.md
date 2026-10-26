@@ -6,8 +6,6 @@ title: Riksa Uji Mesin Sekrap
 description: >-
   Riksa uji mesin sekrap adalah langkah penting yang dilakukan untuk memastikan
   bahwa mesin sekrap beroperasi dengan aman dan efisien, serta merupakan bagian
-  dari riksa uji pesawat tenaga dan produksi. Dalam proses industri, mesin
-  sekrap digunakan untuk memotong, membentuk, dan meratakan permukaan...
 pubDate: '2024-10-22T09:19:31.000Z'
 updatedDate: '2026-08-28T01:02:12.000Z'
 author: Editor
@@ -21,6 +19,12 @@ tags:
   - Riksa Uji K3
 image: /wp-content/uploads/2024/10/Riksa-Uji-Mesin-Sekrap-PT-Cipta-Mas-Jaya-.jpg
 draft: false
+imageAlt: >-
+  Riksa uji mesin sekrap adalah proses pemeriksaan yang dilakukan untuk
+  memastikan mesin sekrap beroperasi dengan aman dan efisien, termasuk evaluasi
+  kinerja, sistem penggerak, serta pemeriksaan komponen dan material yang
+  digunakan, guna meningkatkan produktivitas dan keselamatan kerja dalam proses
+  industri.
 ---
 Riksa uji **mesin sekrap** adalah langkah penting yang dilakukan untuk memastikan bahwa mesin sekrap beroperasi dengan aman dan efisien, serta merupakan bagian dari **[riksa uji pesawat tenaga dan produksi](/2023/04/12/riksa-uji-bidang-pesawat-tenaga-dan-produksi/)**. Dalam proses industri, mesin sekrap digunakan untuk memotong, membentuk, dan meratakan permukaan material, sehingga pemeriksaan rutin menjadi krusial. Dengan melaksanakan riksa uji secara berkala, perusahaan dapat mendeteksi kerusakan atau keausan pada mesin sebelum menjadi masalah yang lebih serius. Selain itu, riksa uji juga berfungsi untuk memastikan bahwa semua komponen mesin berfungsi dengan baik, yang pada akhirnya akan meningkatkan produktivitas dan keselamatan kerja. Melalui riksa uji ini, perusahaan dapat memastikan bahwa mesin sekrap memenuhi standar operasional yang diperlukan untuk mendukung efisiensi dan keamanan di lingkungan kerja.
 

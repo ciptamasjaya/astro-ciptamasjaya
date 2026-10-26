@@ -6,8 +6,7 @@ title: Daftar Perusahaan PJK3 di Indonesia
 description: >-
   Daftar Perusahaan Jasa Keselamatan dan Kesehatan Kerja (PJK3) di Indonesia
   sangat bervariasi, dan dapat ditemukan melalui berbagai sumber. Beberapa
-  perusahaan PJK3 yang terkenal di Indonesia antara lain PT. Cipta Mas Jaya, PT.
-  Sucofindo, dan PT. Surveyor Indonesia PJK3 Adalah: Perusahaan Jasa...
+  perusahaan
 pubDate: '2025-05-27T18:30:08.000Z'
 updatedDate: '2026-10-11T01:00:01.000Z'
 author: admin
@@ -23,6 +22,16 @@ tags:
   - Riksa Uji K3
 image: /wp-content/uploads/2025/05/daftar-perusahaan-pjk3-di-indonesia.jpeg
 draft: false
+imageAlt: >-
+  PT. Cipta Mas Jaya adalah Perusahaan PJK3 di Indonesia yang telah memperoleh
+  penunjukan resmi dari Kementerian Ketenagakerjaan untuk menyelenggarakan jasa
+  di bidang keselamatan dan kesehatan kerja, khususnya dalam kegiatan
+  pemeriksaan dan pengujian (riksa uji) peralatan kerja. Dengan tenaga ahli
+  bersertifikat dan berpengalaman, PT. Cipta Mas Jaya berkomitmen mendukung
+  terciptanya lingkungan kerja yang aman, efisien, dan sesuai dengan regulasi
+  nasional. Layanan yang diberikan mencakup berbagai sektor industri, dengan
+  standar pengujian yang mengacu pada peraturan perundang-undangan dan ketentuan
+  teknis yang berlaku di Indonesia.
 ---
 Daftar Perusahaan Jasa Keselamatan dan Kesehatan Kerja (PJK3) di Indonesia sangat bervariasi, dan dapat ditemukan melalui berbagai sumber. Beberapa perusahaan PJK3 yang terkenal di Indonesia antara lain PT. Cipta Mas Jaya, PT. Sucofindo, dan PT. Surveyor Indonesia
 

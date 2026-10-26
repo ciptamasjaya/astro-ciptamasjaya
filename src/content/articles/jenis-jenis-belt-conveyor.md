@@ -6,8 +6,7 @@ title: Jenis jenis Belt Conveyor
 description: >-
   Belt conveyor atau sabuk konveyor memiliki beberapa jenis yang berbeda,
   tergantung pada material sabuk dan desainnya. Beberapa jenis utama meliputi
-  flat belt, modular belt, cleated belt, mesh belt, dan belt dengan ujung logam.
-  Berikut adalah beberapa jenis belt conveyor yang umum: 1. Flat Belt...
+  flat belt,
 pubDate: '2025-06-17T19:36:49.000Z'
 updatedDate: '2026-09-30T01:00:10.000Z'
 author: admin
@@ -24,6 +23,12 @@ tags:
   - Riksa Uji K3
 image: /wp-content/uploads/2025/06/jenis-jenis-belt-conveyor-scaled.jpg
 draft: false
+imageAlt: >-
+  Flat Belt Conveyor adalah jenis sabuk konveyor paling umum yang digunakan
+  untuk memindahkan berbagai material secara horizontal. Sabuk datar ini
+  biasanya terbuat dari karet, kain, atau bahan sintetis lainnya, dan digunakan
+  dalam berbagai industri karena kesederhanaannya serta kemampuannya untuk
+  membawa barang dalam jumlah besar dengan kecepatan tinggi.
 ---
 Belt conveyor atau sabuk konveyor memiliki beberapa jenis yang berbeda, tergantung pada material sabuk dan desainnya. Beberapa jenis utama meliputi flat belt, modular belt, cleated belt, mesh belt, dan belt dengan ujung logam.
 

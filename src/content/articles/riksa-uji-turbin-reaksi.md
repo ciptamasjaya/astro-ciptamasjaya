@@ -6,8 +6,6 @@ title: Riksa Uji Turbin Reaksi
 description: >-
   Riksa uji turbin reaksi merupakan proses krusial dalam memastikan kinerja dan
   keamanan turbin yang berfungsi sebagai sumber energi dalam sistem pembangkit
-  listrik. Sebagai bagian dari riksa uji pesawat tenaga dan produksi, turbin
-  reaksi tidak hanya bertanggung jawab dalam menghasilkan energi...
 pubDate: '2024-12-09T14:01:10.000Z'
 updatedDate: '2026-09-30T01:00:08.000Z'
 author: Editor
@@ -22,6 +20,9 @@ tags:
   - Riksa Uji K3
 image: /wp-content/uploads/2024/10/Riksa-Uji-Turbin-Reaksi-PT-Cipta-Mas-Jaya-.jpg
 draft: false
+imageAlt: >-
+  Riksa uji turbin reaksi adalah proses pemeriksaan penting untuk memastikan
+  kinerja dan keamanan turbin reaksi yang digunakan dalam pembangkit listrik.
 ---
 **Riksa uji turbin reaksi** merupakan proses krusial dalam memastikan kinerja dan keamanan turbin yang berfungsi sebagai sumber energi dalam sistem pembangkit listrik. Sebagai bagian dari r**[iksa uji pesawat tenaga dan produksi](/2023/04/12/riksa-uji-bidang-pesawat-tenaga-dan-produksi/)**, turbin reaksi tidak hanya bertanggung jawab dalam menghasilkan energi, tetapi juga memiliki peran penting dalam mengelola aliran fluida selama operasi. Melalui serangkaian pemeriksaan menyeluruh yang mencakup komponen mekanik, sistem hidraulik, dan kontrol, riksa uji ini bertujuan untuk menjamin bahwa turbin beroperasi dengan efisien dan mematuhi standar keselamatan yang berlaku. Hal ini sangat penting untuk mencegah risiko kecelakaan kerja dan memastikan kontinuitas dalam proses produksi energi yang vital bagi berbagai sektor industri.
 

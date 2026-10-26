@@ -6,8 +6,7 @@ title: Definisi Bejana Tekan
 description: >-
   Definisi Bejana tekan adalah suatu wadah atau tangki tertutup yang dirancang
   untuk menampung fluida (gas atau cairan) pada tekanan yang berbeda dari
-  tekanan udara luar. Umumnya, bejana tekan digunakan dalam berbagai industri
-  seperti kimia, minyak dan gas, serta manufaktur untuk menyimpan atau...
+  tekanan
 pubDate: '2025-05-22T08:25:36.000Z'
 updatedDate: '2026-09-15T01:02:11.000Z'
 author: admin
@@ -22,6 +21,9 @@ tags:
   - riksa uji pesawat uap dan bejana tekan
 image: /wp-content/uploads/2025/05/bejana-tekan.jpeg
 draft: false
+imageAlt: >-
+  Bejana tekan adalah wadah tertutup yang menampung fluida bertekanan di atas
+  atau di bawah tekanan atmosfer.
 ---
 Definisi Bejana tekan adalah suatu wadah atau tangki tertutup yang dirancang untuk menampung fluida (gas atau cairan) pada tekanan yang berbeda dari tekanan udara luar. Umumnya, bejana tekan digunakan dalam berbagai industri seperti kimia, minyak dan gas, serta manufaktur untuk menyimpan atau memproses zat di bawah tekanan tinggi. Karena potensi bahayanya yang tinggi apabila terjadi kegagalan, bejana tekan harus dirancang, dibuat, dan diuji sesuai standar keselamatan yang ketat.
 

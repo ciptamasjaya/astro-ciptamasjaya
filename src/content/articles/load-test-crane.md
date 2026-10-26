@@ -6,8 +6,6 @@ title: Load Test Crane adalah Prosedur Penting untuk Menjamin Keselamatan Operas
 description: >-
   Load Test Crane adalah proses pengujian beban yang dilakukan pada alat angkat
   seperti crane untuk memastikan bahwa alat tersebut mampu beroperasi sesuai
-  kapasitas yang dirancang, baik dari sisi kekuatan struktur maupun fungsi
-  sistem pengaman. Prosedur ini menjadi langkah krusial dalam menjaga...
 pubDate: '2025-06-15T00:40:00.000Z'
 updatedDate: '2026-10-12T01:04:30.000Z'
 author: admin
@@ -24,6 +22,14 @@ tags:
   - Riksa Uji K3
 image: /wp-content/uploads/2025/06/load-test-crane.jpg
 draft: false
+imageAlt: >-
+  Load Test Crane adalah proses pengujian beban yang dilakukan untuk memastikan
+  alat angkat seperti crane dapat bekerja dengan aman dan sesuai kapasitasnya.
+  Pengujian ini penting dilakukan sebelum crane dioperasikan secara aktif, baik
+  dalam proyek konstruksi, pelabuhan, maupun industri berat lainnya. Dengan Load
+  Test, potensi kegagalan struktur dapat dideteksi lebih awal, sehingga mencegah
+  kecelakaan kerja dan memastikan performa optimal dari alat tersebut di
+  lapangan.
 ---
 **Load Test Crane adalah** proses pengujian beban yang dilakukan pada alat angkat seperti crane untuk memastikan bahwa alat tersebut mampu beroperasi sesuai kapasitas yang dirancang, baik dari sisi kekuatan struktur maupun fungsi sistem pengaman. Prosedur ini menjadi langkah krusial dalam menjaga keselamatan kerja, menghindari kerusakan alat, serta memenuhi regulasi teknis yang berlaku di berbagai sektor industri.
 

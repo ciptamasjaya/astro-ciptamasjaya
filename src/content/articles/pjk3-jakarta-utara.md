@@ -6,9 +6,7 @@ slug: pjk3-jakarta-utara
 title: PJK3 Jakarta Utara
 description: >-
   PT. Cipta Mas Jaya adalah PJK3 yang melayani jasa riksa uji k3 di wilayah
-  Jakarta Utara, hubungi 08568258841 untuk semua kebutuhan riksa uji anda 1. PT.
-  Cipta Mas Jaya: PJK3 Terdekat yang Melayani Riksa Uji di Jakarta Utara PT.
-  Cipta Mas Jaya adalah perusahaan yang telah ditunjuk secara resmi...
+  Jakarta Utara, hubungi 08568258841 untuk semua kebutuhan riksa uji anda
 pubDate: '2025-05-22T16:33:20.000Z'
 updatedDate: '2026-10-01T01:00:28.000Z'
 author: admin
@@ -21,6 +19,12 @@ tags:
   - Riksa Uji K3
 image: /wp-content/uploads/2025/05/pjk3-jakarta-utara.jpeg
 draft: false
+imageAlt: >-
+  PT. Cipta Mas Jaya merupakan perusahaan PJK3 yang telah memiliki izin resmi
+  dan beroperasi aktif di wilayah Jakarta Utara. Sebagai penyedia jasa
+  keselamatan kerja yang profesional, PT. Cipta Mas Jaya berkomitmen membantu
+  berbagai sektor industri dalam memastikan peralatan kerja mereka memenuhi
+  standar keselamatan yang berlaku.
 ---
 PT. Cipta Mas Jaya adalah PJK3 yang melayani jasa riksa uji k3 di wilayah Jakarta Utara, hubungi 08568258841 untuk semua kebutuhan riksa uji anda
 

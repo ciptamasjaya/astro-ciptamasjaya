@@ -3,11 +3,7 @@ id: 757
 type: article
 slug: riksa-uji-air-receiver-tank
 title: Riksa Uji Air Receiver Tank
-description: >-
-  Riksa uji air receiver tank merupakan bagian dari riksa uji pesawat uap dan
-  bejana tekan, sesuai dengan regulasi keselamatan kerja yang mengatur peralatan
-  bertekanan tinggi. Sebagai salah satu jenis bejana tekan, air receiver tank
-  harus memenuhi standar teknis yang sama untuk memastikan keamanan...
+description: "Riksa uji\_air receiver tank\_adalah proses yang diperlukan untuk memastikan bahwa tangki ini berfungsi dengan baik dan aman tidak ada kebocoran."
 pubDate: '2024-08-26T15:01:32.000Z'
 updatedDate: '2026-09-25T01:00:25.000Z'
 author: Editor
@@ -24,6 +20,11 @@ tags:
 image: >-
   /wp-content/uploads/2024/08/riksa-uji-k3-air-receiver-tank-pt-cipta-mas-jaya-001.png
 draft: false
+imageAlt: >-
+  Riksa uji air receiver tank adalah proses pemeriksaan dan pengujian yang
+  dilakukan untuk memastikan keamanan, keandalan, dan efisiensi operasional air
+  receiver tank dalam sistem pneumatik, dengan mengevaluasi kondisi fisik dan
+  fungsional komponen utama seperti tangki, katup pengaman, dan pressure gauge.
 ---
 **Riksa uji air receiver tank** merupakan bagian dari riksa uji pesawat uap dan bejana tekan, sesuai dengan regulasi keselamatan kerja yang mengatur peralatan bertekanan tinggi. Sebagai salah satu jenis bejana tekan, air receiver tank harus memenuhi standar teknis yang sama untuk memastikan keamanan penggunaannya. Proses riksa uji ini mencakup inspeksi visual, uji tekanan, serta pengujian fungsi komponen pendukung seperti katup pengaman dan pressure gauge, guna memastikan bahwa tangki mampu menahan tekanan kerja yang telah ditentukan tanpa risiko kebocoran atau kegagalan struktural.
 

@@ -6,8 +6,6 @@ title: Standar Inspeksi Hydrant
 description: >-
   Standar inspeksi hydrant adalah acuan dalam melakukan pengecekan terhadap
   seluruh komponen sistem pemadam kebakaran. Tujuannya agar hydrant selalu siap
-  digunakan saat keadaan darurat. Standar inspeksi hydrant merupakan prosedur
-  kerja yang wajib diikuti dalam sistem proteksi kebakaran. Hal ini...
 pubDate: '2025-05-19T15:21:08.000Z'
 updatedDate: '2026-09-06T01:00:11.000Z'
 author: admin
@@ -20,6 +18,9 @@ tags:
   - Riksa Uji Instalasi Proteksi Kebakaran
 image: /wp-content/uploads/2025/05/standar-inspeksi-hydrant-06.jpeg
 draft: false
+imageAlt: >-
+  Standar inspeksi hydrant adalah pedoman yang mengatur prosedur pemeriksaan
+  sistem pemadam kebakaran.
 ---
 Standar inspeksi hydrant adalah acuan dalam melakukan pengecekan terhadap seluruh komponen sistem pemadam kebakaran. Tujuannya agar hydrant selalu siap digunakan saat keadaan darurat.
 

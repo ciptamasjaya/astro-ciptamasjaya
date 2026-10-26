@@ -6,8 +6,6 @@ title: Prosedur Pengujian Ultrasonik (Ultrasonic Test)
 description: >-
   Prosedur Pengujian Ultrasonik / Ultrasonic Test adalah serangkaian langkah
   teknis yang dilakukan untuk mendeteksi cacat internal dalam suatu material
-  menggunakan gelombang ultrasonik tanpa merusak objek uji. Prosedur ini
-  mencakup persiapan peralatan, kalibrasi, pemilihan teknik dan probe yang...
 pubDate: '2025-06-06T01:12:56.000Z'
 updatedDate: '2026-09-12T01:00:36.000Z'
 author: admin
@@ -25,6 +23,13 @@ tags:
   - Riksa Uji K3
 image: /wp-content/uploads/2025/06/prosedur-pengujian-ultrasonik.png
 draft: false
+imageAlt: >-
+  Prosedur Pengujian Ultrasonik adalah metode pemeriksaan non-destruktif yang
+  dilakukan melalui rangkaian langkah teknis untuk mendeteksi cacat atau
+  ketidaksempurnaan di dalam material menggunakan gelombang suara berfrekuensi
+  tinggi. Prosedur ini mencakup persiapan permukaan, pemilihan dan kalibrasi
+  peralatan, aplikasi couplant, pelaksanaan scanning dengan probe, analisis
+  pantulan gelombang, serta dokumentasi hasil pengujian.
 ---
 **Prosedur Pengujian Ultrasonik / Ultrasonic Test adalah** serangkaian langkah teknis yang dilakukan untuk mendeteksi cacat internal dalam suatu material menggunakan gelombang ultrasonik tanpa merusak objek uji. Prosedur ini mencakup persiapan peralatan, kalibrasi, pemilihan teknik dan probe yang tepat, pelaksanaan pemindaian, interpretasi sinyal pantulan, serta dokumentasi hasil. Setiap tahapan harus dijalankan sesuai standar yang berlaku untuk menjamin akurasi dan keselamatan dalam pengujian.
 

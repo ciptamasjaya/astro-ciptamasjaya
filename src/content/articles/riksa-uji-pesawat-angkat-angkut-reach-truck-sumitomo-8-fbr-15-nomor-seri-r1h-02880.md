@@ -7,8 +7,6 @@ title: Riksa Uji Pesawat Angkat Angkut
 description: >-
   Riksa Uji Pesawat Angkat Angkut adalah proses pemeriksaan dan pengujian yang
   komprehensif terhadap peralatan angkat dan angkut, seperti Reach Truck, crane,
-  dan alat serupa. Proses ini dilakukan untuk memastikan bahwa peralatan
-  tersebut memenuhi standar keselamatan yang berlaku, serta berfungsi...
 pubDate: '2024-10-19T23:07:32.000Z'
 updatedDate: '2026-08-27T01:07:58.000Z'
 author: admin
@@ -21,6 +19,10 @@ tags:
 image: >-
   /wp-content/uploads/2024/10/riksa-uji-pesawat-angkat-angkut-reach-truck-sumitomo-8-fbr-15-nomor-seri-r1h-02880-03.jpg
 draft: false
+imageAlt: >-
+  Riksa Uji Pesawat Angkat Angkut adalah proses inspeksi menyeluruh untuk
+  memeriksa kelayakan dan keselamatan alat-alat yang digunakan untuk mengangkat
+  dan mengangkut beban di berbagai industri.
 ---
 **[Riksa Uji Pesawat Angkat Angkut](/layanan/riksa-uji-pesawat-angkat-dan-angkut/)** adalah proses pemeriksaan dan pengujian yang komprehensif terhadap peralatan angkat dan angkut, seperti Reach Truck, crane, dan alat serupa. Proses ini dilakukan untuk memastikan bahwa peralatan tersebut memenuhi standar keselamatan yang berlaku, serta berfungsi secara optimal dalam kegiatan industri. Riksa uji ini sangat penting dalam menjamin keamanan dan efisiensi operasional, sehingga risiko kecelakaan kerja dapat diminimalisir.
 

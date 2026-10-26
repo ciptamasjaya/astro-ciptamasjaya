@@ -6,8 +6,7 @@ title: Riksa Uji Vehicle Mounted Crane
 description: >-
   Riksa Uji Vehicle Mounted Crane merupakan proses penting untuk memastikan
   keamanan dan efisiensi operasional dari alat berat yang dipasang pada
-  kendaraan ini. Sebagai peralatan angkat yang sering digunakan dalam berbagai
-  aplikasi konstruksi, pengangkutan, dan industri, vehicle mounted crane...
+  kendaraan ini.
 pubDate: '2024-11-20T16:38:08.000Z'
 updatedDate: '2026-09-19T01:02:55.000Z'
 author: Editor
@@ -22,6 +21,10 @@ tags:
 image: >-
   /wp-content/uploads/2024/10/Riksa-Uji-Vehicle-Mounted-Crane-PT-Cipta-Mas-Jaya.jpg
 draft: false
+imageAlt: >-
+  Riksa uji vehicle mounted crane adalah proses kritis yang menjamin keselamatan
+  dan efisiensi operasional alat berat, memastikan setiap komponen berfungsi
+  dengan baik sesuai standar keselamatan yang ditetapkan.
 ---
 **Riksa Uji Vehicle Mounted Crane** merupakan proses penting untuk memastikan keamanan dan efisiensi operasional dari alat berat yang dipasang pada kendaraan ini. Sebagai peralatan angkat yang sering digunakan dalam berbagai aplikasi konstruksi, pengangkutan, dan industri, vehicle mounted crane memiliki peran krusial dalam mengangkut beban berat dengan aman. Melalui serangkaian pemeriksaan menyeluruh yang mencakup komponen struktural, sistem penggerak, dan alat pengaman, riksa uji ini bertujuan untuk menjamin bahwa crane beroperasi dengan aman, efisien, dan sesuai dengan standar keselamatan yang berlaku.
 

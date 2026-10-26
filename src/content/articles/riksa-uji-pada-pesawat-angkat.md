@@ -8,8 +8,6 @@ title: >-
 description: >-
   Riksa uji pesawat angkat adalah proses pemeriksaan menyeluruh yang bertujuan
   untuk memastikan bahwa peralatan angkat seperti crane, hoist, dan forklift
-  beroperasi secara aman dan efisien. Pemeriksaan ini dilakukan oleh tenaga ahli
-  bersertifikasi, biasanya dari PJK3, untuk mengevaluasi kondisi...
 pubDate: '2024-09-25T21:10:47.000Z'
 updatedDate: '2026-09-16T01:00:06.000Z'
 author: Editor
@@ -22,6 +20,12 @@ tags:
 image: >-
   /wp-content/uploads/2024/09/Riksa-Uji-Pesawat-Angkat-PT-Cipta-Mas-Jaya-scaled.jpg
 draft: false
+imageAlt: >-
+  Riksa uji pesawat angkat adalah proses pemeriksaan dan pengujian yang
+  dilakukan untuk memastikan bahwa alat angkat, seperti crane atau hoist,
+  beroperasi dengan aman dan efisien, memenuhi standar keselamatan yang berlaku,
+  serta mencegah potensi kecelakaan dan kerusakan selama operasi di berbagai
+  industri.
 ---
 **[Riksa uji pesawat angkat](/2024/08/21/riksa-uji-k3-pesawat-angkat-dan-angkut/)** adalah proses pemeriksaan menyeluruh yang bertujuan untuk memastikan bahwa peralatan angkat seperti crane, hoist, dan forklift beroperasi secara aman dan efisien. Pemeriksaan ini dilakukan oleh tenaga ahli bersertifikasi, biasanya dari PJK3, untuk mengevaluasi kondisi fisik, mekanik, dan sistem keselamatan pesawat angkat sesuai dengan standar yang berlaku. Proses riksa uji melibatkan pengecekan komponen seperti kabel, rantai, katrol, sistem hidrolik, serta perangkat keselamatan seperti rem darurat dan sensor. Riksa uji yang dilakukan secara berkala dapat mengurangi risiko kecelakaan kerja, memastikan peralatan dalam kondisi optimal, dan mematuhi peraturan keselamatan yang telah ditetapkan oleh pemerintah.
 

@@ -6,8 +6,6 @@ title: Faktor-faktor Lingkungan Kerja K3
 description: >-
   Faktor-faktor lingkungan kerja K3 meliputi faktor fisik, kimia, biologi,
   ergonomi, dan psikososial. Faktor fisik seperti suhu, kebisingan, getaran, dan
-  pencahayaan dapat mempengaruhi kesehatan dan kenyamanan pekerja. Faktor kimia
-  berkaitan dengan paparan bahan kimia berbahaya seperti debu, asap...
 pubDate: '2025-06-16T23:13:12.000Z'
 updatedDate: '2026-10-01T01:00:26.000Z'
 author: admin
@@ -23,6 +21,7 @@ tags:
   - Riksa Uji
   - Riksa Uji K3
 draft: false
+imageAlt: Inspeki K3 Riksa Uji PT. Cipta Mas Jaya
 ---
 Faktor-faktor lingkungan kerja K3 meliputi faktor fisik, kimia, biologi, ergonomi, dan psikososial. Faktor fisik seperti suhu, kebisingan, getaran, dan pencahayaan dapat mempengaruhi kesehatan dan kenyamanan pekerja. Faktor kimia berkaitan dengan paparan bahan kimia berbahaya seperti debu, asap, dan uap. Faktor biologi mencakup paparan mikroorganisme seperti bakteri dan virus. Faktor ergonomi berkaitan dengan desain pekerjaan dan tempat kerja yang harus mendukung postur dan gerakan tubuh yang sehat. Terakhir, faktor psikososial meliputi aspek psikologi dan sosial seperti stres kerja, hubungan antar rekan kerja, dan beban kerja.
 

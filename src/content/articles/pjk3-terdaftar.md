@@ -6,9 +6,7 @@ title: PJK3 Terdaftar
 description: >-
   PJK3 terdaftar adalah Perusahaan Jasa Keselamatan dan Kesehatan Kerja yang
   telah memperoleh izin resmi dari Kementerian Ketenagakerjaan untuk
-  menyelenggarakan layanan di bidang K3 sesuai dengan jenis usaha dan
-  kompetensinya. Perusahaan ini telah memenuhi persyaratan administratif,
-  teknis, dan...
+  menyelenggarakan
 pubDate: '2025-06-07T22:51:25.000Z'
 updatedDate: '2026-09-14T01:00:40.000Z'
 author: admin
@@ -25,6 +23,13 @@ tags:
   - Riksa Uji K3
 image: /wp-content/uploads/2025/06/pjk3-terdaftar.jpg
 draft: false
+imageAlt: >-
+  PJK3 Terdaftar adalah perusahaan jasa K3 yang telah mendapatkan pengakuan
+  resmi dari Kementerian Ketenagakerjaan Republik Indonesia melalui penerbitan
+  SKP (Surat Keputusan Penunjukan). Status terdaftar ini menandakan bahwa
+  perusahaan tersebut telah memenuhi seluruh persyaratan administratif, teknis,
+  dan kompetensi yang ditetapkan pemerintah untuk dapat memberikan layanan di
+  bidang keselamatan dan kesehatan kerja secara legal dan profesional.
 ---
 PJK3 terdaftar adalah Perusahaan Jasa Keselamatan dan Kesehatan Kerja yang telah memperoleh izin resmi dari Kementerian Ketenagakerjaan untuk menyelenggarakan layanan di bidang K3 sesuai dengan jenis usaha dan kompetensinya. Perusahaan ini telah memenuhi persyaratan administratif, teknis, dan legal yang ditetapkan oleh pemerintah, serta tercatat dalam daftar resmi sebagai penyedia jasa K3 yang sah. Keberadaan PJK3 terdaftar penting untuk menjamin bahwa kegiatan K3 yang dilakukan di suatu perusahaan atau proyek dilakukan oleh pihak yang berkompeten dan sesuai dengan regulasi yang berlaku.
 

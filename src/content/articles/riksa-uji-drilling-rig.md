@@ -6,8 +6,7 @@ title: Riksa Uji Drilling Rig
 description: >-
   Riksa uji drilling rig merupakan bagian dari riksa uji pesawat angkat dan
   angkut, karena drilling rig termasuk dalam kategori alat berat yang memiliki
-  fungsi pengangkatan serta pemindahan komponen dalam proses pengeboran.
-  Drilling rig, selain berfungsi untuk mengebor, juga memiliki sistem angkat...
+  fungsi
 pubDate: '2024-10-23T09:19:12.000Z'
 updatedDate: '2026-09-05T01:00:22.000Z'
 author: Editor
@@ -22,6 +21,13 @@ tags:
   - Riksa Uji K3
 image: /wp-content/uploads/2024/09/Riksa-Uji-Drilling-Rig-PT-Cipta-Mas-Jaya.jpg
 draft: false
+imageAlt: >-
+  Riksa uji drilling rig adalah pemeriksaan menyeluruh terhadap alat berat untuk
+  pengeboran minyak dan gas. Proses ini meliputi evaluasi komponen mekanik,
+  sistem hidraulik, dan perangkat pengangkat guna memastikan semua bagian
+  berfungsi dengan baik dan aman. Inspeksi rutin ini bertujuan mendeteksi
+  potensi masalah, menjaga keamanan operasional, dan melindungi keselamatan
+  pekerja di lingkungan kerja yang berisiko tinggi.
 ---
 **Riksa uji drilling rig** merupakan bagian dari **[riksa uji pesawat angkat dan angkut](/2024/08/21/riksa-uji-k3-pesawat-angkat-dan-angkut/)**, karena drilling rig termasuk dalam kategori alat berat yang memiliki fungsi pengangkatan serta pemindahan komponen dalam proses pengeboran. Drilling rig, selain berfungsi untuk mengebor, juga memiliki sistem angkat yang digunakan untuk memindahkan pipa, peralatan pengeboran, dan material berat lainnya selama operasi berlangsung. Oleh karena itu, inspeksi terhadap sistem angkat pada drilling rig sangat mirip dengan pemeriksaan pada **pesawat angkat dan angkut** seperti **crane**, **hoist**, atau **forklift**.
 

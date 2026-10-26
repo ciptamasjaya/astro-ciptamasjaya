@@ -6,8 +6,7 @@ title: Riksa Uji Penyalur Petir Pasif
 description: >-
   Riksa uji penyalur petir pasif adalah proses penting yang dilakukan untuk
   memastikan bahwa sistem perlindungan dari sambaran petir berfungsi dengan
-  baik. Penyalur petir pasif, atau lebih dikenal sebagai sistem penangkal petir,
-  terdiri dari komponen yang dirancang untuk menangkap dan mengalihkan...
+  baik.
 pubDate: '2024-10-14T16:18:09.000Z'
 updatedDate: '2026-09-04T01:00:08.000Z'
 author: Editor
@@ -20,6 +19,10 @@ tags:
 image: >-
   /wp-content/uploads/2024/10/Riksa-Uji-Penyalur-Petir-Pasif-PT-Cipta-Mas-Jaya-scaled.jpg
 draft: false
+imageAlt: >-
+  Riksa uji penyalur petir pasif adalah inspeksi untuk memastikan sistem
+  berfungsi aman. Teknisi memeriksa komponen seperti penangkal, kabel, dan
+  grounding agar sesuai standar keselamatan dan siap melindungi bangunan.
 ---
 **[Riksa uji penyalur petir pasif](/2024/08/26/riksa-uji-sistem-penangkal-petir/)** adalah proses penting yang dilakukan untuk memastikan bahwa sistem perlindungan dari sambaran petir berfungsi dengan baik. Penyalur petir pasif, atau lebih dikenal sebagai sistem penangkal petir, terdiri dari komponen yang dirancang untuk menangkap dan mengalihkan energi dari sambaran petir ke tanah, sehingga melindungi bangunan dan infrastruktur dari kerusakan yang dapat ditimbulkan. Dengan melakukan riksa uji secara berkala, perusahaan dan pemilik bangunan dapat memastikan bahwa sistem ini tetap efektif dan siap beroperasi saat dibutuhkan.
 

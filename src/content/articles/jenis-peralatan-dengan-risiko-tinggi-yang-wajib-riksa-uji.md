@@ -6,8 +6,6 @@ title: Jenis Peralatan dengan Risiko Tinggi yang Wajib di Riksa Uji oleh PJK3
 description: >-
   Peralatan teknik dengan risiko tinggi adalah tulang punggung berbagai sektor
   industri, mulai dari manufaktur hingga energi. Namun, peralatan seperti bejana
-  tekan, pesawat uap, dan alat berat lainnya menyimpan potensi bahaya yang tidak
-  boleh diabaikan. Kegagalan operasional pada peralatan ini...
 pubDate: '2024-12-18T10:33:06.000Z'
 updatedDate: '2026-10-02T01:00:56.000Z'
 author: Editor
@@ -23,6 +21,13 @@ tags:
 image: >-
   /wp-content/uploads/2024/12/Jenis-Peralatan-dengan-Risiko-Tinggi-yang-Wajib-Riksa-Uji-PT-Cipta-Mas-Jaya-.jpg
 draft: false
+imageAlt: >-
+  Jenis peralatan dengan risiko tinggi yang wajib riksa uji meliputi berbagai
+  peralatan industri seperti bejana tekan, pesawat uap, turbin, boiler, serta
+  alat-alat berat lainnya yang berpotensi menimbulkan bahaya serius jika tidak
+  dilakukan pemeriksaan dan pengujian secara berkala, untuk memastikan
+  keandalan, keselamatan, dan kelayakan operasional sesuai dengan standar
+  regulasi yang berlaku dan mengurangi risiko kecelakaan kerja.
 ---
 Peralatan teknik dengan risiko tinggi adalah tulang punggung berbagai sektor industri, mulai dari manufaktur hingga energi. Namun, peralatan seperti bejana tekan, pesawat uap, dan alat berat lainnya menyimpan potensi bahaya yang tidak boleh diabaikan. Kegagalan operasional pada peralatan ini tidak hanya berdampak pada kerugian finansial, tetapi juga dapat mengancam keselamatan pekerja dan lingkungan sekitar. Untuk itu, pemerintah melalui regulasi yang ketat mewajibkan dilakukannya riksa uji secara berkala guna memastikan keamanan dan kelayakan fungsi peralatan. Dengan memahami jenis-jenis peralatan yang memerlukan riksa uji, kita dapat mencegah risiko kecelakaan dan menciptakan lingkungan kerja yang lebih aman serta produktif.
 

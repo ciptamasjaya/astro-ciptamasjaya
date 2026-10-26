@@ -4,10 +4,8 @@ type: article
 slug: riksa-uji-instalasi-listrik-dan-penyalur-petir
 title: Riksa Uji Instalasi Listrik dan Penyalur Petir
 description: >-
-  Riksa Uji Instalasi Listrik dan Penyalur Petiradalah langkah krusial yang
-  diperlukan untuk memastikan semua sistem listrik dan perlindungan terhadap
-  petir berfungsi dengan baik dan aman. Dalam artikel ini, kita akan membahas
-  apa itu riksa uji instalasi listrik dan penyalur petir, pentingnya...
+  Riksa Uji Instalasi Listrik dan Penyalur Petir, perusahaan untuk memastikan
+  keselamatan pekerja dan kepatuhan atas standar keselamatan kerja
 pubDate: '2024-09-11T12:48:29.000Z'
 updatedDate: '2026-09-16T01:00:05.000Z'
 author: admin
@@ -15,6 +13,9 @@ category: layanan
 tags: []
 image: /wp-content/uploads/2024/09/listrik-pjk3-riksa-uji-pt.cipta-mas-jaya-005.jpg
 draft: false
+imageAlt: >-
+  Jasa Inspeksi K3 PJK3 Riksa Uji PT. Cipta Mas Jaya Instalasi Listrik dan
+  Penangkal Petir Instalasi Listrik
 ---
 Riksa Uji Instalasi Listrik dan Penyalur Petiradalah langkah krusial yang diperlukan untuk memastikan semua sistem listrik dan perlindungan terhadap petir berfungsi dengan baik dan aman. Dalam artikel ini, kita akan membahas apa itu riksa uji instalasi listrik dan penyalur petir, pentingnya melakukan riksa uji ini, serta proses dan manfaat yang diperoleh dari pelaksanaannya.
 

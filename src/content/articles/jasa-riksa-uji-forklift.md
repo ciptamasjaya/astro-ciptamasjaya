@@ -4,10 +4,8 @@ type: article
 slug: jasa-riksa-uji-forklift
 title: Riksa Uji Forklift
 description: >-
-  Riksa uji forklift adalah proses pemeriksaan dan pengujian terhadap kondisi
-  teknis dan operasional forklift mencakup inspeksi komponen mekanis, sistem
-  hidraulik, rem, ban, serta sistem pengangkutan beban, Tujuannya adalah untuk
-  mengidentifikasi potensi kerusakan atau masalah yang dapat...
+  Riksa uji secara berkala membantu mengidentifikasi masalah Kerusakan atau
+  keausan yang tidak terdeteksi dapat meningkatkan risiko kecelakaan.
 pubDate: '2024-08-26T11:33:07.000Z'
 updatedDate: '2026-09-20T01:02:17.000Z'
 author: Editor
@@ -25,6 +23,7 @@ tags:
 image: >-
   /wp-content/uploads/2024/08/riksa-uji-k3-papa-forklift-pt-cipta-mas-jaya-005.jpg
 draft: false
+imageAlt: riksa-uji-k3-papa-forklift-pt-cipta-mas-jaya-005
 ---
 Riksa uji forklift adalah proses pemeriksaan dan pengujian terhadap kondisi teknis dan operasional forklift mencakup inspeksi komponen mekanis, sistem hidraulik, rem, ban, serta sistem pengangkutan beban, Tujuannya adalah untuk mengidentifikasi potensi kerusakan atau masalah yang dapat menyebabkan kecelakaan kerja, memastikan bahwa alat tersebut berfungsi dengan baik dan aman digunakan dan memastikan forklift memenuhi standar keselamatan yang berlaku.
 

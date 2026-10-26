@@ -6,9 +6,7 @@ title: Riksa Uji K3
 description: >-
   Riksa uji K3 adalah proses pemeriksaan dan pengujian peralatan kerja,
   instalasi, atau sistem secara berkala untuk memastikan keamanan dan
-  kelayakannya. Tujuan utamanya adalah memastikan peralatan dalam kondisi layak
-  pakai, sesuai dengan standar keselamatan dan kesehatan kerja, serta
-  mendukung...
+  kelayakannya. Tujuan
 pubDate: '2024-08-18T20:15:14.000Z'
 updatedDate: '2026-10-14T01:03:44.000Z'
 author: admin
@@ -19,6 +17,12 @@ tags:
   - Riksa Uji K3
 image: /wp-content/uploads/2024/08/riksa-uji-k3-ciptamasjaya.co_.id_.jpeg
 draft: false
+imageAlt: >-
+  Riksa uji K3 adalah proses pemeriksaan dan pengujian teknis terhadap peralatan
+  kerja untuk memastikan bahwa alat tersebut aman digunakan sesuai dengan
+  standar Keselamatan dan Kesehatan Kerja (K3). Kegiatan ini dilakukan oleh
+  tenaga ahli bersertifikat untuk menilai kelayakan fungsi, struktur, dan sistem
+  keselamatan dari alat yang digunakan di lingkungan kerja.
 ---
 Riksa uji K3 adalah proses pemeriksaan dan pengujian peralatan kerja, instalasi, atau sistem secara berkala untuk memastikan keamanan dan kelayakannya. Tujuan utamanya adalah memastikan peralatan dalam kondisi layak pakai, sesuai dengan standar keselamatan dan kesehatan kerja, serta mendukung penerapan Sistem Manajemen Keselamatan dan Kesehatan Kerja (SMK3).
 

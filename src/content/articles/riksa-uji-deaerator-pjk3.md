@@ -4,10 +4,8 @@ type: article
 slug: riksa-uji-deaerator-pjk3
 title: Riksa Uji Deaerator
 description: >-
-  Riksa uji deaerator adalah proses penting dalam pemeliharaan peralatan
-  pembangkit tenaga uap yang meliputi pemeriksaan fisik dan fungsional komponen
-  utama, seperti tangki deaerasi, nozzle, dan ventilator gas, untuk mendeteksi
-  adanya tanda-tanda korosi atau kebocoran. Deaerator, yang berfungsi...
+  Riksa uji deaerator merupakan proses penting dalam pemeliharaan peralatan
+  pembangkit tenaga uap agar dapat memastikan peralatan aman.
 pubDate: '2024-09-19T09:58:09.000Z'
 updatedDate: '2026-09-04T01:00:09.000Z'
 author: Editor
@@ -20,6 +18,9 @@ tags:
 image: >-
   /wp-content/uploads/2024/09/deaerator-pubt-pjk3-riksa-uji-pt.cipta-mas-jaya-001.jpg
 draft: false
+imageAlt: >-
+  Jasa Inspeksi K3 PJK3 Riksa Uji PT. Cipta Mas Jaya Pesawat Uap Bejana Tekan
+  Deaerator
 ---
 **Riksa uji deaerator** adalah proses penting dalam pemeliharaan peralatan pembangkit tenaga uap yang meliputi pemeriksaan fisik dan fungsional komponen utama, seperti tangki deaerasi, nozzle, dan ventilator gas, untuk mendeteksi adanya tanda-tanda korosi atau kebocoran.
 

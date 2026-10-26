@@ -4,10 +4,9 @@ type: article
 slug: ultrasonic-testing-ut
 title: Ultrasonic Testing (UT) Pengujian Ultrasonik
 description: >-
-  Pengertian Ultrasonic Testing (UT) Ultrasonic Testing adalah metode
-  Non-Destructive Testing (NDT) yang menggunakan gelombang ultrasonik frekuensi
-  tinggi untuk mendeteksi cacat internal, mengukur ketebalan material, dan
-  mengevaluasi integritas struktur tanpa merusaknya. Dalam metode ini...
+  Ultrasonic Testing adalah metode Non-Destructive Testing (NDT) yang
+  menggunakan gelombang ultrasonik frekuensi tinggi untuk mendeteksi cacat
+  internal,
 pubDate: '2025-06-01T21:20:52.000Z'
 updatedDate: '2026-10-08T01:00:04.000Z'
 author: admin
@@ -24,6 +23,16 @@ tags:
   - Riksa Uji K3
 image: /wp-content/uploads/2025/06/ultrasonic-testing-pengujian-ultrasonik.png
 draft: false
+imageAlt: >-
+  Ultrasonic testing adalah sebuah metode inspeksi non-destruktif (NDT) yang
+  memanfaatkan gelombang suara berfrekuensi sangat tinggi (ultrasonik) untuk
+  mendeteksi cacat internal dan mengukur ketebalan suatu material. Prinsip
+  kerjanya adalah dengan memancarkan gelombang suara ke dalam objek uji melalui
+  sebuah transduser. Ketika gelombang tersebut mengenai batas material atau
+  diskontinuitas seperti retakan, rongga, atau inklusi, sebagian gelombang akan
+  dipantulkan kembali. Pantulan (echo) inilah yang ditangkap dan dianalisis
+  untuk menentukan lokasi, ukuran, dan jenis cacat tanpa merusak komponen yang
+  diperiksa.
 ---
 ## Pengertian Ultrasonic Testing (UT)
 

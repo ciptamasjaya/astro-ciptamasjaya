@@ -4,10 +4,8 @@ type: article
 slug: inspeksi-storage-tank
 title: Inspeksi Storage Tank
 description: >-
-  Riksa Uji Storage Tank adalah proses pemeriksaan dan pengujian yang meliputi
-  pengecekan fisik terhadap komponen utama seperti dinding tangki, dasar tangki,
-  saluran masuk dan keluar, katup, serta sistem ventilasi. Pemeriksaan ini
-  bertujuan untuk mendeteksi adanya kerusakan, korosi, kebocoran...
+  Storage Tank yang beroperasi di bawah tekanan tinggi diperiksa untuk
+  memastikan tidak ada retakan atau kerusakan yang terjadi.
 pubDate: '2024-08-29T10:51:00.000Z'
 updatedDate: '2026-10-11T01:00:04.000Z'
 author: Editor
@@ -24,6 +22,9 @@ tags:
 image: >-
   /wp-content/uploads/2024/08/riksa-uji-k3-storage-tank-pt-cipta-mas-jaya-001.png
 draft: false
+imageAlt: >-
+  PJK3 Riksa Uji PT. Cipta Mas Jaya menyediakan layanan Riksa Uji Pesawat Uap,
+  Bejana Tekan dan Tangki Timbun
 ---
 **Riksa Uji Storage Tank** adalah proses pemeriksaan dan pengujian yang meliputi pengecekan fisik terhadap komponen utama seperti dinding tangki, dasar tangki, saluran masuk dan keluar, katup, serta sistem ventilasi. Pemeriksaan ini bertujuan untuk mendeteksi adanya kerusakan, korosi, kebocoran, atau deformasi yang dapat memengaruhi integritas struktural dan keamanan tangki.
 

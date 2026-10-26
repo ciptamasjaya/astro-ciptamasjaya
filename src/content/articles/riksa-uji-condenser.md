@@ -6,8 +6,6 @@ title: Riksa Uji Condenser
 description: >-
   Riksa uji condenser adalah proses pemeriksaan komprehensif untuk memastikan
   keandalan, efisiensi, dan keselamatan dari condenser dalam sistem industri.
-  Condenser berfungsi sebagai alat penukar panas yang mengubah uap menjadi
-  cairan melalui proses pendinginan, sering digunakan dalam berbagai...
 pubDate: '2024-11-20T16:31:02.000Z'
 updatedDate: '2026-09-19T01:02:54.000Z'
 author: Editor
@@ -21,6 +19,10 @@ tags:
   - riksa uji pesawat uap dan bejana tekan
 image: /wp-content/uploads/2024/10/Riksa-Uji-Condenser-PT-Cipta-Mas-Jaya-2-scaled.jpg
 draft: false
+imageAlt: >-
+  Riksa uji condenser adalah proses vital untuk memastikan efisiensi dan
+  keamanan sistem pendinginan dalam industri, mencegah potensi kegagalan
+  operasional dan kerugian yang lebih besar.
 ---
 Riksa uji condenser adalah proses pemeriksaan komprehensif untuk memastikan keandalan, efisiensi, dan keselamatan dari condenser dalam sistem industri. Condenser berfungsi sebagai alat penukar panas yang mengubah uap menjadi cairan melalui proses pendinginan, sering digunakan dalam berbagai aplikasi, termasuk pembangkit listrik, sistem pendingin, dan industri kimia. Sebagai komponen krusial dalam menjaga stabilitas suhu dan tekanan pada sistem, condenser yang tidak diuji secara berkala dapat menjadi sumber masalah yang mengganggu operasional.
 

@@ -6,8 +6,7 @@ title: Jasa Pengukuran Lingkungan Kerja
 description: >-
   Jasa pengukuran lingkungan kerja adalah layanan profesional yang disediakan
   oleh pihak berkompeten untuk melakukan evaluasi terhadap kondisi lingkungan
-  kerja di suatu perusahaan. Tujuannya adalah untuk memastikan bahwa parameter
-  lingkungan seperti kebisingan, pencahayaan, suhu, gas beracun, dan...
+  kerja
 pubDate: '2025-07-15T20:37:56.000Z'
 updatedDate: '2026-09-27T01:00:22.000Z'
 author: admin
@@ -24,6 +23,7 @@ tags:
   - Riksa Uji K3
   - sertifikasi
 draft: false
+imageAlt: Inspeki K3 Riksa Uji PT. Cipta Mas Jaya
 ---
 **Jasa pengukuran lingkungan kerja** adalah layanan profesional yang disediakan oleh pihak berkompeten untuk melakukan evaluasi terhadap kondisi lingkungan kerja di suatu perusahaan. Tujuannya adalah untuk memastikan bahwa parameter lingkungan seperti kebisingan, pencahayaan, suhu, gas beracun, dan getaran tetap berada dalam batas aman sesuai peraturan dan standar yang berlaku. Layanan ini sangat penting, terutama bagi perusahaan yang memiliki risiko paparan bahaya tinggi terhadap pekerjanya.
 

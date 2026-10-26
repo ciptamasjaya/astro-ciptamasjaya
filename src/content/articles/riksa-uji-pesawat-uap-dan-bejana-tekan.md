@@ -4,10 +4,8 @@ type: article
 slug: riksa-uji-pesawat-uap-dan-bejana-tekan
 title: Riksa Uji Pesawat Uap dan Bejana Tekan
 description: >-
-  Riksa Uji Pesawat Uap dan Bejana Tekan adalah proses pemeriksaan dan pengujian
-  teknis terhadap peralatan bertekanan seperti boiler (pesawat uap), tangki
-  tekan, dan bejana sejenis lainnya untuk memastikan bahwa alat-alat tersebut
-  layak dan aman dioperasikan. Pemeriksaan ini meliputi evaluasi...
+  Riksa Uji Pesawat Uap dan Bejana Tekan merupakan salah satu aspek penting
+  dalam menjaga keselamatan dan efisiensi operasional
 pubDate: '2024-09-06T07:02:07.000Z'
 updatedDate: '2026-09-13T01:00:13.000Z'
 author: admin
@@ -15,6 +13,9 @@ category: layanan
 tags: []
 image: /wp-content/uploads/2024/09/boiler-pubt-pjk3-riksa-uji-pt.cipta-mas-jaya.jpg
 draft: false
+imageAlt: >-
+  Jasa Inspeksi K3 PJK3 Riksa Uji PT. Cipta Mas Jaya Pesawat Uap Bejana Tekan
+  Boiler
 ---
 **Riksa Uji Pesawat Uap dan Bejana Tekan** adalah proses pemeriksaan dan pengujian teknis terhadap peralatan bertekanan seperti boiler (pesawat uap), tangki tekan, dan bejana sejenis lainnya untuk memastikan bahwa alat-alat tersebut layak dan aman dioperasikan. Pemeriksaan ini meliputi evaluasi terhadap kondisi fisik, integritas material, sambungan las, sistem pengaman, serta uji tekanan (hydrostatic test) sesuai standar yang berlaku. Riksa uji ini wajib dilakukan secara berkala oleh tenaga ahli dari perusahaan PJK3 yang ditunjuk oleh Kementerian Ketenagakerjaan, guna mencegah risiko kecelakaan kerja akibat ledakan atau kebocoran pada peralatan bertekanan.
 

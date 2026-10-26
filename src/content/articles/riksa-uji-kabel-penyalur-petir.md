@@ -6,9 +6,7 @@ title: Riksa Uji Kabel Penyalur Petir
 description: >-
   Riksa uji kabel penyalur petir adalah proses yang sangat penting dalam
   memastikan bahwa sistem penyalur petir berfungsi dengan baik dan dapat
-  melindungi bangunan serta peralatan dari kerusakan akibat sambaran petir.
-  Kabel penyalur petir berperan sebagai jalur untuk mengalirkan energi
-  listrik...
+  melindungi
 pubDate: '2024-10-15T14:01:11.000Z'
 updatedDate: '2026-08-31T01:02:03.000Z'
 author: Editor
@@ -22,6 +20,12 @@ tags:
 image: >-
   /wp-content/uploads/2024/10/Riksa-Uji-Kabel-Penyalur-Petir-PT-Cipta-Mas-Jaya-scaled.jpg
 draft: false
+imageAlt: >-
+  Riksa uji kabel penyalur petir adalah pemeriksaan kabel penyalur petir untuk
+  memastikan fungsinya aman dan sesuai standar. Proses ini mencakup pengujian
+  konduktivitas, pemeriksaan kondisi fisik kabel, serta sistem pengaman untuk
+  mencegah kegagalan fungsi dan melindungi bangunan serta lingkungan dari bahaya
+  petir.
 ---
 **[Riksa uji kabel penyalur petir](/2024/08/26/riksa-uji-sistem-penangkal-petir/)** adalah proses yang sangat penting dalam memastikan bahwa sistem penyalur petir berfungsi dengan baik dan dapat melindungi bangunan serta peralatan dari kerusakan akibat sambaran petir. Kabel penyalur petir berperan sebagai jalur untuk mengalirkan energi listrik dari sambaran petir ke tanah, sehingga mengurangi risiko kerusakan pada struktur bangunan dan peralatan listrik yang ada di dalamnya. Dalam artikel ini, kita akan membahas definisi, fungsi, komponen yang diperiksa, peran PJK3, regulasi yang mengatur, dan keuntungan dari melakukan riksa uji kabel penyalur petir.
 

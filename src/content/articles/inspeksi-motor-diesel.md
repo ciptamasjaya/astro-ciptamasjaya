@@ -4,10 +4,8 @@ type: article
 slug: inspeksi-motor-diesel
 title: Inspeksi Motor Diesel
 description: >-
-  Riksa Uji Motor Diesel adalah proses pemeriksaan keselamatan dan kesehatan
-  kerja yang mencakup pengecekan kondisi fisik motor, sistem pembakaran, emisi
-  gas buang, serta komponen utama seperti sistem pendinginan dan pelumasan,
-  dengan tujuan memastikan motor diesel beroperasi aman sesuai standar...
+  Inspeksi motor diesel adalah kegiatan yang dilakukan untuk mengetahui keadaan
+  motor diesel dalam keadaan yang baik dan dalam kondisi aman.
 pubDate: '2024-09-12T10:25:22.000Z'
 updatedDate: '2026-08-27T01:07:57.000Z'
 author: Editor
@@ -20,6 +18,9 @@ tags:
 image: >-
   /wp-content/uploads/2024/09/motor-diesel-ptp-pjk3-riksa-uji-pt.cipta-mas-jaya-005.jpg
 draft: false
+imageAlt: >-
+  Jasa Inspeksi K3 PJK3 Riksa Uji PT. Cipta Mas Jaya Pesawat Tenaga dan Produksi
+  Motor Diesel
 ---
 Riksa Uji Motor Diesel adalah proses pemeriksaan keselamatan dan kesehatan kerja yang mencakup pengecekan kondisi fisik motor, sistem pembakaran, emisi gas buang, serta komponen utama seperti sistem pendinginan dan pelumasan, dengan tujuan memastikan motor diesel beroperasi aman sesuai standar keselamatan yang berlaku. Pengujian performa juga dilakukan untuk memastikan bahwa operasinya tidak menimbulkan risiko bagi pekerja dan lingkungan kerja.
 

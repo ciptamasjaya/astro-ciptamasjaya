@@ -6,8 +6,7 @@ title: JSA pemasangan lifeline
 description: >-
   JSA (Job Safety Analysis) pemasangan lifeline adalah suatu metode analisis
   pekerjaan yang bertujuan untuk mengidentifikasi potensi bahaya dan risiko
-  terkait pemasangan lifeline (tali keselamatan) serta menetapkan tindakan
-  pencegahan untuk meminimalkan atau menghilangkan risiko tersebut. Lifeline...
+  terkait
 pubDate: '2025-07-19T04:10:54.000Z'
 updatedDate: '2026-09-24T03:07:06.000Z'
 author: admin
@@ -25,6 +24,11 @@ tags:
   - sertifikasi
 image: /wp-content/uploads/2025/07/jsa-pemasangan-lifeline.jpeg
 draft: false
+imageAlt: >-
+  JSA pemasangan lifeline adalah dokumen analisis keselamatan kerja yang
+  berfungsi untuk mengidentifikasi potensi bahaya serta menetapkan tindakan
+  pengendalian risiko saat melakukan aktivitas pemasangan sistem lifeline di
+  area atap atau ketinggian agar pekerjaan berjalan aman dan sesuai standar K3.
 ---
 JSA (Job Safety Analysis) pemasangan lifeline adalah suatu metode analisis pekerjaan yang bertujuan untuk mengidentifikasi potensi bahaya dan risiko terkait pemasangan lifeline (tali keselamatan) serta menetapkan tindakan pencegahan untuk meminimalkan atau menghilangkan risiko tersebut. Lifeline adalah sistem pengaman yang digunakan untuk melindungi pekerja yang bekerja di ketinggian.
 

@@ -6,8 +6,7 @@ title: Standar Pengujian Hydrant
 description: >-
   Standar pengujian hydrant / standar inspeksi hydrant adalah serangkaian
   pedoman dan prosedur yang harus diikuti dalam pemeriksaan dan pengujian
-  hydrant untuk memastikan bahwa sistem hydrant berfungsi dengan baik dan dapat
-  digunakan dalam situasi darurat kebakaran. Standar ini mencakup beberapa...
+  hydrant untuk
 pubDate: '2024-10-07T20:21:55.000Z'
 updatedDate: '2026-09-24T03:07:02.000Z'
 author: admin
@@ -21,6 +20,12 @@ tags:
   - Riksa Uji K3
 image: /wp-content/uploads/2024/10/standar-pengujian-hydrant-0102.jpg
 draft: false
+imageAlt: >-
+  Standar pengujian hydrant adalah acuan teknis yang digunakan untuk memastikan
+  sistem hydrant berfungsi optimal, mencakup pemeriksaan tekanan air, kondisi
+  pipa, dan kelengkapan valve serta nozzle. Standar ini membantu memastikan
+  hydrant siap digunakan dalam keadaan darurat untuk menangani risiko kebakaran
+  di area kerja.
 ---
 Standar pengujian hydrant / standar inspeksi hydrant adalah serangkaian pedoman dan prosedur yang harus diikuti dalam **pemeriksaan dan pengujian hydrant** untuk memastikan bahwa sistem hydrant berfungsi dengan baik dan dapat digunakan dalam situasi darurat kebakaran. Standar ini mencakup beberapa aspek pengujian, seperti: Pengujian Tekanan Statis, Pengujian Tekanan Dinamis, Pengujian Aliran Air, Inspeksi Fisik dan Standar Sertifikasi.
 

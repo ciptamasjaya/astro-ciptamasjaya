@@ -6,8 +6,7 @@ title: Kapan Riksa Uji Pesawat Angkat Angkut?
 description: >-
   Dasar hukum yang mengatur kapan riksa uji pesawat angkat dan angkut adalah
   Peraturan Menteri Ketenagakerjaan Republik Indonesia Nomor 8 Tahun 2020
-  Tentang Keselamatan Dan Kesehatan Kerja Pesawat Angkat Dan Pesawat Angkut
-  Pasal 176. Pemeriksaan dan pengujian berkala sebagaimana dimaksud dalam...
+  Tentang
 pubDate: '2023-04-12T10:50:33.000Z'
 updatedDate: '2026-10-03T01:00:06.000Z'
 author: admin
@@ -22,6 +21,16 @@ tags:
   - Riksa Uji Pesawat Angkat Angkut
 image: /wp-content/uploads/2023/04/kapan-riksa-uji-pesawat-angkat-angkut-scaled.jpg
 draft: false
+imageAlt: >-
+  Riksa uji pesawat angkat dan angkut sebaiknya dilakukan minimal satu kali
+  dalam setahun atau sesuai dengan rekomendasi teknis dari pengawas K3.
+  Pemeriksaan ini juga wajib dilakukan setelah alat mengalami kerusakan besar,
+  pemindahan lokasi, atau modifikasi struktural yang signifikan. Jadwal riksa
+  uji bertujuan memastikan bahwa pesawat angkat dan angkut tetap dalam kondisi
+  aman, andal, dan sesuai standar operasional. Pelaksanaannya harus dilakukan
+  oleh personel atau perusahaan yang memiliki lisensi resmi dari Kementerian
+  Ketenagakerjaan, guna menjamin keabsahan hasil pengujian dan kelayakan
+  operasional alat.
 ---
 Dasar hukum yang mengatur kapan riksa uji pesawat angkat dan angkut adalah Peraturan Menteri Ketenagakerjaan Republik Indonesia Nomor 8 Tahun 2020 Tentang Keselamatan Dan Kesehatan Kerja Pesawat Angkat Dan Pesawat Angkut Pasal 176.
 

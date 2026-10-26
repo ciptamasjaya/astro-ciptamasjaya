@@ -5,9 +5,7 @@ slug: riksa-uji-mesin-bor-pjk3
 title: Riksa Uji Mesin Bor
 description: >-
   Riksa uji mesin bor adalah proses penting yang dilakukan untuk memastikan
-  bahwa mesin bor beroperasi dengan aman dan efisien. Mesin bor digunakan dalam
-  berbagai industri, termasuk konstruksi, pertambangan, dan manufaktur, untuk
-  membuat lubang pada berbagai material seperti beton, logam, dan...
+  bahwa mesin bor beroperasi dengan aman dan efisien.
 pubDate: '2024-10-15T14:29:47.000Z'
 updatedDate: '2026-08-29T01:00:38.000Z'
 author: Editor
@@ -21,6 +19,9 @@ tags:
   - Riksa Uji K3
 image: /wp-content/uploads/2024/10/Riksa-Uji-Mesin-Bor-PT-Cipta-Mas-Jaya.jpg
 draft: false
+imageAlt: >-
+  Jasa Inspeksi K3 PJK3 Riksa Uji PT. Cipta Mas Jaya Pesawat Tenaga dan Produksi
+  Mesin Bor
 ---
 Riksa uji mesin bor adalah proses penting yang dilakukan untuk memastikan bahwa mesin bor beroperasi dengan aman dan efisien. Mesin bor digunakan dalam berbagai industri, termasuk konstruksi, pertambangan, dan manufaktur, untuk membuat lubang pada berbagai material seperti beton, logam, dan kayu. Keandalan mesin bor sangat penting karena kesalahan operasional dapat berakibat fatal, baik dari segi keselamatan kerja maupun kerugian finansial.
 

@@ -6,9 +6,7 @@ slug: pjk3-batang
 title: PJK3 Batang
 description: >-
   PT. Cipta Mas Jaya adalah PJK3 yang melayani jasa riksa uji K3 di wilayah
-  Batang. Hubungi 08568258841 untuk semua kebutuhan riksa uji Anda. PT. Cipta
-  Mas Jaya: PJK3 Riksa Uji yang melayani Jasa Riksa Uji di Batang Di tengah
-  pertumbuhan industri dan pembangunan infrastruktur di Kabupaten Batang...
+  Batang. Hubungi 08568258841 untuk semua kebutuhan riksa uji Anda.
 pubDate: '2025-05-27T00:48:06.000Z'
 updatedDate: '2026-10-09T01:01:01.000Z'
 author: admin
@@ -24,6 +22,15 @@ tags:
   - Riksa Uji K3
 image: /wp-content/uploads/2025/05/pjk3-batang.jpg
 draft: false
+imageAlt: >-
+  PT. Cipta Mas Jaya merupakan perusahaan yang telah mendapatkan penunjukan
+  resmi dari Kementerian Ketenagakerjaan Republik Indonesia sebagai PJK3
+  (Perusahaan Jasa Keselamatan dan Kesehatan Kerja). Dengan legalitas yang sah
+  dan pengalaman bertahun-tahun dalam bidang K3, PT. Cipta Mas Jaya hadir di
+  Batang untuk mendukung kebutuhan industri, proyek konstruksi, dan fasilitas
+  publik dalam hal keselamatan kerja. Keberadaan kami di Batang menunjukkan
+  komitmen untuk menjangkau daerah-daerah berkembang yang membutuhkan layanan K3
+  yang profesional dan terpercaya.
 ---
 PT. Cipta Mas Jaya adalah PJK3 yang melayani jasa riksa uji K3 di wilayah Batang. Hubungi 08568258841 untuk semua kebutuhan riksa uji Anda.
 

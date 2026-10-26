@@ -6,8 +6,6 @@ title: Steam Header
 description: >-
   Steam header adalah pipa utama atau manifold dalam sistem distribusi uap yang
   berfungsi untuk mengumpulkan uap dari satu atau lebih boiler, lalu
-  menyalurkannya ke berbagai pengguna. Komponen ini berperan sebagai reservoir,
-  memastikan pasokan uap tetap konsisten dan andal ke seluruh bagian pabrik...
 pubDate: '2025-05-29T21:04:53.000Z'
 updatedDate: '2026-10-12T01:04:31.000Z'
 author: admin
@@ -23,6 +21,12 @@ tags:
   - Riksa Uji K3
 image: /wp-content/uploads/2025/05/steam-header.jpeg
 draft: false
+imageAlt: >-
+  Steam header adalah pipa utama dalam sistem distribusi uap yang berfungsi
+  mengumpulkan uap dari beberapa boiler dan menyalurkannya ke berbagai jalur
+  pemakaian. Komponen ini berperan penting dalam menjaga kestabilan tekanan uap
+  serta memastikan distribusi yang merata ke peralatan atau proses industri yang
+  membutuhkan.
 ---
 Steam header adalah pipa utama atau manifold dalam sistem distribusi uap yang berfungsi untuk mengumpulkan uap dari satu atau lebih boiler, lalu menyalurkannya ke berbagai pengguna. Komponen ini berperan sebagai reservoir, memastikan pasokan uap tetap konsisten dan andal ke seluruh bagian pabrik atau bangunan.
 

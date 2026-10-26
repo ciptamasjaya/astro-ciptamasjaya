@@ -6,8 +6,7 @@ title: 'Pengesahan Gambar K3 Kemnaker: Panduan Awal untuk Perusahaan Anda'
 description: >-
   Pengesahan Gambar K3 Kemnaker adalah sebuah proses validasi resmi yang
   dilakukan oleh Kementerian Ketenagakerjaan Republik Indonesia terhadap desain
-  teknis dan perhitungan rekayasa dari berbagai instalasi, peralatan, atau
-  sistem kerja yang berpotensi menimbulkan bahaya di lingkungan industri...
+  teknis
 pubDate: '2025-07-06T17:29:40.000Z'
 updatedDate: '2026-09-22T01:02:14.000Z'
 author: admin
@@ -24,6 +23,12 @@ tags:
   - Riksa Uji K3
 image: /wp-content/uploads/2025/07/pengesahan-gambar-k3-kemnaker.png
 draft: false
+imageAlt: >-
+  Pengesahan Gambar K3 Kemnaker adalah proses validasi resmi oleh Kementerian
+  Ketenagakerjaan terhadap desain teknis instalasi atau peralatan di industri.
+  Tujuannya memastikan semua perencanaan memenuhi standar Keselamatan dan
+  Kesehatan Kerja (K3) sebelum konstruksi atau modifikasi, demi menjamin
+  keamanan pekerja dan lingkungan.
 ---
 Pengesahan Gambar K3 Kemnaker adalah sebuah proses validasi resmi yang dilakukan oleh Kementerian Ketenagakerjaan Republik Indonesia terhadap desain teknis dan perhitungan rekayasa dari berbagai instalasi, peralatan, atau sistem kerja yang berpotensi menimbulkan bahaya di lingkungan industri. Tujuannya sangat jelas: untuk memastikan bahwa setiap detail dalam perencanaan, mulai dari pemilihan material, dimensi struktural, hingga mekanisme operasional, telah memenuhi standar Keselamatan dan Kesehatan Kerja (K3) yang berlaku. Ini adalah langkah krusial sebelum suatu proyek konstruksi, instalasi, atau modifikasi dimulai, berfungsi sebagai jaminan awal bahwa fasilitas tersebut akan aman saat dioperasikan dan tidak membahayakan pekerja maupun lingkungan sekitar.
 

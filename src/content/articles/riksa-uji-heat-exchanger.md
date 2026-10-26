@@ -6,8 +6,6 @@ title: Riksa Uji Heat Exchanger
 description: >-
   Riksa uji heat exchanger adalah proses inspeksi dan pengujian berkala untuk
   memastikan bahwa alat penukar panas berfungsi dengan aman, efisien, dan sesuai
-  standar. Heat exchanger merupakan perangkat penting di industri, digunakan
-  untuk mentransfer panas antara dua atau lebih fluida tanpa...
 pubDate: '2024-12-02T16:32:15.000Z'
 updatedDate: '2026-09-30T01:00:07.000Z'
 author: Editor
@@ -23,6 +21,10 @@ tags:
 image: >-
   /wp-content/uploads/2024/09/Riksa-Uji-Heat-Exchanger-PT-Cipta-Mas-Jaya-scaled.jpg
 draft: false
+imageAlt: >-
+  Riksa uji heat exchanger adalah langkah untuk memastikan alat penukar panas
+  bekerja optimal dan sesuai standar, mencegah kebocoran atau kerusakan yang
+  dapat mengganggu proses serta meningkatkan efisiensi dan keamanan operasional.
 ---
 **Riksa uji heat exchanger** adalah proses **inspeksi** dan **pengujian berkala** untuk memastikan bahwa **alat penukar panas** berfungsi dengan aman, **efisien**, dan sesuai **standar**. Heat exchanger merupakan **perangkat penting** di industri, digunakan untuk **mentransfer panas** antara dua atau lebih **fluida** tanpa mencampurnya, sehingga mendukung berjalannya proses industri dengan optimal. **Riksa uji** ini merupakan salah satu bagian dari **[riksa uji pesawat uap dan bejana tekan](/2024/09/06/riksa-uji-pesawat-uap-dan-bejana-tekan/)**, yaitu pengujian terhadap alat-alat yang bekerja di bawah **tekanan tinggi** untuk mencegah risiko kerusakan yang bisa berujung pada **kecelakaan**. Melalui riksa uji heat exchanger, **teknisi** dapat memeriksa integritas alat, mendeteksi potensi **kebocoran**, **korosi**, atau **kerusakan** awal, serta memastikan pemenuhan **standar keselamatan** dan **peraturan yang berlaku**. Proses ini penting untuk menjaga **kelayakan operasional**, mengoptimalkan **efisiensi energi**, dan meminimalkan risiko **kegagalan alat** yang dapat mengganggu keseluruhan **sistem industri**.
 

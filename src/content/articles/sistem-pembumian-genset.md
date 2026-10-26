@@ -6,8 +6,6 @@ title: Sistem Pembumian Genset
 description: >-
   Sistem Pembumian Genset adalah bagian penting dalam instalasi listrik yang
   berfungsi untuk mengarahkan arus gangguan ke tanah demi menjaga keselamatan
-  pengguna dan peralatan. Tanpa pembumian yang tepat, genset dapat menimbulkan
-  risiko serius seperti sengatan listrik, kerusakan alat, dan gangguan...
 pubDate: '2025-06-08T09:24:19.000Z'
 updatedDate: '2026-09-24T03:07:04.000Z'
 author: admin
@@ -23,6 +21,7 @@ tags:
   - Riksa Uji
   - Riksa Uji K3
 draft: false
+imageAlt: Inspeki K3 Riksa Uji PT. Cipta Mas Jaya
 ---
 Sistem Pembumian Genset adalah bagian penting dalam instalasi listrik yang berfungsi untuk mengarahkan arus gangguan ke tanah demi menjaga keselamatan pengguna dan peralatan. Tanpa pembumian yang tepat, genset dapat menimbulkan risiko serius seperti sengatan listrik, kerusakan alat, dan gangguan sistem. Oleh karena itu, memahami sistem ini merupakan langkah krusial dalam memastikan keandalan dan keamanan operasional genset, baik di lingkungan industri maupun residensial.
 

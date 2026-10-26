@@ -4,10 +4,8 @@ type: article
 slug: inspeksi-pallet-mover-pjk3
 title: Inspeksi Pallet Mover
 description: >-
-  Inspeksi pallet mover adalah proses krusial untuk memastikan bahwa alat ini
-  berfungsi dengan aman, efisien, dan sesuai dengan standar operasional. Pallet
-  mover, juga dikenal sebagai pallet jack atau hand pallet truck, adalah
-  perangkat yang digunakan untuk memindahkan pallet yang berisi barang di...
+  Inspeksi pallet mover adalah proses untuk memastikan bahwa alat ini berfungsi
+  dengan aman, efisien, dan sesuai dengan standar operasional.
 pubDate: '2024-09-18T14:11:57.000Z'
 updatedDate: '2026-10-10T01:00:13.000Z'
 author: Editor
@@ -21,6 +19,9 @@ tags:
 image: >-
   /wp-content/uploads/2024/09/pallet-mover-papa-pjk3-riksa-uji-pt.cipta-mas-jaya-02.jpg
 draft: false
+imageAlt: >-
+  Jasa Inspeksi K3 PJK3 Riksa Uji PT. Cipta Mas Jaya Pesawat Angkat dan Pesawat
+  Angkut Pallet Mover
 ---
 **[Inspeksi pallet mover](/2023/04/12/jasa-inspeksi-k3/)** adalah proses krusial untuk memastikan bahwa alat ini berfungsi dengan aman, efisien, dan sesuai dengan standar operasional. Pallet mover, juga dikenal sebagai pallet jack atau hand pallet truck, adalah perangkat yang digunakan untuk memindahkan pallet yang berisi barang di area gudang atau fasilitas penyimpanan. Karena fungsinya yang esensial dalam logistik dan pergudangan, pemeliharaan dan inspeksi rutin sangat penting untuk menjaga performa dan keselamatan. Artikel ini akan membahas aspek-aspek penting dari inspeksi pallet mover, termasuk definisi, prinsip kerja, komponen utama, dan prosedur inspeksi yang mendetail, serta peran PJK3 dan sertifikasi dalam menjaga standar keselamatan.
 

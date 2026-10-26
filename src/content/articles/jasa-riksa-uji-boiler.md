@@ -3,11 +3,7 @@ id: 754
 type: article
 slug: jasa-riksa-uji-boiler
 title: Riksa Uji Boiler
-description: >-
-  Riksa uji boiler adalah proses pemeriksaan dan pengujian komprehensif yang
-  mencakup komponen utama boiler, seperti drum uap, pipa pemanas, burner, katup
-  pengaman, dan sistem kontrol tekanan, riksa uji ini dilakukan untuk memastikan
-  bahwa setiap bagian, termasuk sistem perpipaan dan sambungan...
+description: "Boiler adalah alat yang digunakan untuk menghasilkan\_uap\_dengan memanaskan air. Riksa uji pada boiler dilakukan untuk memaksimalkan kinerja."
 pubDate: '2024-08-26T14:42:05.000Z'
 updatedDate: '2026-09-04T01:00:06.000Z'
 author: Editor
@@ -21,6 +17,12 @@ tags:
   - sertifikasi
 image: /wp-content/uploads/2024/08/riksa-uji-k3-boiler-pt-cipta-mas-jaya-001-1.jpg
 draft: false
+imageAlt: >-
+  Riksa uji boiler adalah serangkaian pemeriksaan menyeluruh pada boiler,
+  mencakup pengujian tekanan, integritas struktur, dan kondisi peralatan
+  pendukung, untuk memastikan bahwa boiler mampu berfungsi dengan baik tanpa
+  risiko bahaya. Dengan riksa uji ini, boiler dapat dioperasikan sesuai standar
+  keselamatan kerja.
 ---
 **Riksa uji boiler** adalah proses pemeriksaan dan pengujian komprehensif yang mencakup komponen utama boiler, seperti drum uap, pipa pemanas, burner, katup pengaman, dan sistem kontrol tekanan, riksa uji ini dilakukan untuk memastikan bahwa setiap bagian, termasuk sistem perpipaan dan sambungan, berada dalam kondisi optimal dan sesuai dengan standar keselamatan. Pengujian ini bertujuan mengidentifikasi potensi kerusakan atau kebocoran, memastikan integritas struktur, dan menjaga agar boiler dapat beroperasi dengan aman serta efisien.
 

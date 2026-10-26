@@ -3,11 +3,7 @@ id: 4995
 type: article
 slug: parameter-kimia-pada-riksa-uji-lingkungan-kerja
 title: Parameter Kimia pada Riksa Uji Lingkungan Kerja
-description: >-
-  Faktor kimia di lingkungan kerja merujuk pada berbagai zat berbahaya yang
-  dapat menimbulkan risiko kesehatan dan keselamatan bagi pekerja. Zat-zat ini
-  dapat berupa partikel (seperti debu, asap) atau non-partikel (seperti gas,
-  uap) yang berasal dari berbagai proses produksi, bahan baku, atau...
+description: "Faktor kimia di lingkungan kerja merujuk pada\_berbagai zat berbahaya yang dapat menimbulkan risiko kesehatan dan keselamatan bagi pekerja.\_Zat-zat ini dapat"
 pubDate: '2025-06-07T00:54:17.000Z'
 updatedDate: '2026-09-28T01:00:03.000Z'
 author: admin
@@ -24,6 +20,11 @@ tags:
   - Riksa Uji K3
 image: /wp-content/uploads/2025/06/faktor-kimia-lingkungan-kerja.jpeg
 draft: false
+imageAlt: >-
+  Faktor kimia lingkungan kerja adalah unsur atau senyawa kimia yang terdapat di
+  tempat kerja dalam bentuk gas, uap, cairan, debu, asap, atau partikel lainnya
+  yang dapat masuk ke dalam tubuh melalui pernapasan, kulit, atau saluran
+  pencernaan dan berpotensi menimbulkan gangguan kesehatan pada pekerja.
 ---
 Faktor kimia di lingkungan kerja merujuk pada berbagai zat berbahaya yang dapat menimbulkan risiko kesehatan dan keselamatan bagi pekerja. Zat-zat ini dapat berupa partikel (seperti debu, asap) atau non-partikel (seperti gas, uap) yang berasal dari berbagai proses produksi, bahan baku, atau limbah industri. Paparan faktor kimia yang tidak terkendali dapat menyebabkan berbagai masalah kesehatan, mulai dari iritasi ringan hingga penyakit kronis seperti kanker. 
 

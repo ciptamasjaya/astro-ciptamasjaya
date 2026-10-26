@@ -6,14 +6,14 @@ title: Faktor Psikologi di Lingkungan Kerja
 description: >-
   Faktor psikologi di lingkungan kerja adalah aspek seperti beban kerja,
   keseimbangan kehidupan kerja, hubungan interpersonal, budaya kerja, keamanan
-  kerja, dan kurangnya dukungan yang dapat memengaruhi kesehatan mental dan
-  kinerja karyawan. Faktor-faktor ini, jika tidak dikelola dengan baik...
+  kerja, dan
 pubDate: '2025-09-10T19:39:08.000Z'
 updatedDate: '2026-10-08T01:00:01.000Z'
 author: admin
 category: uncategorized
 tags: []
 draft: false
+imageAlt: Inspeki K3 Riksa Uji PT. Cipta Mas Jaya
 ---
 Faktor psikologi di lingkungan kerja adalah aspek seperti beban kerja, keseimbangan kehidupan kerja, hubungan interpersonal, budaya kerja, keamanan kerja, dan kurangnya dukungan yang dapat memengaruhi kesehatan mental dan kinerja karyawan. Faktor-faktor ini, jika tidak dikelola dengan baik, dapat menyebabkan stres, burnout, dan penurunan produktivitas, sehingga perusahaan perlu menciptakan lingkungan kerja yang mendukung dan sehat.
 

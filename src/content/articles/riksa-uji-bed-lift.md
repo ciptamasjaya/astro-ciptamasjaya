@@ -6,8 +6,7 @@ title: Riksa Uji Bed Lift Rumah Sakit
 description: >-
   Riksa uji bed lift rumah sakit adalah proses inspeksi dan pengujian untuk
   memastikan keselamatan dan keandalan operasional lift tempat tidur yang
-  digunakan di rumah sakit atau fasilitas kesehatan. Sebagai bagian dari riksa
-  uji bidang elevator dan eskalator, bed lift harus memenuhi standar...
+  digunakan di
 pubDate: '2024-11-19T13:11:54.000Z'
 updatedDate: '2026-09-12T01:00:39.000Z'
 author: Editor
@@ -22,6 +21,10 @@ tags:
   - Riksa Uji K3
 image: /wp-content/uploads/2024/11/Riksa-Uji-Bed-Lift-PT-Cipta-Mas-Jaya-2.jpg
 draft: false
+imageAlt: >-
+  Riksa uji bed lift adalah proses inspeksi dan pengujian untuk memastikan
+  keselamatan, keandalan, dan kepatuhan operasional lift tempat tidur yang
+  digunakan dalam fasilitas kesehatan.
 ---
 Riksa uji bed lift rumah sakit adalah proses inspeksi dan pengujian untuk memastikan keselamatan dan keandalan operasional lift tempat tidur yang digunakan di rumah sakit atau fasilitas kesehatan. Sebagai bagian dari [**riksa uji bidang elevator dan eskalator**](/2024/08/21/riksa-uji-k3-elevator-dan-eskalator/), bed lift harus memenuhi standar keselamatan yang ketat untuk memastikan bahwa lift berfungsi dengan baik dalam mengangkut pasien dan peralatan medis. Proses ini mencakup pemeriksaan terhadap sistem mekanik, penggerak, kontrol elektronik, dan fitur keselamatan seperti sensor beban berlebih dan sistem rem darurat. Riksa uji bed lift sangat penting untuk menjaga operasional yang aman, efisien, dan sesuai dengan regulasi yang berlaku di sektor kesehatan.
 

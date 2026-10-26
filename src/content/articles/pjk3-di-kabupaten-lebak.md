@@ -7,8 +7,6 @@ title: PJK3 di Kabupaten Lebak
 description: >-
   PT. Cipta Mas Jaya adalah salah satu perusahaan PJK3 yang telah memiliki izin
   resmi dan terdaftar di Kemnaker untuk menyediakan layanan keselamatan dan
-  kesehatan kerja di wilayah Lebak. Sebagai penyedia jasa K3, PT. Cipta Mas Jaya
-  mendukung berbagai industri di kawasan ini, seperti pertambangan...
 pubDate: '2024-10-27T21:04:21.000Z'
 updatedDate: '2026-09-13T01:00:11.000Z'
 author: admin
@@ -20,6 +18,9 @@ tags:
   - Riksa Uji
   - Riksa Uji K3
 draft: false
+imageAlt: >-
+  PJK3 adalah entitas yang berfokus pada jasa keselamatan dan kesehatan kerja
+  guna menciptakan lingkungan kerja yang aman dan bebas risiko.
 ---
 **PT. Cipta Mas Jaya** adalah salah satu perusahaan PJK3 yang telah memiliki izin resmi dan terdaftar di Kemnaker untuk menyediakan layanan keselamatan dan kesehatan kerja di wilayah Lebak. Sebagai penyedia jasa K3, PT. Cipta Mas Jaya mendukung berbagai industri di kawasan ini, seperti pertambangan, pengolahan kayu, dan perkebunan. Dengan pengalaman dan tim profesional yang terlatih, PT. Cipta Mas Jaya memberikan layanan lengkap mulai dari pelatihan, inspeksi, hingga pengujian, untuk memenuhi kebutuhan K3 dari kliennya.
 

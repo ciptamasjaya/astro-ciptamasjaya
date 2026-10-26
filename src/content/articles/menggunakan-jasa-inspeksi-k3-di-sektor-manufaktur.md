@@ -4,10 +4,9 @@ type: article
 slug: menggunakan-jasa-inspeksi-k3-di-sektor-manufaktur
 title: Menggunakan Jasa Inspeksi K3 di Sektor Manufaktur
 description: >-
-  Inspeksi K3 adalah proses evaluasi sistematis yang dilakukan untuk menilai
-  tingkat kepatuhan suatu tempat kerja terhadap standar keselamatan dan
-  kesehatan kerja. Inspeksi ini mencakup pemeriksaan peralatan, lingkungan
-  kerja, prosedur operasional, serta penerapan budaya K3 secara keseluruhan...
+  Jasa inspeksi K3 (Keselamatan dan Kesehatan Kerja) adalah layanan yang
+  bertujuan untuk memastikan bahwa suatu perusahaan atau lingkungan kerja telah
+  mematuhi
 pubDate: '2024-10-03T06:26:00.000Z'
 updatedDate: '2026-09-25T01:00:27.000Z'
 author: admin
@@ -21,6 +20,14 @@ tags:
 image: >-
   /wp-content/uploads/2024/10/jasa-inspeksi-k3-tower-crane-pt-cipta-mas-jaya-003.jpg
 draft: false
+imageAlt: >-
+  Jasa inspeksi K3 adalah layanan profesional yang bertujuan untuk menilai dan
+  memastikan bahwa lingkungan kerja memenuhi standar keselamatan dan kesehatan
+  yang berlaku. Layanan ini melibatkan pemeriksaan mendetail terhadap peralatan,
+  prosedur kerja, dan kondisi tempat kerja untuk mengidentifikasi potensi risiko
+  dan bahaya yang dapat mengancam keselamatan pekerja. Melalui jasa ini,
+  perusahaan dapat mengelola risiko secara proaktif dan meningkatkan kepatuhan
+  terhadap regulasi K3.
 ---
 * * *
 

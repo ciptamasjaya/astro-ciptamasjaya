@@ -6,8 +6,7 @@ title: Riksa Uji Fire Extinguisher
 description: >-
   Riksa uji fire extinguisher adalah proses penting dalam memastikan bahwa alat
   pemadam api (fire extinguisher) berfungsi dengan baik saat dibutuhkan. Alat
-  ini sering menjadi pertahanan pertama dalam menghadapi kebakaran kecil sebelum
-  api menyebar dan menjadi lebih sulit dikendalikan. Tanpa...
+  ini
 pubDate: '2024-10-24T13:34:15.000Z'
 updatedDate: '2026-09-05T01:00:21.000Z'
 author: Editor
@@ -22,6 +21,11 @@ tags:
   - Sistem Proteksi Pemadam Kebakaran
 image: /wp-content/uploads/2024/09/Riksa-Uji-Fire-Extinguisher-PT-Cipta-Mas-Jaya.jpg
 draft: false
+imageAlt: >-
+  Riksa uji fire extinguisher adalah proses inspeksi untuk memastikan alat
+  pemadam api berfungsi dengan baik. Teknisi memeriksa tekanan, segel, selang,
+  dan kondisi fisik alat untuk memastikan kesiapannya dalam keadaan darurat dan
+  sesuai standar keselamatan.
 ---
 Riksa uji **fire extinguisher** adalah proses penting dalam memastikan bahwa **alat pemadam api** (fire extinguisher) berfungsi dengan baik saat dibutuhkan. Alat ini sering menjadi pertahanan pertama dalam menghadapi **kebakaran** kecil sebelum api menyebar dan menjadi lebih sulit dikendalikan. Tanpa pemeliharaan yang tepat dan **inspeksi** rutin, fire extinguisher berisiko mengalami kegagalan fungsi yang dapat membahayakan keselamatan di **lingkungan kerja** atau di rumah.
 

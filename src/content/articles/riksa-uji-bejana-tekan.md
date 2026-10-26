@@ -6,8 +6,6 @@ title: Riksa Uji Pressure Vessel
 description: >-
   Riksa uji bejana tekan sangat penting untuk memastikan keamanan dan keandalan
   sistem yang menggunakan bejana tekan di sebuah fasilitas. Pemeriksaan ini
-  melibatkan pengecekan terhadap seluruh komponen bejana tekan, termasuk dinding
-  bejana, katup pengaman, manometer, serta perangkat proteksi...
 pubDate: '2024-10-23T09:47:02.000Z'
 updatedDate: '2026-09-16T01:00:07.000Z'
 author: Editor
@@ -24,6 +22,10 @@ tags:
 image: >-
   /wp-content/uploads/2024/10/Riksa-Uji-Bejana-Tekan-PT-Cipta-Mas-Jaya-scaled.jpg
 draft: false
+imageAlt: >-
+  Riksa uji bejana tekan adalah langkah dalam memeriksa ketebalan dinding,
+  integritas struktur, dan fungsi katup pengaman untuk memastikan bejana aman
+  dari risiko kebocoran atau ledakan, sesuai standar keselamatan.
 ---
 **Riksa uji bejana tekan** sangat penting untuk memastikan **keamanan** dan **keandalan** sistem yang menggunakan bejana tekan di sebuah fasilitas. Pemeriksaan ini melibatkan pengecekan terhadap seluruh komponen bejana tekan, termasuk **dinding bejana**, **katup pengaman**, **manometer**, serta **perangkat proteksi** lainnya seperti katup pelepas tekanan (safety valve) dan sistem pencegah kebocoran.
 

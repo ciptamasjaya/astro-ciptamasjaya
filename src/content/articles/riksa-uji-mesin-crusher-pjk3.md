@@ -6,8 +6,6 @@ title: Riksa Uji Mesin Crusher
 description: >-
   Riksa uji mesin crusher adalah proses penting yang dilakukan untuk memastikan
   mesin crusher bekerja secara optimal, aman, dan sesuai dengan standar
-  keselamatan yang berlaku. Mesin crusher banyak digunakan di berbagai industri,
-  terutama dalam bidang pertambangan dan konstruksi, untuk...
 pubDate: '2024-10-14T16:26:46.000Z'
 updatedDate: '2026-08-31T01:02:01.000Z'
 author: Editor
@@ -21,6 +19,12 @@ tags:
   - Riksa Uji K3
 image: /wp-content/uploads/2024/10/Riksa-Uji-Mesin-Crusher-PT-Cipta-Mas-Jaya.jpg
 draft: false
+imageAlt: >-
+  Riksa uji mesin crusher adalah pemeriksaan mesin penghancur untuk memastikan
+  operasinya aman dan sesuai standar. Proses ini mencakup pengujian performa
+  mekanis, pemeriksaan komponen seperti pisau atau roda gigi, serta evaluasi
+  sistem pengaman guna mencegah kecelakaan dan memastikan efisiensi operasional
+  dalam penghancuran material.
 ---
 **[Riksa uji mesin crusher](/2023/04/12/riksa-uji-bidang-pesawat-tenaga-dan-produksi/)** adalah proses penting yang dilakukan untuk memastikan mesin crusher bekerja secara optimal, aman, dan sesuai dengan standar keselamatan yang berlaku. Mesin crusher banyak digunakan di berbagai industri, terutama dalam bidang pertambangan dan konstruksi, untuk menghancurkan material seperti batu, bijih, dan bahan tambang lainnya. Melalui riksa uji berkala, potensi kerusakan dan kegagalan mesin dapat diminimalkan, sehingga mendukung efisiensi operasional dan meningkatkan keselamatan kerja di lapangan.
 

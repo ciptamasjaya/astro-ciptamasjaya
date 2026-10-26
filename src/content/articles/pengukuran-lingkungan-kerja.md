@@ -6,8 +6,7 @@ title: Pengukuran Lingkungan Kerja
 description: >-
   Pengukuran Lingkungan Kerja adalah suatu proses penting dalam manajemen
   Keselamatan dan Kesehatan Kerja (K3) yang bertujuan untuk memastikan bahwa
-  kondisi lingkungan kerja tetap dalam batas aman dan nyaman bagi para pekerja.
-  Proses Pengukuran Lingkungan Kerja ini melibatkan pemantauan berbagai...
+  kondisi
 pubDate: '2025-06-16T19:14:50.000Z'
 updatedDate: '2026-10-07T01:02:50.000Z'
 author: admin
@@ -24,6 +23,13 @@ tags:
   - Riksa Uji K3
 image: /wp-content/uploads/2025/06/pengukuran-lingkungan-kerja.png
 draft: false
+imageAlt: >-
+  Pengukuran lingkungan kerja adalah proses sistematis untuk menilai berbagai
+  faktor di tempat kerja yang dapat mempengaruhi kesehatan dan keselamatan
+  pekerja, seperti kebisingan, suhu, pencahayaan, bahan kimia, serta
+  mikroorganisme berbahaya. Tujuan utama dari kegiatan ini adalah untuk
+  memastikan bahwa kondisi kerja sesuai dengan standar keselamatan yang berlaku
+  dan mencegah risiko penyakit akibat kerja.
 ---
 **Pengukuran Lingkungan Kerja adalah** suatu proses penting dalam manajemen Keselamatan dan Kesehatan Kerja (K3) yang bertujuan untuk memastikan bahwa kondisi lingkungan kerja tetap dalam batas aman dan nyaman bagi para pekerja. Proses Pengukuran Lingkungan Kerja ini melibatkan pemantauan berbagai parameter fisik, kimia, dan biologi yang dapat mempengaruhi kesehatan dan produktivitas tenaga kerja.
 

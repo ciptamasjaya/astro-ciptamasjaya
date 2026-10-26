@@ -6,8 +6,7 @@ title: Riksa Uji Wheel Loader
 description: >-
   Riksa uji wheel loader merupakan proses yang penting untuk memastikan alat
   berat ini berfungsi dengan baik dan aman selama operasional. Sebagai bagian
-  dari riksa uji pesawat angkat dan angkut, pemeriksaan ini mencakup penilaian
-  menyeluruh terhadap berbagai komponen utama wheel loader, seperti...
+  dari
 pubDate: '2024-11-25T15:24:10.000Z'
 updatedDate: '2026-09-23T01:00:43.000Z'
 author: Editor
@@ -21,6 +20,11 @@ tags:
   - Riksa Uji Pesawat Angkat Angkut
 image: /wp-content/uploads/2024/11/Riksa-Uji-Wheel-Loader-PT-Cipta-Mas-Jaya.jpg
 draft: false
+imageAlt: >-
+  Riksa uji wheel loader adalah proses pemeriksaan menyeluruh yang dilakukan
+  untuk memastikan kinerja, keamanan, dan kelayakan operasional alat berat jenis
+  wheel loader, dengan tujuan untuk mencegah kerusakan dan memastikan alat
+  berfungsi secara optimal.
 ---
 Riksa uji wheel loader merupakan proses yang penting untuk memastikan alat berat ini berfungsi dengan baik dan aman selama operasional. Sebagai bagian dari **[riksa uji pesawat angkat dan angkut](/2024/08/21/riksa-uji-k3-pesawat-angkat-dan-angkut/)**, pemeriksaan ini mencakup penilaian menyeluruh terhadap berbagai komponen utama wheel loader, seperti sistem hidrolik, mesin, rangka, dan sistem pengereman. Tujuan utama dari riksa uji ini adalah untuk mendeteksi kerusakan atau potensi masalah yang dapat membahayakan keselamatan operasional alat, sehingga mencegah kecelakaan yang dapat terjadi di lapangan.
 

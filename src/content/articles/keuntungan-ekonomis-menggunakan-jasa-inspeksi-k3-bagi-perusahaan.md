@@ -6,8 +6,6 @@ title: Keuntungan Ekonomis Menggunakan Jasa Inspeksi K3 bagi Perusahaan
 description: >-
   Menggunakan jasa inspeksi K3 (Keselamatan dan Kesehatan Kerja) dari PJK3 Riksa
   Uji yang profesional dapat memberikan berbagai keuntungan ekonomis bagi
-  perusahaan. Inspeksi ini tidak hanya membantu memastikan lingkungan kerja yang
-  aman dan sehat, tetapi juga dapat berdampak positif pada efisiensi...
 pubDate: '2024-09-10T22:20:54.000Z'
 updatedDate: '2026-09-07T01:00:08.000Z'
 author: admin
@@ -23,6 +21,10 @@ tags:
   - sertifikasi
 image: /wp-content/uploads/2024/09/Jasa-Inspeksi-K3-PT-Cipta-Mas-Jaya.jpg
 draft: false
+imageAlt: >-
+  Jasa inspeksi K3 adalah layanan yang memastikan keselamatan kerja melalui
+  pemeriksaan dan pengujian menyeluruh terhadap peralatan industri dan
+  lingkungan kerja, sehingga risiko kecelakaan kerja dapat diminimalkan.
 ---
 Menggunakan jasa inspeksi K3 (Keselamatan dan Kesehatan Kerja) dari PJK3 Riksa Uji yang profesional dapat memberikan berbagai keuntungan ekonomis bagi perusahaan.
 

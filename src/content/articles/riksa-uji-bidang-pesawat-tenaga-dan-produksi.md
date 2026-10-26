@@ -6,8 +6,6 @@ title: Riksa Uji Pesawat Tenaga dan Produksi
 description: >-
   Riksa Uji Pesawat Tenaga dan Produksi adalah proses pemeriksaan dan pengujian
   menyeluruh terhadap peralatan yang digunakan untuk memproduksi tenaga dan
-  mendukung aktivitas produksi di industri, seperti generator, kompresor,
-  mesin-mesin produksi, dan peralatan listrik lainnya. Pemeriksaan ini...
 pubDate: '2023-04-12T10:30:23.000Z'
 updatedDate: '2026-10-09T01:01:03.000Z'
 author: admin
@@ -25,6 +23,11 @@ tags:
   - sertifikasi
 image: /wp-content/uploads/2023/04/riksa-uji-pesawat-tenaga-dan-produksi.jpeg
 draft: false
+imageAlt: >-
+  Riksa Uji Pesawat Tenaga dan Produksi adalah proses evaluasi terhadap
+  mesin-mesin produksi guna memastikan bahwa mereka beroperasi dengan aman dan
+  sesuai dengan standar K3. Ini mencakup pengujian fisik, kinerja, serta sistem
+  pengaman untuk mencegah risiko kecelakaan kerja.
 ---
 **Riksa Uji Pesawat Tenaga dan Produksi** adalah proses pemeriksaan dan pengujian menyeluruh terhadap peralatan yang digunakan untuk memproduksi tenaga dan mendukung aktivitas produksi di industri, seperti generator, kompresor, mesin-mesin produksi, dan peralatan listrik lainnya. Pemeriksaan ini mencakup evaluasi kondisi fisik, kinerja mesin, serta sistem kontrol dan keamanan. Tujuannya adalah untuk mendeteksi potensi kerusakan, keausan, atau masalah teknis yang dapat memengaruhi efisiensi dan keselamatan operasional.
 

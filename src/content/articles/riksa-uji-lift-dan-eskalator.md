@@ -6,8 +6,7 @@ title: Riksa Uji Lift dan Eskalator
 description: >-
   Riksa uji lift dan eskalator adalah proses evaluasi dan pengujian untuk
   memastikan bahwa sistem lift dan eskalator beroperasi dengan aman, efisien,
-  dan sesuai dengan standar keselamatan yang berlaku. Proses ini mencakup
-  pemeriksaan fisik komponen penting seperti kabel, rem, motor, sistem...
+  dan sesuai
 pubDate: '2022-02-25T09:38:01.000Z'
 updatedDate: '2026-09-17T01:01:41.000Z'
 author: admin
@@ -16,6 +15,7 @@ tags: []
 image: >-
   /wp-content/uploads/2022/02/pt-cipta-mas-jaya-jasa-inspeksi-lift-dan-elevator-04.jpg
 draft: false
+imageAlt: Riksa Uji Lift dan Elevator
 ---
 **Riksa uji lift dan eskalator** adalah proses evaluasi dan pengujian untuk memastikan bahwa sistem lift dan eskalator beroperasi dengan aman, efisien, dan sesuai dengan standar keselamatan yang berlaku. Proses ini mencakup pemeriksaan fisik komponen penting seperti kabel, rem, motor, sistem kontrol, dan sensor keselamatan, serta pengujian kinerja untuk memastikan fungsi angkat, turun, dan pergerakan eskalator berjalan lancar tanpa gangguan. Riksa uji juga melibatkan pengecekan terhadap sistem keamanan darurat seperti tombol berhenti darurat, alarm, dan penerangan di dalam lift. Inspeksi ini dilakukan secara berkala untuk memastikan keamanan pengguna dan mematuhi regulasi keselamatan yang berlaku.
 

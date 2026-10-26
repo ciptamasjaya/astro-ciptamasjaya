@@ -6,8 +6,6 @@ title: 'Riksa Uji Lifeline: Memastikan Keamanan di Ketinggian'
 description: >-
   Bekerja di ketinggian selalu menyimpan risiko, dan lifeline menjadi salah satu
   sistem keselamatan vital yang dirancang untuk melindungi pekerja dari potensi
-  jatuh. Namun, secanggih apa pun sistemnya, keamanan lifeline tidak bisa
-  dijamin tanpa proses rikas uji yang ketat dan teratur. Proses ini...
 pubDate: '2025-07-09T22:46:52.000Z'
 updatedDate: '2026-10-02T01:00:58.000Z'
 author: admin
@@ -24,6 +22,13 @@ tags:
   - Riksa Uji K3
 image: /wp-content/uploads/2025/07/riksa-uji-lifeline-01.png
 draft: false
+imageAlt: >-
+  Riksa uji lifeline adalah proses pemeriksaan teknis terhadap sistem pengaman
+  berupa tali atau kabel baja yang digunakan untuk mencegah pekerja jatuh dari
+  ketinggian. Pemeriksaan ini dilakukan oleh tenaga ahli bersertifikat guna
+  memastikan bahwa seluruh komponen lifeline, termasuk anchor, turnbuckle, dan
+  tali pengaman, berfungsi dengan baik, terpasang sesuai standar, dan tidak
+  mengalami kerusakan yang membahayakan keselamatan kerja.
 ---
 Bekerja di ketinggian selalu menyimpan risiko, dan **lifeline** menjadi salah satu sistem keselamatan vital yang dirancang untuk melindungi pekerja dari potensi jatuh. Namun, secanggih apa pun sistemnya, keamanan lifeline tidak bisa dijamin tanpa proses **rikas uji** yang ketat dan teratur. Proses ini krusial untuk memastikan bahwa setiap komponen lifeline berfungsi optimal, memberikan perlindungan maksimal, dan mematuhi standar keselamatan yang berlaku.
 

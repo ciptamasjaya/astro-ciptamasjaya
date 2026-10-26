@@ -4,10 +4,9 @@ type: article
 slug: jasa-inspeksi-k3-pada-sektor-konstruksi
 title: Jasa Inspeksi K3 pada Sektor Konstruksi
 description: >-
-  Inspeksi K3 adalah kegiatan pengawasan yang dilakukan untuk memastikan seluruh
-  aspek keselamatan dan kesehatan kerja di perusahaan telah dijalankan sesuai
-  peraturan. Proses ini meliputi penilaian terhadap fasilitas, alat kerja,
-  prosedur darurat, serta kesiapan tenaga kerja dalam menghadapi...
+  Jasa Inspeksi K3 memiliki peran yang sangat penting dalam menjaga keselamatan
+  dan kesehatan kerja, terutama di sektor konstruksi yang dikenal memiliki
+  risiko
 pubDate: '2024-10-04T21:34:42.000Z'
 updatedDate: '2026-09-26T01:01:07.000Z'
 author: admin
@@ -20,6 +19,16 @@ tags:
   - PJK3 Riksa Uji
 image: /wp-content/uploads/2024/10/jasa-inspeksi-k3-wheel-loader.jpg
 draft: false
+imageAlt: >-
+  Jasa inspeksi K3 (Keselamatan dan Kesehatan Kerja) adalah layanan yang
+  bertujuan untuk memastikan bahwa suatu tempat kerja mematuhi standar
+  keselamatan dan kesehatan yang ditetapkan, serta mengidentifikasi potensi
+  bahaya yang dapat membahayakan pekerja atau mengganggu operasi perusahaan.
+  Layanan ini meliputi pemeriksaan, evaluasi, dan pengujian peralatan, proses,
+  serta lingkungan kerja untuk mengurangi risiko kecelakaan, penyakit akibat
+  kerja, atau kejadian berbahaya lainnya. Melalui jasa inspeksi K3, perusahaan
+  dapat memitigasi risiko, meningkatkan produktivitas, dan memastikan kepatuhan
+  terhadap regulasi K3 yang berlaku.
 ---
 **Inspeksi K3 adalah** kegiatan pengawasan yang dilakukan untuk memastikan seluruh aspek keselamatan dan kesehatan kerja di perusahaan telah dijalankan sesuai peraturan. Proses ini meliputi penilaian terhadap fasilitas, alat kerja, prosedur darurat, serta kesiapan tenaga kerja dalam menghadapi potensi risiko di lingkungan kerja.
 

@@ -6,8 +6,7 @@ title: Aplikasi Kantong Air untuk Uji Beban
 description: >-
   Kantong air (water bag) adalah solusi modern yang digunakan dalam pengujian
   beban dinamis maupun statis pada berbagai sistem pengangkat. Dengan
-  memanfaatkan air sebagai media pemberat, kantong ini memberikan fleksibilitas
-  dan efisiensi yang lebih tinggi dibanding metode uji beban konvensional...
+  memanfaatkan
 pubDate: '2025-06-03T05:37:41.000Z'
 updatedDate: '2026-09-04T01:00:05.000Z'
 author: admin
@@ -22,6 +21,7 @@ tags:
   - Riksa Uji
   - Riksa Uji K3
 draft: false
+imageAlt: Inspeki K3 Riksa Uji PT. Cipta Mas Jaya
 ---
 Kantong air (water bag) adalah solusi modern yang digunakan dalam pengujian beban dinamis maupun statis pada berbagai sistem pengangkat. Dengan memanfaatkan air sebagai media pemberat, kantong ini memberikan fleksibilitas dan efisiensi yang lebih tinggi dibanding metode uji beban konvensional, seperti penggunaan beban beton atau logam. Penggunaannya sangat populer dalam sektor industri, maritim, konstruksi, dan energi, karena kemudahan pemakaian serta keamanannya.
 

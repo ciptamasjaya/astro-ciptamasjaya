@@ -4,10 +4,8 @@ type: article
 slug: riksa-uji-aerial-work-platform
 title: Riksa Uji Aerial Work Platform
 description: >-
-  Aerial work platform (AWP) adalah alat yang digunakan untuk akses tinggi,
-  seperti untuk perbaikan, pemeliharaan, dan pekerjaan konstruksi di ketinggian.
-  Alat ini sering digunakan di berbagai industri, termasuk konstruksi,
-  pergudangan, dan telekomunikasi, karena kemampuannya untuk memberikan...
+  Riksa uji Aerial Work Platform (AWP) adalah langkah krusial untuk memastikan
+  keselamatan operasional dan efisiensi alat dalam pekerjaan di ketinggian,
 pubDate: '2024-11-26T13:54:26.000Z'
 updatedDate: '2026-09-25T01:00:24.000Z'
 author: Editor
@@ -22,6 +20,11 @@ tags:
 image: >-
   /wp-content/uploads/2024/10/Riksa-Uji-Aerial-Work-Platform-PT-CIpta-Mas-Jaya.jpg
 draft: false
+imageAlt: >-
+  Riksa uji Aerial Work Platform (AWP) adalah langkah krusial untuk memastikan
+  keselamatan operasional dan efisiensi alat dalam pekerjaan di ketinggian,
+  melindungi pekerja dari risiko kecelakaan dan memenuhi standar keselamatan
+  kerja yang berlaku.
 ---
 Aerial work platform (AWP) adalah alat yang digunakan untuk akses tinggi, seperti untuk perbaikan, pemeliharaan, dan pekerjaan konstruksi di ketinggian. Alat ini sering digunakan di berbagai industri, termasuk **konstruksi**, **pergudangan**, dan **telekomunikasi**, karena kemampuannya untuk memberikan akses yang aman dan efisien. Jenis-jenis AWP meliputi **boom lifts**, **scissor lifts**, dan **cherry pickers**, yang masing-masing memiliki keunggulan dalam aplikasi tertentu. Agar AWP berfungsi dengan aman dan optimal, perlu dilakukan **riksa uji** secara berkala. Riksa uji aerial work platform merupakan bagian dari [**riksa uji pesawat angkat dan angkut**](/2024/08/21/riksa-uji-k3-pesawat-angkat-dan-angkut/) yang bertujuan untuk memastikan keamanan dan efisiensi peralatan sesuai dengan standar keselamatan kerja yang berlaku. Proses ini tidak hanya melibatkan pemeriksaan komponen mekanis dan elektris, tetapi juga menilai kinerja alat dalam kondisi kerja nyata, sehingga dapat mengidentifikasi potensi masalah sebelum menjadi risiko yang signifikan. Dengan melakukan riksa uji secara teratur, perusahaan dapat meningkatkan produktivitas sekaligus melindungi keselamatan pekerja dan lingkungan kerja.
 

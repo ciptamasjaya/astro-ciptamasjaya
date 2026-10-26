@@ -6,8 +6,6 @@ title: Riksa Uji Sistem Deteksi Kebakaran
 description: >-
   Riksa uji sistem deteksi kebakaran adalah proses pemeriksaan dan pengujian
   menyeluruh terhadap sistem yang dirancang untuk mendeteksi dan memberikan
-  peringatan dini tentang keberadaan kebakaran. Sistem ini mencakup berbagai
-  perangkat seperti detektor asap, detektor panas, panel kontrol, dan...
 pubDate: '2022-02-25T01:59:05.000Z'
 updatedDate: '2026-09-25T01:00:26.000Z'
 author: admin
@@ -21,6 +19,11 @@ tags:
   - Riksa Uji K3
 image: /wp-content/uploads/2022/02/cipta-mas-jaya-riksa-uji-instalasi-hidrant-03.jpeg
 draft: false
+imageAlt: >-
+  Riksa uji sistem deteksi kebakaran adalah proses pemeriksaan dan pengujian
+  komprehensif untuk memastikan bahwa sistem deteksi kebakaran berfungsi dengan
+  optimal, memenuhi standar keselamatan, dan siap beroperasi dalam situasi
+  darurat guna melindungi keselamatan penghuni dan properti.
 ---
 **Riksa uji sistem deteksi kebakaran adalah** proses pemeriksaan dan pengujian menyeluruh terhadap sistem yang dirancang untuk mendeteksi dan memberikan peringatan dini tentang keberadaan kebakaran. Sistem ini mencakup berbagai perangkat seperti detektor asap, detektor panas, panel kontrol, dan alarm kebakaran yang berfungsi secara terintegrasi untuk memastikan respons cepat terhadap potensi bahaya. Pemeriksaan ini bertujuan untuk mengevaluasi keandalan setiap komponen, memastikan bahwa sistem bekerja sesuai standar keselamatan, dan mengidentifikasi kemungkinan malfungsi yang dapat membahayakan nyawa serta aset.
 

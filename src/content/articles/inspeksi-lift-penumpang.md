@@ -4,10 +4,8 @@ type: article
 slug: inspeksi-lift-penumpang
 title: Inspeksi Lift Penumpang
 description: >-
-  Riksa Uji Lift Penumpang adalah proses pemeriksaan dan pengujian yang meliputi
-  pengecekan fisik terhadap komponen utama seperti kabel penggerak, rel, pintu
-  lift, motor penggerak, sistem rem, dan kontrol elektronik. Pemeriksaan ini
-  bertujuan untuk mendeteksi kerusakan, keausan, atau gangguan...
+  Riksa uji lift penumpang adalah pengujian dan pemeriksaan teknis yang
+  dilakukan untuk memastikan lift penumpang berfungsi dengan baik, aman
 pubDate: '2024-08-27T14:44:08.000Z'
 updatedDate: '2026-09-07T01:00:08.000Z'
 author: Editor
@@ -24,6 +22,7 @@ tags:
 image: >-
   /wp-content/uploads/2024/08/riksa-uji-k3-lift-penumpang-pt-cipta-mas-jaya-001.png
 draft: false
+imageAlt: riksa-uji-k3-lift-penumpang-pt-cipta-mas-jaya-001
 ---
 **Riksa Uji Lift Penumpang** adalah proses pemeriksaan dan pengujian yang meliputi pengecekan fisik terhadap komponen utama seperti kabel penggerak, rel, pintu lift, motor penggerak, sistem rem, dan kontrol elektronik. Pemeriksaan ini bertujuan untuk mendeteksi kerusakan, keausan, atau gangguan mekanis yang dapat memengaruhi kinerja serta keselamatan pengguna lift.
 

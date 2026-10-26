@@ -6,8 +6,7 @@ title: Riksa Uji Uninterruptible Power Supply (UPS)
 description: >-
   Riksa uji Uninterruptible Power Supply (UPS) dan riksa uji instalasi listrik
   memiliki keterkaitan yang erat dalam menjaga kontinuitas dan keselamatan
-  pasokan listrik. UPS berfungsi sebagai sistem cadangan daya yang kritis saat
-  terjadi pemadaman atau gangguan, sedangkan instalasi listrik...
+  pasokan
 pubDate: '2024-10-17T09:28:29.000Z'
 updatedDate: '2026-08-29T01:00:33.000Z'
 author: Editor
@@ -20,6 +19,12 @@ tags:
   - Riksa Uji K3
 image: /wp-content/uploads/2024/10/Riksa-Uji-Uninterruptible-Power-Supply-scaled.jpg
 draft: false
+imageAlt: >-
+  Riksa uji uninterruptible power supply (UPS) adalah pemeriksaan perangkat UPS
+  untuk memastikan fungsinya sesuai standar. Proses ini mencakup pengujian daya
+  keluaran, pemeriksaan kondisi baterai dan inverter, serta evaluasi sistem
+  pengaman guna memastikan UPS dapat menyediakan daya cadangan yang andal saat
+  terjadi pemadaman listrik, melindungi peralatan elektronik dari gangguan daya.
 ---
 **Riksa uji Uninterruptible Power Supply (UPS)** dan riksa uji instalasi listrik memiliki keterkaitan yang erat dalam menjaga kontinuitas dan keselamatan pasokan listrik. UPS berfungsi sebagai sistem cadangan daya yang kritis saat terjadi pemadaman atau gangguan, sedangkan instalasi listrik memastikan distribusi daya yang aman dan andal. Keduanya memerlukan riksa uji berkala untuk mendeteksi potensi kerusakan atau penurunan performa. Pada **[riksa uji instalasi listrik](/2024/09/04/riksa-uji-instalasi-listrik/)**, jalur distribusi, kabel, serta perangkat pengaman diperiksa untuk memastikan aliran listrik aman, yang mendukung optimalnya kinerja UPS dalam memberikan daya cadangan tanpa gangguan. Kombinasi kedua uji ini memastikan sistem kelistrikan dan backup daya bekerja secara sinergis dan bebas risiko kegagalan.
 

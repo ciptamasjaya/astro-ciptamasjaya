@@ -6,8 +6,7 @@ title: Konsultan Uji Riksa
 description: >-
   Konsultan Uji Riksa adalah pihak atau badan usaha yang memiliki keahlian
   teknis, legalitas resmi, serta kewenangan untuk melakukan pemeriksaan (riksa)
-  dan pengujian terhadap peralatan kerja, terutama alat yang tergolong pesawat
-  angkat dan angkut maupun pesawat uap dan bejana tekan. Dalam...
+  dan
 pubDate: '2025-05-20T07:35:16.000Z'
 updatedDate: '2026-09-26T01:01:10.000Z'
 author: admin
@@ -19,6 +18,11 @@ tags:
   - Riksa Uji K3
 image: /wp-content/uploads/2025/05/konsultan-uji-riksa.jpg
 draft: false
+imageAlt: >-
+  Konsultan Uji Riksa adalah pihak yang memiliki kompetensi dan legalitas untuk
+  melakukan pemeriksaan serta pengujian teknis terhadap peralatan kerja. Tugas
+  utamanya adalah memastikan bahwa alat atau instalasi kerja memenuhi standar
+  keselamatan dan laik untuk digunakan.
 ---
 **Konsultan Uji Riksa** adalah pihak atau badan usaha yang memiliki keahlian teknis, legalitas resmi, serta kewenangan untuk melakukan pemeriksaan (riksa) dan pengujian terhadap peralatan kerja, terutama alat yang tergolong **pesawat angkat dan angkut** maupun **pesawat uap dan bejana tekan**. Dalam praktiknya, konsultan ini biasanya berbentuk **PJK3 (Perusahaan Jasa Keselamatan dan Kesehatan Kerja)** yang telah ditunjuk dan disertifikasi oleh Kementerian Ketenagakerjaan RI.
 

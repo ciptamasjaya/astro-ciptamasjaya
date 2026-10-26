@@ -4,11 +4,8 @@ type: article
 slug: inspeksi-autoclave-riksa-uji-k3
 title: Inspeksi Autoclave
 description: >-
-  Inspeksi autoclave adalah proses penting untuk memastikan alat tersebut
-  bekerja sesuai standar keselamatan dan efisiensi. Inspeksi mencakup
-  pemeriksaan visual dan teknis dari komponen utama autoclave, seperti ruang
-  steril, katup pengaman, dan sistem kontrol uap. Tujuan dari inspeksi ini
-  adalah...
+  Inspeksi autoclave adalah proses untuk memastikan alat tersebut bekerja sesuai
+  standar keselamatan dan efisiensi, sehingga aman digunakan
 pubDate: '2024-09-18T11:01:13.000Z'
 updatedDate: '2026-10-10T01:00:17.000Z'
 author: Editor
@@ -21,6 +18,9 @@ tags:
 image: >-
   /wp-content/uploads/2024/09/autoclave-pubt-pjk3-riksa-uji-pt.cipta-mas-jaya-001.jpg
 draft: false
+imageAlt: >-
+  Jasa Inspeksi K3 PJK3 Riksa Uji PT. Cipta Mas Jaya Pesawat Uap Bejana Tekan
+  Back Autoclave
 ---
 **[Inspeksi autoclave](/2024/09/06/riksa-uji-pesawat-uap-dan-bejana-tekan/)** adalah proses penting untuk memastikan alat tersebut bekerja sesuai standar keselamatan dan efisiensi. **[Inspeksi](/2023/04/12/jasa-inspeksi-k3/)** mencakup pemeriksaan visual dan teknis dari komponen utama autoclave, seperti ruang steril, katup pengaman, dan sistem kontrol uap. Tujuan dari **inspeksi** ini adalah untuk mendeteksi adanya kerusakan atau keausan pada komponen yang dapat mempengaruhi kinerja dan keselamatan alat. Selain itu, **inspeksi** juga memastikan bahwa autoclave memenuhi persyaratan regulasi keselamatan yang berlaku, sehingga mampu melakukan sterilisasi dengan optimal di berbagai lingkungan industri.
 

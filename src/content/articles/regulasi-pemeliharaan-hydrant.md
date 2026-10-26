@@ -6,8 +6,7 @@ title: Regulasi Pemeliharaan Hydrant
 description: >-
   Regulasi Pemeliharaan Hydrant adalah serangkaian ketentuan hukum dan teknis
   yang mengatur tata cara pemeriksaan, perawatan, dan pengujian sistem hydrant
-  di gedung atau kawasan industri. Regulasi ini bertujuan untuk memastikan bahwa
-  seluruh komponen hydrant selalu dalam kondisi siap pakai saat...
+  di
 pubDate: '2025-05-20T09:09:43.000Z'
 updatedDate: '2026-09-02T01:00:09.000Z'
 author: admin
@@ -20,6 +19,10 @@ tags:
   - Riksa Uji Instalasi Proteksi Kebakaran
 image: /wp-content/uploads/2025/05/regulasi-pemeliharaan-hydrant.jpeg
 draft: false
+imageAlt: >-
+  Regulasi Pemeliharaan Hydrant adalah aturan yang mengatur prosedur
+  pemeriksaan, perawatan, dan pengujian sistem hydrant agar selalu siap
+  digunakan dalam kondisi darurat.
 ---
 **Regulasi Pemeliharaan Hydrant adalah** serangkaian ketentuan hukum dan teknis yang mengatur tata cara pemeriksaan, perawatan, dan pengujian sistem hydrant di gedung atau kawasan industri. Regulasi ini bertujuan untuk memastikan bahwa seluruh komponen hydrant selalu dalam kondisi siap pakai saat terjadi kebakaran, serta untuk memenuhi standar keselamatan kerja yang berlaku. Di Indonesia, regulasi ini mengacu pada standar nasional seperti SNI, serta peraturan teknis dari instansi terkait seperti Kementerian Ketenagakerjaan dan standar internasional seperti NFPA.
 

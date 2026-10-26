@@ -4,10 +4,8 @@ type: article
 slug: riksa-uji-k3-pesawat-angkat-dan-angkut
 title: Riksa Uji K3 Pesawat Angkat dan Angkut
 description: >-
-  Riksa Uji Pesawat Angkat dan Angkut adalah pemeriksaan dan pengujian teknis
-  yang dilakukan secara berkala terhadap peralatan yang digunakan untuk
-  mengangkat dan mengangkut beban, seperti crane, lift, forklift, dan alat
-  angkat angkut lainnya, untuk memastikan keselamatan dan keandalannya dalam...
+  Jasa Inspeksi K3 adalah layanan yang disediakan oleh PJK3 untuk memastikan
+  bahwa semua peralatan dan lingkungan kerja memenuhi standar keselamatan dan
 pubDate: '2024-08-21T11:38:10.000Z'
 updatedDate: '2026-09-24T03:07:03.000Z'
 author: admin
@@ -15,6 +13,12 @@ category: layanan
 tags: []
 image: /wp-content/uploads/2024/08/riksa-uji-pesawat-angkat-angkut-0011.jpg
 draft: false
+imageAlt: >-
+  Riksa uji pesawat angkat angkut adalah langkah penting dalam pemeliharaan
+  peralatan angkat dan angkut yang meliputi pemeriksaan kondisi fisik, kapasitas
+  operasional, serta kinerja komponen keselamatan seperti katup pengaman dan
+  pengunci. Riksa uji ini memastikan bahwa peralatan tersebut memenuhi standar
+  keamanan kerja dan siap digunakan secara efektif.
 ---
 Riksa Uji Pesawat Angkat dan Angkut adalah pemeriksaan dan pengujian teknis yang dilakukan secara berkala terhadap peralatan yang digunakan untuk mengangkat dan mengangkut beban, seperti crane, lift, forklift, dan alat angkat angkut lainnya, untuk memastikan keselamatan dan keandalannya dalam operasional.
 

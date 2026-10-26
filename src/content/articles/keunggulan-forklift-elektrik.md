@@ -6,8 +6,7 @@ title: Keunggulan Forklift Elektrik
 description: >-
   Keunggulan forklift elektrik adalah kemampuannya untuk memberikan operasi yang
   lebih ramah lingkungan tanpa menghasilkan emisi gas buang, sekaligus
-  menawarkan biaya operasional yang lebih rendah dibandingkan forklift berbahan
-  bakar fosil. Selain itu, forklift elektrik juga bekerja dengan tingkat...
+  menawarkan
 pubDate: '2025-05-20T11:22:52.000Z'
 updatedDate: '2026-09-27T01:00:18.000Z'
 author: admin
@@ -19,6 +18,9 @@ tags:
   - Riksa Uji Forklift
 image: /wp-content/uploads/2025/05/keunggulan-forklift-elektrik.jpeg
 draft: false
+imageAlt: >-
+  Keunggulan forklift elektrik adalah operasinya yang bebas polusi, sehingga
+  aman digunakan di dalam ruangan.
 ---
 **Keunggulan forklift elektrik adalah** kemampuannya untuk memberikan operasi yang lebih ramah lingkungan tanpa menghasilkan emisi gas buang, sekaligus menawarkan biaya operasional yang lebih rendah dibandingkan forklift berbahan bakar fosil. Selain itu, forklift elektrik juga bekerja dengan tingkat kebisingan yang minimal, memberikan kenyamanan lebih bagi operator dan lingkungan kerja, serta membutuhkan perawatan yang lebih sederhana dan hemat waktu.
 

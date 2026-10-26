@@ -6,8 +6,7 @@ title: Riksa Uji Gantry Crane
 description: >-
   Riksa Uji Gantry Crane adalah proses pemeriksaan dan pengujian menyeluruh
   terhadap gantry crane, meliputi pengecekan komponen utama seperti struktur
-  rangka, motor penggerak, kabel baja, roda, rem, dan sistem kendali. Selain
-  itu, dilakukan pengujian kapasitas angkat, stabilitas, dan fungsi...
+  rangka,
 pubDate: '2024-08-29T09:56:45.000Z'
 updatedDate: '2026-09-29T01:00:22.000Z'
 author: Editor
@@ -25,6 +24,14 @@ tags:
 image: >-
   /wp-content/uploads/2024/08/riksa-uji-k3-gantry-crane-pt-cipta-mas-jaya-003.png
 draft: false
+imageAlt: >-
+  Riksa Uji Gantry Crane adalah proses inspeksi dan pengujian terhadap gantry
+  crane untuk memastikan alat tersebut berfungsi dengan aman dan efisien sesuai
+  dengan standar keselamatan kerja yang berlaku. Proses ini mencakup pemeriksaan
+  fisik, pengujian kapasitas angkat, serta evaluasi sistem pengaman dan
+  kontrolnya. Tujuan utama riksa uji ini adalah mencegah kecelakaan kerja dan
+  memastikan kepatuhan terhadap regulasi K3, sehingga operasi pengangkatan beban
+  dapat dilakukan secara aman.
 ---
 **Riksa Uji Gantry Crane** adalah proses pemeriksaan dan pengujian menyeluruh terhadap gantry crane, meliputi pengecekan komponen utama seperti struktur rangka, motor penggerak, kabel baja, roda, rem, dan sistem kendali. Selain itu, dilakukan pengujian kapasitas angkat, stabilitas, dan fungsi kontrol untuk memastikan crane berfungsi secara optimal. Sistem keselamatan seperti limiter beban dan emergency stop juga diperiksa untuk memastikan alat ini dapat dioperasikan dengan aman dan efisien, serta memenuhi standar keselamatan yang berlaku.
 

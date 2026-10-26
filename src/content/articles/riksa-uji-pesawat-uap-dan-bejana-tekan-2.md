@@ -6,8 +6,7 @@ title: Riksa Uji Pesawat Uap dan Bejana Tekan
 description: >-
   Riksa Uji Pesawat Uap dan Bejana Tekan adalah proses pemeriksaan dan pengujian
   yang dilakukan terhadap pesawat uap dan bejana tekan untuk memastikan
-  kelayakan operasional dan keselamatan. Pemeriksaan ini mencakup pengujian
-  teknis, visual, serta pengujian ketebalan dan tekanan, guna meminimalkan...
+  kelayakan
 pubDate: '2024-10-17T13:58:53.000Z'
 updatedDate: '2026-09-22T01:02:09.000Z'
 author: admin
@@ -15,6 +14,12 @@ category: artikel
 tags: []
 image: /wp-content/uploads/2024/10/IMG_1649-scaled.jpg
 draft: false
+imageAlt: >-
+  Riksa uji pesawat uap dan bejana tekan adalah pemeriksaan untuk memastikan
+  fungsi dan keselamatan sistem ini. Penting dilakukan secara berkala untuk
+  mencegah risiko kebocoran, ledakan, dan kerusakan. Proses ini mencakup
+  evaluasi kekuatan material, integritas sambungan, dan kinerja sistem pengaman
+  untuk menjaga operasi yang aman dan efisien.
 ---
 **Riksa Uji Pesawat Uap dan Bejana Tekan adalah** proses pemeriksaan dan pengujian yang dilakukan terhadap pesawat uap dan bejana tekan untuk memastikan kelayakan operasional dan keselamatan. Pemeriksaan ini mencakup pengujian teknis, visual, serta pengujian ketebalan dan tekanan, guna meminimalkan risiko kebocoran, ledakan, atau kegagalan lainnya selama penggunaan.
 

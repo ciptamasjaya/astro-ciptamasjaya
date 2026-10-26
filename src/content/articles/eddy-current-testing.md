@@ -4,10 +4,8 @@ type: article
 slug: eddy-current-testing
 title: Pengujian Arus Eddy (Eddy Current Testing)
 description: >-
-  Pengujian arus eddy atau Eddy Current Testing (ECT) merupakan salah satu
+  Pengujian arus&nbsp;eddy atau Eddy Current Testing (ECT) merupakan salah satu
   metode pengujian non-destruktif testing (NDT) yang banyak digunakan untuk
-  mendeteksi cacat pada material konduktif tanpa merusaknya. Teknologi ini
-  memanfaatkan prinsip induksi elektromagnetik untuk mengidentifikasi...
 pubDate: '2025-06-04T01:15:06.000Z'
 updatedDate: '2026-09-27T01:00:20.000Z'
 author: admin
@@ -22,6 +20,7 @@ tags:
   - Riksa Uji
   - Riksa Uji K3
 draft: false
+imageAlt: Inspeki K3 Riksa Uji PT. Cipta Mas Jaya
 ---
 Pengujian arus *eddy* atau Eddy Current Testing (ECT) merupakan salah satu metode pengujian [non-destruktif testing](/2025/06/04/non-destructive-testing/) (NDT) yang banyak digunakan untuk mendeteksi cacat pada material konduktif tanpa merusaknya. Teknologi ini memanfaatkan prinsip induksi elektromagnetik untuk mengidentifikasi perubahan sifat listrik pada permukaan material, sehingga sangat efektif untuk inspeksi cepat dan akurat dalam berbagai industri.
 

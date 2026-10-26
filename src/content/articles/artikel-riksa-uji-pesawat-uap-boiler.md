@@ -5,9 +5,7 @@ slug: artikel-riksa-uji-pesawat-uap-boiler
 title: Riksa Uji Bidang Pesawat Uap dan Bejana Tekan
 description: >-
   Pesawat yang masuk dalam riksa uji bidang pesawat uap dan bejana tekan
-  diantaranya: Ketel Uap adalah suatu pesawat, dibuat guna menghasilkan uap atau
-  stoom yang dipergunakan di luar pesawatnya. Bejana Tekanan adalah bejana
-  selain Pesawat Uap yang didalamnya terdapat tekanan dan dipakai untuk...
+  diantaranya:
 pubDate: '2019-11-09T17:41:00.000Z'
 updatedDate: '2026-08-26T01:00:06.000Z'
 author: admin
@@ -16,6 +14,7 @@ tags: []
 image: >-
   /wp-content/uploads/2019/11/PT-CIPTA-MAS-JAYA-RIKSA-UJI-BIDANG-PESAWAT-UAP-DAN-BEJANA-TEKAN-2.jpg
 draft: false
+imageAlt: RIKSA UJI BIDANG PESAWAT UAP DAN BEJANA TEKAN
 ---
 Pesawat yang masuk dalam riksa uji bidang pesawat uap dan bejana tekan diantaranya:
 

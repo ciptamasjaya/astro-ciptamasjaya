@@ -6,8 +6,7 @@ title: Pengujian Non Destruktif (NDT)
 description: >-
   Pengujian Non Destruktif atau Non-Destructive Testing (NDT) adalah teknik
   pemeriksaan material yang memungkinkan evaluasi tanpa harus merusak atau
-  mengubah bentuk aslinya. Metode ini sangat penting dalam dunia industri karena
-  dapat mendeteksi cacat atau ketidaksempurnaan pada suatu komponen...
+  mengubah
 pubDate: '2025-07-08T21:59:11.000Z'
 updatedDate: '2026-09-09T01:00:06.000Z'
 author: admin
@@ -23,6 +22,7 @@ tags:
   - Riksa Uji
   - Riksa Uji K3
 draft: false
+imageAlt: Perusahaan Jasa Keselamatan dan Kesehatan Kerja (PJK3)
 ---
 Pengujian Non Destruktif atau Non-Destructive Testing (NDT) adalah teknik pemeriksaan material yang memungkinkan evaluasi tanpa harus merusak atau mengubah bentuk aslinya. Metode ini sangat penting dalam dunia industri karena dapat mendeteksi cacat atau ketidaksempurnaan pada suatu komponen tanpa harus memotong, melubangi, atau membongkarnya. NDT digunakan untuk menjamin keamanan, keandalan, dan kualitas suatu produk atau struktur tanpa mengganggu fungsi aslinya.
 

@@ -6,8 +6,6 @@ title: Riksa Uji Genset (Generator Set)
 description: >-
   Riksa uji genset adalah proses pemeriksaan dan pengujian menyeluruh terhadap
   generator set (genset) untuk memastikan kinerjanya sesuai standar dan mampu
-  menyediakan daya listrik yang andal dalam berbagai kondisi. Sebagai sumber
-  daya cadangan yang krusial, genset harus selalu dalam kondisi...
 pubDate: '2024-10-22T08:49:19.000Z'
 updatedDate: '2026-09-17T01:01:39.000Z'
 author: Editor
@@ -22,6 +20,11 @@ tags:
   - Riksa Uji K3
 image: /wp-content/uploads/2024/10/Riksa-Uji-Genset-PT-Cipta-Mas-Jaya-scaled.jpg
 draft: false
+imageAlt: >-
+  Riksa uji genset adalah proses pemeriksaan komponen genset, termasuk mesin,
+  sistem bahan bakar, pendingin, dan keluaran listrik, untuk memastikan
+  keandalan dan keamanan operasionalnya sebagai sumber daya cadangan sesuai
+  standar keselamatan.
 ---
 **Riksa uji genset adalah** proses pemeriksaan dan pengujian menyeluruh terhadap generator set (genset) untuk memastikan kinerjanya sesuai standar dan mampu menyediakan daya listrik yang andal dalam berbagai kondisi. Sebagai sumber daya cadangan yang krusial, genset harus selalu dalam kondisi optimal agar dapat berfungsi dengan baik saat terjadi pemadaman listrik. Proses riksa uji ini melibatkan pengecekan komponen mekanik, kelistrikan, serta sistem kontrol, guna mendeteksi potensi kerusakan atau kegagalan fungsi yang dapat mengganggu operasional. Dengan pengujian yang terjadwal dan sesuai regulasi, riksa uji genset menjadi langkah penting dalam menjamin efisiensi dan keandalan sumber daya listrik cadangan.
 

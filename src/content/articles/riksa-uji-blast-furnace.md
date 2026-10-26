@@ -6,8 +6,6 @@ title: Riksa Uji Blast Furnace
 description: >-
   Riksa uji blast furnace merupakan bagian dari proses riksa uji pesawat tenaga
   dan produksi yang bertujuan untuk memastikan keselamatan, keandalan, dan
-  efisiensi operasional. Sebagai salah satu komponen penting dalam industri
-  peleburan logam, blast furnace bekerja di bawah kondisi ekstrem...
 pubDate: '2024-11-19T08:52:24.000Z'
 updatedDate: '2026-09-18T01:01:26.000Z'
 author: Editor
@@ -20,6 +18,10 @@ tags:
   - Riksa Uji K3
 image: /wp-content/uploads/2024/10/RIksa-Uji-Blast-Furnace-PT-Cipta-Mas-Jaya.jpg
 draft: false
+imageAlt: >-
+  Riksa uji blast furnace adalah langkah untuk memastikan keselamatan dan
+  efisiensi dalam industri peleburan logam melalui pemeriksaan struktur, lapisan
+  refraktori, dan sistem aliran udara panas.
 ---
 Riksa uji blast furnace merupakan bagian dari proses **[riksa uji pesawat tenaga dan produksi](/2023/04/12/riksa-uji-bidang-pesawat-tenaga-dan-produksi/)** yang bertujuan untuk memastikan keselamatan, keandalan, dan efisiensi operasional. Sebagai salah satu komponen penting dalam industri peleburan logam, blast furnace bekerja di bawah kondisi ekstrem, seperti suhu tinggi dan tekanan yang signifikan, yang memerlukan pengawasan ketat. Riksa uji ini melibatkan inspeksi terhadap struktur furnace, lapisan refraktori, sistem aliran udara panas, serta mekanisme pengontrolan tekanan dan suhu. Dengan melakukan pengujian secara berkala, risiko kegagalan operasional dapat diminimalisir, dan sistem dapat dipastikan berfungsi sesuai standar keselamatan yang berlaku.
 

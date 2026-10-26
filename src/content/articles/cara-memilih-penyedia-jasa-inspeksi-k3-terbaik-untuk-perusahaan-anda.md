@@ -6,8 +6,6 @@ title: Cara Memilih Penyedia Jasa Inspeksi K3 Terbaik untuk Perusahaan Anda
 description: >-
   Memilih penyedia jasa inspeksi K3 (Keselamatan dan Kesehatan Kerja) yang tepat
   merupakan langkah krusial dalam memastikan lingkungan kerja yang aman dan
-  mematuhi regulasi keselamatan. Inspeksi K3 yang efektif dapat membantu
-  mencegah kecelakaan kerja, mengurangi risiko kesehatan, dan menjaga...
 pubDate: '2024-09-10T21:50:10.000Z'
 updatedDate: '2026-09-23T01:00:44.000Z'
 author: admin
@@ -24,6 +22,10 @@ tags:
   - Riksa Uji K3
 image: /wp-content/uploads/2024/09/Jasa-Inspeksi-K3-PT-Cipta-Mas-Jaya.jpeg
 draft: false
+imageAlt: >-
+  Jasa inspeksi K3 adalah layanan yang memastikan keselamatan kerja melalui
+  pemeriksaan dan pengujian menyeluruh terhadap peralatan industri dan
+  lingkungan kerja, sehingga risiko kecelakaan kerja dapat diminimalkan.
 ---
 Memilih penyedia jasa inspeksi K3 (Keselamatan dan Kesehatan Kerja) yang tepat merupakan langkah krusial dalam memastikan lingkungan kerja yang aman dan mematuhi regulasi keselamatan.
 

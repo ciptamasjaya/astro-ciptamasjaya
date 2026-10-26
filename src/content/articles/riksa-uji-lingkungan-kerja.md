@@ -6,8 +6,7 @@ title: Riksa Uji Lingkungan Kerja
 description: >-
   Riksa uji lingkungan kerja adalah proses pemeriksaan dan pengujian secara
   berkala terhadap lingkungan kerja untuk memastikan keamanan dan kesehatan
-  pekerja. Proses ini meliputi pengukuran, pengujian, dan evaluasi faktor-faktor
-  lingkungan yang dapat memengaruhi kesehatan dan keselamatan kerja...
+  pekerja.
 pubDate: '2025-06-04T06:30:13.000Z'
 updatedDate: '2026-09-03T01:00:10.000Z'
 author: admin
@@ -22,6 +21,7 @@ tags:
   - Riksa Uji
   - Riksa Uji K3
 draft: false
+imageAlt: Inspeki K3 Riksa Uji PT. Cipta Mas Jaya
 ---
 Riksa uji lingkungan kerja adalah proses pemeriksaan dan pengujian secara berkala terhadap lingkungan kerja untuk memastikan keamanan dan kesehatan pekerja. Proses ini meliputi pengukuran, pengujian, dan evaluasi faktor-faktor lingkungan yang dapat memengaruhi kesehatan dan keselamatan kerja, seperti kualitas udara, kebisingan, getaran, pencahayaan, dan lain-lain. Riksa uji ini bertujuan untuk mengidentifikasi potensi bahaya, mencegah kecelakaan dan penyakit akibat kerja, serta memastikan kepatuhan terhadap peraturan K3 yang berlaku.
 

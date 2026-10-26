@@ -6,8 +6,6 @@ title: Pemeriksaan Partikel Magnetik (Magnetic Particle Testing)
 description: >-
   Pemeriksaan Partikel Magnetik atau Magnetic Particle Testing adalah teknik
   pengujian yang memanfaatkan medan magnet dan partikel magnetik halus untuk
-  mengidentifikasi cacat pada permukaan atau dekat permukaan material yang
-  bersifat feromagnetik. Proses ini melibatkan magnetisasi komponen, lalu...
 pubDate: '2025-06-04T01:34:10.000Z'
 updatedDate: '2026-09-25T01:00:27.000Z'
 author: admin
@@ -22,6 +20,7 @@ tags:
   - Riksa Uji
   - Riksa Uji K3
 draft: false
+imageAlt: Inspeki K3 Riksa Uji PT. Cipta Mas Jaya
 ---
 **Pemeriksaan Partikel Magnetik** atau **Magnetic Particle Testing adalah** teknik pengujian yang memanfaatkan medan magnet dan partikel magnetik halus untuk mengidentifikasi cacat pada permukaan atau dekat permukaan material yang bersifat feromagnetik. Proses ini melibatkan magnetisasi komponen, lalu pengaplikasian partikel (baik kering maupun basah), yang akan terkumpul di sekitar area cacat karena gangguan fluks magnet. Dengan pendekatan ini, MPT memungkinkan deteksi cepat terhadap retakan, porositas, atau ketidakteraturan lainnya yang dapat mengganggu kekuatan struktur, sehingga sangat berguna dalam inspeksi berkala maupun pemeriksaan pasca-produksi.  
   

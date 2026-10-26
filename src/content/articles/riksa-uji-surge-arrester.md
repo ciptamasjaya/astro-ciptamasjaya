@@ -6,8 +6,7 @@ title: Riksa Uji Surge Arrester
 description: >-
   Riksa uji surge arrester dan riksa uji instalasi listrik saling berkaitan
   dalam memastikan keamanan dan keandalan sistem kelistrikan. Surge arrester
-  berfungsi sebagai perlindungan utama dari lonjakan tegangan yang bisa
-  disebabkan oleh petir atau gangguan listrik lainnya, sementara instalasi...
+  berfungsi
 pubDate: '2024-10-17T09:35:18.000Z'
 updatedDate: '2026-08-29T01:00:37.000Z'
 author: Editor
@@ -21,6 +20,13 @@ tags:
 image: >-
   /wp-content/uploads/2024/10/Riksa-Uji-Surge-Arrester-PT-Cipta-Mas-Jaya-scaled.jpg
 draft: false
+imageAlt: >-
+  Riksa uji surge arrester adalah pemeriksaan perangkat surge arrester untuk
+  memastikan fungsinya sesuai standar. Proses ini mencakup pengujian kapasitas
+  penyerapan lonjakan tegangan, pemeriksaan kondisi fisik komponen, serta
+  evaluasi sistem pengaman guna memastikan surge arrester dapat melindungi
+  instalasi listrik dan peralatan elektronik dari kerusakan akibat lonjakan
+  tegangan atau petir.
 ---
 **Riksa uji surge arrester** dan **[riksa uji instalasi listrik](/2024/09/04/riksa-uji-instalasi-listrik/)** saling berkaitan dalam memastikan keamanan dan keandalan sistem kelistrikan. Surge arrester berfungsi sebagai perlindungan utama dari lonjakan tegangan yang bisa disebabkan oleh petir atau gangguan listrik lainnya, sementara instalasi listrik memastikan distribusi daya yang aman ke seluruh sistem. Kedua perangkat ini memerlukan pemeriksaan berkala untuk mendeteksi potensi masalah yang bisa mengakibatkan kerusakan pada peralatan atau gangguan operasional. Riksa uji surge arrester mencakup pemeriksaan kapasitas penyerapan lonjakan tegangan, sedangkan riksa uji instalasi listrik melibatkan pengecekan jalur distribusi, isolasi, dan sistem pengaman. Sinergi dari kedua uji ini penting dalam mencegah kerusakan peralatan serta menjaga keberlangsungan operasional listrik yang stabil dan aman.
 

@@ -6,8 +6,6 @@ title: Uji Beban Kantung Air (Water Bag Load Test)
 description: >-
   Uji Beban Kantung Air atau Water Bag Load Test adalah metode pengujian beban
   yang menggunakan kantong berisi air sebagai media untuk mensimulasikan beban
-  kerja pada peralatan angkat seperti crane, davit, lifeboat, hingga struktur
-  bangunan. Metode ini menjadi semakin populer karena...
 pubDate: '2025-06-13T22:15:04.000Z'
 updatedDate: '2026-09-26T01:01:08.000Z'
 author: admin
@@ -24,6 +22,15 @@ tags:
   - Riksa Uji K3
 image: /wp-content/uploads/2025/06/water-bag-load-test.jpeg
 draft: false
+imageAlt: >-
+  Uji Beban Kantung Air (Water Bag Load Test) adalah metode pengujian beban yang
+  memanfaatkan kantong air sebagai media simulasi beban pada alat angkat dan
+  struktur, seperti crane, davit, platform, dan jembatan. Teknik ini
+  memungkinkan pengisian beban secara bertahap menggunakan air, sehingga
+  memberikan kontrol yang lebih presisi dan aman dibandingkan penggunaan beban
+  konvensional seperti balok beton atau besi. Fleksibilitas, efisiensi logistik,
+  dan tingkat keselamatan tinggi menjadikan water bag load test pilihan utama
+  dalam berbagai sektor industri, khususnya konstruksi dan maritim.
 ---
 **Uji Beban Kantung Air** atau **Water Bag Load Test** adalah metode pengujian beban yang menggunakan kantong berisi air sebagai media untuk mensimulasikan beban kerja pada peralatan angkat seperti crane, davit, lifeboat, hingga struktur bangunan. Metode ini menjadi semakin populer karena kepraktisannya, efisiensinya dalam pengangkutan, serta keamanannya dalam pengujian beban secara bertahap dan terkendali.
 

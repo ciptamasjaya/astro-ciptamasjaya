@@ -13,6 +13,7 @@ author: admin
 category: artikel
 tags: []
 draft: false
+imageAlt: Inspeki K3 Riksa Uji PT. Cipta Mas Jaya
 ---
 #### Artikel Terkait:
 

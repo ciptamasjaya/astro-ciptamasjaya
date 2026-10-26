@@ -4,10 +4,8 @@ type: article
 slug: riksa-uji-panel-distribusi-listrik
 title: Riksa Uji Panel Distribusi Listrik
 description: >-
-  Riksa uji instalasi listrik sangat penting untuk memastikan keamanan dan
-  keandalan sistem kelistrikan di sebuah bangunan. Pemeriksaan ini melibatkan
-  pengecekan terhadap seluruh komponen instalasi listrik, termasuk kabel,
-  saklar, stop kontak, panel distribusi, serta perangkat pengaman seperti...
+  Instalasi listrik merupakan rangkaian sistem yang berfungsi untuk
+  mendistribusikan energi listrik kepada semua peralatan dan pengguna.
 pubDate: '2024-10-23T09:03:22.000Z'
 updatedDate: '2026-09-16T01:00:08.000Z'
 author: Editor
@@ -22,6 +20,11 @@ tags:
   - Riksa Uji K3
 image: /wp-content/uploads/2024/09/listrik-pjk3-riksa-uji-pt.cipta-mas-jaya-001.jpg
 draft: false
+imageAlt: >-
+  Riksa uji instalasi listrik adalah untuk memastikan sistem kelistrikan,
+  termasuk kabel dan perangkat pengaman, berfungsi optimal dan aman. Pengujian
+  meliputi pengukuran resistansi pentanahan dan inspeksi komponen, untuk
+  mencegah risiko seperti korsleting atau kebakaran.
 ---
 **[Riksa uji instalasi listrik](/2024/09/04/riksa-uji-instalasi-listrik/)** sangat penting untuk memastikan **keamanan** dan **keandalan** sistem **kelistrikan** di sebuah bangunan. Pemeriksaan ini melibatkan pengecekan terhadap seluruh **komponen** instalasi listrik, termasuk **kabel**, **saklar**, **stop kontak**, **panel distribusi**, serta perangkat pengaman seperti **pemutus sirkuit** dan sistem **pentanahan** (**grounding**).
 

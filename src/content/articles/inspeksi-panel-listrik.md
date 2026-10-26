@@ -4,10 +4,8 @@ type: article
 slug: inspeksi-panel-listrik
 title: Inspeksi Panel Listrik
 description: >-
-  PT. Cipta Mas Jaya menawarkan layanan inspeksi panel listrik untuk memastikan
-  panel listrik bekerja dengan aman dan sesuai dengan standar kelistrikan yang
-  berlaku. Pengertian Riksa Uji Panel Listrik Apa Itu Panel Listrik? Panel
-  listrik adalah komponen penting dalam sistem kelistrikan yang...
+  PT. Cipta Mas Jaya memiliki layanan inspeksi panel listrik untuk memastikan
+  panel listrik bekerja dengan aman untuk menjamin kegiatan produksi
 pubDate: '2024-08-29T13:45:59.000Z'
 updatedDate: '2026-10-11T01:00:05.000Z'
 author: Editor
@@ -24,6 +22,7 @@ tags:
 image: >-
   /wp-content/uploads/2024/08/riksa-uji-k3-instalasi-panel-listrik-pt-cipta-mas-jaya-001-scaled.jpg
 draft: false
+imageAlt: Riksa Uji K3 Instalasi Panel Listrik PT. Cipta Mas Jaya
 ---
 PT. Cipta Mas Jaya menawarkan layanan inspeksi panel listrik untuk memastikan panel listrik bekerja dengan aman dan sesuai dengan standar kelistrikan yang berlaku.
 

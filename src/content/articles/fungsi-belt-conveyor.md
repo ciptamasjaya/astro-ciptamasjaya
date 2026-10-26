@@ -6,8 +6,7 @@ title: Fungsi Belt Conveyor
 description: >-
   Fungsi Belt Conveyor adalah mengangkut material dari satu lokasi ke lokasi
   lain dalam proses produksi maupun distribusi secara efisien. Peralatan ini
-  sangat umum digunakan di berbagai industri karena kemampuannya yang andal
-  dalam memindahkan beban berat maupun ringan dengan kecepatan yang...
+  sangat
 pubDate: '2025-06-17T21:22:24.000Z'
 updatedDate: '2026-10-02T01:00:57.000Z'
 author: admin
@@ -24,6 +23,14 @@ tags:
   - Riksa Uji K3
 image: /wp-content/uploads/2025/06/fungsi-belt-conveyor.jpg
 draft: false
+imageAlt: >-
+  Fungsi belt conveyor adalah untuk memindahkan material atau barang secara
+  efisien dari satu titik ke titik lain dalam berbagai sektor industri. Sistem
+  ini memungkinkan proses transportasi berjalan lebih cepat, teratur, dan hemat
+  tenaga kerja, baik untuk barang ringan maupun berat. Selain mempercepat alur
+  produksi, belt conveyor juga mendukung keselamatan kerja, mengurangi risiko
+  kerusakan produk, dan memfasilitasi otomatisasi proses industri secara
+  keseluruhan.
 ---
 Fungsi Belt Conveyor adalah mengangkut material dari satu lokasi ke lokasi lain dalam proses produksi maupun distribusi secara efisien. Peralatan ini sangat umum digunakan di berbagai industri karena kemampuannya yang andal dalam memindahkan beban berat maupun ringan dengan kecepatan yang konsisten. Belt conveyor tidak hanya meningkatkan efisiensi kerja, tetapi juga meminimalkan risiko kecelakaan kerja dan mengurangi ketergantungan terhadap tenaga manusia.
 

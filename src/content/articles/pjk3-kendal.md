@@ -6,9 +6,7 @@ slug: pjk3-kendal
 title: PJK3 Kendal
 description: >-
   PT. Cipta Mas Jaya adalah PJK3 yang melayani jasa riksa uji K3 di wilayah
-  Kendal. Hubungi 08568258841 untuk kebutuhan riksa uji alat kerja Anda. PJK3
-  Kemnaker PJK3 Kemnaker adalah perusahaan atau lembaga yang telah mendapatkan
-  penunjukan resmi dari Kementerian Ketenagakerjaan untuk...
+  Kendal. Hubungi 08568258841 untuk kebutuhan riksa uji alat kerja Anda.
 pubDate: '2025-07-06T07:37:24.000Z'
 updatedDate: '2026-09-06T01:00:09.000Z'
 author: admin
@@ -25,6 +23,10 @@ tags:
   - Riksa Uji K3
 image: /wp-content/uploads/2025/07/pjk3-kendal.jpg
 draft: false
+imageAlt: >-
+  PJK3 Kendal adalah bagian dari sistem pengawasan keselamatan kerja yang
+  membantu perusahaan di Kendal memenuhi regulasi K3 dan mencegah kecelakaan
+  kerja.
 ---
 PT. Cipta Mas Jaya adalah PJK3 yang melayani jasa riksa uji K3 di wilayah Kendal. Hubungi 08568258841 untuk kebutuhan riksa uji alat kerja Anda.
 

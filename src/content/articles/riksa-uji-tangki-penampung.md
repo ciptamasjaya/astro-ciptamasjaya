@@ -6,8 +6,6 @@ title: Riksa Uji Tangki Penampung
 description: >-
   Riksa uji tangki penampung adalah proses inspeksi dan pengujian menyeluruh
   yang dilakukan secara berkala untuk memastikan tangki beroperasi dengan aman,
-  sesuai standar, dan bebas dari kerusakan atau kebocoran. Tangki Penampung
-  adalah alat yang digunakan untuk menyimpan cairan atau gas dalam...
 pubDate: '2024-09-15T16:13:30.000Z'
 updatedDate: '2026-10-10T01:00:14.000Z'
 author: admin
@@ -20,6 +18,10 @@ tags:
 image: >-
   /wp-content/uploads/2024/09/tenaga-ahli-pesawat-uap-dan-bejana-tekan-pjk3-pt.cipta-mas-jaya-dengan-sertifikat-k3-skp-sedang-inspeksi-k3-riksa-uji-tangki-penampung-storage-tank-003.jpg
 draft: false
+imageAlt: >-
+  Tenaga Ahli Pesawat Uap Dan Bejana Tekan PJK3 PT.Cipta Mas Jaya Dengan
+  Sertifikat K3 / SKP Sedang Inspeksi K3 Riksa Uji Tangki Penampung / Storage
+  Tank
 ---
 Riksa uji tangki penampung adalah proses inspeksi dan pengujian menyeluruh yang dilakukan secara berkala untuk memastikan tangki beroperasi dengan aman, sesuai standar, dan bebas dari kerusakan atau kebocoran.  
   

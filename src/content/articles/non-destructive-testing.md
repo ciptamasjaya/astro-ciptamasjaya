@@ -6,9 +6,7 @@ title: Mengenal Non-Destructive Testing
 description: >-
   Non-Destructive Testing adalah metode pengujian yang digunakan untuk
   mengevaluasi karakteristik material, komponen, atau struktur tanpa merusak
-  atau menghancurkannya. Tujuan NDT adalah untuk mendeteksi cacat,
-  ketidaksempurnaan, atau anomali pada material tanpa menyebabkan kerusakan
-  permanen...
+  atau
 pubDate: '2025-06-04T00:53:51.000Z'
 updatedDate: '2026-09-09T01:00:05.000Z'
 author: admin
@@ -23,6 +21,7 @@ tags:
   - Riksa Uji
   - Riksa Uji K3
 draft: false
+imageAlt: Inspeki K3 Riksa Uji PT. Cipta Mas Jaya
 ---
 Non-Destructive Testing adalah metode pengujian yang digunakan untuk mengevaluasi karakteristik material, komponen, atau struktur tanpa merusak atau menghancurkannya. Tujuan NDT adalah untuk mendeteksi cacat, ketidaksempurnaan, atau anomali pada material tanpa menyebabkan kerusakan permanen.
 

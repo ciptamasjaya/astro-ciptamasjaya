@@ -6,14 +6,13 @@ title: Permenaker No. 5 Tahun 2018 Tentang Kebisingan
 description: >-
   Permenaker Nomor 5 Tahun 2018 adalah Peraturan Menteri Ketenagakerjaan tentang
   Keselamatan dan Kesehatan Kerja Lingkungan Kerja (K3 Lingkungan Kerja), yang
-  mengatur mengenai standar K3 untuk meminimalkan bahaya di tempat kerja melalui
-  pengukuran, pengendalian, dan penerapan higiene serta...
 pubDate: '2025-09-07T19:00:47.000Z'
 updatedDate: '2026-10-04T01:01:59.000Z'
 author: admin
 category: uncategorized
 tags: []
 draft: false
+imageAlt: Inspeki K3 Riksa Uji PT. Cipta Mas Jaya
 ---
 Permenaker Nomor 5 Tahun 2018 adalah Peraturan Menteri Ketenagakerjaan tentang Keselamatan dan Kesehatan Kerja Lingkungan Kerja (K3 Lingkungan Kerja), yang mengatur mengenai standar K3 untuk meminimalkan bahaya di tempat kerja melalui pengukuran, pengendalian, dan penerapan higiene serta sanitasi lingkungan kerja. Peraturan ini mencakup berbagai faktor lingkungan kerja seperti kebisingan, iklim kerja, getaran, pencahayaan, radiasi, dan lainnya, serta menetapkan Nilai Ambang Batas (NAB) dan pedoman pengukurannya.
 

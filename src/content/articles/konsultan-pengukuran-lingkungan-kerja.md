@@ -6,8 +6,6 @@ title: Konsultan Pengukuran Lingkungan Kerja
 description: >-
   Konsultan pengukuran lingkungan kerja adalah pihak profesional yang memiliki
   keahlian dalam mengevaluasi berbagai faktor lingkungan kerja, seperti faktor
-  fisika, kimia, biologi, ergonomi, dan psikologi, untuk memastikan kondisi
-  kerja yang aman dan sehat bagi pekerja. Mereka membantu perusahaan...
 pubDate: '2025-07-30T19:55:26.000Z'
 updatedDate: '2026-09-17T01:01:41.000Z'
 author: admin
@@ -25,6 +23,10 @@ tags:
   - sertifikasi
 image: /wp-content/uploads/2025/07/konsultan-lingkungan-kerja.png
 draft: false
+imageAlt: >-
+  Konsultan lingkungan kerja adalah tenaga profesional yang memiliki kompetensi
+  dalam melakukan evaluasi terhadap berbagai faktor lingkungan kerja guna
+  memastikan kondisi kerja yang aman, sehat, dan sesuai dengan peraturan K3.
 ---
 Konsultan pengukuran lingkungan kerja adalah pihak profesional yang memiliki keahlian dalam mengevaluasi berbagai faktor lingkungan kerja, seperti faktor fisika, kimia, biologi, ergonomi, dan psikologi, untuk memastikan kondisi kerja yang aman dan sehat bagi pekerja. Mereka membantu perusahaan memenuhi peraturan perundang-undangan K3 (Kesehatan dan Keselamatan Kerja) dan menciptakan lingkungan kerja yang ideal.
 

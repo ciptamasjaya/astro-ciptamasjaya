@@ -6,8 +6,6 @@ title: Pengesahan Gambar Elevator dan Eskalator
 description: >-
   Pengesahan gambar elevator dan eskalator adalah proses verifikasi teknis yang
   dilakukan oleh instansi berwenang, seperti Kementerian Ketenagakerjaan melalui
-  Direktorat Jenderal K3, untuk memastikan bahwa rancangan sistem elevator
-  (lift) dan eskalator sesuai dengan standar keselamatan dan...
 pubDate: '2025-07-12T19:30:57.000Z'
 updatedDate: '2026-09-13T01:00:14.000Z'
 author: admin
@@ -24,6 +22,11 @@ tags:
   - Riksa Uji K3
 image: /wp-content/uploads/2025/07/pengesahan-gambar-elevator-dan-eskalator-01.jpeg
 draft: false
+imageAlt: >-
+  Pengesahan gambar elevator dan eskalator adalah proses persetujuan desain
+  teknis dari sistem angkutan vertikal oleh instansi berwenang untuk memastikan
+  bahwa perancangannya telah sesuai dengan standar keselamatan dan regulasi yang
+  berlaku.
 ---
 **Pengesahan gambar elevator dan eskalator adalah** proses verifikasi teknis yang dilakukan oleh instansi berwenang, seperti Kementerian Ketenagakerjaan melalui Direktorat Jenderal K3, untuk memastikan bahwa rancangan sistem elevator (lift) dan eskalator sesuai dengan standar keselamatan dan peraturan yang berlaku. Pengesahan ini mencakup penilaian terhadap gambar teknis, spesifikasi komponen, sistem penggerak, sistem kendali, hingga sistem proteksi keselamatan pengguna. Tujuan utama dari pengesahan ini adalah untuk mencegah potensi kecelakaan kerja serta menjamin bahwa instalasi elevator dan eskalator dapat beroperasi secara aman dan andal.
 

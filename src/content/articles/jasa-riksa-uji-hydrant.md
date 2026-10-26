@@ -4,10 +4,8 @@ type: article
 slug: jasa-riksa-uji-hydrant
 title: Riksa Uji Hydrant
 description: >-
-  Riksa uji hydrant adalah proses pemeriksaan, pengujian, dan pemeliharaan yang
-  dilakukan secara berkala untuk memastikan bahwa sistem hydrant berfungsi
-  dengan baik. Hydrant adalah salah satu perangkat penting dalam sistem pemadam
-  kebakaran yang digunakan untuk menyediakan pasokan air yang cukup...
+  Riksa uji hydrant adalah proses pemeriksaan yang dilakukan secara berkala
+  untuk memastikan agar sistem hydrant berfungsi dengan baik.
 pubDate: '2024-08-27T09:20:28.000Z'
 updatedDate: '2026-09-08T01:05:04.000Z'
 author: Editor
@@ -22,6 +20,7 @@ tags:
 image: >-
   /wp-content/uploads/2024/08/riksa-uji-k3-instalasi-hydrant-pt-cipta-mas-jaya-001.jpg
 draft: false
+imageAlt: riksa-uji-k3-instalasi-hydrant-pt-cipta-mas-jaya-001
 ---
 Riksa uji hydrant adalah proses pemeriksaan, pengujian, dan pemeliharaan yang dilakukan secara berkala untuk memastikan bahwa sistem hydrant berfungsi dengan baik. Hydrant adalah salah satu perangkat penting dalam sistem pemadam kebakaran yang digunakan untuk menyediakan pasokan air yang cukup ketika terjadi kebakaran. Riksa uji ini bertujuan untuk menjamin keselamatan dan kesiapan operasional dari hydrant tersebut.
 

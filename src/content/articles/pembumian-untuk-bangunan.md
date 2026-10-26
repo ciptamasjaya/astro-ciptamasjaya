@@ -6,8 +6,7 @@ title: Pembumian untuk Bangunan
 description: >-
   Pembumian untuk Bangunan adalah sistem penting dalam instalasi listrik yang
   berfungsi untuk mengalirkan arus gangguan ke tanah agar tidak membahayakan
-  manusia maupun peralatan. Sistem ini merupakan bagian fundamental dalam
-  perancangan instalasi listrik bangunan, baik untuk gedung perkantoran...
+  manusia
 pubDate: '2025-06-07T19:58:04.000Z'
 updatedDate: '2026-09-10T01:00:23.000Z'
 author: admin
@@ -24,6 +23,11 @@ tags:
   - Riksa Uji K3
 image: /wp-content/uploads/2025/06/pembumian-untuk-bangunan1.jpeg
 draft: false
+imageAlt: >-
+  Pembumian untuk Bangunan adalah sistem instalasi listrik yang dirancang untuk
+  mengalirkan arus listrik berlebih atau gangguan ke tanah dengan aman, sehingga
+  melindungi manusia, peralatan, dan struktur bangunan dari risiko sengatan
+  listrik dan kerusakan akibat petir atau arus bocor.
 ---
 **Pembumian untuk Bangunan** adalah sistem penting dalam instalasi listrik yang berfungsi untuk mengalirkan arus gangguan ke tanah agar tidak membahayakan manusia maupun peralatan. Sistem ini merupakan bagian fundamental dalam perancangan instalasi listrik bangunan, baik untuk gedung perkantoran, rumah tinggal, industri, hingga fasilitas umum. Dengan adanya sistem pembumian yang baik, risiko sengatan listrik, kebakaran akibat lonjakan arus, serta kerusakan peralatan elektronik dapat diminimalkan secara signifikan.
 

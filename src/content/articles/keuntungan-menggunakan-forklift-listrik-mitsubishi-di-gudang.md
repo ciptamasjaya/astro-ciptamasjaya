@@ -6,8 +6,6 @@ title: Keuntungan Menggunakan Forklift Listrik Mitsubishi di Gudang
 description: >-
   Temukan berbagai keuntungan menggunakan forklift listrik Mitsubishi di gudang,
   termasuk efisiensi energi, pengurangan emisi, dan biaya operasional yang lebih
-  rendah. Pelajari juga tentang pentingnya riksa uji forklift dan bagaimana
-  riksa uji ini termasuk dalam kategori pesawat angkat dan angkut...
 pubDate: '2024-09-05T02:39:10.000Z'
 updatedDate: '2026-09-08T01:05:05.000Z'
 author: admin
@@ -25,6 +23,7 @@ tags:
   - Riksa Uji K3
   - sertifikasi
 draft: false
+imageAlt: Inspeki K3 Riksa Uji PT. Cipta Mas Jaya
 ---
 Temukan berbagai keuntungan menggunakan forklift listrik Mitsubishi di gudang, termasuk efisiensi energi, pengurangan emisi, dan biaya operasional yang lebih rendah. Pelajari juga tentang pentingnya riksa uji forklift dan bagaimana riksa uji ini termasuk dalam kategori pesawat angkat dan angkut.
 

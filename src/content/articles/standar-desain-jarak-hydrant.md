@@ -6,8 +6,6 @@ title: Standar Desain Jarak Hydrant
 description: >-
   Standar desain jarak antar hydrant pillar (tiang hydrant) biasanya berkisar
   antara 35 hingga 38 meter. Jarak ini ditentukan berdasarkan area proteksi yang
-  dapat dijangkau oleh satu hydrant, yaitu sekitar 1000 meter persegi, serta
-  jangkauan semprotan nozzle yang mencapai 5 meter. Standar desain...
 pubDate: '2025-06-05T11:10:38.000Z'
 updatedDate: '2026-09-08T01:05:03.000Z'
 author: admin
@@ -24,6 +22,11 @@ tags:
   - Riksa Uji K3
 image: /wp-content/uploads/2025/06/standar-desain-jarak-hydrant.jpeg
 draft: false
+imageAlt: >-
+  Jarak standar antar hydrant pillar (tiang hydrant) umumnya sekitar 35–38
+  meter. Perhitungan ini didasarkan pada cakupan proteksi hydrant yang mampu
+  menjangkau area seluas 1000 meter persegi, dengan jangkauan semprotan air
+  nozzle mencapai 5 meter dari titik hydrant.
 ---
 Standar desain jarak antar hydrant pillar (tiang hydrant) biasanya berkisar antara 35 hingga 38 meter. Jarak ini ditentukan berdasarkan area proteksi yang dapat dijangkau oleh satu hydrant, yaitu sekitar 1000 meter persegi, serta jangkauan semprotan nozzle yang mencapai 5 meter.
 

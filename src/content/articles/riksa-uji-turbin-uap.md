@@ -4,10 +4,8 @@ type: article
 slug: riksa-uji-turbin-uap
 title: Riksa Uji Turbin Uap (Steam Turbine)
 description: >-
-  Riksa Uji Turbin Uap adalah proses pemeriksaan dan pengujian menyeluruh
-  terhadap turbin uap untuk memastikan bahwa peralatan tersebut aman, andal, dan
-  sesuai dengan standar keselamatan kerja yang berlaku. Turbin uap termasuk
-  dalam kategori Pesawat Tenaga dan Produksi (PTP) yang diatur dalam...
+  Turbin uap adalah salah satu teknologi paling penting dalam konversi energi
+  termal menjadi energi mekanik, terutama dalam pembangkit tenaga.
 pubDate: '2024-09-11T10:32:27.000Z'
 updatedDate: '2026-09-01T01:01:55.000Z'
 author: admin
@@ -20,6 +18,9 @@ tags:
 image: >-
   /wp-content/uploads/2024/09/turbin-uap-ptp-pjk3-riksa-uji-pt.cipta-mas-jaya-0013.jpg
 draft: false
+imageAlt: >-
+  Jasa Inspeksi K3 PJK3 Riksa Uji PT. Cipta Mas Jaya Pesawat Tenaga dan Produksi
+  Turbin Uap
 ---
 Riksa Uji Turbin Uap adalah proses pemeriksaan dan pengujian menyeluruh terhadap turbin uap untuk memastikan bahwa peralatan tersebut aman, andal, dan sesuai dengan standar keselamatan kerja yang berlaku.
 

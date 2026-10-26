@@ -6,8 +6,7 @@ title: Riksa Uji Horizontal Directional Drilling
 description: >-
   Inspeksi dan pengujian, atau rikso uji, pada Horizontal Directional Drilling
   (HDD) adalah serangkaian prosedur krusial yang dirancang untuk memastikan
-  bahwa setiap aspek dari mesin HDD, dari ujung mata bor hingga sistem
-  kontrolnya, berfungsi dengan aman dan optimal. Proses ini bukan sekadar...
+  bahwa
 pubDate: '2025-08-10T09:39:27.000Z'
 updatedDate: '2026-09-05T01:00:19.000Z'
 author: admin
@@ -24,6 +23,13 @@ tags:
   - sertifikasi
 image: /wp-content/uploads/2025/08/riksa-uji-horizontal-directional-drilling.jpeg
 draft: false
+imageAlt: >-
+  Horizontal Directional Drilling adalah metode pengeboran bawah tanah tanpa
+  galian terbuka yang digunakan untuk memasang pipa, kabel, atau saluran dengan
+  lintasan horizontal. Teknik ini dilakukan menggunakan peralatan khusus yang
+  mampu mengarahkan mata bor secara presisi sehingga dapat melewati berbagai
+  rintangan di permukaan, seperti jalan raya, sungai, atau area padat penduduk,
+  tanpa merusak lingkungan di atasnya.
 ---
 Inspeksi dan pengujian, atau **rikso uji**, pada Horizontal Directional Drilling (HDD) adalah serangkaian prosedur krusial yang dirancang untuk memastikan bahwa setiap aspek dari mesin HDD, dari ujung mata bor hingga sistem kontrolnya, berfungsi dengan aman dan optimal. Proses ini bukan sekadar pemeriksaan rutin, melainkan sebuah evaluasi menyeluruh yang mendeteksi potensi masalah sebelum menjadi ancaman serius, memastikan **kepatuhan terhadap standar keselamatan**, dan menjaga **kelancaran operasional** di setiap tahapan proyek.
 

@@ -6,8 +6,7 @@ title: Riksa Uji Grounding System
 description: >-
   Riksa uji grounding system atau sistem pembumian penangkal petir sangat
   berkaitan erat dengan riksa uji penyalur petir karena keduanya bekerja sebagai
-  satu kesatuan untuk melindungi bangunan dari bahaya sambaran petir. Penyalur
-  petir berfungsi untuk menangkap dan mengarahkan sambaran petir ke...
+  satu
 pubDate: '2024-10-22T15:13:30.000Z'
 updatedDate: '2026-09-26T01:01:08.000Z'
 author: Editor
@@ -23,6 +22,13 @@ tags:
 image: >-
   /wp-content/uploads/2024/10/Riksa-Uji-Grounding-System-PT-Cipta-Mas-Jaya--scaled.jpg
 draft: false
+imageAlt: >-
+  Riksa uji grounding system adalah proses pemeriksaan dan pengujian menyeluruh
+  untuk memastikan sistem pembumian berfungsi dengan baik dalam melindungi
+  bangunan dan peralatan dari risiko sambaran petir. Pengujian ini meliputi
+  evaluasi resistansi tanah, konektivitas, serta kondisi material yang
+  digunakan, dengan tujuan menjamin keamanan dan efektivitas sistem penangkal
+  petir sesuai standar keselamatan.
 ---
 **Riksa uji grounding system** atau sistem pembumian penangkal petir sangat berkaitan erat dengan **[riksa uji penyalur petir](/2024/08/26/riksa-uji-sistem-penangkal-petir/)** karena keduanya bekerja sebagai satu kesatuan untuk melindungi bangunan dari bahaya sambaran petir. **Penyalur petir** berfungsi untuk menangkap dan mengarahkan sambaran petir ke **grounding system**, yang kemudian menyalurkan energi listrik tersebut ke dalam tanah dengan aman. Tanpa grounding system yang berfungsi baik, energi dari sambaran petir bisa merusak bangunan, menyebabkan kebakaran, atau bahkan mengancam keselamatan manusia dan peralatan elektronik. Oleh karena itu, **riksauji penyalur petir** selalu dilakukan bersamaan dengan pemeriksaan grounding system untuk memastikan bahwa seluruh sistem proteksi petir beroperasi secara optimal. Pemeriksaan ini meliputi pengukuran resistansi tanah, pemeriksaan kualitas material, dan konektivitas komponen agar memenuhi **standar keselamatan** yang ditetapkan oleh regulasi yang berlaku.
 

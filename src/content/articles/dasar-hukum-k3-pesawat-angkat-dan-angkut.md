@@ -6,8 +6,7 @@ title: Dasar Hukum K3 Pesawat Angkat dan Angkut
 description: >-
   Dasar hukum K3 (Keselamatan dan Kesehatan Kerja) terkait pesawat angkat dan
   angkut di Indonesia adalah Peraturan Menteri Ketenagakerjaan Nomor 8 Tahun
-  2020 tentang Keselamatan dan Kesehatan Kerja Pesawat Angkat dan Pesawat
-  Angkut. Selain itu, ada regulasi lain yang terkait seperti Undang-Undang...
+  2020
 pubDate: '2025-05-25T07:19:55.000Z'
 updatedDate: '2026-10-03T01:00:05.000Z'
 author: admin
@@ -22,6 +21,17 @@ tags:
   - Riksa Uji K3
 image: /wp-content/uploads/2025/05/dasar-hukum-k3-pesawat-angkat-dan-angkut.jpeg
 draft: false
+imageAlt: >-
+  Dasar hukum K3 Pesawat Angkat dan Angkut adalah seperangkat peraturan
+  perundang-undangan yang mengatur standar keselamatan dan kesehatan kerja dalam
+  penggunaan alat angkat dan alat angkut di lingkungan kerja. Regulasi ini
+  bertujuan untuk mencegah kecelakaan kerja, melindungi keselamatan pekerja,
+  serta memastikan alat yang digunakan memenuhi kriteria teknis yang aman.
+  Beberapa dasar hukum utamanya meliputi Undang-Undang Nomor 1 Tahun 1970
+  tentang Keselamatan Kerja, Peraturan Menteri Tenaga Kerja Nomor 05/MEN/1985
+  tentang Pesawat Angkat dan Angkut, serta Peraturan Menteri Ketenagakerjaan
+  Nomor 8 Tahun 2020 yang secara khusus mengatur aspek teknis dan manajerial
+  terkait pesawat angkat dan angkut.
 ---
 Dasar hukum K3 (Keselamatan dan Kesehatan Kerja) terkait pesawat angkat dan angkut di Indonesia adalah Peraturan Menteri Ketenagakerjaan Nomor 8 Tahun 2020 tentang Keselamatan dan Kesehatan Kerja Pesawat Angkat dan Pesawat Angkut. Selain itu, ada regulasi lain yang terkait seperti Undang-Undang Nomor 1 Tahun 1970 tentang Keselamatan Kerja dan Peraturan Menteri Tenaga Kerja Nomor 05/MEN/1985 tentang Pesawat Angkat dan Angkut.
 

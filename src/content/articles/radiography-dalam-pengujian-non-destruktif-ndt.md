@@ -6,8 +6,6 @@ title: Radiography dalam Pengujian Non-Destruktif (NDT)
 description: >-
   Radiography Test adalah metode pengujian non-destruktif (NDT) yang menggunakan
   sinar-X atau sinar gamma untuk memeriksa kondisi internal suatu material atau
-  komponen tanpa merusaknya. Teknik ini sangat efektif dalam mendeteksi cacat
-  tersembunyi seperti retakan, porositas, rongga, atau inklusi di...
 pubDate: '2025-06-04T00:31:32.000Z'
 updatedDate: '2026-09-09T01:00:02.000Z'
 author: admin
@@ -22,6 +20,7 @@ tags:
   - Riksa Uji
   - Riksa Uji K3
 draft: false
+imageAlt: Inspeki K3 Riksa Uji PT. Cipta Mas Jaya
 ---
 Radiography Test adalah metode pengujian non-destruktif (NDT) yang menggunakan sinar-X atau sinar gamma untuk memeriksa kondisi internal suatu material atau komponen tanpa merusaknya. Teknik ini sangat efektif dalam mendeteksi cacat tersembunyi seperti retakan, porositas, rongga, atau inklusi di dalam logam, lasan, dan struktur padat lainnya. Proses radiografi melibatkan penempatan sumber radiasi pada satu sisi objek dan detektor pada sisi lainnya, sehingga gambar bayangan cacat internal dapat ditangkap dan dianalisis. Radiography Test banyak digunakan dalam industri seperti minyak dan gas, konstruksi, serta manufaktur, karena mampu memberikan hasil yang akurat dan mendetail mengenai integritas struktural suatu komponen.
 

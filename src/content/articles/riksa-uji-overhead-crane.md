@@ -6,8 +6,6 @@ title: Riksa Uji Overhead Crane
 description: >-
   Riksa Uji Overhead Crane adalah proses pemeriksaan dan pengujian yang meliputi
   pengecekan fisik terhadap komponen utama seperti rel, kabel baja, kait (hook),
-  troli, sistem rem, dan motor penggerak. Pemeriksaan ini bertujuan untuk
-  mendeteksi potensi kerusakan, keausan, atau deformasi yang dapat...
 pubDate: '2024-08-26T11:06:51.000Z'
 updatedDate: '2026-09-11T01:00:34.000Z'
 author: Editor
@@ -25,6 +23,12 @@ tags:
   - sertifikasi
 image: /wp-content/uploads/2024/08/riksa-uji-overhead-crane-031.jpg
 draft: false
+imageAlt: >-
+  Riksa uji overhead crane adalah proses inspeksi yang mencakup pemeriksaan
+  fisik dan pengujian teknis pada seluruh komponen overhead crane, termasuk
+  motor, sistem kelistrikan, tali angkat, dan rem pengaman. Riksa uji ini
+  memastikan crane dapat digunakan dengan aman dalam aktivitas pengangkatan
+  beban berat, sesuai standar keselamatan kerja.
 ---
 **Riksa Uji Overhead Crane** adalah proses pemeriksaan dan pengujian yang meliputi pengecekan fisik terhadap komponen utama seperti rel, kabel baja, kait (hook), troli, sistem rem, dan motor penggerak. Pemeriksaan ini bertujuan untuk mendeteksi potensi kerusakan, keausan, atau deformasi yang dapat mengurangi keamanan dan kinerja crane.
 

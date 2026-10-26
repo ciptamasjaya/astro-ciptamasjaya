@@ -6,8 +6,7 @@ title: Tips Memilih PJK3 Terpercaya untuk Riksa Uji Forklift
 description: >-
   Keselamatan kerja di area industri dan gudang sangat bergantung pada kondisi
   alat berat yang digunakan, termasuk forklift. Sebagai alat angkat-angkut
-  utama, forklift yang tidak diuji kelayakannya dapat menjadi sumber bahaya yang
-  mengancam keselamatan operator dan lingkungan kerja. Untuk...
+  utama,
 pubDate: '2024-12-17T10:30:24.000Z'
 updatedDate: '2026-10-02T01:00:54.000Z'
 author: Editor
@@ -23,6 +22,12 @@ tags:
 image: >-
   /wp-content/uploads/2024/12/PJK3-Terpercaya-untuk-Riksa-Uji-Forklift-PT.-Cipta-Mas-Jaya-.jpg
 draft: false
+imageAlt: >-
+  PJK3 terpercaya untuk riksa uji forklift adalah lembaga yang terakreditasi
+  oleh Kementerian Tenaga Kerja, memiliki tenaga ahli bersertifikat, menggunakan
+  peralatan inspeksi sesuai standar keselamatan terbaru, dan berkomitmen untuk
+  memberikan layanan yang akurat, transparan, serta memastikan operasional
+  forklift tetap aman, efisien, dan memenuhi semua regulasi K3 yang berlaku.
 ---
 Keselamatan kerja di area industri dan gudang sangat bergantung pada kondisi alat berat yang digunakan, termasuk forklift. Sebagai alat angkat-angkut utama, forklift yang tidak diuji kelayakannya dapat menjadi sumber bahaya yang mengancam keselamatan operator dan lingkungan kerja. Untuk memastikan alat ini berfungsi dengan baik, **[riksa uji pesawat angkat-angkut](/2024/08/21/riksa-uji-k3-pesawat-angkat-dan-angkut/)** berkala oleh pihak yang kompeten adalah suatu keharusan. Namun, memilih Perusahaan Jasa Keselamatan dan Kesehatan Kerja (PJK3) yang terpercaya bukanlah hal yang bisa dianggap sepele, mengingat kualitas inspeksi sangat bergantung pada kredibilitas dan keahlian penyedia jasa tersebut.
 

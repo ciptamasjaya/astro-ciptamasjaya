@@ -5,10 +5,9 @@ contentType: local-seo
 slug: pjk3-di-jakarta-barat
 title: PJK3 di Jakarta Barat
 description: >-
-  PT. Cipta Mas Jaya adalah PJK3 di Jakarta Barat yang menyediakan layanan Riksa
-  Uji dan inspeksi K3 dengan tenaga ahli bersertifikat, hubungi 08568258841
-  untuk semua kebutuhan riksa uji anda PJK3 adalah salah satu elemen penting
-  dalam sistem manajemen keselamatan dan kesehatan kerja (K3) di...
+  PT. Cipta Mas Jaya adalah PJK3 di Jakarta Barat&nbsp;yang menyediakan layanan
+  Riksa Uji dan inspeksi K3 dengan tenaga ahli bersertifikat, hubungi
+  08568258841
 pubDate: '2025-05-21T17:30:24.000Z'
 updatedDate: '2026-10-14T01:03:43.000Z'
 author: admin
@@ -21,6 +20,13 @@ tags:
   - Riksa Uji K3
 image: /wp-content/uploads/2025/05/pjk3-jakarta-barat.jpg
 draft: false
+imageAlt: >-
+  PT. Cipta Mas Jaya adalah PJK3 di Jakarta Barat yang berpengalaman dan
+  terpercaya dalam memberikan layanan keselamatan dan kesehatan kerja. Sebagai
+  Perusahaan Jasa Keselamatan dan Kesehatan Kerja (PJK3), PT. Cipta Mas Jaya
+  telah memiliki izin resmi dan tenaga ahli bersertifikat yang siap membantu
+  berbagai perusahaan di Jakarta Barat dalam menerapkan standar K3 sesuai
+  regulasi pemerintah.
 ---
 PT. Cipta Mas Jaya adalah PJK3 di Jakarta Barat yang menyediakan layanan Riksa Uji dan inspeksi K3 dengan tenaga ahli bersertifikat, hubungi 08568258841 untuk semua kebutuhan riksa uji anda
 

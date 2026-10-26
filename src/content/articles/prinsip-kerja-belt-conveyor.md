@@ -6,8 +6,6 @@ title: Prinsip Kerja Belt Conveyor
 description: >-
   Prinsip Kerja Belt Conveyor adalah cara kerja sistem sabuk berjalan yang
   digunakan untuk memindahkan material dari satu titik ke titik lainnya secara
-  otomatis. Sistem ini mengandalkan motor penggerak, sabuk berjalan, serta
-  komponen mekanis lainnya untuk menciptakan aliran material yang efisien...
 pubDate: '2025-06-18T09:20:30.000Z'
 updatedDate: '2026-10-03T01:00:01.000Z'
 author: admin
@@ -24,6 +22,14 @@ tags:
   - Riksa Uji K3
 image: /wp-content/uploads/2025/06/prinsip-kerja-belt-conveyor.jpg
 draft: false
+imageAlt: >-
+  Prinsip kerja belt conveyor adalah proses pemindahan material secara kontinu
+  menggunakan sabuk berjalan yang digerakkan oleh motor dan ditopang oleh
+  roller. Material diletakkan di atas sabuk, lalu dibawa dari titik awal ke
+  titik tujuan seiring pergerakan sabuk tersebut. Sistem ini dirancang untuk
+  efisien dalam mengangkut beban dalam jumlah besar dengan kecepatan yang dapat
+  disesuaikan, menjadikannya solusi penting dalam berbagai industri seperti
+  pertambangan, manufaktur, dan logistik.
 ---
 Prinsip Kerja Belt Conveyor adalah cara kerja sistem sabuk berjalan yang digunakan untuk memindahkan material dari satu titik ke titik lainnya secara otomatis. Sistem ini mengandalkan motor penggerak, sabuk berjalan, serta komponen mekanis lainnya untuk menciptakan aliran material yang efisien, berkesinambungan, dan hemat tenaga kerja. Penggunaannya luas dalam berbagai sektor industri seperti pertambangan, manufaktur, logistik, hingga industri makanan dan minuman.
 

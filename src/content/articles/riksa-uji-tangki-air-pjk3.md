@@ -6,8 +6,7 @@ title: Riksa Uji Tangki Air
 description: >-
   Riksa uji tangki air adalah proses pemeriksaan dan pengujian yang dilakukan
   untuk memastikan bahwa tangki penyimpanan air berfungsi dengan baik dan
-  memenuhi standar keselamatan serta kesehatan. Tangki air, sebagai salah satu
-  komponen penting dalam sistem distribusi air, digunakan dalam berbagai...
+  memenuhi
 pubDate: '2024-10-17T13:28:11.000Z'
 updatedDate: '2026-08-29T01:00:36.000Z'
 author: Editor
@@ -21,6 +20,12 @@ tags:
   - Tangki Air
 image: /wp-content/uploads/2024/10/Riksa-Uji-Tangki-Air-PT-Cipta-Mas-Jaya-scaled.jpg
 draft: false
+imageAlt: >-
+  Riksa uji tangki air adalah pemeriksaan perangkat tangki penyimpanan air untuk
+  memastikan fungsinya sesuai standar. Proses ini mencakup pengujian kekuatan
+  struktur, pemeriksaan kebocoran, serta evaluasi sistem pengaman guna
+  memastikan tangki dapat menyimpan air dengan aman dan efektif, melindungi dari
+  kontaminasi, serta memastikan pasokan air yang andal saat dibutuhkan.
 ---
 **Riksa uji tangki air** adalah proses pemeriksaan dan pengujian yang dilakukan untuk memastikan bahwa tangki penyimpanan air berfungsi dengan baik dan memenuhi standar keselamatan serta kesehatan. Tangki air, sebagai salah satu komponen penting dalam sistem distribusi air, digunakan dalam berbagai aplikasi, seperti penyimpanan air bersih untuk kebutuhan rumah tangga, industri, dan pertanian. Dalam konteks **[riksa uji pesawat uap dan bejana tekan](/2024/09/06/riksa-uji-pesawat-uap-dan-bejana-tekan/)**, tangki air berperan krusial karena dapat digunakan sebagai sumber air untuk pemanasan dan pendinginan, serta sebagai sistem pengaman untuk mencegah peningkatan tekanan berlebih. Oleh karena itu, pemeriksaan berkala sangat penting untuk mencegah risiko kebocoran, kontaminasi, dan kerusakan struktural, serta memastikan bahwa tangki air berfungsi optimal dalam mendukung keselamatan dan efisiensi operasional sistem yang lebih besar.
 

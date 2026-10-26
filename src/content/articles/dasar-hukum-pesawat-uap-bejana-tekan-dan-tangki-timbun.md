@@ -6,8 +6,7 @@ title: 'Dasar Hukum Pesawat Uap, Bejana Tekan dan Tangki Timbun'
 description: >-
   Dasar hukum untuk pesawat uap di Indonesia merujuk pada beberapa peraturan
   perundangan yang mengatur keselamatan dan kesehatan kerja (K3) terkait pesawat
-  uap dan bejana tekan. Beberapa peraturan penting meliputi Undang-Undang Nomor
-  1 Tahun 1970 tentang Keselamatan Kerja, serta beberapa Peraturan...
+  uap
 pubDate: '2025-07-15T11:28:15.000Z'
 updatedDate: '2026-09-21T01:00:49.000Z'
 author: admin
@@ -26,6 +25,12 @@ tags:
 image: >-
   /wp-content/uploads/2025/07/dasar-hukum-pesawat-uap-bejana-tekan-dan-tangki-timbun.png
 draft: false
+imageAlt: >-
+  Dasar Hukum Pesawat Uap, Bejana Tekan dan Tangki Timbun adalah peraturan
+  perundang-undangan yang mengatur keselamatan dan kelayakan teknis alat-alat
+  bertekanan di tempat kerja, seperti yang tercantum dalam Permenaker No. 37
+  Tahun 2016 tentang Keselamatan dan Kesehatan Kerja Pesawat Uap dan Bejana
+  Tekan.
 ---
 Dasar hukum untuk pesawat uap di Indonesia merujuk pada beberapa peraturan perundangan yang mengatur keselamatan dan kesehatan kerja (K3) terkait pesawat uap dan bejana tekan. Beberapa peraturan penting meliputi Undang-Undang Nomor 1 Tahun 1970 tentang Keselamatan Kerja, serta beberapa Peraturan Menteri Ketenagakerjaan (Permenaker) yang mengatur secara lebih rinci mengenai K3 pesawat uap dan bejana tekan.
 

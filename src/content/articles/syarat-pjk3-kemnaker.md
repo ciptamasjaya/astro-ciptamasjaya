@@ -6,8 +6,6 @@ title: Syarat PJK3 Kemnaker
 description: >-
   Syarat PJK3 adalah serangkaian ketentuan yang harus dipenuhi oleh perusahaan
   agar dapat ditunjuk secara resmi oleh Kementerian Ketenagakerjaan (Kemnaker)
-  sebagai penyedia jasa keselamatan dan kesehatan kerja (K3). Penunjukan ini
-  bukan hanya soal legalitas, tetapi juga menuntut kompetensi teknis...
 pubDate: '2025-05-23T19:37:09.000Z'
 updatedDate: '2026-10-05T01:00:58.000Z'
 author: admin
@@ -18,6 +16,15 @@ tags:
   - Riksa Uji K3
 image: /wp-content/uploads/2025/05/syarat-pjk3-kemnaker.jpeg
 draft: false
+imageAlt: >-
+  Syarat PJK3 Kemnaker adalah sejumlah ketentuan yang harus dipenuhi oleh
+  perusahaan yang ingin memperoleh pengakuan sebagai penyelenggara jasa
+  keselamatan dan kesehatan kerja dari Kementerian Ketenagakerjaan. Syarat ini
+  mencakup kelengkapan dokumen legalitas perusahaan, kompetensi tenaga ahli dan
+  teknis, kepemilikan sarana dan prasarana pendukung, serta komitmen untuk
+  mematuhi peraturan perundang-undangan di bidang K3. Pemenuhan seluruh syarat
+  tersebut menjadi tahap awal yang penting untuk dapat mengikuti proses evaluasi
+  dan penilaian kelayakan sebagai PJK3.
 ---
 Syarat PJK3 adalah serangkaian ketentuan yang harus dipenuhi oleh perusahaan agar dapat ditunjuk secara resmi oleh Kementerian Ketenagakerjaan (Kemnaker) sebagai penyedia jasa keselamatan dan kesehatan kerja (K3). Penunjukan ini bukan hanya soal legalitas, tetapi juga menuntut kompetensi teknis, kesiapan administratif, serta tanggung jawab dalam mendukung budaya kerja yang aman dan sehat di Indonesia. Dalam artikel ini, akan dibahas secara mendalam mengenai apa saja syarat menjadi PJK3 Kemnaker, mulai dari pengertian, prosedur pengajuan, hingga manfaat dan kewajiban setelah penunjukan.
 

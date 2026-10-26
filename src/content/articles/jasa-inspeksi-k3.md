@@ -4,11 +4,8 @@ type: article
 slug: jasa-inspeksi-k3
 title: Jasa Inspeksi K3
 description: >-
-  Jasa inspeksi K3 (Keselamatan dan Kesehatan Kerja) adalah layanan profesional
-  yang menyediakan evaluasi dan penilaian terhadap kondisi keselamatan dan
-  kesehatan di tempat kerja. Jasa ini bertujuan untuk memastikan bahwa
-  lingkungan kerja mematuhi standar keselamatan yang berlaku,
-  mengidentifikasi...
+  Jasa Inspeksi K3 adalah jasa pihak ketiga untuk melaksanakan evaluasi dan
+  pengujian terhadap peralatan, instalasi, dan sistem di lingkungan kerja.
 pubDate: '2023-04-12T09:15:58.000Z'
 updatedDate: '2026-10-02T01:00:55.000Z'
 author: admin
@@ -18,6 +15,7 @@ tags:
 image: >-
   /wp-content/uploads/2023/04/tenaga-ahli-pesawat-angkat-dan-angkut-pjk3-pt.cipta-mas-jaya-dengan-sertifikat-pjk3-skp-sedang-riksa-uji-mobile-straddle-13.jpg
 draft: false
+imageAlt: Jasa Inspeksi K3
 ---
 **Jasa inspeksi K3 (Keselamatan dan Kesehatan Kerja)** adalah layanan profesional yang menyediakan evaluasi dan penilaian terhadap kondisi keselamatan dan kesehatan di tempat kerja. Jasa ini bertujuan untuk memastikan bahwa lingkungan kerja mematuhi standar keselamatan yang berlaku, mengidentifikasi potensi bahaya, serta merekomendasikan langkah-langkah perbaikan untuk mencegah kecelakaan dan penyakit akibat kerja.
 

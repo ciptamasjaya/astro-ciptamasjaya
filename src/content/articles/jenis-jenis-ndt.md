@@ -6,8 +6,7 @@ title: Jenis Jenis NDT
 description: >-
   Beberapa jenis Non Destructive Test (NDT) yang umum digunakan antara lain
   visual inspection, ultrasonic testing, radiography, eddy current testing,
-  magnetic particle testing, dan penetrant testing. Setiap metode memiliki
-  kelebihan dan kekurangan, serta aplikasi yang berbeda. Pengertian dan...
+  magnetic
 pubDate: '2025-06-01T15:28:00.000Z'
 updatedDate: '2026-08-30T01:00:18.000Z'
 author: admin
@@ -22,6 +21,14 @@ tags:
   - Riksa Uji K3
 image: /wp-content/uploads/2025/06/jenis-jenis-ndt.jpeg
 draft: false
+imageAlt: >-
+  Jenis-jenis NDT adalah metode-metode pengujian yang digunakan untuk
+  mengevaluasi kondisi suatu material atau komponen tanpa merusaknya. Metode ini
+  penting dalam berbagai industri, seperti manufaktur, konstruksi, migas, dan
+  penerbangan, karena memungkinkan deteksi dini terhadap cacat atau kerusakan
+  tanpa menghentikan operasi atau merusak struktur. Dengan menggunakan NDT,
+  kualitas, keselamatan, dan keandalan suatu produk atau struktur dapat dijaga
+  secara optimal.
 ---
 Beberapa jenis Non Destructive Test (NDT) yang umum digunakan antara lain **visual inspection**, **ultrasonic testing**, **radiography**, **eddy current testing**, **magnetic particle testing**, dan **penetrant testing**. Setiap metode memiliki kelebihan dan kekurangan, serta aplikasi yang berbeda.
 

@@ -9,8 +9,6 @@ title: >-
 description: >-
   Peraturan Menteri Ketenagakerjaan Republik Indonesia Nomor 8 Tahun 2020
   Tentang Keselamatan Dan Kesehatan Kerja Pesawat Angkat Dan Pesawat Angkut
-  Jenis Peraturan Menteri Ketenagakerjaan Entitas Kementerian Ketenagakerjaan
-  Nomor 8 Tahun 2020 Judul Peraturan Menteri Ketenagakerjaan tentang...
 pubDate: '2023-04-14T23:15:39.000Z'
 updatedDate: '2026-10-06T01:00:25.000Z'
 author: admin
@@ -20,6 +18,8 @@ tags:
 image: >-
   /wp-content/uploads/2020/06/Peraturan-menteri-ketenagakerjaan-republik-indonesia-nomor-8-tahun-2020-tentang-keselamatan-dan-kesehatan-kerja-pesawat-angkat-dan-pesawat-angkut-2.png
 draft: false
+imageAlt: >-
+  Peraturan-Menteri-Ketenagakerjaan-Republik-Indonesia-Nomor-8-Tahun-2020-Tentang-Keselamatan-Dan-Kesehatan-Kerja-Pesawat-Angkat-Dan-Pesawat-Angkut
 ---
 Peraturan Menteri Ketenagakerjaan Republik Indonesia Nomor 8 Tahun 2020 Tentang Keselamatan Dan Kesehatan Kerja Pesawat Angkat Dan Pesawat Angkut
 

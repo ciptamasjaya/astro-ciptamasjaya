@@ -4,10 +4,8 @@ type: article
 slug: pengujian-riksa-uji-lift-barang
 title: Pengujian Lift Barang
 description: >-
-  Riksa uji lift barang adalah proses pemeriksaan dan pengujian lift barang yang
-  mencakup pengecekan kondisi fisik komponen utama, seperti rel, tali
-  pengangkat, motor, pintu, serta sistem pengaman, dan pengujian beban secara
-  rutin agar lift mampu mengangkat kapasitas yang ditentukan tanpa risiko...
+  Riksa uji lift barang adalah proses penting yang melibatkan pemeriksaan dan
+  pengujian teknis untuk memastikan lift dalam keadaan baik dan aman.
 pubDate: '2024-08-27T15:14:59.000Z'
 updatedDate: '2026-09-08T01:05:07.000Z'
 author: Editor
@@ -26,6 +24,7 @@ tags:
   - sertifikasi
 image: /wp-content/uploads/2024/08/riksa-uji-k3-lift-barang-pt-cipta-mas-jaya-001.png
 draft: false
+imageAlt: riksa-uji-k3-lift-barang-pt-cipta-mas-jaya-001
 ---
 Riksa uji lift barang adalah proses pemeriksaan dan pengujian lift barang yang mencakup pengecekan kondisi fisik komponen utama, seperti rel, tali pengangkat, motor, pintu, serta sistem pengaman, dan pengujian beban secara rutin agar lift mampu mengangkat kapasitas yang ditentukan tanpa risiko kegagalan. Proses ini bertujuan untuk memastikan bahwa lift barang beroperasi dengan aman dan sesuai dengan standar keselamatan yang berlaku, guna mencegah kecelakaan kerja serta menjaga keamanan barang dan lingkungan sekitar lift.
 

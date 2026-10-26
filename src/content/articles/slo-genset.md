@@ -6,8 +6,6 @@ title: SLO Genset
 description: >-
   SLO Genset adalah Sertifikat Laik Operasi untuk genset (generator set), yang
   merupakan dokumen resmi yang menyatakan bahwa genset tersebut aman dan layak
-  dioperasikan. Sertifikat ini dikeluarkan oleh Lembaga Inspeksi Teknik (LIT)
-  yang terakreditasi oleh Kementerian ESDM. SLO Genset menjamin...
 pubDate: '2025-07-18T06:29:42.000Z'
 updatedDate: '2026-10-13T01:01:04.000Z'
 author: admin
@@ -25,6 +23,10 @@ tags:
   - sertifikasi
 image: /wp-content/uploads/2025/07/slo-genset.jpeg
 draft: false
+imageAlt: >-
+  SLO Genset adalah Sertifikat Laik Operasi yang menyatakan bahwa instalasi dan
+  pengoperasian genset telah memenuhi persyaratan keselamatan dan kelayakan
+  operasional sesuai peraturan perundang-undangan.
 ---
 SLO Genset adalah Sertifikat Laik Operasi untuk genset (generator set), yang merupakan dokumen resmi yang menyatakan bahwa genset tersebut aman dan layak dioperasikan. Sertifikat ini dikeluarkan oleh Lembaga Inspeksi Teknik (LIT) yang terakreditasi oleh Kementerian ESDM. SLO Genset menjamin bahwa instalasi dan pengoperasian genset telah memenuhi standar keselamatan dan teknis yang berlaku.
 

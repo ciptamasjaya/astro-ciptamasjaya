@@ -4,10 +4,8 @@ type: article
 slug: riksa-uji-instalasi-listrik
 title: Riksa Uji Instalasi Listrik
 description: >-
-  Riksa Uji Instalasi Listrik adalah proses pemeriksaan dan pengujian secara
-  menyeluruh terhadap instalasi listrik dalam sebuah bangunan atau fasilitas
-  untuk memastikan bahwa sistem tersebut aman, sesuai dengan standar yang
-  berlaku, dan berfungsi dengan baik. Riksa uji ini mencakup pemeriksaan...
+  Riksa Uji Instalasi Listrik adalah proses inspeksi atau pemeriksaan menyeluruh
+  terhadap sistem kelistrikan pada sebuah bangunan atau fasilitas.
 pubDate: '2024-09-04T10:50:58.000Z'
 updatedDate: '2026-10-10T01:00:11.000Z'
 author: admin
@@ -21,6 +19,7 @@ tags:
 image: >-
   /wp-content/uploads/2024/09/riksa-uji-k3-instalasi-listrik-pt-cipta-mas-jaya-001.jpg
 draft: false
+imageAlt: Riksa Uji INstalasi Listrik
 ---
 Riksa Uji Instalasi Listrik adalah proses pemeriksaan dan pengujian secara menyeluruh terhadap instalasi listrik dalam sebuah bangunan atau fasilitas untuk memastikan bahwa sistem tersebut aman, sesuai dengan standar yang berlaku, dan berfungsi dengan baik. Riksa uji ini mencakup pemeriksaan kondisi kabel, saklar, stop kontak, panel distribusi, sistem pentanahan (grounding), dan perangkat perlindungan seperti sekering atau pemutus arus.
 

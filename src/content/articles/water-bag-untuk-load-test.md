@@ -6,8 +6,6 @@ title: Water Bag untuk Load Test
 description: >-
   Water bag untuk load test adalah perangkat khusus yang dirancang untuk menguji
   kekuatan dan kestabilan peralatan pengangkat seperti winch, davit, dan crane
-  menggunakan media beban berupa air. Berkat desainnya yang fleksibel dan
-  efisien, metode ini telah menjadi pilihan utama dalam pengujian...
 pubDate: '2025-06-02T22:15:02.000Z'
 updatedDate: '2026-10-05T01:00:59.000Z'
 author: admin
@@ -22,6 +20,13 @@ tags:
   - Riksa Uji K3
 image: /wp-content/uploads/2025/06/water-bag-untuk-load-test.jpeg
 draft: false
+imageAlt: >-
+  Water Bag untuk Load Test adalah alat uji beban berbentuk kantong fleksibel
+  yang diisi air untuk mensimulasikan beban berat pada struktur atau peralatan
+  seperti crane, lifeboat davit, dan gangway. Alat ini dirancang khusus agar
+  dapat memberikan tekanan yang merata dan bertahap selama pengujian,
+  memungkinkan evaluasi kekuatan dan keamanan struktur secara akurat tanpa
+  risiko berlebih pada peralatan yang diuji.
 ---
 Water bag untuk load test adalah perangkat khusus yang dirancang untuk menguji kekuatan dan kestabilan peralatan pengangkat seperti winch, davit, dan crane menggunakan media beban berupa air. Berkat desainnya yang fleksibel dan efisien, metode ini telah menjadi pilihan utama dalam pengujian beban statis maupun dinamis di berbagai industri, termasuk dalam uji overload crane di tingkat global.
 

@@ -4,10 +4,8 @@ type: article
 slug: riksa-uji-mobil-crane
 title: Riksa Uji Mobil Crane
 description: >-
-  Riksa uji mobil crane (mobile crane) adalah proses pemeriksaan dan pengujian
-  keselamatan serta kinerja operasional yang meliputi pemeriksaan fisik terhadap
-  komponen utama seperti boom, sistem hidrolik, kabel baja, kait (hook), sistem
-  rem, dan roda. Proses ini bertujuan untuk mendeteksi potensi...
+  Riksa uji mobil crane adalah proses penting dalam memastikan bahwa alat berat
+  ini berfungsi dengan aman dan efisien di lokasi konstruksi.
 pubDate: '2024-09-18T15:26:46.000Z'
 updatedDate: '2026-08-26T01:00:04.000Z'
 author: Editor
@@ -21,6 +19,12 @@ tags:
 image: >-
   /wp-content/uploads/2024/09/mobile-crane-papa-pjk3-riksa-uji-pt.cipta-mas-jaya-01.jpg
 draft: false
+imageAlt: >-
+  Riksa uji mobil crane adalah proses pemeriksaan menyeluruh untuk memastikan
+  keamanan dan kelaikan operasional crane yang terpasang pada kendaraan. Ini
+  mencakup pemeriksaan visual terhadap komponen seperti boom, kabel, dan sistem
+  hidrolik, serta uji operasional untuk mengecek pergerakan dan kestabilan crane
+  saat mengangkat beban.
 ---
 **Riksa uji mobil crane (*mobile crane*)** adalah proses pemeriksaan dan pengujian keselamatan serta kinerja operasional yang meliputi pemeriksaan fisik terhadap komponen utama seperti boom, sistem hidrolik, kabel baja, kait (hook), sistem rem, dan roda. Proses ini bertujuan untuk mendeteksi potensi kerusakan atau keausan yang dapat memengaruhi kinerja crane.
 

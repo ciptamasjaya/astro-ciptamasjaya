@@ -6,8 +6,7 @@ title: Faktor Biologi di Lingkungan Kerja
 description: >-
   Faktor biologi di lingkungan kerja adalah berbagai organisme hidup atau produk
   yang dihasilkan oleh organisme tersebut yang dapat menimbulkan risiko
-  kesehatan bagi pekerja. Faktor ini meliputi bakteri, virus, jamur, parasit,
-  serangga, dan mikroorganisme lain yang dapat menyebabkan infeksi...
+  kesehatan
 pubDate: '2025-08-08T08:02:52.000Z'
 updatedDate: '2026-09-03T01:00:09.000Z'
 author: admin
@@ -24,6 +23,13 @@ tags:
   - sertifikasi
 image: /wp-content/uploads/2025/08/faktor-biologi-lingkungan-kerja.jpeg
 draft: false
+imageAlt: >-
+  Faktor biologi di lingkungan kerja adalah unsur-unsur yang berasal dari
+  makhluk hidup seperti bakteri, virus, jamur, parasit, serangga, maupun hewan
+  kecil lainnya yang dapat memengaruhi kesehatan dan keselamatan pekerja.
+  Paparan faktor biologi ini dapat terjadi melalui udara, kontak langsung,
+  makanan, atau media lain di tempat kerja, sehingga berpotensi menimbulkan
+  penyakit atau gangguan kesehatan tertentu.
 ---
 Faktor biologi di lingkungan kerja adalah berbagai organisme hidup atau produk yang dihasilkan oleh organisme tersebut yang dapat menimbulkan risiko kesehatan bagi pekerja. Faktor ini meliputi bakteri, virus, jamur, parasit, serangga, dan mikroorganisme lain yang dapat menyebabkan infeksi, alergi, atau penyakit lainnya. Paparan faktor biologi dapat terjadi di berbagai sektor kerja, terutama yang melibatkan interaksi dengan manusia, hewan, tanaman, atau material organik.
 

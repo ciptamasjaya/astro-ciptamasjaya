@@ -6,8 +6,6 @@ title: Riksa Uji Automatic Transfer Switch (ATS)
 description: >-
   Riksa uji Automatic Transfer Switch (ATS) merupakan bagian penting dari riksa
   uji instalasi listrik karena ATS berfungsi sebagai penghubung utama antara
-  sumber listrik utama dan cadangan (seperti genset) dalam instalasi
-  kelistrikan. ATS secara otomatis mengalihkan pasokan listrik ke genset...
 pubDate: '2024-10-22T08:57:34.000Z'
 updatedDate: '2026-08-29T01:00:35.000Z'
 author: Editor
@@ -22,6 +20,11 @@ tags:
 image: >-
   /wp-content/uploads/2024/10/Riksa-Uji-Automatic-Transfer-Switch-PT-Cipta-Mas-Jaya-scaled.jpg
 draft: false
+imageAlt: >-
+  Riksa uji Automatic Transfer Switch (ATS) adalah prosedur pemeriksaan penting
+  yang memastikan perangkat berfungsi dengan baik dalam mengalihkan pasokan
+  listrik secara otomatis saat terjadi pemadaman pada sumber utama, sehingga
+  menjaga kontinuitas pasokan listrik dalam instalasi.
 ---
 **Riksa uji Automatic Transfer Switch (ATS)** merupakan bagian penting dari **[riksa uji instalasi listrik](/2024/09/04/riksa-uji-instalasi-listrik/)** karena ATS berfungsi sebagai penghubung utama antara sumber listrik utama dan cadangan (seperti genset) dalam instalasi kelistrikan. ATS secara otomatis mengalihkan pasokan listrik ke genset ketika terjadi pemadaman pada sumber utama, sehingga kontinuitas daya tetap terjaga. Sebagai komponen krusial dalam sistem kelistrikan, riksa uji ATS mencakup pengecekan performa saklar, kecepatan pengalihan, keandalan kontrol otomatis, serta pengujian terhadap kondisi teknis seperti keausan pada terminal dan sirkuit. Pengujian berkala ATS ini dilakukan bersamaan dengan **riksa uji instalasi listrik** yang mencakup pemeriksaan kabel, proteksi, dan sistem grounding untuk memastikan bahwa keseluruhan sistem kelistrikan dapat bekerja secara optimal dan aman. Dengan demikian, **riksa uji ATS** menjadi bagian integral dari proses pemeliharaan dan keamanan operasional instalasi listrik secara keseluruhan.
 

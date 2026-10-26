@@ -6,8 +6,6 @@ title: Parameter biologis dalam riksa uji lingker
 description: >-
   Parameter biologis dalam riksa uji lingker (PJK3) mencakup ancaman biologis
   yang dapat berasal dari mikroorganisme (seperti bakteri dan virus) atau hewan
-  pengganggu (seperti serangga dan tikus). Pengendalian parameter ini penting
-  untuk mencegah penyebaran penyakit dan menjaga kebersihan area...
 pubDate: '2025-06-07T08:45:33.000Z'
 updatedDate: '2026-09-10T01:00:22.000Z'
 author: admin
@@ -23,6 +21,7 @@ tags:
   - Riksa Uji
   - Riksa Uji K3
 draft: false
+imageAlt: Inspeki K3 Riksa Uji PT. Cipta Mas Jaya
 ---
 Parameter biologis dalam riksa uji lingker (PJK3) mencakup ancaman biologis yang dapat berasal dari mikroorganisme (seperti bakteri dan virus) atau hewan pengganggu (seperti serangga dan tikus). Pengendalian parameter ini penting untuk mencegah penyebaran penyakit dan menjaga kebersihan area kerja.
 

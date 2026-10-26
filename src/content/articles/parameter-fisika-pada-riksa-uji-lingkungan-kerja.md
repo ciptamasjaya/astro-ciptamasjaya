@@ -6,8 +6,7 @@ title: Parameter Fisika pada Riksa Uji Lingkungan Kerja
 description: >-
   Parameter fisika merupakan salah satu komponen utama dalam pengujian
   lingkungan kerja pada proses riksa uji lingkungan kerja. Parameter lingkungan
-  kerja ini mencakup aspek-aspek seperti iklim kerja, kebisingan, pencahayaan,
-  getaran, radiasi, dan faktor ergonomi yang secara langsung memengaruhi...
+  kerja ini
 pubDate: '2025-06-07T00:35:42.000Z'
 updatedDate: '2026-09-21T01:00:50.000Z'
 author: admin
@@ -23,6 +22,7 @@ tags:
   - Riksa Uji
   - Riksa Uji K3
 draft: false
+imageAlt: Inspeki K3 Riksa Uji PT. Cipta Mas Jaya
 ---
 Parameter fisika merupakan salah satu komponen utama dalam pengujian lingkungan kerja pada proses riksa uji lingkungan kerja. **[Parameter lingkungan kerja](/2025/06/07/parameter-lingkungan-kerja/)** ini mencakup aspek-aspek seperti iklim kerja, kebisingan, pencahayaan, getaran, radiasi, dan faktor ergonomi yang secara langsung memengaruhi kenyamanan, kesehatan, serta keselamatan pekerja di tempat kerja. Dengan melakukan pengukuran dan evaluasi terhadap parameter fisika tersebut, perusahaan dapat memastikan bahwa lingkungan kerja memenuhi standar K3 yang ditetapkan, sehingga tercipta suasana kerja yang aman, sehat, dan produktif.
 

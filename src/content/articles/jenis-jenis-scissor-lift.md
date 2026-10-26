@@ -6,8 +6,6 @@ title: Jenis Jenis Scissor Lift
 description: >-
   Jenis jenis scissor lift yang yang banyak digunakan terdiri dari Scissor Lift
   Tenaga Listrik, Scissor Lift Tenaga Hidrolik, Rough Terrain Scissor Lift,
-  Compact Scissor Lift, Self-Propelled Scissor Lift dan Pneumatic Scissor Lift.
-  Keunggulan scissorlift terletak pada stabilitas, efisiensi, dan...
 pubDate: '2025-05-15T08:10:34.000Z'
 updatedDate: '2026-09-01T01:01:59.000Z'
 author: admin
@@ -18,6 +16,10 @@ tags:
   - scissor lift
 image: /wp-content/uploads/2025/05/jenis-jenis-scissor-lift-01.jpg
 draft: false
+imageAlt: >-
+  Jenis-jenis scissor lift dibedakan berdasarkan sumber tenaga (listrik dan
+  diesel), desain dan aplikasi (seperti rough terrain atau mini), serta cara
+  pengoperasian (manual dan self-propelled).
 ---
 J**enis jenis scissor lift** yang yang banyak digunakan terdiri dari Scissor Lift Tenaga Listrik, Scissor Lift Tenaga Hidrolik, Rough Terrain Scissor Lift, Compact Scissor Lift, Self-Propelled Scissor Lift dan Pneumatic Scissor Lift.
 

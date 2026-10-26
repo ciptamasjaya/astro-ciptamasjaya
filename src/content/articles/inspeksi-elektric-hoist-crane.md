@@ -4,10 +4,8 @@ type: article
 slug: inspeksi-elektric-hoist-crane
 title: Inspeksi Electric Hoist Crane
 description: >-
-  Riksa Uji Electric Hoist Crane adalah proses pemeriksaan dan pengujian yang
-  meliputi pengecekan fisik terhadap komponen utama seperti hoist, kabel baja,
-  kait (hook), sistem rem, motor penggerak, dan rantai atau tali pengangkat.
-  Pemeriksaan ini bertujuan untuk mendeteksi kerusakan, keausan, atau...
+  Electric hoist crane adalah alat pengangkat yang menggunakan tenaga listrik
+  untuk menggerakkan hoist yang dipasang pada crane.
 pubDate: '2024-08-27T10:28:38.000Z'
 updatedDate: '2026-09-11T01:00:34.000Z'
 author: Editor
@@ -24,6 +22,10 @@ tags:
 image: >-
   /wp-content/uploads/2024/08/riksa-uji-k3-electric-hoist-crane-pt-cipta-mas-jaya-001.png
 draft: false
+imageAlt: >-
+  Riksa Uji Electric Hoist Crane adalah proses pengujian dan inspeksi yang
+  dilakukan untuk menilai kondisi fisik, mekanik, dan kelistrikan crane berbasis
+  hoist elektrik, guna memastikan keamanannya sesuai standar operasional.
 ---
 **Riksa Uji Electric Hoist Crane** adalah proses pemeriksaan dan pengujian yang meliputi pengecekan fisik terhadap komponen utama seperti hoist, kabel baja, kait (hook), sistem rem, motor penggerak, dan rantai atau tali pengangkat. Pemeriksaan ini bertujuan untuk mendeteksi kerusakan, keausan, atau deformasi pada komponen yang dapat memengaruhi kinerja dan keamanan crane.
 

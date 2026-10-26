@@ -6,8 +6,7 @@ title: Faktor Ergonomi di Lingkungan Kerja
 description: >-
   Faktor ergonomi di lingkungan kerja adalah unsur-unsur yang berkaitan dengan
   penyesuaian antara kemampuan, keterbatasan, dan kenyamanan pekerja dengan
-  kondisi serta tuntutan pekerjaan. Penerapan ergonomi yang baik bertujuan untuk
-  mencegah kelelahan berlebih, mengurangi risiko cedera, serta...
+  kondisi
 pubDate: '2025-08-08T08:23:09.000Z'
 updatedDate: '2026-09-04T01:00:07.000Z'
 author: admin
@@ -24,6 +23,14 @@ tags:
   - sertifikasi
 image: /wp-content/uploads/2025/08/faktor-ergonomy-di-lingkungan-kerja.png
 draft: false
+imageAlt: >-
+  Faktor ergonomi lingkungan kerja adalah aspek-aspek yang berkaitan dengan
+  penyesuaian antara pekerjaan, peralatan, dan lingkungan kerja dengan kemampuan
+  serta keterbatasan manusia. Tujuan utamanya adalah untuk menciptakan kondisi
+  kerja yang aman, nyaman, dan efisien sehingga dapat meminimalkan risiko
+  cedera, mengurangi kelelahan, serta meningkatkan produktivitas. Faktor
+  ergonomi meliputi pengaturan posisi kerja, desain peralatan, pencahayaan,
+  suhu, hingga tata letak ruang kerja.
 ---
 Faktor ergonomi di lingkungan kerja adalah unsur-unsur yang berkaitan dengan penyesuaian antara kemampuan, keterbatasan, dan kenyamanan pekerja dengan kondisi serta tuntutan pekerjaan. Penerapan ergonomi yang baik bertujuan untuk mencegah kelelahan berlebih, mengurangi risiko cedera, serta meningkatkan efisiensi dan produktivitas kerja.
 

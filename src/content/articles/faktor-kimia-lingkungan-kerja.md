@@ -6,8 +6,6 @@ title: Faktor Kimia Lingkungan Kerja
 description: >-
   Faktor kimia di lingkungan kerja adalah segala bentuk zat atau kondisi kimia
   yang berpotensi membahayakan kesehatan maupun keselamatan pekerja. Faktor ini
-  dapat hadir dalam bentuk padatan, cairan, gas, atau partikel yang melayang di
-  udara. Paparan jangka pendek dapat menimbulkan gangguan ringan...
 pubDate: '2025-08-08T05:44:19.000Z'
 updatedDate: '2026-09-03T01:00:08.000Z'
 author: admin
@@ -24,6 +22,14 @@ tags:
   - sertifikasi
 image: /wp-content/uploads/2025/08/faktor-kimia-lingkungan-kerja-01.jpeg
 draft: false
+imageAlt: >-
+  Faktor kimia lingkungan kerja adalah segala bentuk zat atau senyawa kimia yang
+  terdapat di tempat kerja dan berpotensi menimbulkan dampak negatif terhadap
+  kesehatan maupun keselamatan pekerja. Faktor ini dapat hadir dalam wujud
+  padat, cair, atau gas, termasuk debu, uap, dan bahan kimia berbahaya lainnya.
+  Paparan yang tidak terkendali dapat mengakibatkan gangguan kesehatan ringan
+  hingga penyakit kronis, bahkan memicu kecelakaan kerja seperti kebakaran atau
+  ledakan.
 ---
 Faktor kimia di lingkungan kerja adalah segala bentuk zat atau kondisi kimia yang berpotensi membahayakan kesehatan maupun keselamatan pekerja. Faktor ini dapat hadir dalam bentuk padatan, cairan, gas, atau partikel yang melayang di udara. Paparan jangka pendek dapat menimbulkan gangguan ringan seperti iritasi, sementara paparan jangka panjang bisa memicu penyakit serius seperti gangguan organ vital atau bahkan kanker. Oleh karena itu, pengelolaan faktor kimia memerlukan pemahaman yang mendalam dan langkah pencegahan yang tepat.
 

@@ -5,9 +5,7 @@ slug: riksa-uji-scissor-lift
 title: Riksa Uji Scissor Lift
 description: >-
   Riksa uji scissor lift merupakan proses inspeksi mendetail yang bertujuan
-  untuk memastikan bahwa peralatan ini memenuhi standar keselamatan dan
-  operasional yang ditetapkan. Proses ini meliputi pemeriksaan terhadap komponen
-  kritis seperti sistem hidrolik atau pneumatik, struktur gunting, kontrol...
+  untuk memastikan bahwa peralatan ini memenuhi standar keselamatan.
 pubDate: '2024-09-18T11:42:41.000Z'
 updatedDate: '2026-09-29T01:00:21.000Z'
 author: Editor
@@ -21,6 +19,9 @@ tags:
 image: >-
   /wp-content/uploads/2024/09/scissor-lift-papa-pjk3-riksa-uji-pt.cipta-mas-jaya-02.jpg
 draft: false
+imageAlt: >-
+  Jasa Inspeksi K3 PJK3 Riksa Uji PT. Cipta Mas Jaya Pesawat Angkat dan Pesawat
+  Angkut Scissor Lift
 ---
 **[Riksa uji scissor lift](/category/layanan/riksa-uji-pesawat-angkat-dan-angkut/)** merupakan proses inspeksi mendetail yang bertujuan untuk memastikan bahwa peralatan ini memenuhi standar keselamatan dan operasional yang ditetapkan. Proses ini meliputi pemeriksaan terhadap komponen kritis seperti sistem hidrolik atau pneumatik, struktur gunting, kontrol, dan platform untuk mengidentifikasi keausan, kerusakan, atau potensi malfungsi.
 

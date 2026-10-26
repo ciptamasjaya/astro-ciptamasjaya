@@ -4,10 +4,8 @@ type: article
 slug: pengujian-winch
 title: Pengujian Winch
 description: >-
-  Layanan ini meliputi pengujian dan kalibrasi winch untuk memastikan alat ini
-  mampu mengangkat beban dengan aman tanpa risiko kegagalan mekanis. Pengertian
-  Riksa Uji Electric Winch Apa Itu Electric Winch? Electric winch adalah alat
-  yang digunakan untuk menarik atau mengangkat beban dengan bantuan...
+  Pengujian dan kalibrasi winch untuk memastikan alat ini mampu mengangkat beban
+  dengan aman tanpa risiko kegagalan mekanis.
 pubDate: '2024-08-29T10:20:32.000Z'
 updatedDate: '2026-09-14T01:00:43.000Z'
 author: Editor
@@ -27,6 +25,7 @@ tags:
 image: >-
   /wp-content/uploads/2024/08/riksa-uji-k3-electric-winch-pt-cipta-mas-jaya-001.png
 draft: false
+imageAlt: riksa-uji-k3-electric-winch-pt-cipta-mas-jaya-001
 ---
 Layanan ini meliputi pengujian dan kalibrasi winch untuk memastikan alat ini mampu mengangkat beban dengan aman tanpa risiko kegagalan mekanis.
 

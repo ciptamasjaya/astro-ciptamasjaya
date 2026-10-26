@@ -6,8 +6,6 @@ title: Peraturan Pengukuran Lingkungan Kerja
 description: >-
   Peraturan Pengukuran Lingkungan Kerja merupakan landasan penting dalam menjaga
   keselamatan dan kesehatan para pekerja di berbagai sektor industri. Pengukuran
-  ini bertujuan untuk menilai dan mengendalikan berbagai faktor risiko di
-  lingkungan kerja, seperti kebisingan, pencahayaan, suhu, serta...
 pubDate: '2025-06-08T09:35:35.000Z'
 updatedDate: '2026-09-23T01:00:41.000Z'
 author: admin
@@ -22,6 +20,7 @@ tags:
   - Riksa Uji
   - Riksa Uji K3
 draft: false
+imageAlt: Inspeki K3 Riksa Uji PT. Cipta Mas Jaya
 ---
 Peraturan Pengukuran Lingkungan Kerja merupakan landasan penting dalam menjaga keselamatan dan kesehatan para pekerja di berbagai sektor industri. Pengukuran ini bertujuan untuk menilai dan mengendalikan berbagai faktor risiko di lingkungan kerja, seperti kebisingan, pencahayaan, suhu, serta paparan bahan kimia. Dengan adanya peraturan yang jelas dan terstandarisasi, perusahaan memiliki pedoman yang tepat dalam menciptakan tempat kerja yang aman dan sehat sesuai dengan ketentuan hukum yang berlaku.
 

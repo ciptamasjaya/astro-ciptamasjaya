@@ -6,8 +6,6 @@ title: PJK3 Riksa Uji
 description: >-
   PJK3 Riksa Uji adalah perusahaan yang bergerak di bidang jasa keselamatan dan
   kesehatan kerja (K3) yang memiliki kewenangan untuk melaksanakan riksa uji
-  terhadap berbagai peralatan dan instalasi di tempat kerja. Perusahaan ini
-  mendapatkan akreditasi dari pemerintah untuk melakukan inspeksi...
 pubDate: '2024-09-02T18:42:03.000Z'
 updatedDate: '2026-10-10T01:00:12.000Z'
 author: admin
@@ -21,6 +19,10 @@ tags:
   - Riksa Uji K3
   - sertifikasi
 draft: false
+imageAlt: >-
+  PJK3 Riksa Uji adalah lembaga yang diakui secara resmi untuk melakukan
+  pengujian teknis terhadap peralatan kerja dalam memastikan kepatuhan terhadap
+  aturan keselamatan kerja.
 ---
 **PJK3 Riksa Uji** adalah perusahaan yang bergerak di bidang jasa keselamatan dan kesehatan kerja (K3) yang memiliki kewenangan untuk melaksanakan riksa uji terhadap berbagai peralatan dan instalasi di tempat kerja. Perusahaan ini mendapatkan akreditasi dari pemerintah untuk melakukan inspeksi, pengujian, serta sertifikasi terhadap peralatan yang memerlukan pengawasan khusus, seperti alat angkat dan angkut (crane, forklift), instalasi listrik, sistem proteksi kebakaran, bejana tekan, boiler, dan peralatan lainnya.
 

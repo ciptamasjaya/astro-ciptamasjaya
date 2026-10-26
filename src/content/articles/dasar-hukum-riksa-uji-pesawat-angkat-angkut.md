@@ -3,11 +3,7 @@ id: 367
 type: article
 slug: dasar-hukum-riksa-uji-pesawat-angkat-angkut
 title: Dasar Hukum Riksa Uji Pesawat Angkat Angkut
-description: >-
-  Dasar hukum riksa uji pesawat angkat angkut terdiri dari: Kewajiban dan Sanksi
-  terkait Riksa Uji Pesawat Angkat Angkut Kewajiban dan sanksi terkait riksa uji
-  pesawat angkat angkut dalam Peraturan Menteri Ketenagakerjaan Nomor 8 Tahun
-  2020 tersebut adalah: Kewajiban Pengusaha BAB IKETENTUAN...
+description: 'Dasar hukum riksa uji pesawat angkat angkut terdiri dari:'
 pubDate: '2023-04-14T11:18:41.000Z'
 updatedDate: '2026-10-07T01:02:47.000Z'
 author: Editor
@@ -17,6 +13,7 @@ tags:
 image: >-
   /wp-content/uploads/2023/04/pt-cipta-mas-jaya-dasar-hukum-riksa-uji-pesawat-angkat-angkut.jpeg
 draft: false
+imageAlt: Dasar Hukum Riksa Uji Pesawat Angkat Angkut
 ---
 Dasar hukum riksa uji pesawat angkat angkut terdiri dari:
 

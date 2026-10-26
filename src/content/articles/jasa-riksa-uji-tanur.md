@@ -4,10 +4,9 @@ type: article
 slug: jasa-riksa-uji-tanur
 title: Riksa Uji Tanur
 description: >-
-  Riksa Uji Tanur adalah proses pemeriksaan dan pengujian yang dilakukan untuk
-  memastikan bahwa tanur atau furnace berfungsi dengan aman dan sesuai standar
-  keselamatan. Proses ini mencakup pengecekan kondisi fisik, sistem pemanas,
-  saluran gas, insulasi, dan komponen pendukung lainnya untuk...
+  Riksa Uji Tanur merupakan bagian dari Riksa Uji Pesawat Tenaga dan Produksi,
+  di mana tanur sebagai alat industri yang digunakan dalam proses pembakaran,
+  peleburan, atau pemanasan bahan, harus diperiksa dan diuji secara menyeluruh.
 pubDate: '2024-09-12T09:34:47.000Z'
 updatedDate: '2026-10-12T01:04:28.000Z'
 author: Editor
@@ -20,6 +19,13 @@ tags:
   - Riksa Uji K3
 image: /wp-content/uploads/2024/09/riksa-uji-tanur-pt-cipta-mas-jaya.jpg
 draft: false
+imageAlt: >-
+  Riksa uji tanur adalah proses pemeriksaan dan pengujian yang dilakukan untuk
+  memastikan bahwa tanur atau furnace beroperasi dengan aman dan efisien.
+  Prosedur ini melibatkan pengecekan suhu, kondisi material, dan komponen tanur,
+  serta memastikan bahwa sistem bekerja sesuai dengan standar keselamatan yang
+  berlaku, guna mencegah potensi bahaya dan kerusakan selama proses pemanasan
+  industri.
 ---
 **Riksa Uji Tanur** adalah proses pemeriksaan dan pengujian yang dilakukan untuk memastikan bahwa tanur atau furnace berfungsi dengan aman dan sesuai standar keselamatan. Proses ini mencakup pengecekan kondisi fisik, sistem pemanas, saluran gas, insulasi, dan komponen pendukung lainnya untuk mengidentifikasi potensi kerusakan atau risiko kegagalan. Riksa Uji Tanur bertujuan untuk menjaga efisiensi operasional tanur dan mencegah kecelakaan kerja yang disebabkan oleh kondisi tidak aman dalam sistem pemanasan industri.
 

@@ -6,8 +6,7 @@ title: Parameter Lingkungan Kerja
 description: >-
   Parameter lingkungan kerja adalah faktor-faktor fisik, kimia, biologis,
   ergonomis, dan psikologis yang mempengaruhi kondisi dan kualitas lingkungan
-  tempat kerja. Parameter ini penting untuk diukur dan dipantau agar dapat
-  menciptakan lingkungan kerja yang aman, nyaman, dan produktif. Parameter...
+  tempat
 pubDate: '2025-06-07T00:16:57.000Z'
 updatedDate: '2026-09-02T01:00:07.000Z'
 author: admin
@@ -23,6 +22,13 @@ tags:
   - Riksa Uji
   - Riksa Uji K3
 draft: false
+imageAlt: >-
+  Pengukuran lingkungan kerja adalah proses sistematis untuk menilai berbagai
+  faktor di tempat kerja yang dapat mempengaruhi kesehatan dan keselamatan
+  pekerja, seperti kebisingan, suhu, pencahayaan, bahan kimia, serta
+  mikroorganisme berbahaya. Tujuan utama dari kegiatan ini adalah untuk
+  memastikan bahwa kondisi kerja sesuai dengan standar keselamatan yang berlaku
+  dan mencegah risiko penyakit akibat kerja.
 ---
 Parameter lingkungan kerja adalah faktor-faktor fisik, kimia, biologis, ergonomis, dan psikologis yang mempengaruhi kondisi dan kualitas lingkungan tempat kerja. Parameter ini penting untuk diukur dan dipantau agar dapat menciptakan lingkungan kerja yang aman, nyaman, dan produktif.
 

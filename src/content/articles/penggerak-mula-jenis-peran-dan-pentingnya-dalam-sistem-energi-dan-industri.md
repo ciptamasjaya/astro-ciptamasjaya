@@ -6,8 +6,7 @@ title: 'Penggerak Mula: Jenis, Peran, dan Pentingnya dalam Sistem Energi dan Ind
 description: >-
   Penggerak mula adalah suatu pesawat atau mesin yang mengubah energi primer
   menjadi energi mekanik untuk menggerakkan pesawat atau mesin lainnya. Dalam
-  konteks yang lebih luas, penggerak mula merujuk pada alat yang mengubah
-  berbagai bentuk energi (seperti energi kimia, panas, atau air) menjadi...
+  konteks
 pubDate: '2025-07-29T18:19:27.000Z'
 updatedDate: '2026-08-30T01:00:16.000Z'
 author: admin
@@ -25,6 +24,9 @@ tags:
   - sertifikasi
 image: /wp-content/uploads/2025/07/penggerak-mula.jpeg
 draft: false
+imageAlt: >-
+  Penggerak mula adalah mesin atau alat yang digunakan untuk mengubah energi
+  primer menjadi energi mekanik yang diperlukan dalam sistem kerja.
 ---
 Penggerak mula adalah suatu pesawat atau mesin yang mengubah energi primer menjadi energi mekanik untuk menggerakkan pesawat atau mesin lainnya. Dalam konteks yang lebih luas, penggerak mula merujuk pada alat yang mengubah berbagai bentuk energi (seperti energi kimia, panas, atau air) menjadi energi mekanik yang dapat digunakan untuk melakukan kerja, seperti memutar poros, menggerakkan roda, atau menghasilkan listrik.
 

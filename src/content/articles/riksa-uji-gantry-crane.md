@@ -6,8 +6,6 @@ title: 'Riksa Uji Gantry Crane: Demag 10 Ton'
 description: >-
   Riksa Uji Gantry Crane adalah proses pemeriksaan dan pengujian yang dilakukan
   secara menyeluruh untuk memastikan kondisi operasional, keselamatan, dan
-  kelaikan dari sebuah gantry crane. Pemeriksaan ini mencakup berbagai aspek
-  seperti pemeriksaan visual, pengujian teknis, pengujian beban, dan...
 pubDate: '2024-10-14T23:52:54.000Z'
 updatedDate: '2026-09-10T01:00:19.000Z'
 author: admin
@@ -20,6 +18,12 @@ tags:
   - Riksa Uji
 image: /wp-content/uploads/2024/10/riksa-uji-gantry-crane-demag-10-Ton-1.jpeg
 draft: false
+imageAlt: >-
+  Riksa Uji Gantry Crane adalah proses pemeriksaan dan pengujian menyeluruh yang
+  dilakukan untuk memastikan bahwa gantry crane beroperasi dengan aman dan
+  efisien. Proses ini melibatkan pemeriksaan visual, pengujian teknis, pengujian
+  beban, dan Non-Destruktif (NDT) untuk mendeteksi kerusakan atau keausan pada
+  komponen utama crane, sehingga dapat mencegah risiko kecelakaan kerja.
 ---
 **Riksa Uji Gantry Crane** adalah proses pemeriksaan dan pengujian yang dilakukan secara menyeluruh untuk memastikan kondisi operasional, keselamatan, dan kelaikan dari sebuah gantry crane. Pemeriksaan ini mencakup berbagai aspek seperti pemeriksaan visual, pengujian teknis, pengujian beban, dan pengujian non-destruktif (NDT) untuk mendeteksi kerusakan atau keausan pada komponen penting crane. Tujuan dari **Riksa Uji** ini adalah untuk memastikan bahwa crane dapat berfungsi dengan aman dan efisien, serta memenuhi standar keselamatan yang berlaku di industri.
 

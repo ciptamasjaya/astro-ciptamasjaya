@@ -6,9 +6,7 @@ title: Pemeriksaan dan Pengujian Hydrant
 description: >-
   Pemeriksaan dan pengujian hydrant adalah aspek penting dari sistem
   perlindungan kebakaran yang harus dilakukan secara berkala untuk menjamin
-  fungsionalitas dan keselamatan fasilitas. Dalam artikel ini, kita akan
-  membahas secara mendalam mengenai proses pemeriksaan dan pengujian hydrant
-  yang...
+  fungsionalitas
 pubDate: '2024-10-07T20:49:07.000Z'
 updatedDate: '2026-10-13T01:01:01.000Z'
 author: admin
@@ -24,6 +22,10 @@ tags:
 image: >-
   /wp-content/uploads/2024/10/pemeriksaan-dan-pengujian-hydrant-pt-cipta-mas-jaya-03.jpg
 draft: false
+imageAlt: >-
+  Pemeriksaan dan pengujian hydrant adalah proses evaluasi teknis yang dilakukan
+  secara berkala untuk memastikan bahwa sistem hydrant berfungsi dengan baik dan
+  sesuai dengan standar keselamatan kebakaran.
 ---
 Pemeriksaan dan pengujian hydrant adalah aspek penting dari sistem perlindungan kebakaran yang harus dilakukan secara berkala untuk menjamin fungsionalitas dan keselamatan fasilitas. Dalam artikel ini, kita akan membahas secara mendalam mengenai proses pemeriksaan dan pengujian hydrant yang sesuai dengan standar keselamatan dan regulasi yang berlaku.
 

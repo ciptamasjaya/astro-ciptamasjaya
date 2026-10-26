@@ -6,8 +6,7 @@ title: Riksa Uji Penyalur Petir Aktif
 description: >-
   Riksa uji penyalur petir aktif adalah proses penting yang dilakukan untuk
   memastikan sistem perlindungan terhadap sambaran petir berfungsi dengan baik
-  dan efisien. Penyalur petir aktif, atau lebih dikenal sebagai sistem penangkal
-  petir aktif, dirancang untuk memberikan perlindungan optimal...
+  dan
 pubDate: '2024-10-15T13:53:47.000Z'
 updatedDate: '2026-08-31T01:02:03.000Z'
 author: Editor
@@ -22,6 +21,12 @@ tags:
 image: >-
   /wp-content/uploads/2024/10/Riksa-Uji-Penyalur-Petir-Aktif-PT-Cipta-Mas-Jaya-scaled.jpg
 draft: false
+imageAlt: >-
+  Riksa uji penyalur petir aktif adalah pemeriksaan sistem penyalur petir aktif
+  untuk memastikan kinerjanya aman dan sesuai standar. Proses ini mencakup
+  pengujian konduktivitas, pemeriksaan komponen seperti elektroda dan kepala
+  penangkal petir, serta sistem pengaman untuk memastikan perlindungan optimal
+  terhadap bangunan dan lingkungan dari sambaran petir.
 ---
 **[Riksa uji penyalur petir aktif](/2024/08/26/riksa-uji-sistem-penangkal-petir/)** adalah proses penting yang dilakukan untuk memastikan sistem perlindungan terhadap sambaran petir berfungsi dengan baik dan efisien. Penyalur petir aktif, atau lebih dikenal sebagai sistem penangkal petir aktif, dirancang untuk memberikan perlindungan optimal terhadap infrastruktur dan peralatan dari risiko kerusakan akibat sambaran petir. Dalam artikel ini, kita akan membahas definisi, fungsi, komponen yang diperiksa, keuntungan, dan regulasi yang mengatur riksa uji penyalur petir aktif.
 

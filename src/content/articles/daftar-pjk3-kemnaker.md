@@ -6,8 +6,6 @@ title: Daftar PJK3 Kemnaker
 description: >-
   Daftar PJK3 Kemnaker adalah kumpulan resmi perusahaan yang telah mendapatkan
   penunjukan dari Kementerian Ketenagakerjaan Republik Indonesia untuk
-  menyelenggarakan jasa di bidang keselamatan dan kesehatan kerja (K3).
-  Perusahaan-perusahaan ini dinyatakan memenuhi persyaratan teknis dan...
 pubDate: '2025-05-23T14:00:40.000Z'
 updatedDate: '2026-09-21T01:00:48.000Z'
 author: admin
@@ -23,6 +21,16 @@ tags:
   - Riksa Uji K3
 image: /wp-content/uploads/2025/05/daftar-pjk3-kemnaker.jpeg
 draft: false
+imageAlt: >-
+  Daftar PJK3 Kemnaker adalah kumpulan perusahaan yang telah mendapatkan
+  pengakuan resmi dari Kementerian Ketenagakerjaan Republik Indonesia sebagai
+  penyelenggara jasa di bidang keselamatan dan kesehatan kerja (K3).
+  Perusahaan-perusahaan ini telah memenuhi seluruh persyaratan administratif,
+  teknis, serta kompetensi yang ditetapkan pemerintah untuk memberikan layanan
+  pemeriksaan, pengujian, pelatihan, dan konsultasi di bidang K3. Terdaftarnya
+  suatu perusahaan dalam daftar ini menunjukkan bahwa perusahaan tersebut telah
+  lolos verifikasi dan dianggap layak untuk membantu pelaksanaan program K3 di
+  lingkungan kerja sesuai peraturan yang berlaku.
 ---
 **Daftar PJK3 Kemnaker adalah** kumpulan resmi perusahaan yang telah mendapatkan penunjukan dari Kementerian Ketenagakerjaan Republik Indonesia untuk menyelenggarakan jasa di bidang keselamatan dan kesehatan kerja (K3). Perusahaan-perusahaan ini dinyatakan memenuhi persyaratan teknis dan administratif sesuai regulasi yang berlaku, serta memiliki tenaga ahli bersertifikat untuk melaksanakan kegiatan seperti pelatihan K3, pemeriksaan dan pengujian teknis, audit K3, dan layanan konsultasi. Daftar ini dapat diakses secara publik melalui situs resmi TemanK3 Kemnaker, sehingga memudahkan masyarakat atau pelaku industri dalam memilih mitra kerja yang legal dan kompeten di bidang K3.
 

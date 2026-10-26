@@ -8,8 +8,6 @@ title: >-
 description: >-
   Riksa uji instalasi listrik adalah inspeksi teknis dan pengujian menyeluruh
   yang bertujuan untuk memastikan bahwa instalasi listrik sesuai dengan standar
-  keselamatan dan peraturan yang berlaku. Instalasi listrik memainkan peran yang
-  sangat penting dalam kehidupan sehari-hari, baik di rumah...
 pubDate: '2024-10-23T09:30:49.000Z'
 updatedDate: '2026-09-08T01:05:06.000Z'
 author: Editor
@@ -23,6 +21,9 @@ tags:
   - Riksa Uji K3
 image: /wp-content/uploads/2024/09/listrik-pjk3-riksa-uji-pt.cipta-mas-jaya-002.jpg
 draft: false
+imageAlt: >-
+  Jasa Inspeksi K3 PJK3 Riksa Uji PT. Cipta Mas Jaya Instalasi Listrik dan
+  Penyalur Petir Instalasi Listrik
 ---
 **[Riksa uji instalasi listrik](/2024/09/04/riksa-uji-instalasi-listrik/)** adalah inspeksi teknis dan pengujian menyeluruh yang bertujuan untuk memastikan bahwa instalasi listrik sesuai dengan standar keselamatan dan peraturan yang berlaku. Instalasi listrik memainkan peran yang sangat penting dalam kehidupan sehari-hari, baik di rumah, perkantoran, industri, maupun fasilitas umum. Namun, sistem kelistrikan yang tidak terawat atau bermasalah dapat menimbulkan risiko serius seperti kebakaran, kerusakan peralatan, hingga kecelakaan fatal. Oleh karena itu, melakukan **riksa uji** pada instalasi listrik secara berkala merupakan langkah krusial untuk menjaga keamanan, keandalan, dan efisiensi sistem kelistrikan.
 

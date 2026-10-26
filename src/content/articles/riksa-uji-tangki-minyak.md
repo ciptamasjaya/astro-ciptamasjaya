@@ -6,8 +6,6 @@ title: Riksa Uji Tangki Minyak
 description: >-
   Riksa uji tangki minyak adalah langkah penting untuk memastikan keamanan dan
   keandalan dalam penyimpanan minyak, baik di sektor industri, migas, maupun
-  manufaktur. Tangki minyak, sebagai bejana tekan, berfungsi menyimpan berbagai
-  jenis minyak dengan aman, tetapi menghadapi risiko kerusakan...
 pubDate: '2024-11-19T09:04:40.000Z'
 updatedDate: '2026-09-17T01:01:43.000Z'
 author: Editor
@@ -19,6 +17,10 @@ tags:
   - Riksa Uji K3
 image: /wp-content/uploads/2024/10/RIksa-Uji-Tangki-Minyak-PT-Cipta-Mas-Jaya.jpg
 draft: false
+imageAlt: >-
+  Riksa uji tangki minyak adalah proses kritis untuk memastikan keamanan,
+  integritas, dan kepatuhan terhadap standar keselamatan yang diperlukan dalam
+  penyimpanan dan pengelolaan bahan bakar minyak.
 ---
 Riksa uji tangki minyak adalah langkah penting untuk memastikan **keamanan** dan **keandalan** dalam penyimpanan minyak, baik di sektor industri, migas, maupun manufaktur. Tangki minyak, sebagai **bejana tekan**, berfungsi menyimpan berbagai jenis minyak dengan aman, tetapi menghadapi risiko kerusakan akibat paparan kimiawi dan tekanan tinggi dalam jangka waktu panjang. Riksa uji ini mencakup berbagai inspeksi teknis yang bertujuan untuk mendeteksi cacat struktural, korosi, atau kebocoran yang dapat menimbulkan bahaya besar, termasuk kerugian finansial, risiko lingkungan, atau bahkan kecelakaan kerja.
 

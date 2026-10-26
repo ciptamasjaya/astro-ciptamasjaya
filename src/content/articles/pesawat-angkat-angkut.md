@@ -5,9 +5,7 @@ slug: pesawat-angkat-angkut
 title: Pesawat Angkat Angkut
 description: >-
   Pesawat angkat dan angkut adalah alat yang digunakan untuk mengankatatau
-  memindahkan sebuah benda dengan jarak, besar dan berat tertentu. Pesawat
-  adalah kumpulan dari beberapa alat secara berkelompok atauberdiri sendiri guna
-  menghasilkan tenaga baik mekanik maupun bukan mekanikdan dapat...
+  memindahkan sebuah benda dengan jarak, besar dan berat tertentu.
 pubDate: '2023-04-15T13:45:35.000Z'
 updatedDate: '2026-10-03T01:00:06.000Z'
 author: admin
@@ -23,6 +21,7 @@ tags:
 image: >-
   /wp-content/uploads/2023/04/pt-cipta-mas-jaya-pesawat-angkat-angkut-Hydraulic-handling-device.png
 draft: false
+imageAlt: Pesawat Angkat Angkut - Hydraulic Handling Device
 ---
 Pesawat angkat dan angkut adalah alat yang digunakan untuk mengankat  
 atau memindahkan sebuah benda dengan jarak, besar dan berat tertentu.

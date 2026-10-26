@@ -6,8 +6,6 @@ title: Riksa Uji Crawler Crane
 description: >-
   Riksa uji crawler crane adalah proses inspeksi mendalam yang dilakukan untuk
   memastikan bahwa alat berat ini memenuhi standar keselamatan dan kinerja yang
-  telah ditetapkan. Proses ini tidak hanya terbatas pada pemeriksaan komponen
-  utama seperti boom, sistem hidrolik, kabel pengangkat, serta...
 pubDate: '2024-10-17T16:27:10.000Z'
 updatedDate: '2026-08-27T01:08:00.000Z'
 author: Editor
@@ -19,6 +17,12 @@ tags:
   - Riksa Uji K3
 image: /wp-content/uploads/2024/09/Riksa-Uji-Crawler-Crane-PT-Cipta-Mas-Jaya-2.jpg
 draft: false
+imageAlt: >-
+  Riksa uji crawler crane adalah pemeriksaan untuk memastikan fungsi dan
+  keselamatan alat ini. Pemeriksaan rutin diperlukan untuk mencegah risiko
+  kerusakan, kecelakaan, dan kegagalan sistem. Proses ini meliputi evaluasi
+  struktur, komponen mekanis, serta kinerja sistem pengaman guna memastikan
+  crane beroperasi dengan aman dan efisien selama pengangkatan beban.
 ---
 Riksa uji crawler crane adalah proses inspeksi mendalam yang dilakukan untuk memastikan bahwa alat berat ini memenuhi standar keselamatan dan kinerja yang telah ditetapkan. Proses ini tidak hanya terbatas pada pemeriksaan komponen utama seperti boom, sistem hidrolik, kabel pengangkat, serta komponen mekanis lainnya, tetapi juga mencakup standar yang berlaku untuk **[riksa uji pesawat angkat dan pesawat angkut](/2024/08/21/riksa-uji-k3-pesawat-angkat-dan-angkut/)** secara umum. Riksa uji memastikan bahwa semua bagian bekerja dengan baik tanpa tanda-tanda kerusakan atau keausan yang dapat menyebabkan kecelakaan di tempat kerja. Hal ini sangat penting, karena crawler crane merupakan salah satu jenis pesawat angkat yang digunakan untuk mengangkat beban berat, dan kinerja alat ini harus sejalan dengan peraturan keselamatan yang sama dengan pesawat angkat dan angkut lainnya. Selain itu, inspeksi juga mengevaluasi kestabilan crane, mengingat alat ini digunakan untuk mengangkat beban yang sangat berat di berbagai medan, sehingga kepatuhan terhadap standar keselamatan pesawat angkat dan angkut menjadi faktor utama dalam memastikan keamanan operasional.
 

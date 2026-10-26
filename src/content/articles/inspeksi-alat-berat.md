@@ -6,8 +6,6 @@ title: Inspeksi Alat Berat
 description: >-
   Inspeksi alat berat adalah pemeriksaan yang rutin dilakukan pada alat berat
   untuk memastikan kondisinya baik dan aman digunakan, serta mencegah risiko
-  kecelakaan kerja dan kerusakan lebih lanjut. Inspeksi ini penting untuk
-  memastikan keselamatan operator, efisiensi operasional, dan kualitas...
 pubDate: '2025-05-27T20:20:01.000Z'
 updatedDate: '2026-09-06T01:00:10.000Z'
 author: admin
@@ -23,6 +21,13 @@ tags:
   - Riksa Uji K3
 image: /wp-content/uploads/2025/05/inspeksi-alat-berat.jpeg
 draft: false
+imageAlt: >-
+  Inspeksi alat berat adalah proses pemeriksaan menyeluruh yang dilakukan secara
+  rutin untuk memastikan bahwa alat berat berada dalam kondisi aman, layak
+  pakai, dan sesuai standar operasional. Proses ini mencakup pengecekan visual,
+  fungsi mekanis, sistem hidrolik, dan berbagai komponen penting lainnya. Tujuan
+  utama dari inspeksi ini adalah untuk mencegah kecelakaan kerja, menghindari
+  kerusakan fatal, dan memperpanjang umur pakai alat berat.
 ---
 Inspeksi alat berat adalah pemeriksaan yang rutin dilakukan pada alat berat untuk memastikan kondisinya baik dan aman digunakan, serta mencegah risiko kecelakaan kerja dan kerusakan lebih lanjut. Inspeksi ini penting untuk memastikan keselamatan operator, efisiensi operasional, dan kualitas pekerjaan.
 

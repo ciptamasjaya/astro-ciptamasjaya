@@ -6,14 +6,13 @@ title: Permenaker No. 5 Tahun 2018 Tentang Pencahayaan
 description: >-
   Permenaker Nomor 5 Tahun 2018 mengatur standar Keselamatan dan Kesehatan Kerja
   (K3) Lingkungan Kerja, termasuk standar pencahayaan, yang bertujuan untuk
-  menciptakan lingkungan kerja yang aman, nyaman, dan sehat. Standar pencahayaan
-  dalam peraturan ini meliputi pencahayaan alami dan buatan...
 pubDate: '2025-09-07T19:03:51.000Z'
 updatedDate: '2026-10-04T01:02:01.000Z'
 author: admin
 category: uncategorized
 tags: []
 draft: false
+imageAlt: Inspeki K3 Riksa Uji PT. Cipta Mas Jaya
 ---
 Permenaker Nomor 5 Tahun 2018 mengatur standar Keselamatan dan Kesehatan Kerja (K3) Lingkungan Kerja, termasuk standar pencahayaan, yang bertujuan untuk menciptakan lingkungan kerja yang aman, nyaman, dan sehat. Standar pencahayaan dalam peraturan ini meliputi pencahayaan alami dan buatan, persyaratan agar tidak menyilaukan dan tidak menimbulkan bayangan, serta penetapan Nilai Ambang Batas (NAB) pencahayaan untuk mencegah bahaya kecelakaan kerja, meskipun detail NAB spesifik untuk setiap jenis aktivitas tidak disajikan di sini.
 

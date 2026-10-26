@@ -6,8 +6,7 @@ title: Pengujian sprinkler
 description: >-
   Pengujian sprinkler adalah proses pemeriksaan dan pemeliharaan sistem
   sprinkler pemadam kebakaran untuk memastikan keefektifan dan keandalan sistem.
-  Pengujian ini penting untuk memastikan sistem berfungsi dengan baik jika
-  terjadi kebakaran. Jenis Pengujian Sprinkler Pengujian sprinkler terdiri...
+  Pengujian
 pubDate: '2025-05-29T20:16:12.000Z'
 updatedDate: '2026-10-13T01:01:03.000Z'
 author: admin
@@ -23,6 +22,11 @@ tags:
   - Riksa Uji K3
 image: /wp-content/uploads/2025/05/pengujian-springkler-01.jpeg
 draft: false
+imageAlt: >-
+  Pengujian sprinkler adalah upaya preventif untuk menjaga keandalan sistem
+  proteksi kebakaran dengan cara melakukan pengecekan menyeluruh terhadap setiap
+  unit dan sambungan dalam jaringan sprinkler. Hal ini penting agar sistem dapat
+  bekerja secara responsif dan efektif saat terjadi kebakaran.
 ---
 Pengujian sprinkler adalah proses pemeriksaan dan pemeliharaan sistem sprinkler pemadam kebakaran untuk memastikan keefektifan dan keandalan sistem. Pengujian ini penting untuk memastikan sistem berfungsi dengan baik jika terjadi kebakaran.
 

@@ -5,15 +5,14 @@ slug: memahami-mesin-diesel
 title: Memahami Mesin Diesel
 description: >-
   Mesin diesel adalah jenis mesin pembakaran internal yang menggunakan bahan
-  bakar diesel. Dikenal karena efisiensi, daya tahan, dan tenaganya, mesin ini
-  sangat populer dalam berbagai aplikasi, termasuk otomotif, maritim, dan sektor
-  industri. Artikel ini akan membahas dasar-dasar mesin diesel...
+  bakar diesel.
 pubDate: '2024-09-10T19:14:21.000Z'
 updatedDate: '2026-10-09T01:01:02.000Z'
 author: admin
 category: uncategorized
 tags: []
 draft: false
+imageAlt: Inspeki K3 Riksa Uji PT. Cipta Mas Jaya
 ---
 Mesin diesel adalah jenis mesin pembakaran internal yang menggunakan bahan bakar diesel.
 

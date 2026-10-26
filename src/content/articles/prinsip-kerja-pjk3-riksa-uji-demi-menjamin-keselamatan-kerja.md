@@ -4,10 +4,9 @@ type: article
 slug: prinsip-kerja-pjk3-riksa-uji-demi-menjamin-keselamatan-kerja
 title: Prinsip Kerja PJK3 Riksa Uji Demi Menjamin Keselamatan Kerja
 description: >-
-  PJK3 adalah Perusahaan Jasa Keselamatan dan Kesehatan Kerja yang menyediakan
-  layanan di bidang keselamatan dan kesehatan kerja (K3) untuk memastikan
-  lingkungan kerja yang aman dan sehat bagi pekerja. PJK3 bertanggung jawab
-  untuk memberikan pelatihan, konsultasi, serta melakukan pengawasan...
+  PJK3 Riksa Uji adalah layanan yang disediakan oleh Perusahaan Jasa Keselamatan
+  dan Kesehatan Kerja (PJK3) untuk melakukan pemeriksaan dan pengujian
+  menyeluruh
 pubDate: '2024-12-23T10:20:36.000Z'
 updatedDate: '2026-09-18T01:01:27.000Z'
 author: Editor
@@ -21,6 +20,14 @@ tags:
   - Riksa Uji K3
 image: /wp-content/uploads/2024/12/PJK3-Riksa-Uji-PT-Cipta-Mas-Jaya-.jpg
 draft: false
+imageAlt: >-
+  Peran PJK3 Riksa Uji adalah memastikan keamanan dan kelayakan operasional
+  berbagai peralatan teknik melalui pemeriksaan dan pengujian yang menyeluruh,
+  mendukung kepatuhan perusahaan terhadap regulasi keselamatan kerja, serta
+  menciptakan lingkungan kerja yang aman dengan mengidentifikasi dan
+  mengeliminasi potensi bahaya, memberikan pelatihan keselamatan kepada tenaga
+  kerja, dan mengurangi risiko kecelakaan yang dapat berdampak pada keselamatan
+  pekerja dan efisiensi operasional perusahaan.
 ---
 **[PJK3 adalah](/about/pjk3/)** Perusahaan Jasa Keselamatan dan Kesehatan Kerja yang menyediakan layanan di bidang keselamatan dan kesehatan kerja (K3) untuk memastikan lingkungan kerja yang aman dan sehat bagi pekerja. PJK3 bertanggung jawab untuk memberikan pelatihan, konsultasi, serta melakukan pengawasan terhadap praktik-praktik K3 di tempat kerja, termasuk memastikan bahwa perusahaan mematuhi peraturan yang berlaku mengenai keselamatan kerja. PJK3 juga membantu perusahaan dalam mengidentifikasi potensi bahaya di tempat kerja, memberikan solusi untuk mengurangi risiko kecelakaan, serta mendukung terciptanya budaya keselamatan yang berkelanjutan.
 

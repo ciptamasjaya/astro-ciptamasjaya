@@ -6,8 +6,6 @@ title: PJK3 Riksa Uji
 description: >-
   PJK3 Riksa Uji adalah Perusahaan Jasa Keselamatan dan Kesehatan Kerja (PJK3)
   yang secara khusus bertugas melakukan inspeksi, pengujian, dan evaluasi teknis
-  terhadap peralatan atau fasilitas kerja untuk memastikan bahwa peralatan
-  tersebut memenuhi standar keselamatan dan layak digunakan. Layanan...
 pubDate: '2024-10-23T01:16:22.000Z'
 updatedDate: '2026-09-10T01:00:22.000Z'
 author: admin
@@ -19,6 +17,9 @@ tags:
   - PJK3 Riksa Uji
 image: /wp-content/uploads/2024/10/pjk3-riksa-uji-pt-cipta-mas-jaya-102.jpg
 draft: false
+imageAlt: >-
+  PJK3 Riksa Uji adalah perusahaan jasa yang menyediakan layanan keselamatan
+  kerja melalui pengujian dan inspeksi terhadap mesin dan peralatan.
 ---
 **[PJK3 Riksa Uji](/about/pjk3-riksa-uji/)** adalah Perusahaan Jasa Keselamatan dan Kesehatan Kerja (PJK3) yang secara khusus bertugas melakukan inspeksi, pengujian, dan evaluasi teknis terhadap peralatan atau fasilitas kerja untuk memastikan bahwa peralatan tersebut memenuhi standar keselamatan dan layak digunakan. Layanan ini mencakup pemeriksaan berbagai jenis alat, mesin, dan fasilitas di tempat kerja guna mengidentifikasi potensi risiko, mencegah kecelakaan, serta mematuhi regulasi keselamatan yang berlaku. PJK3 Riksa Uji berperan penting dalam menjaga keselamatan operasional di berbagai sektor industri.
 
