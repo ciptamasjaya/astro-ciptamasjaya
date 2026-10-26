@@ -27,6 +27,7 @@ imageAlt: >-
   telah memiliki izin resmi dan tenaga ahli bersertifikat yang siap membantu
   berbagai perusahaan di Jakarta Barat dalam menerapkan standar K3 sesuai
   regulasi pemerintah.
+serviceArea: Jakarta Barat
 ---
 PT. Cipta Mas Jaya adalah PJK3 di Jakarta Barat yang menyediakan layanan Riksa Uji dan inspeksi K3 dengan tenaga ahli bersertifikat, hubungi 08568258841 untuk semua kebutuhan riksa uji anda
 

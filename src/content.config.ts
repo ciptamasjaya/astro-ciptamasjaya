@@ -14,6 +14,7 @@ const sharedIdentity = {
   description: z.string().min(1),
   draft: z.boolean().default(false),
   image: z.string().optional(),
+  serviceArea: z.string().optional(),
 };
 
 const articles = defineCollection({

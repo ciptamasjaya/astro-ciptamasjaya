@@ -27,6 +27,7 @@ imageAlt: >-
   PJK3 Bandung adalah penyedia layanan keselamatan kerja yang memiliki izin
   resmi dari Kementerian Ketenagakerjaan untuk melakukan inspeksi dan pengujian
   alat kerja di wilayah Bandung.
+serviceArea: Bandung
 ---
 PT. Cipta Mas Jaya adalah PJK3 yang melayani jasa riksa uji K3 di wilayah Bandung. Hubungi 08568258841 untuk kebutuhan riksa uji alat kerja Anda.
 
