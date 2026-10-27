@@ -86,7 +86,18 @@ export function faqPageSchema(items: { question: string; answer: string }[]) {
 }
 
 /** Article — schema artikel; author = nama penulis (fallback "Tim Redaksi"). */
-export function articleSchema({ title, description, pubDate, updatedDate, image, url, authorName, siteName, imageAlt, serviceArea }: {
+export function articleSchema({
+  title,
+  description,
+  pubDate,
+  updatedDate,
+  image,
+  url,
+  authorName,
+  siteName,
+  imageAlt,
+  serviceArea
+}: {
   title: string;
   description: string;
   pubDate: Date;
@@ -98,21 +109,61 @@ export function articleSchema({ title, description, pubDate, updatedDate, image,
   imageAlt?: string;
   serviceArea?: string;
 }) {
+  const imageObject = image ? {
+    '@type': 'ImageObject',
+    contentUrl: new URL(image, url).toString(),
+    name: title,
+    ...(imageAlt ? { caption: imageAlt } : {}),
+    description: `Gambar untuk artikel ${title}`
+  } : undefined;
+
+  const localBusiness = {
+    '@type': 'LocalBusiness',
+    name: site.name,
+    description: `Penyedia layanan riksa uji K3 di wilayah ${serviceArea}`,
+    ...(image ? { image: new URL(image, url).toString() } : {}),
+    telephone: site.phone,
+    email: site.email,
+    priceRange: site.priceRange,
+    address: {
+      '@type': 'PostalAddress',
+      streetAddress: site.address.street,
+      addressLocality: site.address.locality,
+      addressRegion: site.address.region,
+      postalCode: site.address.postalCode,
+      addressCountry: site.address.country,
+    },
+    geo: { '@type': 'GeoCoordinates', latitude: site.geo.latitude, longitude: site.geo.longitude },
+    openingHoursSpecification: [
+      {
+        '@type': 'OpeningHoursSpecification',
+        dayOfWeek: site.openingHours.days,
+        opens: site.openingHours.opens,
+        closes: site.openingHours.closes,
+      },
+    ],
+    ...(serviceArea ? { serviceArea } : {}),
+  };
+
   return {
     '@context': 'https://schema.org',
     '@type': 'Article',
     headline: title,
     description,
-    ...(image ? { 
-      image: new URL(image, url).toString(),
-      ...(imageAlt ? { caption: imageAlt } : {}),
-    } : {}),
+    ...(imageObject ? { image: imageObject } : {}),
     datePublished: pubDate.toISOString(),
     dateModified: (updatedDate ?? pubDate).toISOString(),
     author: { '@type': 'Person', name: authorName || 'Tim Redaksi' },
     publisher: { '@type': 'Organization', name: siteName },
     mainEntityOfPage: { '@type': 'WebPage', '@id': url },
-    ...(serviceArea ? { serviceArea } : {}),
+    mainEntity: localBusiness,
+    additionalProperty: [
+      {
+        '@type': 'PropertyValue',
+        name: 'serviceArea',
+        value: serviceArea || 'Indonesia'
+      }
+    ]
   };
 }
 
